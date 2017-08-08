@@ -37,19 +37,19 @@ layout: default
         <div class="ui small tight header">Like this post? Subscribe.</div>
         <span>I'll send my new posts (and secrets) to your inbox.</span>
         {% include mailchimp.html %}
-        <span>or <a href="http://haseebq.com/rss/">subscribe via RSS</a>.</span>
+        <span>or <a href="http://haseebq.com/{{ site.integrations.rss }}/">subscribe via RSS</a>.</span>
       </div>
       <div class="ui divider"></div>
       <div class="center flexbox">
         <div class="narrow item">
-          <a class="ui fluid rounded image" href="{{ site.url }}"><img src="{{ site.url }}/{{ site.profile }}"></a>
+          <a class="ui fluid rounded image" href="{{ site.url }}"><img src="{{ site.profile | absolute_url }}"></a>
         </div>
         <div class="author item">
           <div class="ui relaxed middle aligned divided list">
             <div class="item">
               <div class="content">
                 <div class="ui small header"><a href="{{ site.url }}">{{ site.name }}</a></div>
-                <p>{{ site.bio }}<br><a class="no-break" href="">more <i class="ui caret right icon"></i></a></p>
+                <p>{{ site.bio }}<br><a class="no-break" href="{{ '/about/' | absolute_url }}">more <i class="ui caret right icon"></i></a></p>
               </div>
             </div>
             <div class="item">
