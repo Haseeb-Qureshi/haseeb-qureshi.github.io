@@ -2,6 +2,7 @@
 title: Why I've Decided to Devote my Career to Earning-to-Give
 tags: [effective altruism, personal]
 image: EA-Logo-redbg_jgue88.png
+featured: "true"
 ---
 
 It's been almost four years now since I retired from professional poker. I haven't played a single hand of poker since then. I've written a lot about poker, I've coached a lot of poker players, but the game itself is long behind me.

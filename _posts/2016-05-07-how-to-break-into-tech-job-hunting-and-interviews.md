@@ -2,6 +2,7 @@
 title: "How to Break Into the Tech Industry—a Guide to Job Hunting and Tech Interviews"
 tags: [tech careers]
 image: coding-924920_960_720_wtwest.jpg
+featured: "true"
 ---
 
 I recently completed a job search for my first role as a software engineer.

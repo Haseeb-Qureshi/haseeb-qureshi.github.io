@@ -2,6 +2,7 @@
 title: How Not to Bomb Your Offer Negotiation
 tags: [effective altruism, tech careers]
 image: bertman_uql79e.jpg
+featured: "true"
 ---
 
 So you know the [first 6 rules](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/). You've maneuvered through the initial offer conversation, you've lined up counteroffers from other companies, and now it's time to move into the actual negotiating.

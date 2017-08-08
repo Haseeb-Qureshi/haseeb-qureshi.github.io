@@ -79,7 +79,11 @@
       <div class="secondary spacer">
         <div class="ui tight small header">Popular</div>
         <div class="menulist">
-          <a class="item" href="">/TODO featured posts</a>
+          {% for page in site.posts %}
+            {% if page.featured == "true" %}
+              <a class="item" href="{{ page.url }}">/{{ page.title }}</a>
+            {% endif %}
+          {% endfor %}
         </div>
         <div class="ui divider"></div>
         <div class="ui tight small header">Years</div>

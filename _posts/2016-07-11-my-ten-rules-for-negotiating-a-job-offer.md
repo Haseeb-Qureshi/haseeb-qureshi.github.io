@@ -2,6 +2,7 @@
 title: Ten Rules for Negotiating a Job Offer
 tags: [tech careers]
 image: negotiate.jpg
+featured: "true"
 ---
 
 When [the story of how I landed a job at Airbnb](https://haseebq.com/farewell-app-academy-hello-airbnb-part-i/) went viral, I was surprised at how infatuated people were with my negotiations. Media stories portrayed me as some kind of master negotiator&mdash;a wily ex-poker-player who was able to con the tech giants into a lucrative job offer.

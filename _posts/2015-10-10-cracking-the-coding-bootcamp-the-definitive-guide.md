@@ -2,6 +2,7 @@
 title: "Cracking the Coding Bootcamp - The Definitive Guide"
 tags: [programming, tech careers]
 image: laptop_pficu8.jpg
+featured: "true"
 ---
 
 Six months ago I decided I wanted to become a software developer. I had almost no coding background whatsoever, but screw it, I decided to take the leap. I applied to all of the coding bootcamps in San Francisco, and went into a cave to teach myself nothing but code. I ended up getting into my top choice, [App Academy](http://appacademy.io). I was crushing the program as the top student in my cohort. Two months into the three-month program, the founders asked me to come on board and help teach the course. I'm now working as one of App Academy's main instructors.

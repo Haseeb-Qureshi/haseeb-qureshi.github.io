@@ -9,7 +9,7 @@ bio: "Effective Altruist. Software engineer. @Airbnb alum. Instructor @Outco. Wr
 description: "Haseeb Qureshi is a software engineer, ahttps://cse.google.com/uthor, effective altruist, and former high-stakes poker pro. In his blog, he explores life, software, and altruism."
 email: haseeb@haseebq.com
 integrations: # Values here will be instered as USERNAME
-  disqus: xhaseebq
+  disqus: haseebq
   facebook: someguynamedhaseeb #
   github: haseeb-qureshi
   gcse: # https://cse.google.com/
@@ -53,6 +53,7 @@ defaults:
       path: _posts
       type: posts
     values:
+      featured: false
       image: placeholder.jpg
       layout: post
   -
