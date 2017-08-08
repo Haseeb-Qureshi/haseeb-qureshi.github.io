@@ -1,5 +1,5 @@
 ---
-title: My first job-job: Instructor at App Academy
+title: "My first job-job: Instructor at App Academy"
 tags: [effective altruism, personal, tech careers]
 image: aa_op0i5p.png
 ---

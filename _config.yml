@@ -14,7 +14,7 @@ integrations: # Values here will be instered as USERNAME
   github: haseeb-qureshi
   gcse: # https://cse.google.com/
   medium: hosseeb # https://medium.com/@USERNAME
-  rss: feed #
+  rss: feed # check site-url/feed.xml
   twitter: hosseeb
   youtube: INTERNETPOKERS # https://www.youtube.com/user/USERNAME/videos
 location: San Francisco
@@ -69,7 +69,7 @@ defaults:
     values:
       layout: list
       type: years
-domain: github.io
+domain: haseebq.com
 encoding: utf-8
 excerpt_separator: "\n\n"
 highlighter: rouge
@@ -85,7 +85,7 @@ profile: images/haseeb-profile-pink.jpg
 timezone: UTC #America/Los_Angeles
 title: haseeb qureshi
 title_separator: "-"
-url: https://rachelbasse.github.io
+url: https://haseebq.com
 
 # build
 

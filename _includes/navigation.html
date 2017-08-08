@@ -26,9 +26,9 @@
       <a class="icon item" title="Like me!"href="https://www.facebook.com/{{ site.integrations.facebook }}"><i class="ui facebook f icon"></i></a>
       <a class="icon item" title="Watch me!" href="https://www.youtube.com/user/{{ site.integrations.youtube }}/videos"><i class="ui youtube play icon"></i></a>
       <a class="icon item" title="Read me!" href="https://www.amazon.com/How-Be-Poker-Player-Philosophy-ebook/dp/B00HFDJU6A/"><i class="ui amazon icon"></i></a>
-      <a class="icon item" title="Feed yourself" href="http://haseebq.com/rss/"><i class="ui rss icon"></i></a>
+      <a class="icon item" title="Feed yourself" href="http://haseebq.com/{{ site.integrations.rss }}/"><i class="ui rss icon"></i></a>
     </div>
-    <img class="ui tiny rounded image" src="{{ site.url }}/{{ site.profile }}">
+    <img class="ui tiny rounded image" src="{{ site.profile | absolute_url }}">
   </div>
 </div>
 <!-- END site-menu -->

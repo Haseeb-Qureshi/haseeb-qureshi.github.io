@@ -13,7 +13,7 @@ layout: default
   <div class="secondary left flexbox">
     <div class="frozen item">
       <div class="flexbox">
-        <a class="icon item" href="https://twitter.com/intent/tweet?text={{ page.title | uri_escape }}&amp;via={{ site.integrations.twitter }}&amp;url={{ page.url | absolute_url }}"
+        <a class="icon item" href="https://twitter.com/intent/tweet?text={{ page.title | url_encode }}&amp;via={{ site.integrations.twitter }}&amp;url={{ page.url | absolute_url }}"
             onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;"><i class="ui twitter icon"></i></a>
         <a class="icon item" href="//www.reddit.com/submit?url={{ page.url | absolute_url }}"
             onclick="window.open(this.href, 'reddit-share','width=550,height=530');return false;"><i class="ui reddit alien icon"></i></a>
@@ -74,15 +74,15 @@ layout: default
     <div class="half divider item"><!-- twitter column -->
       <div class="center-text">
         <a class="twitter-timeline"
-          href="https://twitter.com/hosseeb"
+          href="https://twitter.com/{{ site.integrations.twitter }}"
           data-width="460"
           data-height="600"
           data-link-color="#14B482"
           data-border-color="#D2D2D2"
           data-chrome="noheader, nofooter, noborders"
-          data-tweet-limit="1">Tweets by @hosseeb</a>
+          data-tweet-limit="1">Tweets by @{{ site.integrations.twitter }}</a>
         <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-        <div class="padded"><a href="https://twitter.com/hosseeb" class="twitter-follow-button" data-show-count="true">Follow @hosseeb</a></div>
+        <div class="padded"><a href="https://twitter.com/{{ site.integrations.twitter }}" class="twitter-follow-button" data-show-count="true">Follow @{{ site.integrations.twitter }}</a></div>
       </div>
     </div>
   </div>
@@ -93,7 +93,7 @@ layout: default
     <div class="ui fluid basic button disqus_trigger">
       <i class="ui comments outline icon"></i>
       Load
-      <span class="disqus-comment-count" data-disqus-url="{{ site.url }}/{{ page.url }}"></span>
+      <span class="disqus-comment-count" data-disqus-url="{{ page.url | absolute_url }}"></span>
       comments&nbsp;
     </div>
     <div id="disqus_thread"></div>
@@ -101,7 +101,7 @@ layout: default
       $(document).ready(function() {
           $('.disqus_trigger').on('click', function(){
             var disqus_config = function () {
-              this.page.url = '{{ site.url }}/{{ page.url }}';
+              this.page.url = '{{ page.url | absolute_url }}';
               this.page.identifier = '{{ page.id }}';
               this.page.title = '{{ page.title }}';
             };

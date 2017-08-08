@@ -4,7 +4,7 @@ layout: default
 
 {% case page.type %}
   {% when 'home' %}
-    <div class="site-header" style="background-image: url({{ site.url }}/{{ site.cover }})">
+    <div class="site-header" style="background-image: url({{ site.cover | absolute_url }})">
       <div class="ui huge header">{{ site.title }}</div>
     </div>
     {% for page in site.posts limit:10 %}
@@ -16,7 +16,7 @@ layout: default
     {% endfor %}
   {% when 'tags' %}
     {% assign tag_name = page.name %}
-    <div class="site-header" style="background-image: url({{ site.url }}/{{ site.cover }})">
+    <div class="site-header" style="background-image: url({{ site.cover | absolute_url }})">
       <div class="ui huge header">{{ tag_name }}</div>
     </div>
     {% for page in site.posts %}
@@ -30,7 +30,7 @@ layout: default
     {% endfor %}
   {% when 'years' %}
     {% capture year_name %}{{ page.name }}{% endcapture %}
-    <div class="site-header" style="background-image: url({{ site.url }}/{{ site.cover }})">
+    <div class="site-header" style="background-image: url({{ site.cover | absolute_url }})">
       <div class="ui huge header">{{ year_name }}</div>
     </div>
     {% for page in site.posts %}
