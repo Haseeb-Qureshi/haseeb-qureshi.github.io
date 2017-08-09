@@ -1,7 +1,7 @@
 ---
 title: Why I'm Becoming a Web Developer
 tags: [effective altruism, personal, tech careers]
-image: sf_qv0zbr.png
+image: sf_qv0zbr.jpg
 ---
 
 A new stage in my life began four days ago. I got out of a taxi on 7th and Market Street, with all of my belongings stuffed into a backpack and one suitcase. To my left, homeless men were peddling their wares and accosting passersby, and on my right, I could see the dizzying buildings packed with San Francisco's most promising startups.
