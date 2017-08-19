@@ -103,7 +103,7 @@ layout: default
             var disqus_config = function () {
               this.page.url = '{{ page.url | absolute_url }}';
               this.page.identifier = '{{ page.id }}';
-              this.page.title = '{{ page.title }}';
+              this.page.title = '{{ page.title | escape }}';
             };
             (function() { // DON'T EDIT BELOW THIS LINE
               var d = document, s = d.createElement('script');
