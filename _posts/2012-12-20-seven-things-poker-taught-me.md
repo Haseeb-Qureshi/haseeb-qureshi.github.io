@@ -40,7 +40,7 @@ Poker is an industry that runs on delusion, and even though I was a pro, I knew 
 
 Poker taught me to control my emotions&mdash;or perhaps it's better to say that poker &ldquo;trained&rdquo; me to control my emotions. In that sense, it's not so much a lesson as it is a process one undergoes.
 
-![](gun_f1rlvo.jpg)
+![](../images/gun_f1rlvo.jpg)
 
 After playing enough poker, you learn that emotional responses are usually unnecessary and detrimental to your ends. Sometimes emotions are important and inevitable, no doubt, but the ability to separate oneself from one's emotional backlash is essential to being a good poker player.
 
@@ -111,7 +111,7 @@ This lesson comes to many different people, on many different paths, for many di
 
 It is a realization that hits many people by surprise. It causes many to become possessed by boredom, ennui, depression. I've seen it far too often in successful poker players&mdash;I even saw it in myself. I became a millionaire by the time I was 19. I achieved goals I never imagined I'd reach, at a very young age. But once I'd done that, one I'd crested that mountain, I was left with one paralyzing thought: &ldquo;what now?&rdquo;
 
-![](snow_buzulq.jpg)
+![](../images/snow_buzulq.jpg)
 
 This lesson, I think, needn't be a pessimistic one, because hidden within it is a simple, almost obvious truth&mdash;that life is not about the destination, but about the journey. There is no conclusion, no great prize at the end of anything. There is only the movement, the climbing, the rack and tumble of living. So why do we choose goals? Why do we have dreams? It is not for the goals themselves, or the endpoints we imagine&mdash;but it is, instead, to orient the *process* of our lives.
 
