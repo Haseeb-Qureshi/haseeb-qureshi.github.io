@@ -50,7 +50,9 @@ That's fine. Let them hate if that's what they need. Their hate will make you mo
 
 But most of all, you should be thankful that they showed up. Because if they didn't, it would be a sure sign what you were doing was not important.
 
-> You have enemies? Good. That means you've stood up for something, sometime in your life. <div class="source">Winston Churchill</div>
+> You have enemies? Good. That means you've stood up for something, sometime in your life.
+>
+> <div class="source">Winston Churchill</div>
 
 ## 3. Fight quietly for the things that matter.
 
@@ -66,7 +68,9 @@ It's not about you. It's about something bigger than you.
 
 Give. Contribute. Not just money, or time, but your identity. Make your life about more than just you.
 
-> Tell me, what is it you plan to do with your one wild and precious life? <div class="source">Mary Oliver, &ldquo;The Summer Day&rdquo;</div>
+> Tell me, what is it you plan to do with your one wild and precious life?
+>
+> <div class="source">Mary Oliver, &ldquo;The Summer Day&rdquo;</div>
 
 ## 5. Seek mastery.
 

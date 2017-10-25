@@ -5,7 +5,7 @@
 # personal
 
 author: Haseeb Qureshi
-bio: "Effective Altruist. Software engineer. @Airbnb alum. Instructor @Outco. Writer. Blockchain Believer. Former poker pro."
+bio: "Effective Altruist. Software engineer. @Airbnb alum. Instructor @Outco. Writer. Blockchain Believer. Former poker pro. Donate 33% of my income to charity."
 description: "Haseeb Qureshi is a software engineer, ahttps://cse.google.com/uthor, effective altruist, and former high-stakes poker pro. In his blog, he explores life, software, and altruism."
 email: haseeb@haseebq.com
 integrations: # Values here will be instered as USERNAME
@@ -16,7 +16,7 @@ integrations: # Values here will be instered as USERNAME
   medium: hosseeb # https://medium.com/@USERNAME
   rss: feed # check site-url/feed.xml
   twitter: hosseeb
-  youtube: INTERNETPOKERS # https://www.youtube.com/user/USERNAME/videos
+  youtube: HaseebQureshi # https://www.youtube.com/user/USERNAME/videos
 location: San Francisco
 name: Haseeb Qureshi
 
@@ -96,7 +96,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
-gems:
+plugins:
   - jekyll-avatar
   - jekyll-feed
   - jekyll-gist
