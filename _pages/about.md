@@ -117,4 +117,4 @@ Now I'm working as a software engineer at Airbnb. [More stories forthcoming…!]
 
 So that's what I'm about. Now you know me.
 
-Outside of the aforementioned, I can be found reading, writing, meditating, training kickboxing, watching improv comedy, and picking up heavy things and putting them down. I still work as a mind coach on the side. I eat a paleo diet, which I think is mostly arbitrary, but I follow it anyway. I plan to become a vegetarian someday, but I don't have the moral fortitude yet. I try to fast one full day a week. You can [contact me here](https:/haseebq.com/connect/) if you're into that sort of thing.
+Outside of the aforementioned, I can be found reading, writing, meditating, training kickboxing, watching improv comedy, and picking up heavy things and putting them down. I eat a paleo diet, which I think is mostly arbitrary, but I follow it anyway. I plan to become a vegetarian someday, but I don't have the moral fortitude yet. I try to fast one full day a week. You can [contact me here](https:/haseebq.com/connect/) if you're into that sort of thing.

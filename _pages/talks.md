@@ -3,6 +3,9 @@ title: Talks
 image: rails-conf.jpg
 ---
 
+<div class="ui embed" data-url="https://www.youtube.com/embed/3aJI1ABdjQk?t=17m30s"></div>
+<div class="caption">Let's Build a Blockchain! — A Mini-cryptocurrency in Ruby</div>
+
 <div class="ui embed" data-url="https://www.youtube.com/embed/x07q6V4VXC8"></div>
 <div class="caption">RailsConf 2017: Why Software Engineers Disagree About Everything</div>
 
@@ -32,6 +35,7 @@ image: rails-conf.jpg
 
 #### From [Software Engineering Daily](https://softwareengineeringdaily.com/tag/haseeb-qureshi/)
 
+* [Smart Contract Security with Haseeb Qureshi and Emin Gun Sirer](https://softwareengineeringdaily.com/2017/10/20/4085/)
 * [Automation with Haseeb Qureshi and Quincy Larson](https://softwareengineeringdaily.com/2017/05/08/automation-with-haseeb-qureshi-and-quincy-larson/)
 * [Cloudbleed and SHA-1 Collision with Max Burkhardt](https://softwareengineeringdaily.com/2017/03/04/cloudbleed-and-sha-1-collision-with-max-burkhardt/)
 * [Convergence with Haseeb Qureshi](https://softwareengineeringdaily.com/2017/02/24/convergence-with-haseeb-qureshi/)
