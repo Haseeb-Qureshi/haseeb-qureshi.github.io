@@ -9,7 +9,7 @@ It wasn't too long ago that Silicon Valley scoffed at cryptocurrencies. All over
 
 A few merchants dipped their toes into accepting Bitcoin in 2014. But adoption largely backed off. I remember seeing a few Bitcoin ATMs in Austin, and then they disappeared. Bitcoin reneged on its promise to replace cash, so most venture capitalists assumed it was dead on arrival. Without a killer app driving consumer adoption, cryptocurrencies seemed like they would be nothing more than a curiosity for cryptographers and paranoids.
 
-In the last year, interest in cryptocurrencies has skyrocketed. The public cryptocurrency market cap has surged to highs of over $170B. With over 1.5B raised through ICOs in 2017, over 70 crypto exchanges open for business, and crypto hedge funds and VCs popping up [left](https://next.autonomous.com/thoughts//how-many-crypto-hedge-funds-can-you-count) and [right](https://cointelegraph.com/news/hedge-funds-tied-to-cryptocurrencies-exploding-over-70-in-pipeline), it seems that everyone is clambering to get a seat on the rocketship.
+In the last year, interest in cryptocurrencies has skyrocketed. The public cryptocurrency market cap has surged to highs of over $170B. With over 1.5B raised through ICOs in 2017, over 70 crypto exchanges open for business, and crypto hedge funds and VCs popping up [left](https://next.autonomous.com/thoughts//how-many-crypto-hedge-funds-can-you-count) and [right](https://www.cnbc.com/2017/10/27/there-are-now-more-than-120-hedge-funds-focused-solely-on-bitcoin.htmle), it seems that everyone is clambering to get a seat on the rocketship.
 
 ![](https://i.imgur.com/RPt60ei.png)
 
@@ -58,7 +58,7 @@ I argue there are four killer apps for blockchains:
 4. Tokenization
 
 # Killer app #1: Dark web and black market payments
-**Market size**: Small-Medium
+**Market size (approx.)**: Billions to 10s of Billions USD
 
 **What's blocking this?** Privacy-coin development, scaling
 
@@ -79,7 +79,7 @@ By most estimates, the GMV of the dark web is [over $1B a year](https://www.euro
 Though Bitcoin was the first currency to play this role, newer currencies with stronger anonymity-preserving features like Monero and ZCash (and perhaps eventually [Mimblewimble](https://scalingbitcoin.org/papers/mimblewimble.txt)) are better positioned to become the de facto currencies of the dark web.
 
 # Killer App #2: Digital Gold
-**Market size**: Large
+**Market size**: Trillions+ USD
 
 **What's blocking this?** Volatility, consumer awareness
 
@@ -199,7 +199,7 @@ This trend will likely continue. And I suspect that once Bitcoin starts to serio
 (Of course, my guess is as good as anyone's and I'm far from an expert, so take this all with a healthy serving of salt.)
 
 ## Killer App #3: Payments (macro and micro)
-**Market size**: Medium-Large
+**Market size**: [Hundreds of billions USD](https://www.mckinsey.com/~/media/McKinsey/Industries/Financial%20Services/Our%20Insights/Rethinking%20correspondent%20banking/Rethinking-correspondent-banking.ashx)
 
 **What's blocking this?** Adoption, ease of use, scaling
 
@@ -245,9 +245,9 @@ Banks may be able to protect their market share if they adopt blockchains. [Alre
 It's going to be an interesting next few years.
 
 ## Killer App #4: Tokenization
-**Market size**: Medium
+**Market size**: [???](http://www.ufunk.net/wp-content/uploads/2015/09/squid-dance-11.jpg)
 
-**What's blocking this?** Regulation
+**What's blocking this?** Regulation, legal frameworks
 
 Nick Szabo first coined the term "[smart contract](https://en.wikipedia.org/wiki/Smart_contract)" in 1996. It would be 19 years later in Ethereum, the first [Turing-complete](https://en.wikipedia.org/wiki/Turing_completeness) smart contracts platform, that smart contracts would reach their potential.
 
