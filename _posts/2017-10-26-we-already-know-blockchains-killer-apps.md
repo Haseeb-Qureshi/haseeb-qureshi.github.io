@@ -360,7 +360,7 @@ Asset tokenization is a big deal, as are protocol tokens. Of course, there are a
 #### To summarize
 I argue that the four killer apps of cryptocurrencies are 1) dark web and black market payments, 2) digital gold, 3) macro/micro payments, and 4) tokenization. If the recent surge of cryptocurrency market cap to 170B+ struck you as unbelievable, I hope after reading this, it will make more sense.
 
-That said, I don't want to disregard the other exciting ideas in this space. There are many promising applications that may prove to be killer apps on blockchains—social networks that pay their participants (<a href="https://21.co">21 [which I'm working on right now]</a>, [Steemit](http://steemit.com)), decentralized prediction markets (Gnosis, Augur), decentralized storage networks (Filecoin, Maidsafe, Sia), to name just a few.
+That said, I don't want to disregard the other exciting ideas in this space. There are many promising applications that may prove to be killer apps on blockchains—social networks that pay their participants (<a href="https://earn.com">Earn.com (which I'm working on right now, formerly 21.co)</a>, [Steemit](http://steemit.com)), decentralized prediction markets (Gnosis, Augur), decentralized storage networks (Filecoin, Maidsafe, Sia), to name just a few.
 
 This space is full of innovation and moving extremely fast. But if history is any indication, it's likely that the largest killer app for blockchains is going to be something no one yet expects.
 
