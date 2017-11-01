@@ -9,6 +9,8 @@ It wasn't too long ago that Silicon Valley scoffed at cryptocurrencies. All over
 
 A few merchants dipped their toes into accepting Bitcoin in 2014. But adoption largely backed off. I remember seeing a few Bitcoin ATMs in Austin, and then they disappeared. Bitcoin reneged on its promise to replace cash, so most venture capitalists assumed it was dead on arrival. Without a killer app driving consumer adoption, cryptocurrencies seemed like they would be nothing more than a curiosity for cryptographers and paranoids.
 
+<div class="ui embed" data-url="https://www.youtube.com/embed/7-_YRnGvV_g"></div>
+
 In the last year, interest in cryptocurrencies has skyrocketed. The public cryptocurrency market cap has surged to highs of over $170B. With over 1.5B raised through ICOs in 2017, over 70 crypto exchanges open for business, and crypto hedge funds and VCs popping up [left](https://next.autonomous.com/thoughts//how-many-crypto-hedge-funds-can-you-count) and [right](https://www.cnbc.com/2017/10/27/there-are-now-more-than-120-hedge-funds-focused-solely-on-bitcoin.htmle), it seems that everyone is clambering to get a seat on the rocketship.
 
 ![](https://i.imgur.com/RPt60ei.png)
