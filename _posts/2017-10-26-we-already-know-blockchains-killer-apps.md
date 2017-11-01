@@ -46,7 +46,7 @@ Vitalik repudiates the "killer app" framework. He believes that blockchain will 
 
 I disagree.
 
-**I think the "killer app" framework is the correct one.** While there are many exotic applications that technologists will find exciting (myself included), the major drivers of blockchain's value are relatively narrow.
+**I think the "killer app" framework is the correct one.** While there are many cutting-edge applications that technologists will find exciting (myself included), the major drivers of blockchain's value are relatively narrow.
 
 Amidst the hype-train of ICOs, "decentralizing the Internet," and bullshit artists trying to hoist everything they can think of onto a blockchain, it's instructive to take the 1000-foot view and remind ourselves of the big picture.
 
@@ -111,7 +111,7 @@ For many of my software developer friends who've only ever lived in the United S
 
 If you use [human development index (HDI)](https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index) as a proxy for what portion of the world is highly-developed, the UN lists about 50 nations as being in the "very high human development" category, including the U.S., most of Europe, Japan, South Korea, Saudi Arabia, and Russia. The least developed of these highly-developed economies in currently Kuwait. The highly developed countries in total comprise only 15% of the world's population.
 
-**This means 85% of the world's population lives in places less developed than Kuwait.** In the US, with a stable currency like the USD, with robust financial infrastructure and layers of technology on top of it (Visa, Paypal, Venmo, etc.), it's hard to imagine what the value-add of Bitcoin would be. But much of Bitcoin's value is going to be delivered to the other 85% of the world.
+In other words, **85% of the world's population lives in places less developed than Kuwait.** In the US, with a stable currency like the USD, with robust financial infrastructure and layers of technology on top of it (Visa, Paypal, Venmo, etc.), it's hard to imagine what the value-add of Bitcoin would be. But much of Bitcoin's value is going to be delivered to the other 85% of the world.
 
 Technologists have been chasing after digital gold for a long time. Many schemes have been tried, including [e-gold](https://en.wikipedia.org/wiki/E-gold) and [e-Bullion](https://en.wikipedia.org/wiki/E-Bullion) (both with gold-backed reserves), or [DigiCash](https://en.wikipedia.org/wiki/DigiCash), which aimed to be a centralized digital currency.
 
@@ -156,7 +156,7 @@ As a payments layer, Bitcoin is slow, expensive, and unscalable. *But if Bitcoin
 And it already does. In many jurisdictions, if someone wants to hedge against their local economy, escape currency controls, divest from a collapsing currency, or just commit some good old-fashioned tax evasion, Bitcoin is the most natural way to do it.
 
 #### Beyond economics
-I've often heard the argument: but gold is more than just the sum of its economic properties. There is a narrative valence around gold. Gold is the metal of kings, of legendary palaces, of ancient riches. The aura of gold is something Bitcoin can never replicate, much less replace.
+I've often heard the argument: but gold is more than just the sum of its economic properties. There is a narrative valence around gold. Gold is the metal of kings, of legendary palaces, of ancient riches.
 
 ![](http://www.ancient-origins.net/sites/default/files/field/image/Lost-City-of-Z.jpg)
 
@@ -168,9 +168,9 @@ It's true that the stories we tell matter. But those stories can change. On the 
 
 ![](http://media.economist.com/images/na/2010w28/201028NAC425.gif)
 
-Furthermore, gold has not always been as stable or as valuable as it is now. Its value is a function of economic vicissitudes just as everything else. Oil once had the same physical aura and narrative valence as gold, but as other commodities started to overtake its utility, it became less valuable.
+Furthermore, gold has not always been as stable or as valuable as it is now. Oil once had the same physical aura and narrative valence as gold, but as other commodities started to overtake its utility, it became less valuable.
 
-If Bitcoin is a serious improvement over gold and starts to displace its role, the market will respond and re-price accordingly. There is nothing special about gold that makes it immune to this process.
+If Bitcoin is a serious improvement over gold and starts to displace its role, the market will respond and re-price accordingly.
 
 I'll grant this though: gold's simplicity is a great feature. But Bitcoin is likewise the simplest cryptocurrency. You can [explain the intuitions behind Bitcoin](https://www.youtube.com/watch?v=bBC-nXj3Ng4) to any captive high schooler who has a basic grasp of probability and a moderate attention span. Bitcoin is also simple in that *it can't do a lot*. Its programmability is stunted at best, but this is just fine for a store of value.
 
@@ -245,7 +245,7 @@ Banks may be able to protect their market share if they adopt blockchains. [Alre
 It's going to be an interesting next few years.
 
 ## Killer App #4: Tokenization
-**Market size**: [???](http://www.ufunk.net/wp-content/uploads/2015/09/squid-dance-11.jpg)
+**Market size**: [???](https://i.imgur.com/jfL2nbJ.png)
 
 **What's blocking this?** Regulation, legal frameworks
 
