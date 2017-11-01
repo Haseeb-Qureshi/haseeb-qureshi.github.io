@@ -32,31 +32,31 @@ Note: this advice will be primarily geared toward the software engineer market i
 I hope you find this post helpful in your own job search.
 
 **[Part 1: Job Hunting](#part1)**
-   Networking
-   Informational Interviewing
-   Getting the Chain Started
-   Resumes
-   Job Platforms
-   Mass Applying
-   Company Size
-   Study, study, study
-   General Study Strategy
-   Programming Interview Study Guide
-   Interview Circuit Training
-   Staying the Path
-   Mindset
-   Your Number
+* Networking
+* Informational Interviewing
+* Getting the Chain Started
+* Resumes
+* Job Platforms
+* Mass Applying
+* Company Size
+* Study, study, study
+* General Study Strategy
+* Programming Interview Study Guide
+* Interview Circuit Training
+* Staying the Path
+* Mindset
+* Your Number
    Keep Having Fun
 
 **[Part 2: The Interview Process](#part2)**
-   The Basics
-   Talking About Yourself
-   How to Approach an Interview Problem
-   Correcting your Interviewer
-   Writing Code
-   Assorted Heuristics
-   Grill Your Interviewers
-   Be Excited
+* The Basics
+* Talking About Yourself
+* How to Approach an Interview Problem
+* Correcting your Interviewer
+* Writing Code
+* Assorted Heuristics
+* Grill Your Interviewers
+* Be Excited
 
 
 <h2 id="part1">Part 1: Job Hunting</h2>
