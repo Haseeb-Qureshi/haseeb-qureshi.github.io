@@ -308,7 +308,7 @@ But pay secrecy carries with it a lot of costs. It can hide gender and racial di
 
 These are complicated problems. I don't have all the answers. But because I am committed to effective altruism and publicly earning-to-give, I will continue to be open every year about how much I donate (and by association, how much I earn), insofar as it's possible.
 
-(For further reading, check out [Your Coworkers Should Know Your Salary](https://hbr.org/ideacast/2016/03/your-coworkers-should-know-your-salary), published in the Harvard Business Review. Also, [my response to a commenter on how disclosing my salary might be unwise or affect colleagues at Airbnb](https://haseebq.com/farewell-app-academy-hello-airbnb-part-ii/#comment-2738).)
+(For further reading, check out [Your Coworkers Should Know Your Salary](https://hbr.org/ideacast/2016/03/your-coworkers-should-know-your-salary), published in the Harvard Business Review. Also, [my response to a commenter on how disclosing my salary might be unwise or affect colleagues at Airbnb](https://haseebq.com/farewell-app-academy-hello-airbnb-part-ii/#comment-3250348596).)
 
 The second thing I want to say is that for some reason, many people are drawing the conclusion that I primarily got a job at Airbnb by being really good at negotiating, or gaming the system, or something like that.
 
