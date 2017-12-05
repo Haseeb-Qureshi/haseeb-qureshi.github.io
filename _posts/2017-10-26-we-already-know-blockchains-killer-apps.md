@@ -11,7 +11,7 @@ A few merchants dipped their toes into accepting Bitcoin in 2014. But adoption l
 
 <div class="ui embed" data-url="https://www.youtube.com/embed/7RU9hhp8w4g"></div>
 
-In the last year, interest in cryptocurrencies has skyrocketed. The public cryptocurrency market cap has surged to highs of over $170B. With over 1.5B raised through ICOs in 2017, over 70 crypto exchanges open for business, and crypto hedge funds and VCs popping up [left](https://next.autonomous.com/thoughts//how-many-crypto-hedge-funds-can-you-count) and [right](https://www.cnbc.com/2017/10/27/there-are-now-more-than-120-hedge-funds-focused-solely-on-bitcoin.htmle), it seems that everyone is clambering to get a seat on the rocketship.
+In the last year, interest in cryptocurrencies has skyrocketed. The public cryptocurrency market cap has surged to highs of over $170B. With over 1.5B raised through ICOs in 2017, over 70 crypto exchanges open for business, and crypto hedge funds and VCs popping up [left](https://next.autonomous.com/thoughts//how-many-crypto-hedge-funds-can-you-count) and [right](https://www.cnbc.com/2017/10/27/there-are-now-more-than-120-hedge-funds-focused-solely-on-bitcoin.html), it seems that everyone is clambering to get a seat on the rocketship.
 
 ![](https://i.imgur.com/RPt60ei.png)
 
