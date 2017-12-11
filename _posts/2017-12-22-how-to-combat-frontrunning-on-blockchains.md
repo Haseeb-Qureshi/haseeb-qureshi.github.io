@@ -5,9 +5,11 @@ image: digital-athlete-running-and-forming-from-particles-DPEBXJ.jpg
 featured: "true"
 ---
 
-Frontrunning is a term that originated in the stock market, back in the days where trades were executed on paper and carried between trading desks. If a wily broker overheard a large order from a client to purchase a stock, they could literally *run in front* of the walking traffic to execute their own purchase before the client's purchase. This would allow them to profit off the resulting increase in price.
+If you crack open a blog post on blockchain, it's hard to avoid the breathless accounts on how blockchains will disrupt all of finance. And yet the biggest stories in blockchain are rediscovering old lessons from traditional finance. Against insider trading, on more transparency in companies and equity distribution, on . Whether it be in ICO vesting,  Whether In the spirit's of Chesterton's Fence,
 
-In finance, frontrunning on private information is considered insider trading. But blockchains are public ledgers and all transactions are public by default. In other words, blockchain frontrunning is a feature, not a bug.
+Frontrunning is a term that originated in the stock market, back in the days where trades were executed on paper and carried between trading desks. If a wily broker overheard a large order from a client to purchase a stock, they could literally *run in front* of the walking traffic to execute their own purchase before the client's purchase. This would allow them to profit off the resulting increase in price. Essentially, having privileged access to information that a trade will occur allows you to profit from the trade.
+
+In finance, frontrunning on private information is considered insider trading. But blockchains are public ledgers and all transactions are in the open by default. In other words, on blockchain, overhearing other people's trades is a feature, not a bug.
 
 ## How frontrunning works on blockchains
 
