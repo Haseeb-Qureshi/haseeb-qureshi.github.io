@@ -5,18 +5,20 @@ image: bitcoin-web.jpg
 featured: "true"
 ---
 
-Many blockchain advocates are mystified why laypeople don't trust cryptocurrencies. They claim that with the advent of Bitcoin and other cryptocurrencies, you no longer need to trust financial institutions. Once you remove centralized authorities, money becomes trustless, or so they say.
-@
-And yet the vast majority of people don't trust cryptocurrencies. "Obviously those people don't understand the innovations behind blockchains," blockchain evangelists will claim. As though a simple lecture on consensus protocols should be all it takes to give a critic a sedating dose of credulity.
-@
-It's completely reasonable not to trust Bitcoin. Because Bitcoin is not trustless. In fact, Bitcoin requires more trust than most fiat financial systems.
-@
-**The key innovation of cryptocurrencies is that they decentralize trust. They do not eliminate it.** To believe otherwise is like believing that a piece of land becoming a community commons means its grass will always stay green. **replace with a brilliant analogy here** It's a total non sequitur.
-@
+Cryptocurrencies have a trust problem.
+
+Blockchain advocates claim that with the advent of Bitcoin and other cryptocurrencies, you no longer need to trust anyone. Once you remove centralized authorities, money becomes trustless, or so they say.
+
+And yet the vast majority of people don't trust cryptocurrencies. Blockchain evangelists will claim those people don't understand the innovations behind blockchains, as though a sales pitch and a lecture on consensus protocols should be enough for anyone to give up their fiat.
+
+Not trusting Bitcoin is completely reasonable. Because Bitcoin is not trustless. In fact, Bitcoin requires more trust than most fiat financial systems.
+
+**The key innovation of cryptocurrencies is that they decentralize trust. They do not eliminate it.** To believe otherwise is like saying that if a plot of land becomes a community commons, its grass will obviously stay green forever. It's a total non sequitur.
+
 In reality, there's no such thing as trustlessness. Trust is a relationship of epistemic confidence. And aside from tautologies like the cogito, trust is always bounded.
-@
+
 Take science for example. Why do you trust science?
-@
+
 Every study you trust you probably didn't read yourself. Even for those you did, you didn't read all the literature they cited, you didn't double-check the dataset or re-run the regressions yourself. (Ironically, you probably won't be able to—most published scientific results are not replicable.)
 @
 You trust science because you are delegating your trust your scientific consensus. This usually works, but sometimes it doesn't. Science is not trustless. There is no free lunch when it comes to epistemology.
@@ -27,7 +29,7 @@ Decentralized cryptocurrencies imply you don't have to trust a central party. Bu
 @
 You didn't read all the source code yourself. You didn't vet the full nodes who run the software. You didn't inspect every update or hard fork to understand what it does. And you probably don't run a full node yourself, so you're explicitly trusting the full nodes you connect to.
 @
-You are trusting the developers to build robust and honest software. You are trusting the miners not to collude. You are trusting the community not to hard-fork away from you. You are trusting nation-states and corporations not to shut down mining, or launch a 51% attack. You are trusting that markets are not being manipulated (or that if they are, they're being manipulated in your favor). You are trusting miners and bad actors not to frontrun you, or grief you, or attack the contracts you use. You are trusting exchanges to hold your assets and not get hacked, or not to hide it from you if they do get hacked.
+You are trusting the developers to build robust and honest software. You are trusting the miners not to collude. You are trusting the community not to hard-fork away from you. You are trusting nation-states and corporations not to shut down mining, or launch a 51% attack. You are trusting that markets are not being manipulated (or that if they are, they're being manipulated in your favor). You are trusting miners and bad actors not to frontrun you, or grief you, or attack the contracts you use. You are trusting exchanges to hold your assets and not get hacked, or not to hide it from you if they do get hacked. **add BGP routing**
 @
 Sure, in a simplified adversarial model where you hand-wave away all the details, cryptocurrencies have elegant security properties. But in reality, there's a great ocean of trust that fills in all those gaps you waved away.
 @
