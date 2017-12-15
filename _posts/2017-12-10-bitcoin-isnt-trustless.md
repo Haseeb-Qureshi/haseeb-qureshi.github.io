@@ -20,7 +20,7 @@ Not trusting Bitcoin is completely reasonable. Because Bitcoin is not trustless.
 There's a sleight of hand here: "with Bitcoin, you don't need to trust any centralized entity and you don't need to trust your counterparty. Therefore, Bitcoin is trustless." So because we don't need to trust banks or the person we're transacting with, trust is *completely gone*?
 
 ## There's no such thing as trustlessness
-Everything requires trust. Aside from tautologies like the [cogito](https://en.wikipedia.org/wiki/Cogito_ergo_sum), it's impossible for you to verify everything yourself without putting your trust *somewhere*.
+Everything requires trust. Aside from tautologies or the [cogito](https://en.wikipedia.org/wiki/Cogito_ergo_sum), it's impossible for you to verify everything yourself without putting your trust *somewhere*.
 
 Take science for example. There's no central authority in science—it's all based on empirical observations and decentralized peer review. Like cryptocurrencies, science attempts to remove central authorities and human error from the process. So is it "trustless"?
 
