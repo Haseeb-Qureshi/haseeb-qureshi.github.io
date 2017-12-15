@@ -41,6 +41,8 @@ So what about cryptocurrencies?
 ## Where is the trust in cryptocurrencies?
 Decentralized cryptocurrencies imply you don't have to trust a central party. After all, the Bitcoin protocol dictates that every node stores a record of every transaction and double-checks everything themselves! No trust required, right?
 
+![](https://cdn-images-1.medium.com/max/800/1*L-DU3pUSD0QoMxqjPlJvBQ.png)
+
 Nonsense. The trust is not gone, it's just decentralized. So where is the trust now?
 
 It's pretty much everywhere.
