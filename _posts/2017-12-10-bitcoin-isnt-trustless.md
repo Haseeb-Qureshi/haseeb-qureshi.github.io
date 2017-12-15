@@ -72,6 +72,8 @@ Some value might come from decentralization making it harder for the system to b
 
 I suspect the true value add will be how they're *direct improvements over fiat currencies.* If cryptocurrencies win, it'll be because of their ease of performing micro and macro payments, their global availability, their faster clearing times, their cheaper fees, their immutability, their programmability, and their ability to disintermediate and automate costly financial relationships via smart contracts.
 
+For more of my thoughts on cryptocurrencies’ improvements over fiat, see: [LINK](to_we_already_know_what_blog_post_this_is).
+
 Decentralized protocols are wonderful and fascinating. But decentralization for its own sake doesn't get you anything.
 
 In principle, decentralizing trust *can* lead to more robust systems. But it's obvious that Bitcoin has not yet accomplished that. This should not be surprising: Bitcoin was our first try at this, after all.
