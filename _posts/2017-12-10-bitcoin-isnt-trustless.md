@@ -13,7 +13,7 @@ Ironically, the vast majority of people *still don't trust cryptocurrencies*.
 
 The evangelists claim those people don't understand the technical innovations behind blockchains. (As though a lecture on consensus protocols should be all it takes for someone to surrender their incredulity and their savings account.)
 
-There's a sleight of hand here: "with Bitcoin, you no longer need to trust any centralized entity or any counterparty. Therefore, Bitcoin is trustless." So because we don't need to trust banks or the person we're transacting with, trust is supposed to be *completely gone*?
+There's a sleight of hand here: "with Bitcoin, you no longer need to trust any centralized entity or any counterparty. Therefore, Bitcoin is trustless." So because we don't need to trust banks or the person we're transacting with, trust is *completely gone*?
 
 I'm tired of hearing this marketing spiel, so I want to dispel it once and for all.
 
@@ -22,8 +22,7 @@ Not trusting Bitcoin is completely reasonable. Because Bitcoin is not trustless.
 **The key innovation of cryptocurrencies is that they decentralize trust. They do not eliminate it.**
 
 
-
-## There's no such thing as trustlessness
+## There's no such thing as trustless
 Everything requires trust. Aside from tautologies or the [cogito](https://en.wikipedia.org/wiki/Cogito_ergo_sum), it's impossible for you to verify anything without putting your trust *somewhere*.
 
 Take science for example. There's no central authority in science—it's all based on empirical observations and decentralized peer review. Like cryptocurrencies, science attempts to remove central authorities and human error. So is it "trustless"?
@@ -34,15 +33,15 @@ Consider the trust involved in a single scientific study. If you take the study 
 
 First, you're trusting that the article you're reading [accurately reports what the study actually says](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1001308). You're trusting that the datasets and [statistics are correct](https://www.nature.com/articles/nn.2886), because you're not re-running the regressions yourself. You're trusting that they didn't [p-hack their way into statistical significance](https://en.wikipedia.org/wiki/Data_dredging). You're trusting that there aren't [more studies that show the exact opposite result](https://en.wikipedia.org/wiki/Meta-analysis), and that they weren't [shoved away into a file drawer](https://en.wikipedia.org/wiki/Publication_bias). You're trusting that [the methodology is reproducible](https://en.wikipedia.org/wiki/Replication_crisis), and there's no contamination by something as simple as [sex of the experimenters](https://www.nytimes.com/2014/04/29/science/for-lab-rats-a-male-scientist-effect.html), or the fact that all of the [subjects were undergraduates](http://www.jakebowers.org/ITVExperiments/Sears%201986.pdf). You're trusting that the findings weren't [motivated by industry funding](https://brooklynworks.brooklaw.edu/cgi/viewcontent.cgi?httpsredir=1&article=1262&context=jlp), or by a professor who knows they need to produce a certain result to advance their career. And, of course, you're trusting that the researchers didn't just [outright fabricate data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2685008/).
 
-You trust science because you're delegating your trust to the decentralized process known as "scientific consensus." This sometimes works out, but [often it doesn't](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124). Science is not trustless. There is no free lunch when it comes to epistemology.
+You trust science because you're delegating your trust to the decentralized process known as "scientific consensus." This sometimes works out, but [often it doesn't](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124). Science is not trustless.
 
-**But you are still are right to trust science.** You don't trust science because it's decentralized or trustless or anything like that. You trust it because, despite all of its problems, *science has worked*. It's better than any other process that we know of for advancing human knowledge. It worked damn hard for that trust, and now science has significant power in society.
+**But you are still are right to trust science.** You don't trust science because it's decentralized or trustless or anything like that. You trust it because, despite all of its problems, *science has worked*. It's better than any other process we know of for advancing human knowledge. It worked damn hard for that trust, and now science has significant power in society.
 
 The trust we place in science is orthogonal to it being decentralized.
 
 So what about cryptocurrencies?
 
-## Where is the trust in cryptocurrencies?
+## The trust in cryptocurrencies
 Decentralized cryptocurrencies imply you don't have to trust a central party. After all, the Bitcoin protocol dictates that every node stores a record of every transaction and double-checks everything themselves. No trust required—right?
 
 ![](https://cdn-images-1.medium.com/max/800/1*L-DU3pUSD0QoMxqjPlJvBQ.png)
@@ -57,7 +56,8 @@ Sure, in a simplified adversarial model where you hand-wave away all the details
 
 Engineering is what fills those gaps. And solid engineering takes time. Like decades of time.
 
-Even still, 9 years after the creation of Bitcoin, cryptocurrencies have a lot of lingering unknowns. Do you trust that the consensus protocols are actually correct, and don't have any [lurking major vulnerabilities](https://bitcoinmagazine.com/articles/bitcoin-network-shaken-by-blockchain-fork-1363144448/)? Do you trust fees won't just [balloon to becoming unusable](https://blockchain.info/charts/transaction-fees-usd)? Do you trust that cryptocurrencies won't just collapse under [network congestion](https://blockchain.info/unconfirmed-transactions)? Do you trust that quantum computers won't come along and [break all the public-key cryptography](https://medium.com/@hosseeb/this-is-not-entirely-correct-6f9a6304ea34)? Do you trust that even if they do succeed, nation-states won't recognize the threat and immediately replicate their successes, except this time with the backing of geopolitical power?
+Even still, 9 years after the creation of Bitcoin, cryptocurrencies have a lot of lingering unknowns. Do you trust that the consensus protocols are actually correct, and don't have any [lurking major vulnerabilities](https://bitcoinmagazine.com/articles/bitcoin-network-shaken-by-blockchain-fork-1363144448/)? Do you trust fees won't just [balloon to becoming unusable](https://blockchain.info/charts/transaction-fees-usd)? Do you trust that cryptocurrencies won't just collapse under [network congestion](https://blockchain.info/unconfirmed-transactions)? Do you trust that quantum computers won't come along and [break all the public-key cryptography](https://medium.com/@hosseeb/this-is-not-entirely-correct-6f9a6304ea34)? Do you trust that even if they do succeed, nation-states won't recognize the threat and immediately [replicate](https://www.cnbc.com/2017/08/23/estonia-cryptocurrency-called-estcoin.html
+) [their](https://techcrunch.com/2017/10/15/russia-may-soon-issue-its-own-official-blockchain-based-currency-the-cryptoruble/) [successes](https://www.bloomberg.com/news/articles/2016-11-16/singapore-working-on-interbank-payments-blockchain-with-r3-dbs), except this time with the backing of geopolitical power?
 
 It should go without saying that the US dollar requires a lot less trust than Bitcoin. No one can break the US dollar, but a motivated nation-state or corporation could easily manipulate or destroy Bitcoin. They would probably face meager consequences for it.
 
