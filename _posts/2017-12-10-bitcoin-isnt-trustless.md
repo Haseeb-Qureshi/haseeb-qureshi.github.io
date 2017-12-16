@@ -9,13 +9,11 @@ Cryptocurrencies have a trust problem.
 
 Blockchain evangelists claim that with the advent of Bitcoin, centralized authorities and financial relationships will be replaced by the blockchain. Society will become "trustless." Blockchain technology will run the world and corruption will be engineered out of existence. You'll no longer need to trust institutions, or even your fellow citizens.
 
-Ironically, the vast majority of people *still don't trust cryptocurrencies*.
+And yet, the vast majority of people *still don't trust cryptocurrencies*.
 
 The evangelists claim those people don't understand the technical innovations behind blockchains. (As though a lecture on consensus protocols should be all it takes for someone to surrender their incredulity and their savings account.)
 
 There's a sleight of hand here: "with Bitcoin, you no longer need to trust any centralized entity or any counterparty. Therefore, Bitcoin is trustless." So because we don't need to trust banks or the person we're transacting with, trust is *completely gone*?
-
-I'm tired of hearing this marketing spiel, so I want to dispel it once and for all.
 
 Not trusting Bitcoin is completely reasonable. Because Bitcoin is not trustless. In fact, Bitcoin requires far more trust than the US dollar.
 
@@ -23,9 +21,9 @@ Not trusting Bitcoin is completely reasonable. Because Bitcoin is not trustless.
 
 
 ## There's no such thing as trustless
-Everything requires trust. Aside from tautologies or the [cogito](https://en.wikipedia.org/wiki/Cogito_ergo_sum), it's impossible for you to verify anything without putting your trust *somewhere*.
+Everything requires trust. Aside from tautologies, it's impossible for you to verify anything without putting your trust *somewhere*.
 
-Take science for example. There's no central authority in science—it's all based on empirical observations and decentralized peer review. Like cryptocurrencies, science attempts to remove central authorities and human error. So is it "trustless"?
+Take science for example. There's no central authority in science—it's all based on empirical observations and decentralized peer review. So is it "trustless"?
 
 In theory, maybe. But in practice, science is built on a mountain of trust.
 
@@ -65,7 +63,7 @@ This is not to say that Bitcoin is fragile, or that you shouldn't use it. It's a
 
 **But engineering is all about tradeoffs.** And cryptocurrencies make different tradeoffs than fiat currencies. Seldom is one system strictly better than another—more often, it's a question of what set of strengths and weaknesses you choose.
 
-In principle, decentralizing trust can lead to more robust systems. But it’s obvious that [Bitcoin has not yet accomplished that](https://news.earn.com/quantifying-decentralization-e39db233c28e). This should not be surprising: Bitcoin was our first try at this, after all.
+In principle, decentralizing trust can lead to more robust systems. But it’s obvious that [Bitcoin has not yet accomplished that](https://news.earn.com/quantifying-decentralization-e39db233c28e).
 
 ## Innovation requires trust
 Here's the thing.
@@ -80,10 +78,12 @@ For more of my thoughts on cryptocurrencies’ improvements over fiat, see: [LIN
 
 Decentralized protocols are wonderful and fascinating. But decentralization for its own sake doesn't get you anything.
 
-Despite all the mania surrounding cryptocurrencies, they are still at their core a profoundly uncertain and subversive idea. They're a re-imagination of what money can be. Instead of money being contract between people and a nation-state, cryptocurrencies ask the question: what if the monetary system were a community commons? Owned, managed, and governed by everyone?
+Decentralized protocols are wonderful and fascinating. But decentralization for its own sake doesn’t get you anything.
 
-It's a radical idea, and one of the most fascinating financial innovations in the last 50 years. As far as ideas go, I think it's a pretty good one.
+Despite all the mania of mainstream attention, cryptocurrencies are still in their infancy. Perhaps one day they’ll be even more robust than fiat, but that day is a long way away. One thing is for sure: cryptocurrencies ask us powerful questions about what we expect out of our money. Instead of money being a contract between people and a nation-state, cryptocurrencies let us imagine: what if the monetary system were a community commons? Owned, managed, and governed by everyone?
 
-But it's risky.
+It’s a radical idea, and one of the most fascinating financial innovations in the last 50 years. And as far as ideas go, I think it’s a pretty good one.
 
-Don't let anyone convince you it's not.
+But it’s risky.
+
+Don’t let anyone convince you it’s not.
