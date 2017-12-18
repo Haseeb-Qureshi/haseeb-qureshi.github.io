@@ -7,15 +7,17 @@ featured: "true"
 
 Cryptocurrencies have a trust problem.
 
-Blockchain evangelists claim that with the advent of Bitcoin, centralized authorities and financial relationships will be replaced by the blockchain. Society will become "trustless." Blockchain technology will run the world and corruption will be engineered out of existence. You'll no longer need to trust institutions, or even your fellow citizens.
+Blockchain evangelists claim that with the advent of Bitcoin, centralized authorities and financial institutions will soon become obsolete. Blockchain technology will run the world and corruption will be engineered out of existence. Society will become "trustless."
 
-And yet, the vast majority of people *still don't trust cryptocurrencies*.
+Ironically, the vast majority of people *still don't trust cryptocurrencies*.
+
+<div class="ui embed" data-url="https://www.youtube.com/embed/IP5cP0x2jh8">[video]</div>
 
 The evangelists claim those people don't understand the technical innovations behind blockchains. (As though a lecture on consensus protocols should be all it takes for someone to surrender their incredulity and their savings account.)
 
 There's a sleight of hand here: "with Bitcoin, you no longer need to trust any centralized entity or any counterparty. Therefore, Bitcoin is trustless." So because we don't need to trust banks or the person we're transacting with, there's *no trust at all*?
 
-In reality, laypeople not trusting Bitcoin is completely reasonable. Because Bitcoin is not trustless. In fact, Bitcoin requires far more trust than the US dollar.
+In reality, not trusting Bitcoin is completely reasonable. Because Bitcoin is not trustless. In fact, Bitcoin requires far more trust than the US dollar.
 
 **The key innovation of cryptocurrencies is that they decentralize trust. They do not eliminate it.**
 
@@ -23,7 +25,9 @@ In reality, laypeople not trusting Bitcoin is completely reasonable. Because Bit
 ## There's no such thing as trustless
 Everything requires trust. Aside from tautologies, it's impossible for you to verify anything without putting your trust *somewhere*.
 
-Take science for example. There's no central authority in science—it's all based on empirical observations, open publications, and decentralized peer review. Sounds kind of similar to the idea behind blockchains. So is it "trustless"?
+Take science for example.
+
+There's no central authority in science—it's all based on empirical observations, open publications, and decentralized peer review. Sounds kind of similar to the principles behind blockchains. So is it "trustless"?
 
 In theory, maybe. But in practice, science is built on a mountain of trust.
 
@@ -33,7 +37,7 @@ First, you're trusting that the article you're reading [accurately reports what 
 
 You trust science because you're delegating your trust to the decentralized process known as "scientific consensus." This sometimes works out, but [often it doesn't](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124). Science is not trustless.
 
-**But you are still are right to trust science.** You don't trust science because it's decentralized or trustless or anything like that. You trust it because, despite all of its problems, *science has worked*. It's better than any other process we know of for advancing human knowledge. It worked damn hard for that trust, and now science has significant power in society.
+**But you are still are right to trust science.** You don't trust science because it's decentralized or trustless or anything like that. You trust it because, despite all of its problems, *science has worked*. It's better than any other process we know of for advancing human knowledge. It worked damn hard for that trust, and now science holds significant sway in society.
 
 The trust we place in science is orthogonal to it being decentralized.
 
@@ -52,7 +56,7 @@ You are trusting the developers not to build [buggy or insecure software](https:
 
 Sure, in a simplified adversarial model where you hand-wave away all the details, cryptocurrencies have elegant security properties. But in reality, there's a great ocean of trust that fills in all those gaps you waved away.
 
-Engineering is what fills those gaps. And solid engineering takes time. Like decades of time.
+Engineering is what fills those gaps. And solid engineering takes time. As in, more than a decade kind of time.
 
 Even still, 9 years after the creation of Bitcoin, cryptocurrencies have a lot of lingering unknowns. Do you trust that the consensus protocols are actually correct, and don't have any [lurking major vulnerabilities](https://bitcoinmagazine.com/articles/bitcoin-network-shaken-by-blockchain-fork-1363144448/)? Do you trust fees won't just [balloon to becoming unusable](https://blockchain.info/charts/transaction-fees-usd)? Do you trust that cryptocurrencies won't just collapse under [network congestion](https://blockchain.info/unconfirmed-transactions)? Do you trust that quantum computers won't come along and [break all the public-key cryptography](https://medium.com/@hosseeb/this-is-not-entirely-correct-6f9a6304ea34)? Do you trust that even if they do succeed, nation-states won't recognize the threat and immediately [replicate](https://www.cnbc.com/2017/08/23/estonia-cryptocurrency-called-estcoin.html
 ) [their](https://techcrunch.com/2017/10/15/russia-may-soon-issue-its-own-official-blockchain-based-currency-the-cryptoruble/) [successes](https://www.bloomberg.com/news/articles/2016-11-16/singapore-working-on-interbank-payments-blockchain-with-r3-dbs), except this time with the backing of geopolitical power?
@@ -63,7 +67,7 @@ This is not to say that Bitcoin is fragile, or that you shouldn't use it. It's a
 
 **But engineering is all about tradeoffs.** And cryptocurrencies make different tradeoffs than fiat currencies. Seldom is one system strictly better than another—more often, it's a question of what set of strengths and weaknesses you choose.
 
-In principle, decentralizing trust can lead to more robust systems. But it’s obvious that [Bitcoin has not yet accomplished that](https://news.earn.com/quantifying-decentralization-e39db233c28e).
+In principle, decentralization can lead to more robust systems. But it’s obvious that [Bitcoin has not yet accomplished that](https://news.earn.com/quantifying-decentralization-e39db233c28e).
 
 ## Innovation requires trust
 Here's the thing.
@@ -74,9 +78,7 @@ I believe cryptocurrencies are the future of finance. But if cryptocurrencies wi
 
 If cryptocurrencies win, it'll be because of their ease of performing micro and macro payments, their global availability, their faster clearing times, their cheaper fees, their immutability, their programmability, and their ability to disintermediate and automate costly financial relationships via smart contracts.
 
-For more of my thoughts on cryptocurrencies’ improvements over fiat, see: [LINK](to_we_already_know_what_blog_post_this_is).
-
-Decentralized protocols are wonderful and fascinating. But decentralization for its own sake doesn't get you anything.
+For more of my thoughts on cryptocurrencies’ improvements over fiat, see my previous article: [We Already Know Blockchain's Killer Apps.](https://haseebq.com/we-already-know-blockchains-killer-apps/)
 
 Decentralized protocols are wonderful and fascinating. But decentralization for its own sake doesn’t get you anything. Trust is earned through years of good engineering, not through protocol design or elegant white papers.
 
