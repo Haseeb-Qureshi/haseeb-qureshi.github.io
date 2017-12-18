@@ -1,5 +1,5 @@
 ---
-title: "Bitcoin is not trustless"
+title: "Why Bitcoin is not trustless"
 tags: [blockchain, programming]
 image: bitcoin-web.jpg
 featured: "true"
