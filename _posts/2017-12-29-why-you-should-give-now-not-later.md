@@ -11,22 +11,24 @@ At various points this year I seriously considered starting a company. This made
 
 <div class="ui embed" data-url="https://www.youtube.com/embed/ZIh8FI4GmCE">[video]</div>
 
-I've faced this question more than once, and many people have written me with similar thoughts. Within the effective altruism community, it's been a perennial debate. But I fall firmly to giving now rather than later (with a few caveats).
+I've faced this question more than once, and many people have written me with similar thoughts. Within the effective altruism community, it's been a perennial debate. But my answer has always been firm: you should give now rather than later.
 
-I have four main reasons why you should give now rather than later.
+I have four main reasons why you shouldn’t delay your giving.
 
 ## Compounding interest
 There's a common argument that goes like this: if you donate later instead of donating now, you can get compounding interest on your capital. If you have $100,000 now, doesn't it make sense to invest it into high-growth assets, double it, and donate $200,000 later?
 
-For the sake of argument, I'll grant that you always have investment opportunities that will give you compounding interest. It begs the question—if you keep growing your capital, at what point should you stop growing it and finally give it away?
+For the sake of argument, let me grant that you always have investment opportunities that will give you compounding interest. It begs the question—if you keep doubling your capital, at what point should you stop doubling it and finally give it away?
 
-Let's say your capital is x = 1000. With some amount of compounding interest, eventually x will be 10,000. But then it should take the same amount of time for x to become 100,000, and then eventually 1,000,000. If you take this argument seriously, when are you suppose to decide "okay, this has compounded enough, it's time to give it away"? If anything, it seems like the more money you have, the more valuable the compounding interest will be, so the less you should ever want to give.
+Let's say your capital is x = 1000. With some amount of compounding interest, eventually x will be 10,000. But then it should take the same amount of time for x to become 100,000, and then eventually 1,000,000.
+
+If you take this argument seriously, when are you suppose to decide "okay, this has compounded enough, it's time to give it away"? If anything, it seems like the more money you have, the more valuable the compounding interest will be, so the less you should ever want to give. This seems paradoxical.
 
 The natural answer might be to give right before you die (this won't be optimal tax-wise, but ignore that). If that's the case, then it's only by accident of our lifespans that we should give money at all. If healthcare reached the level that you could extend your life indefinitely, then there would be no point at which it would actually make sense to cut the cord and donate money.
 
 This seems clearly wrong.
 
-A stronger version of the argument goes like this: early in your career, it makes more sense to invest in yourself and your own runway so you can increase your earning potential and take more high-value risks. So shouldn't you invest in yourself early on, and then donate later?
+**A stronger version of the argument goes like this:** early in your career, it makes more sense to invest in yourself and your own runway so you can increase your earning potential and take more high-value risks. So shouldn't you invest in yourself early on, and then donate later?
 
 This I agree with more. If you're early in your career or need to build your credentials/expertise, or move to an area where your skills are in higher demand (generally expensive cities), then I don't think you should be donating a massive amount. You're still at a phase where investing in yourself produces extremely high returns.
 
@@ -37,9 +39,9 @@ In other words, past a certain point, it's not that expensive to optimize your c
 (Note these arguments don't apply as elegantly to capital-intensive professions such as professional gambling, daytrading, or investing. In those cases I do think it might make sense to delay giving until you start hitting diminishing returns with your own capital.)
 
 ## Flow-through effects
-But the previous argument only considers one side of the value transfer—it only considers what you yourself can do with the money. It ignores the crucial fact that effective giving *also* produces compounding interest **for the charitable cause itself**.
+But the previous argument only considers one side of the value transfer—it only considers what you yourself can do with the money. It ignores the crucial fact that effective giving also produces compounding returns *for the charity*.
 
-Take the simple case of donating directly to the poor via [GiveDirectly](https://www.givedirectly.org/). If we raise more people out of poverty or enable them to acquire more education or skills, that might cost $1,000 now. But those people can go on to contribute to their economy, develop their community, and ultimately further reduce poverty there.
+Take the simple case of donating directly to the poor via [GiveDirectly](https://www.givedirectly.org/). If we raise more people out of poverty or enable them to acquire more education or skills, that might cost $1,000 now. But those people can go on to contribute to their economy, develop their community, and ultimately further reduce poverty there. Your donation also compounds.
 
 Most people imagine charitable giving as temporarily putting a band-aid on a social wound. But if that's the case, it's a sign that the intervention itself is not very effective. Effective giving tends to produce compounding benefits and [flow-through effects](https://blog.givewell.org/2013/05/15/flow-through-effects/). Thus you should expect the rate of return on the very best charities to have higher returns than marginal self-investment or the returns you can make in capital markets.
 
@@ -59,13 +61,17 @@ The last reason is the most subtle, but I think the most important. Giving now c
 
 You are not a perfect creature. Even if you intend to do something hard now, whether that's to donate money, swear off alcohol, go vegan, or whatever sacrifice you intend to make, you always have to factor in the possibility that you'll change your mind or regress.
 
-People are terrible at predicting their own regressions. I've met enough people who are former vegans, former renunciates, even former earn-to-givers. It's easy to fall into the trap of believing there's something special about your conviction that makes you immune to this. But everyone is vulnerable to value drift. You get older, your circumstances change, and your fervor becomes fuzzier, more distant, more negotiable.
+People are terrible at predicting their own regressions. I've met enough people who are former vegans, former renunciates, even former earn-to-givers. It's easy to fall into the trap of believing there's something special about your conviction that makes you immune to this. But everyone is vulnerable to value drift.
 
-When I'm 50 I'll probably be as distant from my present self as I am from my 15-year-old self.
+You get older. Your circumstances change. And your fervor becomes fuzzier, more distant, more negotiable.
 
-So how can you stay true to your ideals? It's really simple. Make a habit of virtue. Stay inside it, keep it as a part of your life, have it seep into your bones. Give year after year, even if it slows you down. The path is long and sometimes disenchanting, but virtue and discipline are the only way forward.
+When I’m 50, I’ll probably be as distant from my present self as I am from my 15-year-old self.
 
-So that's why I'm giving now rather than later. And I feel pretty damn good about it.
+So how can you stay true to your ideals? It’s simple. Make a habit of virtue. Stay inside it. Keep it as a part of your life. Have it seep into your bones. Give year after year, even if it slows you down.
+
+The path is long and sometimes disenchanting, but virtue and discipline are the only way forward.
+
+So that’s why I’m giving now rather than later. And I feel pretty damn good about it.
 
 ## My 2017 donations
 
