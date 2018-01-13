@@ -2,7 +2,6 @@
 title: "Yearly donations, and why you should give now, not later"
 tags: [effective altruism, personal]
 image: kambara.jpg
-featured: "true"
 ---
 
 2017 draws to a close. It's been my third year [earning-to-give](https://haseebq.com/why-ive-decided-to-devote-my-career-to-earning-to-give/), and another year full of changes.
