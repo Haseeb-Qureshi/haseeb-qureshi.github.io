@@ -34,6 +34,7 @@ collections:
     output: true
     permalink: /:path/
 cover: images/timers.jpg
+future: true
 defaults:
   -
     scope:
