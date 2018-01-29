@@ -11,6 +11,8 @@ I'm glad you're excited about this space. I am too. But you'll probably find it'
 
 Since I left Airbnb to work full-time on blockchain, many people have reached out to me asking how to get into the blockchain space full-time. Consider this my authoritative (and inevitably incomplete) guide on how to get into blockchain engineering.
 
+<div class="ui embed" data-url="https://www.youtube.com/embed/JUOCOOOZyNo"></div>
+
 This guide will proceed in ten parts:
 1. Why should you learn blockchain development?
 2. Prerequisites
