@@ -109,7 +109,7 @@ Cryptocurrencies are not just protocols, they are also forms of money. As such, 
 Another valuable economic concept is the [velocity of money](https://en.wikipedia.org/wiki/Velocity_of_money), especially as it corresponds to valuing a currency.
 
 ## Microeconomics
-Cryptocurrencies are also deeply interwoven with markets, which requires an understanding of [microeconomics](https://en.wikipedia.org/wiki/Microeconomics). You'll need a strong intuition for  [supply and demand curves](https://en.wikipedia.org/wiki/Supply_and_demand). You should be able to reason about competition and [opportunity costs](https://en.wikipedia.org/wiki/Opportunity_cost) (they'll apply frequently to cryptocurrency mining). For many coin distributions and cryptoeconomic systems, [auction theory](https://en.wikipedia.org/wiki/Auction_theory) features prominently.
+Cryptocurrencies are also deeply interwoven with markets, which requires an understanding of [microeconomics](https://en.wikipedia.org/wiki/Microeconomics). You'll need a strong intuition for  [supply and demand curves](https://en.wikipedia.org/wiki/Supply_and_demand). You should be able to reason about competition and [opportunity costs](https://en.wikipedia.org/wiki/Opportunity_cost) (they'll apply frequently to cryptocurrency mining). For many coin distributions and cryptoeconomic systems, [auction theory](https://www.youtube.com/watch?v=4kWuxfVbIaU) features prominently.
 
 I expect you'll be familiar with some of these topics already. If you are, feel free to skim or skip over them entirely.
 

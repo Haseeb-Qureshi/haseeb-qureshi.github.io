@@ -11,7 +11,7 @@ I taught poker players all over the world. I made instructional videos, wrote ar
 
 In 2011, when I was twenty-one, I got entangled in what came to be known as the Girah Scandal, a big affair in the online poker world. In it I lied to the poker community, trying to protect myself and my friends. A little while later, I decided to retire from the game of poker for good. Since then, I haven't played a hand of poker.
 
-In 2012, I returned to the United States to look after my family and finish my education. I continued to write about poker, to coach poker players, and most importantly, to work on myself. I then published my first book, [*How to Be a Poker Player: The Philosophy of Poker*](https://haseebq.com/book/). It became the #1 best-selling poker book on Amazon for about five months.
+In 2012, I returned to the United States to look after my family and finish my education. I continued to write about poker, to coach poker players, and most importantly, to work on myself. I then published my first book, [*How to Be a Poker Player: The Philosophy of Poker*](/book/). It became the #1 best-selling poker book on Amazon for about five months.
 
 But despite that, I was unhappy. I felt burdened by poker&mdash;both by what I'd accomplished and by the mistakes I'd made. So I decided to start over. I donated all of my savings from my career as a poker player, almost $500,000. I gave some of it to charity, and the rest to my family. After all was said and done, I left myself with $10,000 with which to start anew.
 
@@ -117,4 +117,4 @@ Now I'm working as a software engineer at Airbnb. [More stories forthcoming…!]
 
 So that's what I'm about. Now you know me.
 
-Outside of the aforementioned, I can be found reading, writing, meditating, training kickboxing, watching improv comedy, and picking up heavy things and putting them down. I eat a paleo diet, which I think is mostly arbitrary, but I follow it anyway. I plan to become a vegetarian someday, but I don't have the moral fortitude yet. I try to fast one full day a week. You can [contact me here](https:/haseebq.com/connect/) if you're into that sort of thing.
+Outside of the aforementioned, I can be found reading, writing, meditating, training kickboxing, watching improv comedy, and picking up heavy things and putting them down. I eat a paleo diet, which I think is mostly arbitrary, but I follow it anyway. I plan to become a vegetarian someday, but I don't have the moral fortitude yet. I try to fast one full day a week. You can [contact me here](/connect/) if you're into that sort of thing.
