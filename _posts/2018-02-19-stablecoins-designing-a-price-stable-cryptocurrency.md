@@ -33,7 +33,7 @@ Of course, you can't just *decide* an asset should be valued at a certain price.
 
 This goes against everything we know about how markets work.
 
-This is not to say that stablecoins are impossible. Stablecoins are just currency pegs, and currency pegs are certainly not impossible—there are [many currency pegs still being maintained](https://en.wikipedia.org/wiki/List_of_circulating_fixed_exchange_rate_currencies). However, almost all large central banks have moved away from currency pegs. This is in part because they've realized pegs tend to be inflexible and difficult to maintain. History has taught us again and again, whether it be [Mexican peso crisis of 1994](https://en.wikipedia.org/wiki/Mexican_peso_crisis), the [Ruble crisis of 1998](https://en.wikipedia.org/wiki/1998_Russian_financial_crisis), or the infamous [Black Wednesday](https://en.wikipedia.org/wiki/Black_Wednesday) (when George Soros "broke the bank of England"), no currency peg can be maintained against [sufficiently adverse conditions](https://en.wikipedia.org/wiki/Currency_crisis).
+This is not to say that stablecoins are impossible. Stablecoins are just currency pegs, and currency pegs are certainly not impossible—there are [many currency pegs still being maintained](https://en.wikipedia.org/wiki/List_of_circulating_fixed_exchange_rate_currencies). However, almost all large central banks have moved away from currency pegs. This is in part because they've realized pegs tend to be [inflexible and difficult to maintain](https://en.wikipedia.org/wiki/Fixed_exchange-rate_system#Disadvantages). History has taught us again and again, whether it be [Mexican peso crisis of 1994](https://en.wikipedia.org/wiki/Mexican_peso_crisis), the [Ruble crisis of 1998](https://en.wikipedia.org/wiki/1998_Russian_financial_crisis), or the infamous [Black Wednesday](https://en.wikipedia.org/wiki/Black_Wednesday) (when George Soros "broke the bank of England"), no currency peg can be maintained against [sufficiently adverse conditions](https://en.wikipedia.org/wiki/Currency_crisis).
 
 But this is an incomplete analysis.
 
@@ -159,7 +159,7 @@ If you think Seignorage Shares sounds too crazy to work, you're not alone. Many 
 
 Clearly this means that in the limit, if the system doesn't eventually continue growing, it will not be able to maintain its peg.
 
-Perhaps that's not an unreasonable assumption though. After all, the monetary base for most world currencies have experienced nearly monotonic growth for the last several decades.
+Perhaps that's not an unreasonable assumption though. After all, the monetary base for most world currencies have experienced nearly monotonic growth for the last several decades. It's possible that a stable cryptocurrency might experience similar growth.
 
 ![image](https://user-images.githubusercontent.com/10965087/35904987-1d792ac8-0b9a-11e8-8c43-4d32c3b7bbca.png)
 
@@ -173,7 +173,7 @@ These systems also need significant bootstrapping of liquidity early on until th
 
 With all that said, non-collateralized stablecoins are the most ambitious design. A non-collateralized coin is independent from all other currencies. Even if the US Dollar and Ether collapse, a non-collateralized coin could survive them as a stable store of value. Unlike the central banks of nation states, a non-collateralized stablecoin would not have perverse incentives to inflate or deflate the currency. Its algorithm would only have one global mandate: stability.
 
-This is an exciting possibility, and if it succeeds, a non-collateralized stablecoin could radically change the world. But if it fails, that failure could be even more catastrophic, as there would be no collateral to liquidate the coin back into.
+This is an exciting possibility, and if it succeeds, a non-collateralized stablecoin could radically change the world. But if it fails, that failure could be even more catastrophic, as there would be no collateral to liquidate the coin back into and the coin would almost certainly crash to zero.
 
 Pros:
 * No collateral required
@@ -185,7 +185,7 @@ Cons:
 * Difficult to analyze safety bounds or health
 * Some complexity
 
-The most promising project in this category is [Basecoin](http://www.getbasecoin.com/), which builds upon Seignorage Shares by adding a first-in-first-out "bond" queue. They claim that this addition improves the stability properties of the protocol.
+The most promising project in this category is [Basecoin](http://www.getbasecoin.com/), which builds upon Seignorage Shares by adding a first-in-first-out "bond" queue. They claim that this addition improves the stability properties of the protocol, and have performed several simulations to model various outcomes.
 
 ## The ideal stablecoin
 
