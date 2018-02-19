@@ -116,7 +116,7 @@ Crypto-collateralized coins are a cool idea, but they have several major disadva
 
 If you collateralize your coin with Ether and Ether crashes hard enough, then your stablecoin will automatically get liquidated into Ether. At that point you'll be exposed to normal currency risk, and Ether may continue to fall. This could be a dealbreaker for exchanges—in the case of a market crash, they would have to deal with stablecoin balances and trading pairs suddenly mutating into the underlying crypto assets.
 
-The only way to prevent this is to over-collateralize to the hilt, which makes fiat-collateralized coins much more capital-intensive than their fiat counterparts. A fiat-backed cryptocurrency will require only 100K collateral to issue 100K stablecoins, whereas a crypto-collateralize coin might require 200K collateral or more to issue the same number of coins.
+The only way to prevent this is to over-collateralize to the hilt, which makes crypto-collateralized coins much more capital-intensive than their fiat counterparts. A fiat-backed cryptocurrency will require only 100K collateral to issue 100K stablecoins, whereas a crypto-collateralize coin might require 200K collateral or more to issue the same number of coins.
 
 Pros:
 * More decentralized
