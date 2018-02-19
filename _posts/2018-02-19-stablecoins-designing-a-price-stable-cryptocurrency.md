@@ -108,7 +108,7 @@ But why would anyone want to lock up $200 of Ether to create some stablecoins? T
 
 Fundamentally, all crypto-collateralized stablecoins use some variant of this scheme. You over-collateralize the coin using another cryptocurrency, and if the price drops enough, the stablecoins get liquidated. All of this can be managed by the blockchain in a decentralized way.
 
-We neglected one critical detail though: the stablecoin has to know the current USD/ETH price. You need this to determine the amount of Ether needed as collateral. But blockchains are unable to access any data from the external world. So how you can you know the current price?
+We neglected one critical detail though: the stablecoin has to know the current USD/ETH price. But blockchains are unable to access any data from the external world. So how you can you know the current price?
 
 The first way is to simply have someone continually publish a price feed onto the blockchain. This is obviously vulnerable to manipulation, but this may be good enough if the publisher is trustworthy. The second way is to use a [Schelling Coin](https://blog.ethereum.org/2014/03/28/schellingcoin-a-minimal-trust-universal-data-feed/) scheme, along the lines of [TruthCoin](http://www.truthcoin.info/papers/truthcoin-whitepaper.pdf). This is much more complex and requires a lot of coordination, but is ultimately less centralized and less manipulable.
 
