@@ -137,7 +137,7 @@ The first stablecoin to use this scheme was [BitUSD](https://bitshares.org/techn
 
 ![non-collateralized](https://i.imgur.com/ZWvzT5n.png)
 
-As you get deeper into crypto-land, eventually you have to ask the question: how sure are we that we actually need collateral to begin with? After all, isn't a stablecoin just a coordination game? Arbitragers just have to believe that our coin will eventually trade at $1. The United States was able to move off the gold standard and is no longer backed by any underlying asset. Perhaps this means collateral is unnecessary, and a stablecoin could adopt the same model.
+As you get deeper into crypto-land, eventually you have to ask the question: how sure are we that we actually need collateral to begin with? After all, isn't a stablecoin just a coordination game? Arbitrageurs just have to believe that our coin will eventually trade at $1. The United States was able to move off the gold standard and is no longer backed by any underlying asset. Perhaps this means collateral is unnecessary, and a stablecoin could adopt the same model.
 
 This idea is not completely novel—its roots can be traced to [arguments made by F.A. Hayek](https://mises.org/system/tdf/Denationalisation%20of%20Money%20The%20Argument%20Refined_5.pdf?file=1&type=document) in the 70s. A privately issued, non-collateralized, price-stable currency could pose a radical challenge to the dominance of fiat currencies. But how would you ensure it remains stable?
 
