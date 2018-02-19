@@ -19,7 +19,7 @@ Bitcoin and Ether are the two dominant cryptocurrencies, but their prices are vo
 
 Businesses and consumers don't want to be exposed to unnecessary currency risk when transacting in cryptocurrencies. You can't pay someone a salary in Bitcoin if the purchasing power of their wages keeps fluctuating. Cryptocurrency volatility also precludes blockchain-based loans, derivatives, prediction markets, and other longer-term smart contracts that require price stability.
 
-And of course, there's the long tail of users who don't want to speculate. They just want a store of value on a censorship-resistant ledger, escaping the traditional banking system, currency controls, or a collapsing local economy. Right now, Bitcoin and Ethereum can't offer them that.
+And of course, there's the long tail of users who don't want to speculate. They just want a store of value on a censorship-resistant ledger, escaping the local banking system, currency controls, or a collapsing economy. Right now, Bitcoin and Ethereum can't offer them that.
 
 The idea of a price-stable cryptocurrency has been in the air for a long time. Much cryptocurrency innovation and adoption has been bottlenecked around price-stability. For this reason, building a "stablecoin" has long been considered the Holy Grail of the cryptocurrency ecosystem.
 
