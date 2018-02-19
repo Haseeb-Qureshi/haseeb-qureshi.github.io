@@ -51,7 +51,7 @@ The question for any peg then is four-fold:
 
 The final two points matter a great deal, because currency pegs are all about [Schelling points](https://en.wikipedia.org/wiki/Focal_point_(game_theory)). If market participants cannot identify when a peg is objectively weak, it becomes easy to spread false news or incite a market panic, which can trigger further selling—basically, a death spiral. A transparent peg is more robust to manipulation or sentiment swings.
 
-To summarize, an ideal stablecoin should be able to withstand a great deal of market volatility, not be extremely costly to maintain, should have easy to analyze stability parameters, and should be transparent to traders and arbitrageurs. These features maximize its real-world stability.
+To summarize, an ideal stablecoin should be able to withstand a great deal of market volatility, should not be extremely costly to maintain, should have easy to analyze stability parameters, and should be transparent to traders and arbitrageurs. These features maximize its real-world stability.
 
 These are the dimensions along which I'll analyze different stablecoin schemes.
 
