@@ -1,5 +1,5 @@
 ---
-title: "Stablecoins: how to design a price-stable cryptocurrency"
+title: "Stablecoins: designing a price-stable cryptocurrency"
 tags: [blockchain, programming]
 image: bitcoin-balance.jpg
 featured: "true"
@@ -13,7 +13,9 @@ It might not be obvious why we'd want this.
 
 <div class="ui embed" data-url="https://www.youtube.com/embed/AjCQHNO0g4o"></div>
 
-Bitcoin and Ether are the two dominant cryptocurrencies, but their prices are volatile. A cryptocurrency's volatility may fuel speculation, but in the long term, it hinders real-world adoption.
+## The Holy Grail of Crypto
+
+Bitcoin and Ether are the two dominant cryptocurrencies, but their prices are volatile. A cryptocurrency's volatility may fuel speculation, but in the long run, it hinders real-world adoption.
 
 Businesses and consumers don't want to be exposed to unnecessary currency risk when transacting in cryptocurrencies. You can't pay someone a salary in Bitcoin if the purchasing power of their wages keeps fluctuating. Cryptocurrency volatility also precludes blockchain-based loans, derivatives, prediction markets, and other longer-term smart contracts that require price stability.
 
@@ -80,20 +82,21 @@ A fiat-backed scheme is also highly regulated and constrained by legacy payment 
 Pros:
 * 100% price-stable
 * Simplest (a big virtue!)
+* Less vulnerable to hacks, since no collateral is held on the blockchain
 
 Cons:
-* Centralized — need a trusted custodian to store the fiat
+* Centralized — need a trusted custodian to store the fiat (otherwise vulnerable to brick and mortar theft)
 * Expensive and slow liquidation into fiat
 * Highly regulated
 * Need regular audits to ensure transparency
 
-This is essentially what Tether purports to be, though they have not been recently audited and [many people suspect](https://www.nytimes.com/2017/11/21/technology/bitcoin-bitfinex-tether.html) Tether is actually a fractional reserve and don't hold all of the fiat as they claim they do. Other stablecoins like [TrueUSD](https://blog.trusttoken.com/trueusd-a-usd-backed-stablecoin-you-can-trust-9688796cfd0d) are trying to do the same thing, but with more transparency.
+This is essentially what Tether purports to be, though they have not been recently audited and [many people suspect](https://www.nytimes.com/2017/11/21/technology/bitcoin-bitfinex-tether.html) Tether is actually a fractional reserve and don't hold all of the fiat as they claim they do. Other stablecoins like [TrueUSD](https://blog.trusttoken.com/trueusd-a-usd-backed-stablecoin-you-can-trust-9688796cfd0d) are trying to do the same thing, but with more transparency. [Digix Gold](https://digix.global/) is a similar scheme, except the collateral is gold instead of fiat. Nevertheless, it shares the same fundamental properties.
 
 ## Crypto-collateralized stablecoins
 
 ![crypto-collateralized](https://i.imgur.com/Js99sRh.png)
 
-Say we don't want to integrate with the traditional payment rails. After all, this is crypto-land! We just reinvented money, why go back to banks and state-backed currencies?
+Say we don't want to integrate with the traditional payment rails. After all, this is crypto-land! We just reinvented money, why go back to centralized banks and state-backed currencies?
 
 If we move away from fiat, we can also remove the centralization from the stablecoin. The idea falls out naturally: let's do the same thing, but instead of USD, let's back the coin with reserves of another cryptocurrency. That way *everything* can be on the blockchain. No fiat required.
 
@@ -134,7 +137,7 @@ The first stablecoin to use this scheme was [BitUSD](https://bitshares.org/techn
 
 ![non-collateralized](https://i.imgur.com/ZWvzT5n.png)
 
-As you get deeper into crypto-land, eventually you have to ask the question: how sure are we that we actually need collateral to begin with? After all, isn't a stablecoin just a coordination game? Arbitragers just have to believe that our coin will eventually trade at $1. The United States was able to move off the gold standard and is no longer backed by any underlying asset. Perhaps this means collateral is unnecessary, and a stablecoin could use the same model.
+As you get deeper into crypto-land, eventually you have to ask the question: how sure are we that we actually need collateral to begin with? After all, isn't a stablecoin just a coordination game? Arbitragers just have to believe that our coin will eventually trade at $1. The United States was able to move off the gold standard and is no longer backed by any underlying asset. Perhaps this means collateral is unnecessary, and a stablecoin could adopt the same model.
 
 This idea is not completely novel—its roots can be traced to [arguments made by F.A. Hayek](https://mises.org/system/tdf/Denationalisation%20of%20Money%20The%20Argument%20Refined_5.pdf?file=1&type=document) in the 70s. A privately issued, non-collateralized, price-stable currency could pose a radical challenge to the dominance of fiat currencies. But how would you ensure it remains stable?
 
@@ -154,7 +157,7 @@ This is the core idea behind Seignorage Shares, and some version of this undergi
 
 If you think Seignorage Shares sounds too crazy to work, you're not alone. Many have criticized this system for an obvious reason: it resembles a pyramid scheme. Low coin prices are buttressed by issuing promises of future growth. That growth must be subsidized by new entrants buying into the scheme. Fundamentally, you could say that the "collateral" backing Seignorage Shares is **shares in the future growth of the system.**
 
-Clearly this means that in the limit, if the system stops growing, it will not be able to maintain its peg.
+Clearly this means that in the limit, if the system doesn't eventually continue growing, it will not be able to maintain its peg.
 
 Perhaps that's not an unreasonable assumption though. After all, the monetary base for most world currencies have experienced nearly monotonic growth for the last several decades.
 
@@ -162,7 +165,7 @@ Perhaps that's not an unreasonable assumption though. After all, the monetary ba
 
 But there's no free lunch in economics. Seignorage Shares can absorb some amount of downward pressure for a time, but if the selling pressure is sustained for long enough, traders will lose confidence that shares will be eventually pay out. This will further push down the price and trigger a death spiral.
 
-The most dangerous part of this system is that's difficult to analyze. How much downward pressure can the system take? How long can it withstand that pressure? Will whales or insiders prop up the system if it starts slipping? At what point should we expect them intervene? When is the point of no return when the system breaks? It's hard to know, and market participants are unlikely to converge. This makes the system is susceptible to panics and sentiment-based swings.
+The most dangerous part of this system is that it's difficult to analyze. How much downward pressure can the system take? How long can it withstand that pressure? Will whales or insiders prop up the system if it starts slipping? At what point should we expect them intervene? When is the point of no return when the system breaks? It's hard to know, and market participants are unlikely to converge. This makes the system is susceptible to panics and sentiment-based swings.
 
 Non-collateralized stablecoins are also vulnerable to a secular decline in demand for crypto, since such a decline would inevitably inhibit growth. And in the event of a crypto crash, traders tend to exit to fiat currencies, not stablecoins.
 
@@ -190,6 +193,8 @@ Stablecoins are critical to the future of crypto. The differences between these 
 
 But after having looked at many of these, my primary conclusion is that there is no ideal stablecoin. Like with most technologies, the best we can do is choose the set of tradeoffs that we're willing to accept for a given application and risk profile.
 
+![tradeoff matrix](https://i.imgur.com/a22G4vL.png)
+
 The best outcome then, is not to try to pick winners early, but rather to encourage the many stablecoin experiments to bear their fruit in the marketplace.
 
-If crypto has taught us anything, it's that it's very hard to predict the future. I suspect there are many more variations on these schemes waiting to be unearthed. But whichever stablecoin wins in the long run, it will almost certainly build upon one of these fundamental designs.
+If crypto has taught us anything, it's that it's very hard to predict the future. I suspect there are many more variations on these schemes waiting to be unearthed. But whichever stablecoins win in the long run, they will almost certainly build upon one of these fundamental designs.
