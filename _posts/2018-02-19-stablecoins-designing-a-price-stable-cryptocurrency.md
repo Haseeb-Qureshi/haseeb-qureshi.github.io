@@ -5,7 +5,7 @@ image: bitcoin-balance.jpg
 featured: "true"
 ---
 
-A useful currency should be a unit of account, a medium of exchange, and a store of value. Cryptocurrencies excel at the first two, but as a store of value, they're pretty bad. You cannot be an effective store of value if your price fluctuates by 20% on a normal day.
+A useful currency should be a medium of exchange, a unit of account, and a store of value. Cryptocurrencies excel at the first, but as a store of value or unit of account, they're pretty bad. You cannot be an effective store of value if your price fluctuates by 20% on a normal day.
 
 This is where stablecoins come in. Stablecoins are price-stable cryptocurrencies, meaning the market price of a stablecoin is pegged to another stable asset, like the US dollar.
 
