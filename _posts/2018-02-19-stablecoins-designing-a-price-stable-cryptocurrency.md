@@ -116,7 +116,7 @@ Crypto-collateralized coins are a cool idea, but they have several major disadva
 
 If you collateralize your coin with Ether and Ether crashes hard enough, then your stablecoin will automatically get liquidated into Ether. At that point you'll be exposed to normal currency risk, and Ether may continue to fall. This could be a dealbreaker for exchanges—in the case of a market crash, they would have to deal with stablecoin balances and trading pairs suddenly mutating into the underlying crypto assets.
 
-The only way to prevent this is to over-collateralize to the hilt, which makes crypto-collateralized coins much more capital-intensive than their fiat counterparts. A fiat-backed cryptocurrency will require only 100K collateral to issue 100K stablecoins, whereas a crypto-collateralize coin might require 200K collateral or more to issue the same number of coins.
+The only way to prevent this is to over-collateralize to the hilt, which makes crypto-collateralized coins much more capital-intensive than their fiat counterparts. A fiat-backed cryptocurrency will require only 100K collateral to issue 100K stablecoins, whereas a crypto-collateralized coin might require 200K collateral or more to issue the same number of coins.
 
 Pros:
 * More decentralized
@@ -163,7 +163,7 @@ Perhaps that's not an unreasonable assumption though. After all, the monetary ba
 
 ![image](https://user-images.githubusercontent.com/10965087/35904987-1d792ac8-0b9a-11e8-8c43-4d32c3b7bbca.png)
 
-But there's no free lunch in economics. Seignorage Shares can absorb some amount of downward pressure for a time, but if the selling pressure is sustained for long enough, traders will lose confidence that shares will be eventually pay out. This will further push down the price and trigger a death spiral.
+But there's no free lunch in economics. Seignorage Shares can absorb some amount of downward pressure for a time, but if the selling pressure is sustained for long enough, traders will lose confidence that shares will eventually pay out. This will further push down the price and trigger a death spiral.
 
 The most dangerous part of this system is that it's difficult to analyze. How much downward pressure can the system take? How long can it withstand that pressure? Will whales or insiders prop up the system if it starts slipping? At what point should we expect them intervene? When is the point of no return when the system breaks? It's hard to know, and market participants are unlikely to converge. This makes the system is susceptible to panics and sentiment-based swings.
 
@@ -197,4 +197,4 @@ But after having looked at many of these, my primary conclusion is that there is
 
 The best outcome then, is not to try to pick winners early, but rather to encourage the many stablecoin experiments to bear their fruit in the marketplace.
 
-If crypto has taught us anything, it's that it's very hard to predict the future. I suspect there are many more variations on these schemes waiting to be unearthed. But whichever stablecoins win in the long run, they will almost certainly build upon one of these fundamental designs.
+If crypto has taught us anything, it's that it's very hard to predict the future. I suspect there are many more variations on these schemes waiting to be unearthed. But whichever stablecoins win in the long run, they'll almost certainly build on one of these fundamental designs.
