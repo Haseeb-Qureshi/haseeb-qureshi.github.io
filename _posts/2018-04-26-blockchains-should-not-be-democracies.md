@@ -11,7 +11,7 @@ That might sound like a strange question. In theory, blockchains aren't supposed
 
 But a blockchain is more than just a ledger. It's also an ecosystem of software, an economy of merchants, companies, and exchanges, and beneath all that, a community of developers, miners, and users.
 
-<div class="ui embed" data-url="https://www.youtube.com/embed/JAcZKgKVhOU&list"></div>
+<div class="ui embed" data-url="https://www.youtube.com/embed/JAcZKgKVhOU"></div>
 
 At the end of the day, blockchains must live in the messy world of humans and their quarrels. Otherwise, the data on its ledger would hold no sway in the real world.
 
