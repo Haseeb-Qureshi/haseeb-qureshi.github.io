@@ -18,8 +18,4 @@
     {% include tags.html tags=include.page.tags %}
   </div>
   <div class="frozen item">{{ include.page.date | date: "%b %Y" }}</div>
-  <div class="frozen item">
-    <i class="ui comments outline icon"></i>
-    <span class="disqus-comment-count" data-disqus-url="{{ include.page.url | absolute_url }}"></span>
-  </div>
 </div>
