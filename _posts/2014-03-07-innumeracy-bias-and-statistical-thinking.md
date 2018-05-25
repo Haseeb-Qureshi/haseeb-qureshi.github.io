@@ -12,4 +12,4 @@ Today (after a brief hiatus due to illness), I bring a new video where I explore
 
 If you have any questions, thoughts, or reflections, please leave a comment! And if you haven't checked it out already, do check out the audiobook, recently released on iTunes and [Amazon](http://www.amazon.com/How-Be-Poker-Player-Philosophy/dp/B00IJHYGOM/ref=tmm_aud_title_0/190-4854978-8183141) (available for FREE if you're new to Audible).
 
-Hope you guys enjoyed the video. If you have any idea or suggestion for a future video, don't hesitate to [contact me](https://haseebq.com/connect/) with a suggestion. :)
+Hope you guys enjoyed the video. If you have any idea or suggestion for a future video, don't hesitate to contact me with a suggestion. :)

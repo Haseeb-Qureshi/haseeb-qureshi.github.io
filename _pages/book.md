@@ -38,9 +38,6 @@ It's no secret that masters of poker think differently from ordinary people. In 
 > There is more and more good content to choose from in today's poker world, but I highly encourage serious students of the game to take a look at this great book.
 > <div class="source">Fredrik Keitel a.k.a. Observer84, high-stakes poker pro and founder of clans.de</div>
 
-
-**Please [contact me](httpss://haseebq.com/connect/) for review copies.**
-
 ----
 
 ## Introduction (Excerpt)

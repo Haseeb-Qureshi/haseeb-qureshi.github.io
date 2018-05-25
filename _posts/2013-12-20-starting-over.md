@@ -74,7 +74,3 @@ Don't be like that.
 - [Nook](http://www.barnesandnoble.com/w/how-to-be-a-poker-player-haseeb-qureshi/1117764930?ean=2940148932055 "Nook")
 - [Kobo](http://store.kobobooks.com/en-US/ebook/how-to-be-a-poker-player-the-philosophy-of-poker)
 - [Smashwords](http://www.smashwords.com/books/view/389670)
-
-### Well, Haseeb…
-
-Oh, you want to say something? [You can tell me here, or ask me a question!](https://haseebq.com/connect/) I'm probably going to get swamped by those pretty soon, but I'll do my best to get back to you.

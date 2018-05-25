@@ -687,4 +687,4 @@ If you found this guide helpful, I did a [live Q&A](https://www.youtube.com/watc
 
 Godspeed, you code warrior.
 
-Edit: If you are trying to break into tech and intend to [earn-to-give](https://en.wikipedia.org/wiki/Earning_to_give) (that is, you plan to donate at least 20% of your income to high-impact charities), [reach out to me](https://haseebq.com/connect), and I'd be happy to give you advice on your resume, free of charge. :)
+Edit: If you are trying to break into tech and intend to [earn-to-give](https://en.wikipedia.org/wiki/Earning_to_give) (that is, you plan to donate at least 20% of your income to high-impact charities), reach out to me and I'd be happy to give you advice on your resume, free of charge. :)

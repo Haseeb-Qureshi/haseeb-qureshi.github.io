@@ -20,7 +20,7 @@ For the next *two days*, I'm going to be accepting applications for public coach
 
 * The coaching audio will get thrown up on my website, so that other people who're potentially interested in coaching can get an idea of what it's like. If that sounds like a decent tradeoff for free coaching, then go ahead and write in! If you're going through a downswing or have wanted to get a jump-start improvement on some of your tilt, motivation, focus, or anger issues as a poker player, I encourage you to send one in. :)
 
-So there you go! [You can contact me here, as always.](http://www.haseebq.com/connect/) Just make the subject: &ldquo;Application.&rdquo;
+So there you go! You can contact me at <DEPRECATED>. Just make the subject: &ldquo;Application.&rdquo;
 
 I'll update this once the window for applications is closed. Hopefully the results will be pretty cool once I put them up! You might learn a thing or two about how to solve your own tilt/motivation problems. Look forward to it! :)
 
