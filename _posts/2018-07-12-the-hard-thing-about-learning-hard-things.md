@@ -49,7 +49,7 @@ It's human instinct to hide your ignorance. You have to fight this instinct. You
 
 You have to look stupid up front. You have to choose it.
 
-But what about "fake it till you make it"? I'm the first person to admit, faking it is absolutely crucial for *getting in the door*. But once you're in, you need to cut the faking it and start focus on making it.
+But what about "fake it till you make it"? I'm the first person to admit, faking it is absolutely crucial for *getting in the door*. But once you're in, you need to cut the faking it and focus on making it.
 
 Be honest about the limits of your knowledge. Ask basic, obvious questions, over and over again. Repeat things back and summarize them, even if incorrectly. Explain things you just learned to people again and again, even when you're wrong. Take notes as often as you can, even when it seems like you shouldn't. Pull smart people aside and pepper them with your questions after everyone else has left.
 
