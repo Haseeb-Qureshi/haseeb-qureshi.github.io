@@ -9,7 +9,7 @@ How do you learn something no one can teach you?
 
 Whatever success I've had in my career, I attribute almost entirely to my aptitude for *unstructured learning*. This is the kind of learning required when delving into a cutting-edge field, navigating a new job, or creating anything genuinely new. Notably, it's the polar opposite of what is taught in schools and what most people call "education."
 
-<div class="ui embed" data-url="https://www.youtube.com/embed/YrxJh0aH0wc"></div>
+<div class="ui embed" data-url="https://www.youtube.com/embed/YobyAn1hadE"></div>
 
 In structured learning (like in school), there are exercises you can follow, teachers who will guide you, and a well-trodden path from A to Z. The hard part is just showing up to do the work everyday.
 
