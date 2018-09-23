@@ -8,7 +8,7 @@ image: airbnb_cls6dd_yggjbh.png
 
 Despite the rejection from 23AndMe, I kept pushing.
 
-I applied to the all the big hiring websites. [Hired](https://hired.com) rejected me from their platform. I got no bites anywhere on [AngelList](https://angel.co) or LinkedIn&mdash;not even cold e-mails from recruiters. Nothing from [WhiteTruffle](https://whitetruffle.com) or [SmartHires](https://www.smarthires.io).
+I applied to all the big hiring websites. [Hired](https://hired.com) rejected me from their platform. I got no bites anywhere on [AngelList](https://angel.co) or LinkedIn&mdash;not even cold e-mails from recruiters. Nothing from [WhiteTruffle](https://whitetruffle.com) or [SmartHires](https://www.smarthires.io).
 
 Not a breath of interest anywhere.
 
@@ -58,7 +58,7 @@ Shit. Really?
 
 I hadn't considered joining a super small company. I'd already spent the last year at a 25 person startup; TripleByte was only 5 people. But I knew entrepreneurship was somewhere in my future, and eventually I'd be joining a super early stage startup (if not founding it myself). TripleByte was a fantastic company, already with huge traction in the tech hiring space. Their founder, Harj Taggar, was a former YC partner, and one of the most charismatic and capable people I've met.
 
-They wanted me. A company actually wanted me! A good one! I laugh now, but it was a revelation to me. They invited me in for another onsite so the rest of the team could vet me.
+They wanted me. A company actually wanted me! A good one! I laugh now, but it was a revelation to me. They invited me in for another onsite so the rest of the team could've met me.
 
 Before I could savor it too long, I received a phone call soon after. Yelp recruiter. Yelp wanted to make an offer.
 
@@ -262,7 +262,7 @@ So that's enough of soapboxing. Here are some stats.
 
 ## A Few Statistics
 
-By the end of my process, I had received a total of 8 job offers (not including re-negotiation with App Academy). I had completed 12 onsites total, so my I had a total onsite-to-offer rate of 66%.
+By the end of my process, I had received a total of 8 job offers (not including re-negotiation with App Academy). I had completed 12 onsites total, so I had a total onsite-to-offer rate of 66%.
 
 Considering only the onsites after receiving my first offer however, my onsite-to-offer rate was 87%.
 
