@@ -7,6 +7,8 @@ featured: "true"
 
 When I first heard of Bitcoin, it sounded like something out of a dystopian sci-fi novel. Digital, cryptographic, uncensorable money? It seemed such a radical idea, it couldn't possibly belong in this decade.
 
+<div class="ui embed" data-url="https://www.youtube.com/embed/QuZSlBzliws"></div>
+
 But if it did—if Bitcoin were to go mainstream—I was convinced it would lead to a massive geopolitical disruption, shifting the power relations between governments and their citizens. It would mean investing into Bitcoin would be like funding a revolutionary army. It would be so subversive, only a few crazy people would be willing to do it.
 
 Of course, I was wrong about every part of that.
