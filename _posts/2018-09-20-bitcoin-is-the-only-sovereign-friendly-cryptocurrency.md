@@ -1,13 +1,13 @@
 ---
 title: "Why isn't Bitcoin banned everywhere?"
 tags: [blockchain]
-image: bitcoin-globe.png
+image: bitcoin_ban.jpg
 featured: "true"
 ---
 
 When I first heard of Bitcoin, it sounded like something out of a dystopian sci-fi novel. Digital, cryptographic, uncensorable money? It seemed such a radical idea, it couldn't possibly belong in this decade.
 
-But if it did—if Bitcoin were to go mainstream—I was convinced it would lead to a massive geopolitical disruption, shifting the power relations between governments and their citizens. If this were true, then investing into Bitcoin would be like funding a revolutionary army. It would be so subversive, only a few crazy people would be willing to do it.
+But if it did—if Bitcoin were to go mainstream—I was convinced it would lead to a massive geopolitical disruption, shifting the power relations between governments and their citizens. It would mean investing into Bitcoin would be like funding a revolutionary army. It would be so subversive, only a few crazy people would be willing to do it.
 
 Of course, I was wrong about every part of that.
 
@@ -23,7 +23,9 @@ So why have governments ushered Bitcoin through the front door?
 
 I've been thinking about this question a lot lately, because I feel it demands answering. I've come up with three potential explanations.
 
-**The first is that "all innovation is good innovation."** Perhaps governments recognize the inevitable growth of blockchain technology and don't want to stem innovation too early via overregulation. This is plausible: you still hear the echoes of "blockchain not Bitcoin" within the halls of industry, and blockchain idealism has become safe cocktail party conversation.
+**The first is that "all innovation is good innovation."**
+
+Perhaps governments recognize the inevitable growth of blockchain technology and don't want to stem innovation too early via overregulation. This is plausible: you still hear the echoes of "blockchain not Bitcoin" within the halls of industry, and blockchain idealism has become safe cocktail party conversation.
 
 But this explanation falls short. First of all, we already *have* blockchains. Further Bitcoin development isn't likely to contribute to enterprise blockchain deployments. If the purpose of letting Bitcoin flourish was to usher in the age of enterprise blockchains, its job is already done.
 
