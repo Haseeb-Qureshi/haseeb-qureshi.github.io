@@ -62,17 +62,25 @@ This might sound at odds with a system like Ethereum where "code is law." Where 
 
 But make no mistake, this is also crypto institution: an enshrined norm around property rights.
 
-In Ethereum, there are continual debates over [property rights](https://eips.ethereum.org/EIPS/eip-867), [inflation](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1234.md), and [economic policy](https://ethresear.ch/t/common-classes-of-contracts-and-how-they-would-handle-ongoing-storage-maintenance-fees-rent/4441). There have been times where its governance has favored safety and restitution over property rights (e.g., [the DAO fork](https://www.coindesk.com/ethereum-executes-blockchain-hard-fork-return-dao-investor-funds)), and other times when it has weighed in favor of immutability (e.g., rejecting the [Parity rescue fork](https://www.parity.io/on-classes-of-stuck-ether-and-potential-solutions/)). The recent [Constantinople postponement](https://blog.ethereum.org/2019/01/15/security-alert-ethereum-constantinople-postponement/) was a case where the norm of maintaining smart contract invariants was privileged over timely software upgrades. These are all reflections of the formal and informal institutions that govern Ethereum.
+In Ethereum, there are institutions around [property rights](https://eips.ethereum.org/EIPS/eip-867), [inflation](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1234.md), and [economic policy](https://ethresear.ch/t/common-classes-of-contracts-and-how-they-would-handle-ongoing-storage-maintenance-fees-rent/4441). Of course, these have evolved over time: there have been times where its governance has favored safety and restitution over property rights (e.g., [the DAO fork](https://www.coindesk.com/ethereum-executes-blockchain-hard-fork-return-dao-investor-funds)), and other times when it has weighed in favor of immutability (e.g., rejecting the [Parity rescue fork](https://www.parity.io/on-classes-of-stuck-ether-and-potential-solutions/)). The recent [Constantinople postponement](https://blog.ethereum.org/2019/01/15/security-alert-ethereum-constantinople-postponement/) was a case where the norm of maintaining smart contract invariants was privileged over timely software upgrades. These are all reflections of the formal and informal institutions that govern Ethereum.
 
-But institutions encompass more than just governance—they also include the code, the economics, and the community. Infrastructure like Infura, Metamask, and ERC-20 are all part of what makes Ethereum continuous and predictable. Users, companies, miners, and developers all depend on this continuity. They participate in Ethereum because they believe it will fulfill its promises—in other words, they participate because *they trust in the underlying institutions*.
+But institutions encompass more than just governance—they also include the code, the economics, and the community. Infrastructure like Infura, Metamask, and ERC-20 are all part of what makes Ethereum continuous and predictable. All of the churn and debate might make some bystanders believe that Ethereum is poorly governed, but this is a mistake: these are precisely the instantiations of Ethereum's institutions. Users, companies, miners, and developers all depend on the continuity of these institutions. They participate in Ethereum because they believe it will fulfill its promises—in other words, they participate because *they trust in the underlying institutions*.
 
-So when critics tout the threat of forking as a check against cryptonetworks, they are missing something deep about what makes any financial system valuable. It's not the code, not the balances in the accounts, not the size of the UTXO set. **It's the institutions.**
+So when critics tout the threat of forking as a check against cryptonetworks, they are missing something deep about what makes any economic system valuable. It's not the code, not the balances in the accounts, not the size of the UTXO set. **It's the institutions.**
 
-Imagine a violent revolution that carves out a subsection of a peaceful country. If those revolutionaries establish a junta, brandish a flag, and call themselves a competing state, would anyone consider it an improvement over the original?
+Imagine a violent revolution that carves out a subsection of a peaceful country. If those revolutionaries establish a junta, brandish a flag, and call themselves a competing state, would any outsider consider it an improvement over the original?
 
-Likewise, a fork that does not manage to improve on its originating institutions is uncompelling to anyone but those designed to profit from it. A large fundraise and a well-stocked war chest is not enough: institutions cannot be bought, only built. This has been borne out by the fact that [almost all forks have failed](https://www.placeholder.vc/blog/2018/9/17/a-brief-study-of-cryptonetwork-forks) (the most notable exception being Monero, which unequivocally improved on the institutions behind its predecessor, Bytecoin).
+Likewise, a fork that does not manage to improve on its originating institutions is uncompelling to anyone but those designed to profit from it. A large fundraise and a well-stocked war chest is insufficient: institutions cannot be bought, only built. This has been borne out by the fact that [almost all forks have failed](https://www.placeholder.vc/blog/2018/9/17/a-brief-study-of-cryptonetwork-forks) (the most notable exception being Monero, which unequivocally improved on the institutions behind its predecessor, Bytecoin).
 
-I'd be remiss if I didn't touch on ICOs here. ICOs are the apotheosis of why institutions matter. Lately I was revisiting some of my writing from when I first started blogging about crypto [last year](https://medium.freecodecamp.org/blockchain-is-our-first-22nd-century-technology-d4ad45fca2ce):
+## The path forward
+
+At the end of the day, crypto is not just technological innovation. It's also social and political innovation. If you want to build valuable institutions, it takes time, patience, and a lot of missteps.
+
+If you're just benchmarking on prices, it looks like crypto has failed at this project. Reading Twitter and Bloomberg, you might be convinced crypto is dead (Bitcoin recently celebrated its 10th birthday and [300th obituary](https://99bitcoins.com/bitcoinobituaries/)).
+
+But the arc of change is long. Paul Krugman clearly agrees on this point: it doesn't happen in a year or two. Most technological revolutions started with similar speculative frenzies—[railroads](https://en.wikipedia.org/wiki/Railway_Mania), [automobiles](https://en.wikipedia.org/wiki/List_of_defunct_automobile_manufacturers_of_the_United_States), [video games](https://en.wikipedia.org/wiki/Video_game_crash_of_1983), and the [Internet](https://en.wikipedia.org/wiki/Dot-com_bubble) to name just a few. Crypto will be no different. Indeed, the nature of the technology will likely magnify these cycles.
+
+Finally, I'd be remiss if I didn't touch on ICOs. ICOs are the apotheosis of why institutions matter. Lately I was revisiting [some of my writing](https://medium.freecodecamp.org/blockchain-is-our-first-22nd-century-technology-d4ad45fca2ce) from when I first started blogging about crypto last year:
 
 >It’s unfortunate that right now, blockchain-as-speculation is dominating most people’s attention. The signal is getting drowned in the noise.
 >
@@ -87,16 +95,6 @@ It's become clear to everyone now that the ICO boom was a frenzy of globally unr
 Going forward, we will need to develop better institutions around how projects get funding: more norms around transparency, disclosures, incentives, advisors, partnerships, marketing, lockups and liquidity restrictions, and what it means to both create and capture value. Organizations like [Messari](https://messari.io/) and [Gemini](https://medium.com/gemini/a-proposal-for-a-self-regulatory-organization-for-the-u-s-virtual-currency-industry-79e4d7891cfc) are great trailblazers in self-regulation, but there's more work to be done.
 
 **This is the only way to win people over in the end.** Not by shouting at them that they're not decentralized enough, but by *showing them that your institutions are a compelling alternative to their own.*
-
-## The path forward
-
-At the end of the day, crypto is not just technological innovation. It's also social and political innovation. If you want to build valuable institutions, it takes time, patience, and a lot of missteps.
-
-If you're just benchmarking on prices, it might look like crypto has failed at its project. Reading Twitter and Bloomberg, you might be convinced crypto is dead (it recently celebrated its [300th obituary](https://99bitcoins.com/bitcoinobituaries/)).
-
-The arc of change is long. Paul Krugman clearly agrees on this point: it doesn't happen in a year or two. Most technological revolutions started with similar speculative frenzies—[railroads](https://en.wikipedia.org/wiki/Railway_Mania), [automobiles](https://en.wikipedia.org/wiki/List_of_defunct_automobile_manufacturers_of_the_United_States), [video games](https://en.wikipedia.org/wiki/Video_game_crash_of_1983), and the [Internet](https://en.wikipedia.org/wiki/Dot-com_bubble) to name just a few. Crypto will be no different. Indeed, the nature of the technology will likely magnify these cycles.
-
-This is okay. Expect this. The ICO bubble of 2017 won't be the last bubble in crypto, nor will it be the last time crypto is pronounced a failed project.
 
 I'll end on something I wrote in that blog post a year ago:
 

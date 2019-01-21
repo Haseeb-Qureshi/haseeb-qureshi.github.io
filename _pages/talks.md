@@ -3,6 +3,9 @@ title: Talks
 image: rails-conf.jpg
 ---
 
+<div class="ui embed" data-url="https://www.youtube.com/embed/H1TOfnvbiZ0"></div>
+<div class="caption">AMA with Haseeb Qureshi on Stablecoins and Cryptocurrencies (TruStory)</div>
+
 <div class="ui embed" data-url="https://www.youtube.com/embed/svD6cCv-Nes"></div>
 <div class="caption">Stablecoins: an Overview (Stanford Bitcoin Club)</div>
 
@@ -36,10 +39,8 @@ image: rails-conf.jpg
 ##### From [Developer On Fire](http://developeronfire.com/)
 * [Developer on Fire&mdash;Virtue and Hustle with Haseeb Qureshi](http://developeronfire.com/podcast/episode-140-haseeb-qureshi-virtue-and-hustle)
 
-##### From [Venture Stories](https://www.villageglobal.vc/podcast/)
-* [Crypto Stories: A Primer on Stablecoins with Haseeb Qureshi and Myles Snider](https://www.stitcher.com/podcast/village-global/venture-stories/e/55999312)
-* [Crypto Stories: A Primer on Consensus Protocols with Aparna Krishnan and Haseeb Qureshi](https://www.stitcher.com/podcast/village-global/venture-stories/e/56032411)
-* [Crypto Stories: Solving The Blockchain Interoperability Problem with Sunny Aggarwal and Haseeb Qureshi](https://www.stitcher.com/podcast/village-global/venture-stories/e/56833624)
+##### From [Hidden Forces](https://hiddenforces.io)
+* [ETC 51% Attack and what it means for Proof of Work and Crypto Exchanges](https://www.hiddenforces.io/podcast/show/haseeb-qureshi-etc-attack-proof-of-work)
 
 #### From [Breaking Into Startups](https://soundcloud.com/breakingintostartups/)
 * [Haseeb Qureshi&mdash;Professional Poker Player turned Software Engineer](https://soundcloud.com/breakingintostartups/haseeb-qureshi)
@@ -52,3 +53,8 @@ image: rails-conf.jpg
 * [Convergence with Haseeb Qureshi](https://softwareengineeringdaily.com/2017/02/24/convergence-with-haseeb-qureshi/)
 * [Debugging Stories with Haseeb Qureshi](https://softwareengineeringdaily.com/2016/11/19/debugging-stories-with-haseeb-qureshi/)
 * [Topic Roundtable with Haseeb Qureshi and Practical Dev’s Ben Halpern](https://softwareengineeringdaily.com/2016/10/21/topic-roundtable-with-haseeb-qureshi-and-practical-devs-ben-halpern/)
+
+##### From [Venture Stories](https://www.villageglobal.vc/podcast/)
+* [Crypto Stories: A Primer on Stablecoins with Haseeb Qureshi and Myles Snider](https://www.stitcher.com/podcast/village-global/venture-stories/e/55999312)
+* [Crypto Stories: A Primer on Consensus Protocols with Aparna Krishnan and Haseeb Qureshi](https://www.stitcher.com/podcast/village-global/venture-stories/e/56032411)
+* [Crypto Stories: Solving The Blockchain Interoperability Problem with Sunny Aggarwal and Haseeb Qureshi](https://www.stitcher.com/podcast/village-global/venture-stories/e/56833624)
