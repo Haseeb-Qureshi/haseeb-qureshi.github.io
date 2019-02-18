@@ -27,7 +27,7 @@ Not so fast. In fact, **crypto is all about institutions**. Specifically, it's a
 
 Institutions matter because **risk and uncertainty are the enemy of commerce.** If you don't trust that your shipment will arrive safely or that your currency will hold value tomorrow, you won't transact. With institutions in place, everyone is more willing to take risks, and thus a healthy market evolves—and with it, a healthy society.
 
-New institutions are don't come around often. Arguably, the last major global institution to be built was the Internet.
+New institutions don't come around often. Arguably, the last major global institution to be built was the Internet.
 
 One of the promises behind the Internet was that it would be a global informational commons. Once all of the world's information was packetized and hosted on public servers, every human would have access to the corpus of human knowledge. And this mostly came true! For the majority of humans anywhere in the world, if they want to access the world's information, they can run a Google or Wikipedia search and find it. Search engines are now a pervasive institution available almost everywhere in the world.
 
