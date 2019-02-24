@@ -1,30 +1,9 @@
----
-title: "Three Models for Understanding the ICO Bubble"
-tags: [blockchain]
-image: roman-coins.jpeg
-featured: "true"
----
-
-The ICO bubble changed the world. It put crypto on the map for most people in America. I won't bore you with recounting the details. You were there, you saw it, and you probably took part in it. You either speculated on ICOs directly, or you might have done so indirectly through the ICO bubble's reserve currencies, Bitcoin and Ethereum.
-
-![World among worlds](https://i.imgur.com/qFvYiQN.png)
-
-We can safely say the ICO bubble is over now.
-
-What I want to do in the essay is answer a question that, in truth, it's too early to answer. That question is: why did it happen?
-
-It's important here to get a sense of scale. About $6B was raised in 2017, around $8B in 2018 (those numbers are fuzzy, depending on what you count as "raised").
-
-History doesn't repeat itself... but it kinda does.
-
-![Carlota Perez](https://i.imgur.com/Ss36xmF.png)
-![Techno-economic paradigms](https://i.imgur.com/ywCcYxa.png)
-![Installation phase](https://i.imgur.com/7bBzPss.png)
 
 ALT TITLES:
+# The 3 Historical Precedents for the ICO Bubble
 # The 3 Competing Frameworks that Explain the ICO Bubble
+# 3 Models that Explain the ICO Bubble
 # What was the ICO Bubble really about?
-# 3 Models for Understanding the ICO Bubble
 # The 3 Competing Explanations for the ICO Bubble
 
 * Begin by emphasizing that I believe in crypto, think it'll change the world. But it's clear that the ICO bubble was not it. Many commentators, myself included, realized that this was an unsustainable frenzy. But I'll admit at the time, I didn't understand it. While I and many others analogized it loosely with the dot com bubble, this was a simplistic reading of what was going on. There was, in truth, a lot more to it and this was not the only way to read what happened.
