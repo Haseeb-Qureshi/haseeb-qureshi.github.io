@@ -8,9 +8,11 @@ There’s already been enough hand-wringing and I-knew-it-all-alongs. What I wan
 
 ![World among worlds](https://i.imgur.com/qFvYiQN.png)
 
-It’s important here to get a sense of scale. $6B was raised through ICOs in 2017 and $8B in 2018 (those numbers are fuzzy, depending on what you count as “raised”). By comparison, the [seed and angel-stage dollars](https://news.crunchbase.com/news/q4-2018-closes-out-a-record-year-for-the-global-vc-market/) invested in 2017 was about $10B, and in 2018 around $15B. Though it’s a drop in the bucket compared to all stages of venture capital, which deployed $183B in 2017 and $293B in 2018.
+It’s important here to get a sense of scale. $6B was raised through ICOs in 2017 and $8B in 2018 (those numbers are fuzzy, depending on what you count as “raised”). By comparison, the [seed and angel-stage dollars](https://news.crunchbase.com/news/q4-2018-closes-out-a-record-year-for-the-global-vc-market/) invested in 2017 was about $10B, and in 2018 around $15B. Though it’s a drop in the bucket compared to all stages of venture capital, which deployed around $500B during that period.
 
 When the ICO bubble finally popped in 2018, the “market cap” of all crypto fell from a high of $834B to $126B, wiping out $708B in paper value, an 85% drop from its peak in January. This makes it worse than the dotcom bubble’s 78% collapse. But this bubble was not nearly as destabilizing—the dotcom bubble wiped out $5 trillion of value, and was more localized to the United States, whereas losses in the ICO bubble were absorbed across many more economies. (And, of course, comparing “market capitalization” in crypto to the NASDAQ is [problematic](https://medium.com/@RainDogDance/bitcoin-as-a-novel-market-institution-nic-carter-talk-at-baltic-honeybadger-2018-e085f163b213").)
+
+# TALK ABOUT HOW THIS SEEMS UNPRECEDENTED, RIGHT? OF COURSE, NOT AT ALL.
 
 So how can we make sense of what happened? There are, I believe, 3 major historical models that explain the ICO bubble. The first and most obvious is the dotcom bubble. The second is the boom in penny stocks in the 90s. And the third is the advent of P2P filesharing in the late 2000s. I’ll examine each in turn, and demonstrate how different aspects of what happened in the ICO bubble call back to events in each of these historical precedents.
 
@@ -20,39 +22,78 @@ History does not repeat—but there are a few refrains it loves to come back to.
 
 > All bubbles are about greed… but some bubbles are also about the installation of technological revolutions. *– Carlota Perez*
 
-Carlota Perez is the patron saint of venture capitalists. Her seminal work, *Technological Revolutions and Financial Capital* has been been cited by [Marc Andreessen](http://fortune.com/2014/02/13/marc-andreessen-tech-is-recovering-from-a-depression/) and [Fred Wilson](https://avc.com/2015/02/the-carlota-perez-framework/) as key to their understanding of the tech industry’s evolution.
+Carlota Perez is the patron saint of venture capitalists. Her seminal work, *Technological Revolutions and Financial Capital* has been been cited by [Marc Andreessen](http://fortune.com/2014/02/13/marc-andreessen-tech-is-recovering-from-a-depression/) and [Fred Wilson](https://avc.com/2015/02/the-carlota-perez-framework/) as key to understanding the tech industry.
 
-I won’t do her book justice here, but I’ll attempt to summarize the key ideas in the book that are relevant to the ICO bubble. I’ll be quoting heavily from Carlota herself—as you read, you’ll probably cringe at the parallels with crypto.
+I won’t do her book justice here, but I’ll attempt to summarize the key ideas in the book that are relevant to crypto. I’ll be quoting heavily from Carlota herself—as you read, you’ll probably cringe at the parallels.
 
 ## Innovation moves in cycles
-Carlota Perez subscribes to the long business cycle theory, also known as [Kondratiev Waves](https://en.wikipedia.org/wiki/Kondratiev_wave), in which technological innovation takes place in waves that arrive every 45-60 years.
+Carlota Perez subscribes to the long wave economic cycle theory, known as [Kondratiev Waves](https://en.wikipedia.org/wiki/Kondratiev_wave), in which technological innovation takes place in waves that recur every 45-60 years.
 
-According to Perez, these innovation waves consist of three phases: installation, collapse, and deployment. Installation is the period when a new technology is first explored, installed, and then speculated on. This speculation leads to an unsustainable asset bubble which inevitably collapses. Then, post collapse, a more sober period of deployment takes place during which the technology matures and alters many aspects of society. Once a full deployment has exhausted its potential for driving the economy, a new innovation wave must follow and the cycle begins again.
+According to Perez, these innovation waves consist of three phases: installation, collapse, and deployment. Installation is the period when a new technology is first explored, installed, and then speculated on. This speculation leads to an unsustainable asset bubble and a spectacular collapse. Then a more sober period of deployment takes place during which the technology matures and sustainably alters many aspects of society. Once a full deployment has exhausted its potential for driving economic growth, a new innovation wave must follow and the cycle begins anew.
+
+> There have been five technological revolutions in 240 years... Each of these revolutions drives a great surge of development and shapes growth for half a century or more.
 
 ![Carlota Perez](https://i.imgur.com/Ss36xmF.png)
 
-The Ethereum blockchain launched in 2015, exactly 44 years after Intel announced its first microprocessor, the Intel 4004, in 1971. If K-waves are meant to be 45-60 years apart, then crypto plausibly fits neatly into her framework.
+Each of these revolutions was kicked off by a seminal event that would catalyze the wave—the industrial revolution with Arkwright's Cromford mill, the steam and railway age with the Liverpool-Manchester Railway, the steel and heavy engineering age with Carnegie's Bessemer steel plant, the age of automobiles with Ford's assembly line, and the computer age with Intel's 4004 microprocessor.
 
-Let’s keep going.
+![K-waves summary](https://i.imgur.com/DuGafL5.png)
 
-> There have been five technological revolutions in 240 years… Why call them revolutions, though? Because they go far beyond the powerful set of new industries; they also transform the whole economy by providing a new techno-economic paradigm.
+I would argue that the moment that kicked off the ICO bubble was the launch of Ethereum. Though it was not the first cryptocurrency, it was the first major ICO to produce astronomical returns, and it would set the rules for the frenzy that was to come.
 
-What does she mean by techno-economic paradigm? Simply put, a techno-economic paradigm is a new accepted way of doing things. When a new technology takes form and begins driving innovation, it brings with it a new logic of how businesses should be structured. For example, with the advent of the automobile, the logic of the technology meant that businesses should lean into mass production, achieve economies of scale, and standardize their products for mass marketing appeal (the logic of the factory). This led to not only to the vision of every American owning a mass-produced automobile, but also a TV, a refrigerator, washing machine, etc.
+The Ethereum blockchain launched in 2015, exactly 44 years after 1971. If K-waves are meant to be 45-60 years apart, then crypto plausibly fits neatly into her framework.
+
+> Why call them revolutions, though? Because they go far beyond the powerful set of new industries; they also transform the whole economy by providing a new techno-economic paradigm.
+
+What does she mean by techno-economic paradigm? Simply put, a techno-economic paradigm is a new accepted way of doing things. When a new technology takes form and begins driving innovation, it brings with it a new logic of how businesses should be structured. For example, with the advent of the automobile, the logic of the technology meant that businesses should adopt mass production, achieve economies of scale, and standardize their products for mass marketing appeal—the logic of the factory. In this paradigm, every American should own not only a mass-produced automobile, but also a TV, a refrigerator, a washing machine, etc.
 
 > The emerging heuristic routines and approaches are gradually internalized by engineers and managers, investors and bankers, sales and advertising people, entrepreneurs and consumers. In time, a shared logic is established; a new “common sense” is accepted for investment decisions as well as for consumer choice. The old ideas are unlearned and the new ones become “normal”.
 
-As a techno-economic paradigm becomes ascendant, any entrepreneur who does not subscribe to the new techno-economic paradigm will be seen as low-status and behind the times.
+As a techno-economic paradigm becomes ascendant, any entrepreneur who does not subscribe to the new paradigm will be seen as low-status and behind the times.
 
-We know the techno-economic paradigm of the computer revolution—move fast and break things, launch MVPs, iterate in short cycles, pursue business models with zero marginal cost, emphasize design and simplicity. Basically all the mantras consumed by aspiring founders.
+We know the techno-economic paradigm of the computer revolution—move fast and break things, launch MVPs, iterate in short cycles, pursue business models with zero marginal cost. Basically all the mantras consumed by aspiring tech founders.
 
-Cast in these terms, the techno-economic paradigm of crypto is almost embarrassing to say out loud. Here’s what we taught founders how to build a business in the crypto age: you should morph your idea into a protocol, eventually decentralize it, write an academic-looking whitepaper with some math in it, create a Swiss foundation, do a public ICO, open source your code, invent some story about how to go cross-chain or be quantum-resistant… you know the jig.
+Cast in these terms, the techno-economic paradigm of crypto is almost embarrassing to say out loud. Here’s what we taught founders how to build a business in the crypto age: you should shoehorn your idea into a protocol, invent a story how it will eventually be decentralized, write an academic-looking whitepaper with some math in it, create a Swiss foundation, do a public ICO, open source your code… you know the jig.
 
-In hindsight, we can acknowledge how almost none of this was predictive of an entrepreneur’s success. But founders who did not do this during the ICO boom were seen as retrogressive and low-status, and thus were not rewarded in the market.
+In hindsight, we can acknowledge how almost none of this was predictive of an entrepreneur’s success. But founders who did not adopt this paradigm during the ICO boom were seen as low-status, and thus were less rewarded in their fundraising.
 
 ## The installation phase
 If we have just witnessed the collapse phase, then it’s worth rewinding to what Perez has to say about the installation phase.
 
-> During Installation, investment is led by financial capital, which funds the technological transformation, and, in the excitement, also intensifies its casino-type activities until it decouples from the real economy building a major asset inflation boom that ends in catastrophic collapse.”
+> During Installation, investment is led by financial capital, which funds the technological transformation, and, in the excitement, also intensifies its casino-type activities.
+
+Financial capital is what Perez deems short-term return-seeking capital (as opposed to *production capital*, which is more long-term and sustainable, and characterizes the deployment phase).
+
+> Financial capital then breaks loose, backs the new entrepreneurs, dismantles as much as it can of the institutional framework, overinvests in the new infrastructure, and also uses the new technologies to innovate in instruments for financial speculation.
+
+This is a little too on the nose for crypto.
+
+Dismantles institutional frameworks, check. Overinvests in new infrastructure, check. Invents new instruments for financial speculation (ICOs, SAFTs, SAFTEs), check.
+
+Eventually all of this rises to a fever pitch in what Perez dubs the "Frenzy."
+
+> Frenzy is the tumultuous period when financial capital takes off on its own... All those benefitting from this flourishing of opportunities believe the world is going through a marvelous time.
+
+New millionaires are minted. They want to multiply their wealth in the same way they made it, redeploying their capital with high pressure to generate more profits. They come to believe that it's their own superior insights and intuition that led to this tremendous growth.
+
+(Ringing a bell?)
+
+> As the various assets go up in price, confidence grows that they will continue to do so... Since the profits to be had are amazing, everybody—including widows and orphans—eventually becomes aware of the incredible possibilities. They gradually dare to enter what used to be alien territory, trying to get a piece of the action.
+
+She quotes Bruce Nussbaum, writing in Business Week about the late 90s:
+
+> "So investors accepted sky-high P/Es, puffed-up bottom lines, and some strange business plans—because who really knew what was possible? It was a time of opportunity, a time to place bets. And they paid off..."
+
+"Strange business plans," oh, if only they knew.
+
+> ... The financiers (and the investors who trust their money to them) seem to be convinced that they have discovered the most profitable vein. They then indulge in the intense repetition of the same successful recipe, be it from canals from any river to any river, as in the first revolution, or more dot coms and telecommunications.
+
+Do you remember all the ICO investing syndicates? The Telegram groups? The newsletters?
+
+
+
+Those newly rich come to believe it's their
+
 
 Her book was written in 2003 during the nadir of the dotcom bubble, from which she draws many of her examples. She presciently points out that the dotcom bubble has all the bearings of the past 5 major technological revolutions since the industrial revolution, each of which was characterized by a similar asset bubble. She situates the dotcom bubble cleanly within this framework, and presciently predicted that this too would pass and usher in the information technology-driven economy that we live in today.
 
