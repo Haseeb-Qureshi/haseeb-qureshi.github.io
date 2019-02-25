@@ -1,3 +1,10 @@
+---
+title: "3 Models for Understanding the ICO Bubble"
+tags: [blockchain]
+image: roman-coins.png
+featured: "true"
+---
+
 We can safely say the ICO bubble is over now.
 
 The ICO bubble was the event that singularly put crypto on the world stage. I won’t bore you with recounting the details—you were there, you saw it, and if you’re reading this, you probably took part in it.
@@ -10,7 +17,9 @@ There’s already been enough hand-wringing and I-knew-it-all-alongs. What I wan
 
 It’s important here to get a sense of scale. $6B was raised through ICOs in 2017 and $8B in 2018 (those numbers are fuzzy, depending on what you count as “raised”). By comparison, the [seed and angel-stage dollars](https://news.crunchbase.com/news/q4-2018-closes-out-a-record-year-for-the-global-vc-market/) invested in 2017 was about $10B, and in 2018 around $15B. Though it’s a drop in the bucket compared to all stages of venture capital, which deployed around $500B during that period.
 
-When the ICO bubble finally popped in 2018, the “market cap” of all crypto fell from a high of $834B to $126B, wiping out $708B in paper value, an 85% drop from its peak in January. This makes it worse than the dotcom bubble’s 78% collapse. But this bubble was not nearly as destabilizing—the dotcom bubble wiped out $5 trillion of value, and was more localized to the United States, whereas losses in the ICO bubble were absorbed across many more economies. (And, of course, comparing “market capitalization” in crypto to the NASDAQ is [problematic](https://medium.com/@RainDogDance/bitcoin-as-a-novel-market-institution-nic-carter-talk-at-baltic-honeybadger-2018-e085f163b213").)
+![ICO collapse](https://i.imgur.com/66rgZCT.png)
+
+When the ICO bubble finally popped in 2018, the “market cap” of all crypto fell $700B in paper value, an 85% drop from its peak in January. This makes it worse than the dotcom bubble’s 78% collapse. But this bubble was not nearly as destabilizing—the dotcom bubble wiped out $5 trillion of value, and was more localized to the United States, whereas losses in the ICO bubble were absorbed across many more economies. (And, of course, comparing “market capitalization” in crypto to the NASDAQ is [problematic](https://medium.com/@RainDogDance/bitcoin-as-a-novel-market-institution-nic-carter-talk-at-baltic-honeybadger-2018-e085f163b213").)
 
 # TALK ABOUT HOW THIS SEEMS UNPRECEDENTED, RIGHT? OF COURSE, NOT AT ALL.
 
@@ -27,9 +36,15 @@ Carlota Perez is the patron saint of venture capitalists. Her seminal work, *Tec
 I won’t do her book justice here, but I’ll attempt to summarize the key ideas in the book that are relevant to crypto. I’ll be quoting heavily from Carlota herself—as you read, you’ll probably cringe at the parallels.
 
 ## Innovation moves in cycles
-Carlota Perez subscribes to the long wave economic cycle theory, known as [Kondratiev Waves](https://en.wikipedia.org/wiki/Kondratiev_wave), in which technological innovation takes place in waves that recur every 45-60 years.
+Carlota Perez subscribes to the long wave economic cycle theory, known as [Kondratiev Waves](https://en.wikipedia.org/wiki/Kondratiev_wave), in which technological innovation occurs in 45-60 year waves.
 
-According to Perez, these innovation waves consist of three phases: installation, collapse, and deployment. Installation is the period when a new technology is first explored, installed, and then speculated on. This speculation leads to an unsustainable asset bubble and a spectacular collapse. Then a more sober period of deployment takes place during which the technology matures and sustainably alters many aspects of society. Once a full deployment has exhausted its potential for driving economic growth, a new innovation wave must follow and the cycle begins anew.
+According to Perez, these innovation waves consist of three phases:
+
+1. Installation
+2. Collapse
+3. Deployment
+
+Installation is the period when a new technology is first explored, installed, and then speculated on. This speculation leads to an unsustainable asset bubble and a spectacular collapse. Then a more sober period of deployment takes place during which the technology matures and sustainably alters many aspects of society. After a full deployment has exhausted its potential for driving economic growth, a new innovation wave must follow and the cycle begins anew.
 
 > There have been five technological revolutions in 240 years... Each of these revolutions drives a great surge of development and shapes growth for half a century or more.
 
@@ -51,6 +66,8 @@ What does she mean by techno-economic paradigm? Simply put, a techno-economic pa
 
 As a techno-economic paradigm becomes ascendant, any entrepreneur who does not subscribe to the new paradigm will be seen as low-status and behind the times.
 
+![Techno-economic paradigm](https://i.imgur.com/ywCcYxa.png)
+
 We know the techno-economic paradigm of the computer revolution—move fast and break things, launch MVPs, iterate in short cycles, pursue business models with zero marginal cost. Basically all the mantras consumed by aspiring tech founders.
 
 Cast in these terms, the techno-economic paradigm of crypto is almost embarrassing to say out loud. Here’s what we taught founders how to build a business in the crypto age: you should shoehorn your idea into a protocol, invent a story how it will eventually be decentralized, write an academic-looking whitepaper with some math in it, create a Swiss foundation, do a public ICO, open source your code… you know the jig.
@@ -70,11 +87,12 @@ This is a little too on the nose for crypto.
 
 Dismantles institutional frameworks, check. Overinvests in new infrastructure, check. Invents new instruments for financial speculation (ICOs, SAFTs, SAFTEs), check.
 
-Eventually all of this rises to a fever pitch in what Perez dubs the "Frenzy."
+## The Frenzy
+Eventually all of this rises to a fever pitch in what Perez dubs "Frenzy."
 
 > Frenzy is the tumultuous period when financial capital takes off on its own... All those benefitting from this flourishing of opportunities believe the world is going through a marvelous time.
 
-New millionaires are minted. They want to multiply their wealth in the same way they made it, redeploying their capital with high pressure to generate more profits. They come to believe that it's their own superior insights and intuition that led to this tremendous growth.
+New millionaires are minted. They want to multiply their wealth in the same way they made it, redeploying their capital with high pressure to generate more profits. They come to believe that it's their own superior insights and intuition that led to this tremendous growth. The gap between paper values and real values widen, which accelerates the diffusion of the paradigm.
 
 (Ringing a bell?)
 
@@ -84,19 +102,42 @@ She quotes Bruce Nussbaum, writing in Business Week about the late 90s:
 
 > "So investors accepted sky-high P/Es, puffed-up bottom lines, and some strange business plans—because who really knew what was possible? It was a time of opportunity, a time to place bets. And they paid off..."
 
-"Strange business plans," oh, if only they knew.
+Strange business plans—oh, if only they knew.
 
 > ... The financiers (and the investors who trust their money to them) seem to be convinced that they have discovered the most profitable vein. They then indulge in the intense repetition of the same successful recipe, be it from canals from any river to any river, as in the first revolution, or more dot coms and telecommunications.
 
 Do you remember all the ICO investing syndicates? The Telegram groups? The newsletters?
 
+Do you remember the nonsensical projects that were spun up just to launch a coin? The teams that no one had ever heard of? The copy and pasted whitepapers?
 
+In the 1790s, canals were created from river to river with no regard for useful routing, believing that canals would magically produce demand. In the 1840s, railways were built where demand was doubtful and engineering impractical. In the 1920s, real estate values were unmoored from the constraints of urban planning because of the automobile, believing any territory could be potentially valuable if connected by roads. And of course, in the 90s, dot coms were created with no evidence of demand for their products.
 
-Those newly rich come to believe it's their
+None of this is new.
 
+And of course, do you remember all the voices (some [rejoicing](https://medium.com/dash-for-newbies/crypto-the-dawn-of-the-single-greatest-wealth-transfer-in-the-history-of-mankind-bc7683ad4c), some [lamenting](https://twitter.com/RyanSAdams/status/1052566485200199681)) the new redistribution of wealth?
 
-Her book was written in 2003 during the nadir of the dotcom bubble, from which she draws many of her examples. She presciently points out that the dotcom bubble has all the bearings of the past 5 major technological revolutions since the industrial revolution, each of which was characterized by a similar asset bubble. She situates the dotcom bubble cleanly within this framework, and presciently predicted that this too would pass and usher in the information technology-driven economy that we live in today.
+> The whole frenzy phenomenon is, at bottom, a huge process of income redistribution in favor of those directly or indirectly involved in the casino, which funds the massive process of creative destruction in the economy. That regressive distribution generates a double vicious cycle: one is economic, expressed in the market; the other is social, expressed in political terms. Both get worse as the bubble increases.
 
-![ICO collapse](https://i.imgur.com/66rgZCT.png)
-![Techno-economic paradigm](https://i.imgur.com/ywCcYxa.png)
+Of course, we cannot talk about the ICO bubble without talking about its dark side: the fraudsters, the pump and dumpers, the exit scammers.
+
+> That permissive atmosphere generates an opacity that is highly convenient for corruption and for the flourishing of outright illegal activities... This is then a time for swindlers.
+
+So the ICO bubble was but a variation on the theme. The players and the colors were different, but the social dynamics and human stories were the same. There were, as always, stories of overnight millionaires, flagrant scams, second and third mortgages that ended in catastrophe, all the usual human roil and ruin.
+
+All this is to say, we've seen this before.
+
 ![Installation phase](https://i.imgur.com/7bBzPss.png)
+
+Crypto's gilded age is probably now over. Most of those newly minted millionaires have unwittingly surrendered their riches, the hype has died away, ICO funding has dried up, [SEC enforcement actions](http://fortune.com/2018/11/02/sec-ico-report-cryptocurrency-scams/) are trickling in, and the media's crush on crypto has passed.
+
+But, Perez reminds us, the installation phase and subsequent crash is not merely painful—it is necessary to any technological revolution. The financial casino attracts the funds necessary to install basic infrastructure and facilitate social learning. Without the dotcom bubble, there would not have been all of the investments into optical fiber buildouts, new ISPs and internet infrastructure, packet-switched networks for telecoms, and all of the other social and technological infrastructure necessary for the Internet.
+
+For crypto, there are now many world class teams well-capitalized to build, scale, and research blockchain technology, and tens of millions of people in the world who now understand decentralization, proof of work, and private keys. It comes at an expensive cost, but Perez suggests that bubbles are necessary to overcome technological inertia.
+
+Ultimately, the collapse paves the way for the full unfolding of the more fruitful deployment phase.
+
+Perez's book was written in 2003 during the nadir of the dotcom crash, from which she draws many of her examples. She is prescient in pointing out how the dotcom bubble has all the bearings of a technology bubble, and she cleanly situates it within her K-wave framework. History has proven her exactly right—Amazon went public in 1997 at $18 a share, climbed to $300 in 1999, until it collapsed back down to $6 a share after the crash. It now trades at upwards of $1,600 a share.
+
+Of course, we should be careful to invert Perez's thesis: all technological revolutions cause a bubble, but that does not mean all bubbles are caused by a technological revolution (indeed, most aren't).
+
+So what does Perez really explain here?
