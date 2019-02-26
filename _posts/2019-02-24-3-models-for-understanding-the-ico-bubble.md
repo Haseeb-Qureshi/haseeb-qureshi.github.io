@@ -70,7 +70,7 @@ As a techno-economic paradigm becomes ascendant, any entrepreneur who does not s
 
 We know the techno-economic paradigm of the computer revolution—move fast and break things, launch MVPs, iterate in short cycles, pursue business models with zero marginal cost. Basically all the mantras consumed by aspiring tech founders.
 
-Cast in these terms, the techno-economic paradigm of crypto is almost embarrassing to say out loud. Here’s what we taught founders how to build a business in the crypto age: you should shoehorn your idea into a protocol, invent a story how it will eventually be decentralized, write an academic-looking whitepaper with some math in it, create a Swiss foundation, do a public ICO, open source your code… you know the jig.
+Cast in these terms, the techno-economic paradigm of crypto is almost embarrassing to say out loud. Here’s what we taught founders how to build a business in the crypto age: you should shoehorn your idea into a protocol, invent a story how it will eventually be decentralized, write an academic-looking whitepaper with some math in it, create a Swiss foundation, do a public ICO, open source your code… you know the jig. Basically, cargo culting the Ethereum ICO.
 
 In hindsight, we can acknowledge how almost none of this was predictive of an entrepreneur’s success. But founders who did not adopt this paradigm during the ICO boom were seen as low-status, and thus were less rewarded in their fundraising.
 
@@ -98,19 +98,19 @@ New millionaires are minted. They want to multiply their wealth in the same way 
 
 > As the various assets go up in price, confidence grows that they will continue to do so... Since the profits to be had are amazing, everybody—including widows and orphans—eventually becomes aware of the incredible possibilities. They gradually dare to enter what used to be alien territory, trying to get a piece of the action.
 
+Do you remember the article [Everyone is Getting Hilariously Rich and You're Not](https://www.nytimes.com/2018/01/13/style/bitcoin-millionaires.html) in the NYT?
+
 She quotes Bruce Nussbaum, writing in Business Week about the late 90s:
 
 > "So investors accepted sky-high P/Es, puffed-up bottom lines, and some strange business plans—because who really knew what was possible? It was a time of opportunity, a time to place bets. And they paid off..."
 
-Strange business plans—oh, if only they knew.
+Do you remember the nonsensical projects? The teams that no one had heard of? The copy and pasted whitepapers? All the shameless rhetoric about 1 trillion dollar TAMs and 100K transactions per second?
 
 > ... The financiers (and the investors who trust their money to them) seem to be convinced that they have discovered the most profitable vein. They then indulge in the intense repetition of the same successful recipe, be it from canals from any river to any river, as in the first revolution, or more dot coms and telecommunications.
 
 Do you remember all the ICO investing syndicates? The Telegram groups? The newsletters?
 
-Do you remember the nonsensical projects that were spun up just to launch a coin? The teams that no one had ever heard of? The copy and pasted whitepapers?
-
-In the 1790s, canals were created from river to river with no regard for useful routing, believing that canals would magically produce demand. In the 1840s, railways were built where demand was doubtful and engineering impractical. In the 1920s, real estate values were unmoored from the constraints of urban planning because of the automobile, believing any territory could be potentially valuable if connected by roads. And of course, in the 90s, dot coms were created with no evidence of demand for their products.
+During Canal Mania in the 1790s, canals were created from river to river with no regard for routing, believing that canals would magically produce demand. In the 1840s, railway projects were began from place to place without regard for engineering practicality, and subsequently failed. In the 1920s, real estate values were unmoored from the constraints of urban planning because the automobile implied that any territory could be valuable if connected by roads. And of course, in the 90s, dot coms were created with no evidence of demand for their products.
 
 None of this is new.
 
@@ -128,16 +128,89 @@ All this is to say, we've seen this before.
 
 ![Installation phase](https://i.imgur.com/7bBzPss.png)
 
+## The aftermath
 Crypto's gilded age is probably now over. Most of those newly minted millionaires have unwittingly surrendered their riches, the hype has died away, ICO funding has dried up, [SEC enforcement actions](http://fortune.com/2018/11/02/sec-ico-report-cryptocurrency-scams/) are trickling in, and the media's crush on crypto has passed.
 
-But, Perez reminds us, the installation phase and subsequent crash is not merely painful—it is necessary to any technological revolution. The financial casino attracts the funds necessary to install basic infrastructure and facilitate social learning. Without the dotcom bubble, there would not have been all of the investments into optical fiber buildouts, new ISPs and internet infrastructure, packet-switched networks for telecoms, and all of the other social and technological infrastructure necessary for the Internet.
+But, Perez reminds us, the installation phase and subsequent crash is not merely painful—it is necessary to any technological revolution. The financial casino attracts the funds necessary to install basic infrastructure and facilitate social learning. Without the dotcom bubble, there would not have been all of the investments into optical fiber buildouts, new ISPs and internet infrastructure, packet-switched networks for telecoms, and all of the other social and technological infrastructure that set the stage for Internet adoption.
 
-For crypto, there are now many world class teams well-capitalized to build, scale, and research blockchain technology, and tens of millions of people in the world who now understand decentralization, proof of work, and private keys. It comes at an expensive cost, but Perez suggests that bubbles are necessary to overcome technological inertia.
+For crypto, there are now many world class teams well-capitalized to build, scale, and evolve blockchain technology, and tens of millions of people in the world who now understand decentralization, proof of work, and private keys. It comes at a high cost, but Perez suggests that bubbles like these are necessary to overcome technological inertia.
 
 Ultimately, the collapse paves the way for the full unfolding of the more fruitful deployment phase.
 
-Perez's book was written in 2003 during the nadir of the dotcom crash, from which she draws many of her examples. She is prescient in pointing out how the dotcom bubble has all the bearings of a technology bubble, and she cleanly situates it within her K-wave framework. History has proven her exactly right—Amazon went public in 1997 at $18 a share, climbed to $300 in 1999, until it collapsed back down to $6 a share after the crash. It now trades at upwards of $1,600 a share.
+Perez's book was written in 2003 during the nadir of the dotcom crash, from which she draws many of her examples. She is prescient in situationg the crash neatly within her K-wave framework. History has proven her exactly right—Amazon went public in 1997 at $18 a share, climbed to $300 in 1999, until it collapsed back down to $6 a share after the crash. It now trades at upwards of $1,600 a share.
 
-Of course, we should be careful to invert Perez's thesis: all technological revolutions cause a bubble, but that does not mean all bubbles are caused by a technological revolution (indeed, most aren't).
+Of course, we should be careful not to invert Perez's thesis: all technological revolutions create a bubble, but that does not mean all bubbles are created by a technological revolution (indeed, most aren't).
 
-So what does Perez really explain here?
+So what does Perez predict here? She predicts the logic of frenzy, the stoking of financial capital, and the rhetoric of revolution ("the future will be decentralized"). She explains the explosion of retail investors ("widows and orphans"), traditional capital piling in at dizzying prices (Telegram, Filecoin, Hashgraph), and the flood of traditional entrepreneurs contorting themselves to follow the new paradigm.
+
+But there's another side to what we saw in the ICO bubble, which goes beyond Perez's framework. For this, we turn to our second historical model: the penny stock boom.
+
+# II. Penny stocks
+
+Balaji Srinivasan once claimed that tokens would turn blockchains into the world's biggest stock market. This may someday be true—but for now, tokens have become the world's biggest *penny stock* market.
+
+The term "penny stock" evokes shady stockbrokers in boiler rooms, and for good reason. Jordan Belfort, the protagonist the 2013 film Wolf of Wall Street, made his fortune hustling as a penny stock broker.
+
+![Wolf of Wall Street](https://i.imgur.com/3uYtZBj.jpg)
+
+Penny stocks are defined differently in different countries and go by different names. But in the US, a penny stock is a stock issued by a small company that trades below $5 a share (originally it was stocks that traded below $1, but you know, inflation and all). They are generally quoted [OTC](https://www.investopedia.com/terms/o/otc.asp) and seldom trade on national exchanges. They have low liquidity, little public information, and do not require significant financial disclosures. As such, they tend to be easily manipulated and are plagued with fraud.
+
+## The history of penny stocks
+The legal designation of penny stocks began after the 1929 stock market crash that triggered the Great Depression. It was believed that unbridled speculation on penny stocks was one of the principal causes of the crash, which led to the Securities Exchange Act of 1934 designating formal restrictions on penny stock trading.
+
+![Night singer of shares](https://upload.wikimedia.org/wikipedia/commons/d/d4/Bubble.folly.jpg)
+
+Throughout most of the 20th century, penny stock orders could only be placed via the phone. Offerings could not be legally placed in newspapers, and were mostly traded OTC. The highest quality penny stocks would provide only annual financial reporting—the very worst had none at all.
+
+But starting in the mid-90s with the growth of the Internet, penny stock trading exploded. Penny stock discount brokers emerged, able to offer an automated interface and much lower trading fees. As retail investors flooded in, market manipulation became rampant. Eventually, federal regulators would step in, and a string of [high profile cases](https://www.sec.gov/news/testimony/ts142000.htm) were brought against Mafia crime families that were involved in widespread penny stock manipulation schemes.  
+
+By 1989, a survey found that Americans had been cheated out of [at least $2B a year by fraudulent penny stock schemes](http://articles.latimes.com/1989-09-08/business/fi-1942_1_penny-stock).
+
+It's worth taking a breath here. Why are people so drawn to penny stocks in the first place, given how fraught they are?
+
+As a former professional poker player, I can tell you the answer is simple: people fucking love gambling. They always have and always will. Throughout history gambling has been stigmatized, regulated, and outlawed, but it always survives one way or another. People love the idea of turning around their fortunes, the rush of outsmarting the establishment. It hardly matters what the company does. Penny stocks prey on the same greedy credulity behind all get rich quick schemes.
+
+![Penny stocks banner](https://sykes-wpengine.netdna-ssl.com/images/banner-tim.jpg)
+
+On the other side of the market, penny stocks are a gift to hustlers and scammers. For those manipulating markets, they don't care what about the stocks represent—they simply need a company, a ticker, and a story. Greed will take care of the rest.
+
+## An embarrassment of riches
+In ICOs, just as penny stocks, are a two-sided market. Investors don't care about the coins, they just want objects of speculation to get rich on. Fraudsters don't care about the coins either, they just want objects of manipulation to cheat others on. Everyone gets what they need, and so the market bustles with activity, and no one wants to be left out.
+
+Here's a telling [article published in 2000](https://www.sfgate.com/business/article/Internet-Makes-Stock-Scams-Easy-Pump-and-dump-2772185.php) Internet pump and dump schemes:
+
+> Before the Net, these promoters hired squads of telemarketers to push their stocks on unsuspecting investors. Now, it's as easy as blasting out e-mail, or if they're industrious, maintaining a Web site.
+
+What's the ICO
+
+> The current fashion is to announce the discovery of a new, inexpensive method of sending broadband signals over telephone lines at speeds far exceeding existing technologies.
+> The promoters issue a constant stream of press releases chronicling development breakthroughs, marketing agreements and endorsements of the technology from qualified scientists.
+> Meanwhile, the stock is featured in free e-mail newsletters and on Web sites of services specializing in alerting investors to ground-floor, undiscovered opportunities to make a killing in the market.
+> Optimistic posts then begin appearing on Internet stock message boards, such as those maintained by Yahoo and Raging Bull. Because few have heard of the new company, the promoters plant messages on other heavily frequented boards -- Qualcomm's, for instance. These mention the new stock, tout its hot prospects and suggest that investors check it out.
+> If the promoters do a good job, and the market is strong, the stock price can soar from a few cents a share to $10, or in some cases, much more. Eventually, the share price collapses after the promoters sell out and quit pumping.
+
+![Pump and dump group](https://bitfalls.com/wp-content/uploads/2018/01/03-3.png)
+
+
+Airdrops, bounties, referral bonuses, early sales, presales, advisor shares,
+
+
+
+PEOPLE LOVE GAMBLING
+
+PEOPLE DON'T CARE ABOUT THE COINS, THEY JUST NEED OBJECTS OF SPECULATION AND FRAUDSTERS NEED OBJECTS OF MANIPULATION. TWO SIDED MARKET
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#
