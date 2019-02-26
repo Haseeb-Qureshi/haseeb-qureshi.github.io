@@ -177,30 +177,45 @@ On the other side of the market, penny stocks are a gift to hustlers and scammer
 ## An embarrassment of riches
 In ICOs, just as penny stocks, are a two-sided market. Investors don't care about the coins, they just want objects of speculation to get rich on. Fraudsters don't care about the coins either, they just want objects of manipulation to cheat others on. Everyone gets what they need, and so the market bustles with activity, and no one wants to be left out.
 
-Here's a telling [article published in 2000](https://www.sfgate.com/business/article/Internet-Makes-Stock-Scams-Easy-Pump-and-dump-2772185.php) Internet pump and dump schemes:
+Here's a telling [article published in 2000](https://www.sfgate.com/business/article/Internet-Makes-Stock-Scams-Easy-Pump-and-dump-2772185.php) on common Internet pump and dump schemes. Let's contrast it to ICOs.
 
 > Before the Net, these promoters hired squads of telemarketers to push their stocks on unsuspecting investors. Now, it's as easy as blasting out e-mail, or if they're industrious, maintaining a Web site.
 
-What's the ICO
+Now it's as easy as hiring an [ICO marketing agency](https://hackernoon.com/the-top-21-icomarketing-agencies-pr-firms-ab3d41e279c9), which will manage your Telegram chat, Subreddit, Medium account, and BitcoinTalk thread.
+
+Don't have an organic community? Worry not.
+
+![Buying Telegram group members](https://i.imgur.com/eUymVXC.png)
+
+![Buying Twitter followers](https://i.imgur.com/KldmpFj.png)
 
 > The current fashion is to announce the discovery of a new, inexpensive method of sending broadband signals over telephone lines at speeds far exceeding existing technologies.
+
+How about an IOT, quantum-resistant DAG protocol for supply chain management?
+
 > The promoters issue a constant stream of press releases chronicling development breakthroughs, marketing agreements and endorsements of the technology from qualified scientists.
-> Meanwhile, the stock is featured in free e-mail newsletters and on Web sites of services specializing in alerting investors to ground-floor, undiscovered opportunities to make a killing in the market.
-> Optimistic posts then begin appearing on Internet stock message boards, such as those maintained by Yahoo and Raging Bull. Because few have heard of the new company, the promoters plant messages on other heavily frequented boards -- Qualcomm's, for instance. These mention the new stock, tout its hot prospects and suggest that investors check it out.
-> If the promoters do a good job, and the market is strong, the stock price can soar from a few cents a share to $10, or in some cases, much more. Eventually, the share price collapses after the promoters sell out and quit pumping.
+
+Oh... it hurts.
+
+> Optimistic posts then begin appearing on Internet stock message boards, such as those maintained by Yahoo and Raging Bull. Because few have heard of the new company, the promoters plant messages on other heavily frequented boards.
+
+![BitcoinTalk pumping offer](https://cdn-images-1.medium.com/max/1000/1*3clYeCwJXzvgxi9ohxATgg.png)
 
 ![Pump and dump group](https://bitfalls.com/wp-content/uploads/2018/01/03-3.png)
 
+![Pumping chat](https://bitfalls.com/wp-content/uploads/2018/01/08-2.png)
 
-Airdrops, bounties, referral bonuses, early sales, presales, advisor shares,
+(many of these are drawn from [The Anatomy of a Pump & Dump Group](https://bitfalls.com/2018/01/12/anatomy-pump-dump-group/), a great little exposé)
 
+> If the promoters do a good job, and the market is strong, the stock price can soar from a few cents a share to $10, or in some cases, much more. Eventually, the share price collapses after the promoters sell out and quit pumping.
 
+![OAX/ETH pump and dump](https://bitfalls.com/wp-content/uploads/2018/01/11.png)
 
-PEOPLE LOVE GAMBLING
+You know the jig. Airdrops, bounties, referral bonuses, presales, advisor shares, so on and so forth. By the time the house of cards came crashing down, it was a well-oiled machine.
 
-PEOPLE DON'T CARE ABOUT THE COINS, THEY JUST NEED OBJECTS OF SPECULATION AND FRAUDSTERS NEED OBJECTS OF MANIPULATION. TWO SIDED MARKET
+And like each penny stock boom before it, it has ended in multiple regulatory actions against the worst offenders during the boom. But regulators can't reach everyone, and so many of the scammers go on unpunished.
 
-
+So what can we learn from this?
 
 
 
