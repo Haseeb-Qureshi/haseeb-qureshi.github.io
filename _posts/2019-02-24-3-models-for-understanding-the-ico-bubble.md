@@ -162,28 +162,26 @@ The legal designation of penny stocks began after the 1929 stock market crash th
 
 Throughout most of the 20th century, penny stock orders could only be placed via the phone. Offerings could not be legally placed in newspapers, and were mostly traded OTC. The highest quality penny stocks would provide only annual financial reporting—the very worst had none at all.
 
-But starting in the mid-90s with the growth of the Internet, penny stock trading exploded. Penny stock discount brokers emerged, able to offer an automated interface and much lower trading fees. As retail investors flooded in, market manipulation became rampant. Eventually, federal regulators would step in, and a string of [high profile cases](https://www.sec.gov/news/testimony/ts142000.htm) were brought against Mafia crime families that were involved in widespread penny stock manipulation schemes.  
+But starting in the mid-90s with the growth of the Internet, penny stock trading exploded. Penny stock discount brokers emerged, able to offer an automated interface and much lower trading fees. As retail investors flooded in, market manipulation became rampant. Eventually, federal regulators would step in, and a string of [high profile cases](https://www.sec.gov/news/testimony/ts142000.htm) were brought against Mafia crime families that were involved in widespread penny stock manipulation schemes.
 
-By 1989, a survey found that Americans had been cheated out of [at least $2B a year by fraudulent penny stock schemes](http://articles.latimes.com/1989-09-08/business/fi-1942_1_penny-stock).
+Penny stock trading has been brought back under control, but it's still extremely speculative, with rampant manipulation and little regulatory oversight.
 
 It's worth taking a breath here. Why are people so drawn to penny stocks in the first place, given how fraught they are?
 
-As a former professional poker player, I can tell you the answer is simple: people fucking love gambling. They always have and always will. Throughout history gambling has been stigmatized, regulated, and outlawed, but it always survives one way or another. People love the idea of turning around their fortunes, the rush of outsmarting the establishment. It hardly matters what the company does. Penny stocks prey on the same greedy credulity behind all get rich quick schemes.
+As a former professional poker player, I can tell you the answer is simple: people love gambling. They always have and always will. Throughout history gambling has been stigmatized, regulated, and outlawed, but it always survives one way or another. People love the idea of turning around their fortunes, the rush of outsmarting the establishment. It hardly matters what the company does. Penny stocks prey on the same greedy credulity behind all get rich quick schemes.
 
 ![Penny stocks banner](https://sykes-wpengine.netdna-ssl.com/images/banner-tim.jpg)
 
 On the other side of the market, penny stocks are a gift to hustlers and scammers. For those manipulating markets, they don't care what about the stocks represent—they simply need a company, a ticker, and a story. Greed will take care of the rest.
 
 ## An embarrassment of riches
-In ICOs, just as penny stocks, are a two-sided market. Investors don't care about the coins, they just want objects of speculation to get rich on. Fraudsters don't care about the coins either, they just want objects of manipulation to cheat others on. Everyone gets what they need, and so the market bustles with activity, and no one wants to be left out.
-
 Here's a telling [article published in 2000](https://www.sfgate.com/business/article/Internet-Makes-Stock-Scams-Easy-Pump-and-dump-2772185.php) on common Internet pump and dump schemes. Let's contrast it to ICOs.
 
 > Before the Net, these promoters hired squads of telemarketers to push their stocks on unsuspecting investors. Now, it's as easy as blasting out e-mail, or if they're industrious, maintaining a Web site.
 
 Now it's as easy as hiring an [ICO marketing agency](https://hackernoon.com/the-top-21-icomarketing-agencies-pr-firms-ab3d41e279c9), which will manage your Telegram chat, Subreddit, Medium account, and BitcoinTalk thread.
 
-Don't have an organic community? Worry not.
+Don't have a real community? No problem, buy a fake one.
 
 ![Buying Telegram group members](https://i.imgur.com/eUymVXC.png)
 
@@ -211,11 +209,86 @@ Oh... it hurts.
 
 ![OAX/ETH pump and dump](https://bitfalls.com/wp-content/uploads/2018/01/11.png)
 
-You know the jig. Airdrops, bounties, referral bonuses, presales, advisor shares, so on and so forth. By the time the house of cards came crashing down, it was a well-oiled machine.
+You know the jig. Airdrops, bounties, referral bonuses, presales, advisor shares, so on and so forth. By the time the house of cards came crashing down, this procedure was a well-oiled machine.
 
-And like each penny stock boom before it, it has ended in multiple regulatory actions against the worst offenders during the boom. But regulators can't reach everyone, and so many of the scammers go on unpunished.
+And like each penny stock boom before it, the ICO boom ended in multiple regulatory actions against the worst offenders. But regulators can't reach everyone, and so many of the pump and dumpers have gone on unpunished.
 
 So what can we learn from this?
+
+While Bitcoin and Ether appreciated significantly during the bubble, it's clear the bubble driven first by ICOs, and it was ICOs that drove the bubble's collapse. ICOs also reinforced the supremacy of Bitcoin and Ether as the reserve currencies of ICO investing and the gateway to most crypto-only exchanges, where the bulk of ICO traffic resided.
+
+Most of the long tail of ICOs (and the tail was very long) were complete nonsense. According to most trackers, the total number of ICOs was well into the thousands, and doubtless more if you count the ICOs that even they didn't bother counting.
+
+Penny stocks naturally attract hustlers and cons. By 1989, in the heyday of penny stocks, a survey found that Americans had been cheated out of [at least $2B a year by fraudulent penny stock schemes](http://articles.latimes.com/1989-09-08/business/fi-1942_1_penny-stock). The ICO bubble was no different. The SATIS group estimated in 2018 that [81% of ICOs were scams](https://www.investopedia.com/news/80-icos-are-scams-report/) and it's been widely reported that over [$9M was stolen per day in 2018](https://www.investopedia.com/news/beware-9m-are-lost-each-day-crypto-scams/) (annualized, that would be upwards of $3B a year).
+
+ICOs, just as penny stocks, are a two-sided market. Investors don't care about the coins, they just want objects of speculation to get rich on. Fraudsters don't care about the coins either, they just want objects of manipulation to cheat others on. Everyone gets what they need, and so the market bustles with activity, and no one wants to be left out.
+
+Despite the technological accoutrements, it's an old story.
+
+# III. The P2P Filesharing Boom
+
+Bitcoin shares deep roots with P2P filesharing networks. Bitcoin's gossip protocol model was inspired by Gnutella (the protocol behind Limewire). Many P2P barons have found their way into cryptocurrencies: Jed McCaleb of eDonkey, Zooko Wilcox of Mojo Nation, and Bram Cohen of BitTorrent to name a few.
+
+I imagine most of you lived through the P2P filesharing revolution first-hand, but it's worth briefly rehashing its history.
+
+The P2P filesharing revolution began with Napster in 1999, launched by Shawn Fanning and Sean Parker. At its peak in 2001, Napster possessed north of 25M simultaneous users.
+
+Napster would fall prey to numerous lawsuits, where it was deemed liable for its users' copyright infringement, despite the fact that Napster's servers did not themselves host the copyrighted content. This legal doctrine, known as *vicarious infringement*, was the death knell of Napster and of any filesharing-related business model. But it was only the beginning of P2P filesharing.
+
+The shutdown of Napster led to other, more resilient and decentralize services arising, intentionally designed around this legal constraint. Successors like Gnutella (Limewire) and eDonkey (eMule) would have decentralized architectures that would be much more difficult to take down.
+
+BitTorrent would arguably be the last protocol in this evolution. Founded by Bram Cohen in 2001, BitTorrent would be much more optimized for minimizing bandwidth and optimizing file availability. By 2012, BitTorrent peaked at a staggering [150M monthly active users](https://web.archive.org/web/20140326102305/http://www.bittorrent.com/intl/es/company/about/ces_2012_150m_users) (15% of the entire [Facebook userbase](https://www.theguardian.com/news/datablog/2014/feb/04/facebook-in-numbers-statistics) at that time). During its heyday, BitTorrent was by far the [largest source of Internet traffic in the world](https://www.webcitation.org/6OVSh9hZ0?url=http://www.ipoque.com/sites/default/files/mediafiles/documents/internet-study-2008-2009.pdf).
+
+Simon Morris, a former executive at the BitTorrent company, wrote an excellent [four-part tour de force](https://medium.com/@simonhmorris/why-bittorrent-mattered-bittorrent-lessons-for-crypto-1-of-4-fa3c6fcef488) analyzing the parallels between BitTorrent and crypto (if you can't be bothered to read the whole thing, I encourage you to read its final quarter). I'll be drawing upon many of his insights here.
+
+Simon Morris points out: BitTorrent was intentionally structured to differently from other P2P filesharing companies.
+
+The original home page of BitTorrent begins its [explanation of BitTorrent](http://www.bittorrent.org/introduction.html) as: "BitTorrent is a free speech tool." Compare this to KaZaA's advertising:
+
+![KaZaA advertising](https://i.imgur.com/O4pkz2j.png)
+
+Bram explicitly disavowed all illegal filesharing usage of BitTorrent. The core team and their messaging was unimpeachable, and this allowed BitTorrent to flourish on the back of all of its legitimate usage: Linux distros, World of Warcraft updates, dataset sharing, and the like. BitTorrent was not a revolution in internet piracy, it was a revolution in digital distribution. This stance made BitTorrent safely beyond the reach of the RIAA or any other aggrieved copyright holder.  
+
+The parallel with crypto is interesting: Vitalik and the Ethereum core team never endorsed the flood of ICOs, and often decried them. This is precisely what allowed Ethereum to flourish despite its subversion by ICOs for illegal and speculative purposes. Ethereum has been praised as a revolution in decentralized computing, "the world computer," despite its apparent status as the world's wildest penny stock exchange.
+
+Fast forward to today, and the story of P2P filesharing is the story of BitTorrent. All other protocols have been lost to history at this point. But BitTorrent is no longer used to music downloads in the western world.
+
+Why?
+
+The reason is simple: the media industry adapted. iTunes, Spotify, Apple Music, and other similar services have improved the experience 10x, such that it's no longer compelling to Torrent your music rather than just build your cross-device music library on Spotify's cloud.
+
+Simon Harris puts it eloquently:
+
+> Bittorrent was surely successful in this: it forced the media industry to think harder. In the light of the Bittorrent ecosystem, it simply wasn’t going to be possible to charge users to re-purchase all their music in MP3 format the same way they taxed users who wanted to transfer from vinyl to cassette to CD. In spite of ever more sophisticated copy protection technologies, ‘revenue protection’ service offerings and showcase trials and punishments, what actually happened as a result of this grand showdown between entrenched interests and technology wielded by the masses was not the victory of one side or the other, but the emergence of something totally different and radically better. In short, the whole concept of “the file” disappeared from sight and we watched the rebirth of old media in a new and better form (e.g. Spotify and Netflix) and the emergence of new media (e.g. YouTube and Instagram) all with experience-oriented value propositions and business models.
+
+It's much easier to consume music through streaming services now, and consumers are more than willing to pay a small subscription fee for the convenience. The UX has improved dramatically—by comparison, tracking down Torrents for individual albums seems unduly manual and laborious.
+
+(Note: most of the Torrenting today is film, which makes sense as it's splintered across many relatively high-cost subscription services: Netflix, HBO, Hulu, soon Disney, and many countries don't have licensing deals to have this content available on day 1. This will likely continue if not intensify–piracy services serve as a kind of price discrimination, where high value customers are willing to pay streaming services for on-demand, cross-device convenience, whereas poorer users self-select into online piracy. Because of the bandwidth-intensiveness of video torrenting, BitTorrent still comprises some [20% of all online upstream traffic](https://motherboard.vice.com/en_us/article/d3q45v/bittorrent-usage-increases-netflix-streaming-sites), which skews significantly higher in the poorest parts of the world.)
+
+Make no mistake: the internet piracy revolution moved industries. It forced them to improve their experience and cater to a digital-first world. Those who did have been passed the baton and get to build out their media empires, and those who did not are footnotes in corporate history.
+
+So what was P2P filesharing all about then? Was it that young people were rebelling against copyrights or intellectual property laws? Of course not—the filesharing revolution was not about ideology, and very few of its adherents today have an ideological commitment to piracy. It was simply that there was a rule in place: that music must be purchased in stores, in fusty old disc jackets for $10 a pop. You can't rip it, you can't manipulate it, you can't share it—it's not yours.
+
+People hated this rule. And so they broke it, and P2P protocols enabled this great, overwhelming mob of rulebreakers to express their desires.
+
+The market listened to them, responded, and now music acquisition is great. Internet pirates are now in their 30s, 40s, 50s, and many no longer remember the relationship they once had with downloaded media.
+
+The benefit of decentralized technology, then, is to allow the rules to be broken.
+
+Why did ICOs need to be decentralized? To Simon Morris, the answer is obvious—because ICOs were about breaking rules, the rules around capital formation.
+
+>Without this sort of rule-breaking (whether by accident or design) it’s quite hard to imagine why decentralized blockchain technology even matters. It’s a distributed data store with a complicated and slow update mechanism... The one value proposition that everyone seems to agree on for blockchain technologies is that they are ‘censor-proof’. And this matters only if you have something that someone wants to censor.
+
+Before the ICO bubble,
+
+
+**NOTE: ADD MORE ABOUT HOW THIS IS WHAT LED TO EVERYTHING BECOMING DECENTRALIZED! IT WAS PRIMARILY ITS NON-DECENTRALIZED NATURE THAT LED TO THEM BEING SHUT DOWN.**
+
+
+
+
+
+
 
 
 
