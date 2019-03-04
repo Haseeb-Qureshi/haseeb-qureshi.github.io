@@ -25,7 +25,7 @@ Most observers gawked at this collapse. To many
 
 # TALK ABOUT HOW THIS SEEMS UNPRECEDENTED, RIGHT? OF COURSE, NOT AT ALL.
 
-So how can we make sense of what happened? There are, I believe, 3 major historical models that explain the ICO bubble. The first and most obvious is the dotcom bubble. The second is the boom in penny stocks in the 90s. And the third is the advent of P2P filesharing in the late 2000s. I’ll examine each in turn, and demonstrate how different aspects of what happened in the ICO bubble call back to events in each of these historical precedents.
+So how can we make sense of what happened? There are, I believe, 3 major historical models that explain the ICO bubble. The first and most obvious is the dotcom bubble. The second is the boom in penny stocks in the 90s. And the third is the advent of P2P file sharing in the late 2000s. I’ll examine each in turn, and demonstrate how different aspects of what happened in the ICO bubble call back to events in each of these historical precedents.
 
 History does not repeat—but there are a few refrains it loves to come back to.
 
@@ -216,7 +216,7 @@ How about a "hyper-scalable" "quantum-resistant protocol" for "supply chain mana
 
 ![Pumping chat](https://bitfalls.com/wp-content/uploads/2018/01/08-2.png)
 
-(many of these are drawn from [The Anatomy of a Pump & Dump Group](https://bitfalls.com/2018/01/12/anatomy-pump-dump-group/))
+(many of these examples are drawn from [Anatomy of a Pump & Dump Group](https://bitfalls.com/2018/01/12/anatomy-pump-dump-group/))
 
 > If the promoters do a good job, and the market is strong, the stock price can soar from a few cents a share to $10, or in some cases, much more. Eventually, the share price collapses after the promoters sell out and quit pumping.
 
@@ -226,86 +226,100 @@ You know the jig. Airdrops, bounties, referral bonuses, presales, advisor shares
 
 Most of the long tail of ICOs—and that tail was very long—were complete nonsense. According to most trackers, the total number of ICOs was well into the thousands, and that's only counting those that were able to rise above the noise.
 
-And like each penny stock boom before it, the ICO boom ended in [multiple regulatory actions](https://www.virtualcurrencyreport.com/category/b-enforcement-actions/) against the worst offenders. But regulators can't reach everyone, and most of the pump and dumpers either escaped unpunished or continue to manipulate coins, albeit at smaller scales.
+And like each penny stock boom before it, the ICO boom ended in [multiple regulatory actions](https://www.virtualcurrencyreport.com/category/b-enforcement-actions/) against the worst offenders. But regulators can't reach everyone, and most of the pump and dumpers either moved on or continue to manipulate coins at smaller scales.
 
-By 1989, in the heyday of penny stocks, a survey found that Americans had been cheated out of [at least $2B a year by fraudulent penny stock schemes](http://articles.latimes.com/1989-09-08/business/fi-1942_1_penny-stock). The ICO bubble was no different. The SATIS group estimated in 2018 that [81% of ICOs were scams](https://www.investopedia.com/news/80-icos-are-scams-report/) and it's been widely reported that over [$9M was stolen per day in 2018](https://www.investopedia.com/news/beware-9m-are-lost-each-day-crypto-scams/) (annualized, that would be upwards of $3B a year).
+In 1989, the heyday of penny stocks, a survey found that Americans had been cheated out of [at least $2B a year](http://articles.latimes.com/1989-09-08/business/fi-1942_1_penny-stock) by fraudulent penny stock schemes. The ICO bubble was no different. The SATIS group estimated in 2018 that [81% of ICOs were scams](https://www.investopedia.com/news/80-icos-are-scams-report/) and it's been widely reported that over [$9M was stolen per day in 2018](https://www.investopedia.com/news/beware-9m-are-lost-each-day-crypto-scams/) (annualized, that would be upwards of $3B a year).
 
-## TITLE GOES HERE
-So what can we learn from this?
+## Who was the ICO boom for?
+ICOs, just as penny stocks, are a two-sided market. Investors don't care about the coins, they just want objects of speculation to get rich on. Fraudsters don't care about the coins either, they just want objects of manipulation to get rich on. Everyone gets what they need, the market bustles with activity, and almost everyone makes money—until they don't.
 
-While Bitcoin and Ether appreciated significantly during the bubble, it's clear the bubble was driven first by ICOs (evidenced by [Bitcoin's dominance ratio](https://coinmarketcap.com/charts/#dominance-percentage) falling from 85% before the boom to a low of 35%). It was also ICOs that drove the bubble's collapse. (Of course, ICOs still reinforced the supremacy of Bitcoin and Ether—they served as the reserve currencies of ICO investing and the gateway to most crypto-only exchanges.)
+Despite the technological novelty, it's an old story. The analogy with penny stocks smoothly explains a large part of the ICO bubble: the shitcoins, the scams, the unregistered securities, the market manipulation, and most of the long tail of the ICO bubble.
 
-ICOs, just as penny stocks, are a two-sided market. Investors don't care about the coins, they just want objects of speculation to get rich on. Fraudsters don't care about the coins either, they just want objects of manipulation to cheat others on. Everyone gets what they need, and so the market bustles with activity, and no one wants to be left out.
+Some might push back here that it was really the name brand cryptocurrencies—Bitcoin, Ether—that captured most of the value, not the long tail of ICOs. While it's true that Bitcoin appreciated significantly during the bubble, that was driven largely by being the reserve currency of ICOs and the gateway to crypto-only exchanges where speculation was occurring. It was also ICOs that ultimately drove the bubble's collapse, evidenced by [Bitcoin's dominance ratio](https://coinmarketcap.com/charts/#dominance-percentage) falling from 85% before the boom to a low of 33% in January 2018, when the most paper wealth had accumulated in altcoins.
 
-Despite the technological novelty, it's an old story. The analogy with penny stocks gladly explain a large part of the ICO bubble: the shitcoins, the scams, the unregistered securities, which ultimately explain a large part of the ICO bubble.
+But there's something about crypto that cannot be explained by analogy to Perez or penny stocks. And that is the revolutionary spirit behind cryptocurrencies. Any full explanation of crypto must capture its subversiveness and rejection of power structures.
 
-But there's something that these frameworks leave behind. If you only look at the financial aspects of crypto, you're missing something deep: the revolutionary aspects.
+It's commonly said that revolutions are good at state-breaking, not so much at state-making. Like most revolutions, crypto has been full of grievances and short on realistic solutions. In that, it took much inspiration from the P2P file sharing boom.
 
-It's commonly said that revolutions are good at state-breaking, not so much at state-making. Crypto is just fine with this. And in that, it took much inspiration from the P2P filesharing boom.
+# III. Peer-to-peer file sharing
 
-# III. The P2P Filesharing Boom
+Bitcoin shares deep roots with P2P file sharing networks. They were first world-scale decentralized networks. Bitcoin's gossip-based networking model was inspired by Gnutella (the protocol behind LimeWire). Many P2P barons have been foundational to the crypto movement: Jed McCaleb of eDonkey2000, Zooko Wilcox of Mojo Nation, and Bram Cohen of BitTorrent to name a few. Philosophically, they share a common lineage. Lawrence Lessig, the patron saint of the [culture of internet piracy](https://en.wikipedia.org/wiki/Free_Culture_(book)#Piracy), is the originator of the phrase ["code is law."](http://codev2.cc/download+remix/Lessig-Codev2.pdf)
 
-Bitcoin shares deep roots with P2P filesharing. They were first world-scale decentralized networks, and Bitcoin's gossip protocol model was inspired by Gnutella (the protocol behind Limewire). Many P2P barons have found their way into cryptocurrencies: Jed McCaleb of eDonkey, Zooko Wilcox of Mojo Nation, and Bram Cohen of BitTorrent to name a few. Indeed, one can hear the echo of P2P filesharing in the cryptocurrency revolution.
+There's more to this, so let's dig deeper.
 
-I imagine most of you lived through the P2P filesharing revolution first-hand, but it's worth briefly rehashing its history.
+I imagine most of you lived through the P2P file sharing revolution first-hand, but it's worth briefly rehashing the history.
 
-## The P2P Revolution
-The P2P filesharing revolution began with Napster in 1999, launched by Shawn Fanning and Sean Parker. It first took off on college campuses and eventually lit the world on fire. At its peak in 2001, Napster possessed north of 25M simultaneous users.
+## The P2P revolution
+The P2P file sharing revolution began with Napster in 1999, launched by Shawn Fanning and Sean Parker. Napster, unlike many of its successors, only allowed the sharing of MP3s, and as such primarily trafficked in popular music. It started as a viral internet service, clogging up bandwidth on college campuses. But soon, legal challenges from Metallica and Dr. Dre would thrust Napster into news headlines and the national conscience. It wasn't long before Napster took the world by storm. At its peak in 2001, Napster had more than 25M simultaneous users.
 
-Napster would fall prey to numerous lawsuits, where it was deemed liable for its users' copyright infringement, despite the fact that Napster's servers did not themselves host the copyrighted content. This legal doctrine, known as *vicarious infringement*, was the death knell of Napster and of any filesharing-related business model. But it was only the beginning of P2P filesharing.
+This was a direct threat to record labels. The RIAA began [filing lawsuits against file-sharing services](https://en.wikipedia.org/wiki/Trade_group_efforts_against_file_sharing#Litigation) in 1997, eventually culminating in a strategy of suing individual consumers. They hoped that this would create a chilling effect on file sharing, but it seemed to only do the opposite as record sales continued to decline from their 1999 peak.
 
-The lesson of Napster was obvious—despite all downloads being peer-to-peer, Napster operated a central server, primarily used for search indexing and peer discovery. This was its downfall. If the filesharing revolution were to continue, it would have to decentralize and become resilient to legal challenges.
+Napster ultimately flew too close to the sun, and the RIAA determined it had to make it an example. After a lengthy court case, a judge ruled Napster liable for all of its users' copyright infringement, despite the fact that Napster's servers did not themselves host the copyrighted content. This legal doctrine, known as *vicarious infringement*, was the death knell of Napster and of any file sharing-related business model. Napster was driven to bankruptcy and forced to clamp down on illegal file sharing. But it was only the beginning of this revolution.
 
-Decentralized alternatives began to arise, intentionally designed around this legal constraint. Successors like Gnutella (Limewire) and eDonkey (eMule) would have decentralized architectures that would be much more difficult to take down.
+To the revolutionaries, the lesson of Napster was obvious. Despite all its downloads being peer-to-peer, Napster operated a central server (primarily used for search indexing and peer discovery). This was its downfall. If the file sharing revolution were to continue, it would have to decentralize and become resilient to legal challenges. A centralized war had to evolve into guerrilla warfare.
 
-BitTorrent would arguably be the last protocol in this evolution. Founded by Bram Cohen in 2001, BitTorrent would be much more optimized for minimizing bandwidth and optimizing file availability. By 2012, BitTorrent peaked at a staggering [150M monthly active users](https://web.archive.org/web/20140326102305/http://www.bittorrent.com/intl/es/company/about/ces_2012_150m_users) (15% of the entire [Facebook userbase](https://www.theguardian.com/news/datablog/2014/feb/04/facebook-in-numbers-statistics) at that time). During its heyday, BitTorrent was by far the [largest source of Internet traffic in the world](https://www.webcitation.org/6OVSh9hZ0?url=http://www.ipoque.com/sites/default/files/mediafiles/documents/internet-study-2008-2009.pdf).
+Decentralized alternatives to Napster gradually arose, intentionally designed around this legal constraint. Successors like Gnutella (LimeWire) and eDonkey2000 (eMule) would have decentralized architectures that would be much more difficult to take down.
+
+BitTorrent would arguably be the last protocol in this evolution. Founded by Bram Cohen in 2001, BitTorrent was much more optimized for bandwidth and file availability. By 2012, BitTorrent peaked at a staggering [150M monthly active users](https://web.archive.org/web/20140326102305/http://www.bittorrent.com/intl/es/company/about/ces_2012_150m_users) (15% of the entire [Facebook userbase](https://www.theguardian.com/news/datablog/2014/feb/04/facebook-in-numbers-statistics) at that time). During its peak, BitTorrent was by far the [single largest source of Internet traffic in the world](https://www.webcitation.org/6OVSh9hZ0?url=http://www.ipoque.com/sites/default/files/mediafiles/documents/internet-study-2008-2009.pdf).
 
 Why did BitTorrent succeed where others failed?
 
-Simon Morris, a former executive at the BitTorrent company, wrote an excellent [four-part tour de force](https://medium.com/@simonhmorris/why-bittorrent-mattered-bittorrent-lessons-for-crypto-1-of-4-fa3c6fcef488) analyzing the parallels between BitTorrent and crypto (if you can't be bothered to read the whole thing, I encourage you to read its final quarter). I'll be drawing upon many of his insights here.
+## Freedom from rules
+Simon Morris, a former executive at the BitTorrent company, wrote an excellent [four-part tour de force](https://medium.com/@simonhmorris/why-bittorrent-mattered-bittorrent-lessons-for-crypto-1-of-4-fa3c6fcef488) analyzing the parallels between BitTorrent and crypto (if you can't be bothered to read the whole thing, I encourage you to read its final chapter). I'll be building upon many of his insights here.
 
-Simon Morris points out: BitTorrent was intentionally structured to differently from other P2P filesharing companies.
+Simon Morris points out: BitTorrent was intentionally structured to differently from other P2P file sharing companies.
 
-The original home page of BitTorrent begins its [explanation of BitTorrent](http://www.bittorrent.org/introduction.html) as: "BitTorrent is a free speech tool." Compare this to KaZaA's advertising:
+The original home page of BitTorrent begins its [explanation of BitTorrent](http://www.bittorrent.org/introduction.html) like this:
 
+> BitTorrent is a free speech tool. BitTorrent gives you the same freedom to publish previously enjoyed by only a select few with special equipment and lots of money. ("Freedom of the press is limited to those who own one" — journalist A.J. Liebling.)
+
+It is a surprisingly dry, philosophical manifesto.
+
+Compare this to KaZaA's credo:
 ![KaZaA advertising](https://i.imgur.com/O4pkz2j.png)
 
-Bram Cohen explicitly disavowed all illegal filesharing usage of BitTorrent. The core team and their messaging was unimpeachable, and this allowed BitTorrent to flourish on the back of all of its legitimate usage: Linux distros, World of Warcraft updates, dataset sharing, and so on. BitTorrent was not positioned as a revolution in internet piracy, it was a revolution in digital distribution models. This stance made BitTorrent safely beyond the reach of the RIAA or any other aggrieved copyright holder.  
+Bram Cohen explicitly disavowed all illegal file sharing usage of BitTorrent. Bram never once acknowledged this as a legitimate use of the service. The core team and their messaging was unimpeachable. And this is precisely what allowed BitTorrent to flourish on the back of all of its legitimate usage: Linux distros, World of Warcraft updates, dataset sharing, and so on.
 
-The parallel with crypto is interesting: Vitalik and the Ethereum core team never endorsed the flood of ICOs, and often decried them. This is precisely what allowed Ethereum to flourish despite its subversion by ICOs for speculative and illegal purposes. Ethereum has been praised as a revolution in decentralized computing, "the world computer," despite its apparent status as the world's wildest penny stock exchange.
+BitTorrent was never supposed to be a revolution in internet piracy, it was supposed to be a revolution in digital file distribution. This unobjectionable positioning made BitTorrent safely beyond the reach of the RIAA or any other aggrieved copyright holder.  
 
-Fast forward to today, and the story of P2P filesharing is the story of BitTorrent. All other protocols have been lost to history at this point. But BitTorrent is no longer used for downloading music in the western world.
+(The parallel with crypto is interesting: Vitalik and the Ethereum core team never endorsed the flood of ICOs—they [often decried them](https://www.investopedia.com/news/ethereum-founder-cautions-ico-bubble-vitalek-buterin/). This is precisely what allowed Ethereum to flourish, despite being subverted by ICOs for speculative and illegal purposes. Ethereum has been praised as a revolution in decentralized computing, "the world computer," and yet is brazenly operating the world's wildest penny stock exchange.)
 
-Why?
+If you fast forward to today, and the story of P2P file sharing is the story of BitTorrent. All other protocols have faded into obscurity. But BitTorrent is no longer used for downloading music in the western world.
 
-The reason is simple: iTunes, Spotify, Apple Music, and other services adapted. They dramatically transformed the experience of discovering and downloading music on-demand. It's no longer compelling to Torrent your music rather than just build your cross-device music library on Spotify's cloud.
+Why not?
 
-Simon Harris puts it eloquently:
+The reason is simple: iTunes, Spotify, Apple Music, etc. Newcomers in the music industry have adapted, and these services transformed the experience of discovering and listening to music. P2P file sharing once competed with the experience of driving to Walmart and buying a [$20 DRM-protected CD](https://en.wikipedia.org/wiki/Sony_BMG_copy_protection_rootkit_scandal) to listen to a single hit radio song. Now, file sharing is competing with a one-click cross-device music library on Spotify's cloud, completely free (if ad-supported).
+
+Daniel Ek, the founder of Spotify was also the former CEO of uTorrent, so he knew this first-hand. He came up with the idea for Spotify after Napster collapsed, seeing KaZaA rising to fill the void in 2002. He reflected:
+
+> I realised that you can never legislate away from piracy. Laws can definitely help, but it doesn't take away the problem. The only way to solve the problem was to create a service that was better than piracy and at the same time compensates the music industry – that gave us Spotify.
+
+The industry was forced to evolve, and file sharing revolutionaries drove the change in more ways than one. Simon Harris captures this eloquently:
 
 > Bittorrent was surely successful in this: it forced the media industry to think harder. In the light of the Bittorrent ecosystem, it simply wasn’t going to be possible to charge users to re-purchase all their music in MP3 format the same way they taxed users who wanted to transfer from vinyl to cassette to CD. In spite of ever more sophisticated copy protection technologies, ‘revenue protection’ service offerings and showcase trials and punishments, what actually happened as a result of this grand showdown between entrenched interests and technology wielded by the masses was not the victory of one side or the other, but the emergence of something totally different and radically better. In short, the whole concept of “the file” disappeared from sight and we watched the rebirth of old media in a new and better form (e.g. Spotify and Netflix) and the emergence of new media (e.g. YouTube and Instagram) all with experience-oriented value propositions and business models.
 
-It's much easier to consume music through streaming services now, and consumers are more than willing to pay a small subscription fee for the convenience. By comparison, tracking down Torrents for individual albums seems unduly manual and laborious.
+Consumers are now more than willing to pay a small subscription fee for the convenience of modern streaming services. By comparison, tracking down legitimate Torrents for individual albums seems unduly manual and laborious.
 
-(Note: most of the Torrenting today is video, which makes sense—video is splintered across many relatively high-cost subscription services: Netflix, HBO, Hulu, soon Disney. Many countries don't have licensing deals to have this content available on day 1. This will likely continue if not intensify. And yet, content producers don't care as much as they used to, for a good reason: digital piracy serve as a kind of price discrimination. High value consumers are willing to pay streaming services for on-demand, cross-device convenience, whereas poorer users self-select into online piracy, and likely wouldn't be paying consumers at the higher price point anyway. Because of the bandwidth-intensiveness of video torrenting, BitTorrent still comprises some [20% of all online upstream traffic](https://motherboard.vice.com/en_us/article/d3q45v/bittorrent-usage-increases-netflix-streaming-sites), which skews significantly higher in the poorest parts of the world.)
+(Side note: most of the Torrenting today is video, which makes sense. Video is splintered across many relatively high-cost subscription services: Netflix, HBO, Hulu, soon Disney. Many countries don't have licensing deals to have this content available on day 1, so Torrenting is the only way to get simultaneous access with others across the Internet and take part in social media revelry. And yet, content producers don't care about this as much as they did for music, for good reason: digital piracy serves as a kind of price discrimination. Wealthier consumers are willing to pay streaming services for on-demand, cross-device convenience. Poorer users self-select into online piracy—they still evangelize the shows, but likely wouldn't be paying consumers at the higher price point anyway. We see the [same phenomenon](https://arstechnica.com/gaming/2017/09/eu-study-finds-piracy-doesnt-hurt-game-sales-may-actually-help/) with gaming. Because of the bandwidth-intensiveness of video torrenting, BitTorrent still comprises some [20% of all online upstream traffic](https://motherboard.vice.com/en_us/article/d3q45v/bittorrent-usage-increases-netflix-streaming-sites), which skews significantly higher in the poorest parts of the world.)
 
-Make no mistake: the digital piracy revolution moved industries. It forced them to improve their experience and cater to a digital-first world. Those who didn't are now footnotes in history, and those who did get to build out the media empires of this decade.
+Make no mistake: the digital piracy revolution moved industries. It forced them to improve their experience and cater to a digital-first world. The companies who didn't are now footnotes in history, and those who did will build the media dynasties of this decade.
 
-## The lesson of P2P filesharing
-So what's the lesson to take away from P2P filesharing? Was it that young people were rebelling against copyrights or intellectual property laws? Should we take its ideologues, like the [Swedish Pirate Party](https://en.wikipedia.org/wiki/Pirate_Party_(Sweden)), at their word?
+## The lesson of P2P file sharing
+P2P file sharing is now a niche activity, irrelevant to most industries. So what should we take away from it? Is the story that young people rebelled against copyright and intellectual property laws? Should we take its ideologues, like the [Swedish Pirate Party](https://en.wikipedia.org/wiki/Pirate_Party_(Sweden)), at their word?
 
-Of course not—the filesharing revolution was not about ideology, and very few of its adherents still have an ideological commitment to piracy today. It was simply that there was a rule in place: that music must be purchased in stores, in fusty old disc jackets for $10 a pop. You can't rip it, you can't manipulate it, you can't share it—it's not yours.
+Of course not—the file sharing revolution was not about ideology, and very few of its participants still have an ideological commitment to piracy today. It was simply that there was a rule in place: that all music must be purchased in approved stores, in antediluvian disc jackets for $20 a pop. You can't rip it, you can't manipulate it, you can't share it—it's not yours.
 
-People hated this rule. And so they broke it, and P2P protocols enabled this great, overwhelming mob of rulebreakers to express the way the world ought to be.
+People hated this rule. And so they broke it, and P2P protocols enabled this great, overwhelming mob of rulebreakers to express the way they thought music ought to work.
 
-The market listened to them, responded, and now the experience of music acquisition is great.
+Simon Morris claims that this was the principal raison d'être of decentralized technology. It allows the rules to be broken. And when a rule is resented widely enough, people will build the technology to break that rule, and that technology will spread.
 
-Simon Morris connects these dots: this was the principal power of decentralized technology. It allows the rules to be broken. And when a rule is widely enough hated, then people will build the technology to break that rule.
-
-Why did ICOs need to be decentralized? To Simon Morris, the answer is obvious—because ICOs were also about breaking rules: the rules around capital formation.
+Why did ICOs need to be decentralized? If I'm correct in analogizing most of them to penny stocks, why couldn't we have just had the same "ICO bubble" taking place via pink sheets? To Simon Morris, the answer is obvious—because ICOs were about breaking rules: the rules around capital formation.
 
 >Without this sort of rule-breaking (whether by accident or design) it’s quite hard to imagine why decentralized blockchain technology even matters. It’s a distributed data store with a complicated and slow update mechanism... The one value proposition that everyone seems to agree on for blockchain technologies is that they are ‘censor-proof’. And this matters only if you have something that someone wants to censor.
 
-Why do people want to break the rules around capital formation so badly? Why do they care so much about this? It's worth remembering, the ICO bubble was primarily driven by countries in Asia with high savings rate and income inequality—China, Japan, and Korea. As income inequality rises, as the global middle class sees shrinking wage growth, as overeducated young people around the world see shrinking opportunities, as cost diseases elevate the cost of living—the ICO bubble was a loud rattling of a cage.
+Why do people want to break the rules around capital formation so badly? Why do they care so much about this? It's worth remembering, the ICO bubble was primarily driven by countries in Asia with high savings rate and income inequality—China, Japan, and Korea.
+
+Over the last decade, we've seen income inequality rising, declines in wage growth for the global middle class, cost diseases elevating the costs of living, and a mass of overeducated young people around the world with shrinking opportunities. The ICO bubble was a loud rattling of this cage.
 
 Because while the world's most massive wealth creation events have taken place over the last decade, you didn't get any. You can't invest into the high-growth startups that the media keeps tittering on about. The new wave of technology that has subjugated your digital life and attention span: its fruits all belong to other people, the nerds in Silicon Valley, not you. As the New York Times put it: everyone is getting hilariously rich and you're not.
 
@@ -318,7 +332,7 @@ And so they did. They invested, they ran everything up, they speculated and join
 And of course, reality trailed behind them, slowly lumbering closer and closer. And when reality finally caught up, it showed them the consequences of breaking those rules. As 2018 brought everything crashing down, the floodgates were bared open for scams and widespread market manipulation. Once again, crypto was forced to relearn the lessons that traditional finance had long ago internalized.
 
 ## Why it mattered
-Today, with the dust having settled and the ICO bubble now an awkward memory, we can reexamine its battle cries with more clarity. Did people really care about <RULES AROUND CAPITAL FORMATION>? It's hard to know. I don't see those folks still clamoring for it today in 2019. It doesn't seem to have had that effect.
+Today, with the dust having settled and the ICO bubble now an awkward memory, we can reexamine its battle cries with more clarity. Did people really care about accredited investor laws, onerous disclosures and AML/KYC requirements? Many commentators [rallied](https://messari.substack.com/p/securities-law-and-crypto-unqualified) [against](https://vinnylingham.com/democratizing-crypto-investing-133f3108ecb6) [them](http://averagejoecrypto.com/crypto-accredited-investors-fix-rules/) during the run-up, but this too was probably just part of the paradigm of Frenzy. I don't see much clamoring for this in 2019.
 
 It seems more likely that the longer-lasting wake of the ICO bubble are the ripples of income inequality, our technological uncertainty and malaise, the lack of social mobility, and the deep desire for the world to change and improve faster.
 
