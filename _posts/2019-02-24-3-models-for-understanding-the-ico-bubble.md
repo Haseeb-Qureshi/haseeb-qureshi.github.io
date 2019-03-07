@@ -29,10 +29,17 @@ There are, I believe, 3 major historical precedents that explain the ICO bubble.
 
 History does not repeat—but there are a few refrains it loves to come back to.
 
-### LEAD WITH FILESHARING, PUT TECHNOLOGICAL BUBBLES LAST. FOR LAST ONE, ANNOUNCE THAT YOU'RE GOING TO GET A LITTLE ACADEMIC.
+### We can't talk about the dot com bubble without talking about Carlota Perez.
 ### ADD MORE HISTORICITY TO THE DOTCOM BUBBLE
+### Conclusion: the ICO bubble is something that happened TO crypto. What crypto accomplishes on its own in separate. Bubbles are ideas laden on top of technologies, but those technologies evolve in separate ways. There remains a glimmer of what is seen in the final vision.
+
 ### END ON OPTIMISM ABOUT DEPLOYMENT PHASE COMING!!! WHOOHOOO!!!!
 ### EACH PHASE SHOULD EXPLAIN _WHY_ DID THEY ALLOW ICOS TO FLOURISH. FOR PENNY STOCKS, IT WAS AS A THING TO SPECULATE ON AND RECREATE THE SAME DYNAMIC WITHOUT REGULATION.
+
+
+### COMPARE THE DOT COM BUBBLE AS WELL WHEN TALKING ABOUT CARLOTA PEREZ!
+
+
 
 # I. The file sharing revolution
 
@@ -47,13 +54,13 @@ It sounds simple, but it's hard to describe how large of a paradigm shift Napste
 
 ![Napster interface](https://regmedia.co.uk/2011/10/06/napster.gif)
 
-Remember what it was like to purchase music in 1999: standing in a CD aisle, surrounded by rows of by disc jackets, debating in your head which album to spend your $20 on. J-Lo? Smashmouth? Or maybe Jay-Z? To participate in pop culture, you must take sides. Every purchase is a careful tradeoff. Music is scarce and precious.
+Remember what it was like to purchase music in 1999: standing in a CD aisle, surrounded by rows of disc jackets, debating in your head which album to spend your $20 on. J-Lo? Smashmouth? Or maybe Jay-Z? To participate in pop culture, you must take sides. Every purchase is a careful tradeoff. Music is scarce and precious.
 
 But Napster changed all that. It was as though the bank vault of music was propped open, free for plundering. Napster spread like a riot, clogging up bandwidth across college campuses. Young people couldn't get enough of it.
 
 It wouldn't be long before Napster was thrust into news headlines thanks to legal challenges from Metallica and Dr. Dre. The [Streisand effect](https://en.wikipedia.org/wiki/Streisand_effect) struck, and Napster seized the national conscience. At its peak in 2001, the service had more than [80M registered users](https://www.lifewire.com/history-of-napster-2438592).
 
-Record labels knew their business models were directly threatened by file sharing. The RIAA mobilized and [filed numerous lawsuits against file sharing services beginning in 1997](https://en.wikipedia.org/wiki/Trade_group_efforts_against_file_sharing#Litigation), eventually culminating in a strategy of suing individual consumers. They hoped these tactics would create a chilling effect on file sharing, but record sales continued to decline after 1999. They didn't know it at the time, but this was the turning point after which the music-industrial complex would never recover.
+Record labels knew their business models were directly threatened by file sharing. The RIAA mobilized and [filed numerous lawsuits against file sharing services beginning in 1997](https://en.wikipedia.org/wiki/Trade_group_efforts_against_file_sharing#Litigation), eventually culminating in a strategy of suing individual consumers. They hoped these tactics would create a chilling effect on file sharing, but record sales continued to decline after 1999. They didn't know it yet, but this was the turning point after which the music-industrial complex would never recover.
 
 Ultimately, the RIAA decided that Napster had to be made an example. After a lengthy court case, a judge ruled Napster liable for all of its users' copyright infringement, despite the fact that Napster's servers did not host any copyrighted content. This legal doctrine, known as [*vicarious infringement*](https://en.wikipedia.org/wiki/A%26M_Records,_Inc._v._Napster,_Inc.#Vicarious_infringement), was the death knell of Napster and of any file sharing-based business model. Napster was driven to bankruptcy and forced to clamp down on all illegal file sharing. But Napster's defeat only spelled the beginning of this revolution.
 
@@ -63,9 +70,9 @@ A traditional war had to evolve into guerrilla warfare.
 
 Decentralized alternatives to Napster gradually arose, intentionally designed around this legal constraint. Successors like Gnutella (LimeWire) and eDonkey2000 (eMule) would have decentralized architectures that would be much more difficult to take down.
 
-As the children of Napster proliferated, a philosophy began to solidify around internet piracy. Slogans materialized: "information wants to be free," "open culture," "sharing is caring." A new political party called [The Pirate Party](https://en.wikipedia.org/wiki/Pirate_Parties_International) was formed, championing online freedom and copyright reform, winning multiple political appointments across Europe. Radical innovations in intellectual property were explored such as [Creative Commons](https://en.wikipedia.org/wiki/Creative_Commons) and [copyleft](https://en.wikipedia.org/wiki/Copyleft) licensing. It seemed the revolution could not be stopped.
+As the children of Napster proliferated, a philosophy began to solidify around internet piracy. Slogans materialized: "information wants to be free," "open culture," "sharing is caring." A new political party called [The Pirate Party](https://en.wikipedia.org/wiki/Pirate_Parties_International) was formed, championing online freedom and copyright reform, winning multiple political appointments across Europe. Radical innovations in intellectual property were explored such as the [Creative Commons](https://en.wikipedia.org/wiki/Creative_Commons) and [copyleft](https://en.wikipedia.org/wiki/Copyleft) licensing. It seemed the revolution could not be stopped.
 
-BitTorrent, founded by Bram Cohen in 2001, would arguably be the last stage in the evolution of P2P file sharing. The BitTorrent protocol overtook KaZaA, eMule, Limewire, SoulSeek, and all the other P2P networks. By 2012, BitTorrent peaked at a staggering [150M monthly active users](https://web.archive.org/web/20140326102305/http://www.bittorrent.com/intl/es/company/about/ces_2012_150m_users) (15% of the entire [Facebook userbase](https://www.theguardian.com/news/datablog/2014/feb/04/facebook-in-numbers-statistics) at that time). During its peak, BitTorrent was by far the [single largest source of internet traffic in the world](https://www.webcitation.org/6OVSh9hZ0?url=http://www.ipoque.com/sites/default/files/mediafiles/documents/internet-study-2008-2009.pdf).
+BitTorrent, founded by Bram Cohen in 2001, would arguably be the last stage in the evolution of P2P file sharing. The BitTorrent protocol overtook KaZaA, eMule, Limewire, SoulSeek, and all the other P2P networks. By 2012, BitTorrent peaked at a staggering [150M monthly active users](https://web.archive.org/web/20140326102305/http://www.bittorrent.com/intl/es/company/about/ces_2012_150m_users), 15% of the entire [Facebook userbase](https://www.theguardian.com/news/datablog/2014/feb/04/facebook-in-numbers-statistics) at that time. During its peak, BitTorrent was by far the [single largest source of Internet traffic in the world](https://www.webcitation.org/6OVSh9hZ0?url=http://www.ipoque.com/sites/default/files/mediafiles/documents/internet-study-2008-2009.pdf).
 
 Of course, BitTorrent was playing in a competitive field. Why did BitTorrent succeed where others fell into irrelevance?
 
@@ -132,9 +139,9 @@ This begs the question: why do people want to break the rules around capital for
 
 The answer is complicated.
 
-Consider the initial conditions of the ICO bubble. The bubble was primarily driven by countries in Asia with high savings rate and income inequality—China, Japan, and Korea. Over the last decade, we've seen income inequality rising, declines in wage growth for the global middle class, cost diseases elevating the costs of living, and a mass of overeducated young people with shrinking opportunities. The ICO bubble was a loud rattling of this cage.
+Consider the initial conditions of the ICO bubble. The bubble was primarily driven by countries in Asia with high savings rates and income inequality—China, Japan, and Korea. Over the last decade, we've seen income inequality rising, declines in wage growth for the global middle class, cost diseases elevating the costs of living, and a mass of overeducated young people with shrinking opportunities. The ICO bubble was a loud rattling of this cage.
 
-The most massive wealth creation events in the world took place over the last decade—but it all went to other people. [You didn't get any](https://nypost.com/2019/01/29/most-americans-believe-the-economy-is-rigged-to-favor-the-rich-poll/). The new wave of startups that has subjugated your digital life and attention span: its fruits belong to the nerds in Silicon Valley, not you. As the New York Times put it: everyone is getting hilariously rich and you're not.
+The most massive wealth creation events in the world took place over the last decade—but it all went to other people. [*You* didn't get any](https://nypost.com/2019/01/29/most-americans-believe-the-economy-is-rigged-to-favor-the-rich-poll/). The new wave of startups that has subjugated your digital life and attention span: its fruits belong to the nerds in Silicon Valley, not you. As the New York Times put it: [Everyone is Getting Hilariously Rich and You're Not](https://www.nytimes.com/2018/01/13/style/bitcoin-millionaires.html).
 
 This leads people to wanting to break the rules. Why do only the elite of Silicon Valley, the Stanford programmers and MBAs get early access to all these world-changing companies—why not you?
 
@@ -148,15 +155,17 @@ The rules were not just broken, they were being replaced in real time.
 
 And of course, when reality finally caught up, it showed them the consequences of breaking those rules. As 2018 brought everything crashing down, they saw the open floodgates of scams, frauds, and widespread market manipulation.
 
-We must also acknowledge the other side of the market—entrepreneurs. In Silicon Valley raising venture money may be easier than it's ever been, but this is not so in the rest of the world. Most ICOs were dispersed around the world, and a similar story must have played out. Entrepreneurs asking themselves: technology is supposed to have leveled the playing field; in the age of the Internet, in the age of blockchain, what does it matter where I am or what university I went to?
+## REOWRK THIS PARAGRAPH
+
+But we must also acknowledge the other side of the market—entrepreneurs. In Silicon Valley raising venture money may be easier than it's ever been, but not in the rest of the world. ICOs were dispersed internationally, and a similar story must have played out. Entrepreneurs asking themselves: technology is supposed to have leveled the playing field; in the age of the Internet, in the age of blockchain, what does it matter where I am or what university I went to?
 
 ICOs promised a way forward. You didn't need to know someone at Sequoia to raise your ICO—you simply needed to build a better blockchain, and the world would beat a path to your door.
 
 Remember all the stories of VCs quaking in their Patagonia vests, worried that they were being displaced?
 
-Even among startups funded by Y Combinator, the hottest accelerator in the world, a startling number of them were pondering ICOs. They too disliked the rules around capital formation, the illiquidity of startup ownership. They wanted a way out, and speculators were all too pleased to provide them it.
+Even among startups funded by Y Combinator, the hottest accelerator in the world, a startling number of them were pondering ICOs. They too disliked the rules around capital formation, the illiquidity of startup ownership. They wanted a way out, and speculators were all too pleased to provide it to them.
 
-It was only in retrospect that they would each learn why these rules were there in the first place. Once again, crypto was forced to relearn the lessons that traditional finance had long ago internalized.
+It was only in retrospect that they would each realize why these rules were there in the first place. Once again, crypto would relearn the lessons that traditional finance had long ago internalized.
 
 # The revolution that cried wolf
 Today, with the dust having settled and the ICO bubble now an awkward memory, we can reexamine its battle cries with more clarity. Did people really care about reforming the rules around capital formation? Did they really care about democratizing investing access? Did they really care about accredited investor laws, financial disclosures and AML/KYC requirements?
@@ -169,9 +178,9 @@ So what does the file sharing revolution explain about the ICO bubble?
 
 First, that you should not take ideology at its word. The underlying causes of revolutions are usually less philosophical than they appear. Second, it's likely that much of the ICO bubble was caused by the ripples of income inequality, technocratic uncertainty and malaise, waning social mobility, the deep and unsatisfied desire for social rhetoric to catch up with reality.
 
-The world can always change faster than you think. But things also stay the same more than you think, if you wait long enough to get perspective.
+The world always changes faster than you think. But with perspective, you'll also realize it stays the same more than you think.
 
-But there's another side to what we saw in the ICO bubble—one which goes beyond the P2P file sharing revolution. For this, we turn to our second historical model: the penny stock boom of the 90s.
+But there's another, darker side to explaining the ICO bubble—as an enabler of fraud, manipulation, and gambling. For this, we turn to our second historical model: the penny stock boom of the 90s.
 
 # II. Penny stocks
 
@@ -181,7 +190,7 @@ Balaji Srinivasan once claimed that tokens would turn blockchains into the [worl
 
 The term "penny stock" evokes images of shady stockbrokers in boiler rooms, and for good reason. You'll remember Jordan Belfort, the protagonist of the 2013 film Wolf of Wall Street, made his fortune hustling as a penny stock broker.
 
-Penny stocks are defined differently in different countries, but in the US, a penny stock is a stock issued by a small company that trades below $5 a share (originally it was stocks that traded below $1, but you know, inflation and all). They are generally quoted [OTC](https://www.investopedia.com/terms/o/otc.asp) and seldom trade on national exchanges. They have low liquidity, little public information, and are not required to make significant financial disclosures.
+Penny stocks are defined differently in different countries, but in the US, a penny stock is a stock issued by a small company that trades below $5 a share (originally it was stocks that traded below $1, but inflation and all). They are generally quoted [OTC](https://www.investopedia.com/terms/o/otc.asp) and seldom trade on national exchanges. They have low liquidity, little public information, and are not required to make significant financial disclosures.
 
 As such, they are plagued with fraud.
 
@@ -192,9 +201,13 @@ Throughout most of the 20th century, penny stock orders could only be placed via
 
 But starting in the mid-90s with the growth of the Internet, penny stock trading exploded. Discount brokers emerged, offering automated interfaces and much lower trading fees. As retail investors flooded in, market manipulation became rampant. Eventually, federal regulators would step in, and a string of [high profile cases](https://www.sec.gov/news/testimony/ts142000.htm) were brought against Mafia crime families that perpetrated penny stock manipulation schemes.
 
-Penny stock trading has been brought back under stricter regulatory oversight, but it's still extremely speculative, and manipulation is common.
+Penny stock trading has been brought back under stricter regulatory oversight, but it's still extremely speculative, and manipulation is common. In 1989, the heyday of penny stocks, a survey found that Americans had been cheated out of [at least $2B a year](http://articles.latimes.com/1989-09-08/business/fi-1942_1_penny-stock) by fraudulent penny stock schemes.
 
-You might ask: why are people so drawn to penny stocks in the first place, given how fraught they are?
+There's an obvious parallel here with the ICO bubble.
+
+The SATIS group estimated that [81% of ICOs were scams](https://www.investopedia.com/news/80-icos-are-scams-report/) and it's been widely reported that over [$9M was stolen per day in 2018](https://www.investopedia.com/news/beware-9m-are-lost-each-day-crypto-scams/) (annualized, that would be upwards of $3B a year). By sheer number, the overwhelming majority of ICOs can be explained this way. But the parallel between ICOs and penny stocks runs deeper than just a propensity toward fraud.
+
+Let's take a step back here and ask: why are people so drawn to penny stocks in the first place, given how fraught they are?
 
 As a former professional poker player, I can tell you the answer is simple.
 
@@ -245,26 +258,77 @@ Most of the long tail of ICOs—and that tail was very long—were complete nons
 
 And like each penny stock boom before it, the ICO boom ended in [multiple regulatory actions](https://www.virtualcurrencyreport.com/category/b-enforcement-actions/) against the worst offenders. But regulators can't reach everyone, and most of the pump and dumpers either moved on or continue to manipulate coins at smaller scales.
 
-In 1989, the heyday of penny stocks, a survey found that Americans had been cheated out of [at least $2B a year](http://articles.latimes.com/1989-09-08/business/fi-1942_1_penny-stock) by fraudulent penny stock schemes. The ICO bubble was no different. The SATIS group estimated that [81% of ICOs were scams](https://www.investopedia.com/news/80-icos-are-scams-report/) and it's been widely reported that over [$9M was stolen per day in 2018](https://www.investopedia.com/news/beware-9m-are-lost-each-day-crypto-scams/) (annualized, that would be upwards of $3B a year). By sheer number, the overwhelming majority of ICOs can be explained this way.
-
 ## Who was the ICO boom for?
 ICOs, just as penny stocks, are a two-sided market. Investors don't care about the technology, they just want objects of speculation to get rich on. Fraudsters don't care about the technology either, they just want objects of manipulation to get rich on. Everyone gets what they need, the market bustles with activity, and everyone makes money—until they don't.
 
-Despite the technological accoutrements, it's an old story. So what do penny stocks explain about the ICO bubble? Penny stocks explain the shitcoins, the scams, the unregistered securities, the market manipulation, and most of the long tail of the ICO bubble.
+But despite the technological accoutrements, it's an old story. So what do penny stocks explain about the ICO bubble? Penny stocks explain the shitcoins, the scams, the unregistered securities, the market manipulation, and most of the long tail of the ICO bubble.
 
-(You might push back here that it was really the name brand cryptocurrencies like Bitcoin and Ether that captured most of the value, not the long tail of ICOs. While it's true that Bitcoin appreciated significantly during the bubble, that was driven largely by being the reserve currency of ICOs and the exchanges where speculation took place. It was also ICOs that ultimately drove the bubble's collapse, evidenced by [Bitcoin's dominance ratio](https://coinmarketcap.com/charts/#dominance-percentage) falling from 85% before the boom to a low of 33% in January 2018, and then back to 50% post-crash.)
+But I want to be careful here. For penny stock fraudsters, uncensorable blockchains were the optimal architecture for their line of business, and they were quick to co-opt the ICO and set up shop in this new boomtown. But the concept of an ICO didn't begin that way. The notion of an ICO arose from blockchain community crowdfunding, first pioneered by [Mastercoin](https://www.forbes.com/sites/laurashin/2017/09/21/heres-the-man-who-created-icos-and-this-is-the-new-token-hes-backing/#16058fb21183) in 2013, with [Augur](https://www.coinmama.com/guide/history-of-ethereum) being the first on Ethereum in 2015. Most of their investors were nerdy cypherpunks, excited to support new technology they could play with.
 
-# THIS PARA BELOW NEEDS TO BE REWORKED
+We should not conflate cryptocurrencies, the underlying technology, with the ICO bubble, which was a speculative phenomenon that converged atop it. **The ICO bubble was something that happened to crypto, not something intrinsic to it.**
 
-The P2P file sharing boom helps explain crypto's subversive rejection of power structures and its revolutionary animus. As for being a form of gambling and vector for fraud, penny stocks also explain much of the characteristics of ICOs. But there's an element that we're missing here, one that I've failed to address so far—the actual substance of technological innovation. After all, I don't believe for a second that everything in the ICO bubble was cynically stupid or a failure of creative power. To understand this, we must turn to the dot com bubble and its principal soothsayer, Carlota Perez.
+Most of the technologists and cypherpunks who built this stuff were simply motivated by building a new, parallel financial system. And they are still whittling away, even after the thundering herd have come and gone.
 
-# III. Technological Bubbles
+We've looked at crypto's revolutionary spirit and rejection of power structures through comparison with the P2P file sharing boom. We've also looked at it as a vector for fraud and gambling via comparison to penny stocks. But there's an element that we're missing here, and one that I've failed to address so far—the substance of technological innovation.
+
+## REWORK THIS PARAGRAPH
+
+After all, I don't believe for a second that everything going on in the crypto boom was completely made up or an excuse to defraud people. The ICO bubble occurred atop a kindling of real technological innovation. To understand this, we must turn to the dot com bubble and its soothsayer, Carlota Perez.
+
+# III. Bubbles and technological revolutions
 
 > All bubbles are about greed… but some bubbles are also about the installation of technological revolutions. *– Carlota Perez*
 
-Carlota Perez is the patron saint of venture capitalists. Her seminal work, [*Technological Revolutions and Financial Capital*](https://www.amazon.com/Technological-Revolutions-Financial-Capital-Dynamics/dp/1843763311) has been been cited by [Marc Andreessen](http://fortune.com/2014/02/13/marc-andreessen-tech-is-recovering-from-a-depression/) and [Fred Wilson](https://avc.com/2015/02/the-carlota-perez-framework/) as central to their understanding of the tech industry.
+Though the earliest precursors to the Internet date back to research projects in the 60s and 70s, the World Wide Web—the Internet as most people know it—was invented in 1989 by Tim Berners-Lee. Its genesis was the spark that set off the Information Age, and with it, the greatest asset bubble of this generation.
 
-I won’t do her book justice here, but I’ll attempt to summarize the key ideas that are relevant to crypto. I’ll be quoting heavily from Carlota herself—as you read, if you're anything like me, you'll cringe at the parallels.
+![Netscape Navigator](https://images.techhive.com/images/article/2014/10/slide-3-100522661-gallery.idge.gif)
+
+Compared to technologies before it, the Web evolved quickly. The first non-CERN browser was released in 1991 (at this point, the Internet had [1% penetration in the US](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=US)). The Mosaic browser was released in 1993 (2% penetration). Netscape Navigator followed in 1995 (9% penetration). By 1997 Netscape was dominating the web with over [60% market share](https://en.wikipedia.org/wiki/Netscape_Navigator) (22% penetration). By the time to bubble is in full force in 1999, 36% of the US had adopted the Internet.
+
+The rapid rise of the Web, combined with low interest rates and the Clinton tax cuts of 1997, led to an incredible enthusiasm around the growth potential of the Internet. Venture capital became cheap, and entrepreneurs flocked to Silicon Valley. It was the hotbed of a new technological opportunism.
+
+Netscape kicked off the age, IPOing for [$2.9B in 1995](https://en.wikipedia.org/wiki/Netscape). It was somewhat unusual for an IPO to be so successful given the company was not profitable, but Netscape's revenues were growing so rapidly that this would soon be forgotten. Netscape brandished advertisements: "the net is for everyone," and markets agreed.
+
+![Marc Andreessen Time Magazine Cover](https://i.imgur.com/uVZXZ8h.jpg)
+
+The Netscape IPO would soon be followed in 1996 by Yahoo!, Excite, and Lycos, all fantastically successful IPOs by companies that were also burning cash.
+
+This fomented an all-out frenzy. Investors pulled money out of slower-growth companies to plow more capital into dot coms. It was observed that any company, [so long as it had a ".com" in the name](https://www.investopedia.com/terms/d/dotcom-bubble.asp), attracted huge valuations. Retail investors, on the heels of a flaring economy and having recently received tax rebates, piled into fast-growing tech companies. The Internet itself became the interface for many investors, through platforms like E-Trade (which also IPOed in 1996). Stories ran in Time Magazine of white collar professionals [quitting their jobs to daytrade tech stocks full-time](http://content.time.com/time/magazine/article/0,9171,991726,00.html).
+
+In just five years, the NASDAQ had risen more than 400%. In 1999 alone, Qualcomm [26X'd its stock price](https://www.nytimes.com/2000/01/03/business/the-year-in-the-markets-1999-extraordinary-winners-and-more-losers.html). Analysts stopped considering P/E ratios and waxed poetic about Metcalfe's Law. A WSJ article from 1999 posed the question: are profits just a "[quaint concept](https://www.wsj.com/articles/SB9270768713268007)" that doesn't matter anymore? The Super Bowl in January of 2000 featured no fewer than [16 dot com commercials]((https://en.wikipedia.org/wiki/Dot-com_commercials_during_Super_Bowl_XXXIV)).
+
+Traditional value stocks suffered. Many legendary East Coast value investors, such as Julian Robertson of Tiger Management, couldn't hold on against the irrational exuberance. Shuttering his legendary hedge fund in 2000, [he lamented]((https://money.cnn.com/2000/03/30/mutualfunds/q_funds_tiger/)):
+
+> In a rational environment, [value investing] functions well. But in an irrational market, where earnings and price considerations take a back seat to mouse clicks and momentum, such logic, as we have learned, does not count for much.
+
+Meanwhile, back in California, companies like Pets.com were going from incorporation to IPO [in a single year](https://en.wikipedia.org/wiki/Pets.com). At the height of the bubble, almost every single IPO popped, with an average of [68% first-day gains](https://money.cnn.com/1999/12/27/investing/century_ipos/). Investing in tech IPOs was widely agreed to be a foolproof way to multiply your money. A phenomenon of [dot com parties]((https://www.salon.com/2000/04/25/party_5/)) spread across the valley, and those close to founders often received "friends and family" shares as tokens of generosity.
+
+It was a time of excess. They were ushering in a new world, a technocracy. And for once the nerds were its leaders—and beneficiaries.
+
+But the end was in sight.
+
+By March 10 of 2000, the NASDAQ would hit its peak. The first sign of weakness was on April 14, likely triggered by a tax selloff for the previous year's gains. By the end of that week, the NASDAQ tumbled a staggering 25%.
+
+Soon, dot coms realized that their burn rates were unsustainable. The Fed announced plans to aggressively raise interest rates, and the economy would see six such tightenings over the next several months. Capital began to waver.
+
+By May 18th, Boo.com went bust. In November, Pets.com followed. A few months later, Webvan shuttered operations. By the end of 2001, after the September 11 attacks, most publicly traded dot coms had folded, and along with them, trillions of dollars of investment capital evaporated.
+
+![NASDAQ Composite Index](https://i.imgur.com/cnT4NQJ.png)
+
+The recession would last two more years, until 2003 when the economy would finally recover. In 2004, the first major post-crash dot com company, Google, would IPO again. Its first day pop was 18%.
+
+Of course, Google is now one of the most important companies on the planet. The technology was clearly leading somewhere—the Internet would completely change the world—but the dot com bubble seemed to have veered off somewhere terribly wrong.
+
+What happened? And why did it happen?
+
+## Technological Revolutions
+We can't begin to explain the dot com bubble before talking about Carlota Perez.
+
+Carlota Perez is the patron saint of venture capitalists. Her seminal work, [*Technological Revolutions and Financial Capital*](https://www.amazon.com/Technological-Revolutions-Financial-Capital-Dynamics/dp/1843763311) has been been cited by [Marc Andreessen](http://fortune.com/2014/02/13/marc-andreessen-tech-is-recovering-from-a-depression/) and [Fred Wilson](https://avc.com/2015/02/the-carlota-perez-framework/) as pivotal to their understanding of the tech industry.
+
+I won’t do her book justice here, but I’ll attempt to summarize the key ideas that are relevant to both the dot com crash and the ICO bubble. I’ll be quoting heavily from Carlota herself.
+
+This part is going to get a little academic. Bear with me, and I promise the payoff will be worth it.
 
 ## Innovation moves in cycles
 Carlota Perez subscribes to the long wave economic cycle theory, known as [Kondratiev Waves](https://en.wikipedia.org/wiki/Kondratiev_wave), in which technological innovation occurs in 45-60 year waves.
@@ -280,7 +344,6 @@ According to Perez, these innovation waves consist of three phases:
 Installation is the period when a new technology is first explored, installed, and then speculated on. This speculation leads to an unsustainable asset bubble and a spectacular collapse. Then a more sober period of deployment takes place, during which the technology matures and sustainably alters many aspects of society. After a full deployment cycle has exhausted its economic growth, a new technology precipitates a new innovation wave, and the cycle begins anew.
 
 > There have been five technological revolutions in 240 years... Each of these revolutions drives a great surge of development and shapes growth for half a century or more.
-
 
 Each of these revolutions was kicked off by a seminal event that would catalyze the technology—the industrial revolution with Arkwright's Cromford mill, the steam and railway age with the Liverpool-Manchester Railway, the steel and heavy engineering age with Carnegie's Bessemer steel plant, the age of automobiles with Ford's assembly line, and the computer age with Intel's 4004 microprocessor.
 
@@ -395,7 +458,7 @@ CONCLUSION: bring down the volume a bit.
 
 But this bubble was not nearly as destabilizing—the dotcom bubble wiped out $5 trillion of value, and was more localized to the United States, whereas losses in the ICO bubble were absorbed across many more economies.
 
-
+(You might push back here that it was really the name brand cryptocurrencies like Bitcoin and Ether that captured most of the value during the bubble, not the long tail of ICOs. While it's true that Bitcoin appreciated significantly during the bubble, that was driven largely by being the reserve currency of ICOs and the exchanges where speculation took place. It was also ICOs that ultimately drove the bubble and its collapse, evidenced by [Bitcoin's dominance ratio](https://coinmarketcap.com/charts/#dominance-percentage) falling from 85% before the boom to a low of 33% in January 2018, and then recovering to only 50% post-crash.)
 
 
 

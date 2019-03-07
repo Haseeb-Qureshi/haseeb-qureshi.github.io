@@ -100,3 +100,44 @@ ALT TITLES:
   - https://www.barrons.com/articles/from-elizabeth-holmes-to-the-fyre-festival-we-love-to-hate-a-scam-51551374679?mod=RTA
     - This leads people to want to break these rules. And naturally, people learn the consequence of breaking those rules—a floodgate of scams, entrepreneurs working in bad faith, and widespread market manipulation. They relearn the lessons of traditional finance.
     - Are the cries for the legalization of crypto really about rules around capital formation? It's hard to know. I don't see that many people clamoring for it in 2019. It doesn't seem to have had that effect. It seems more plausible to me that the longer-lasting effects are around income inequality, this technological uncertainty, social mobility, and the deep desire for people to have more economic mobility than they have today.
+
+
+
+
+
+## Dot Com Boom
+
+* Mosaic browser was released in 1993, Netscape Navigator released in 1995, and by 1997 PC penetration was 35% of of American households. The consumer web had just been launched.
+
+* This combined with low interest rates and cheap venture capital, incentivized by the Clinton tax cuts of 1997.
+
+* Netscape kicked off the dot com bubble, IPOing for 2.9B. (https://en.wikipedia.org/wiki/Netscape). It was somewhat unusual for an IPO to be so successful given that the company was not profitable, but its revenues were growing so rapidly, that would soon be forgotten. Netscape waved their advertisements that "The net is for everyone," and this was soon agreed. Netscape would soon be followed by Yahoo!, Excite, and Lycos, all fantastically successful IPOs by companies that were burning cash.
+
+![Netscape Navigator](https://images.techhive.com/images/article/2014/10/slide-3-100522661-gallery.idge.gif)
+
+![Marc Andreessen Time Magazine Cover](https://i.imgur.com/uVZXZ8h.jpg)
+
+* The internet itself became the interface for many of these investors. And they were eager to do so with their tax rebates, in fact pulling money out of many slower-growth companies to do so.
+
+* Many legendary value investors, such as Julian Robertson of Tiger Management, could not understand the market exuberance. In his letter to investors as he closed down the fund, he lamented: "In a rational environment, [value investing] functions well. But in an irrational market, where earnings and price considerations take a back seat to mouse clicks and momentum, such logic, as we have learned, does not count for much."" (https://money.cnn.com/2000/03/30/mutualfunds/q_funds_tiger/)
+
+* Many stories of white collar professionals quitting their jobs to daytrade full-time. (http://content.time.com/time/magazine/article/0,9171,991726,00.html)
+
+* In just five years, the NASDAQ rose more than 400%. The logic of frenzy had taken over.
+
+* A famous WSJ article from 1999 poses the question: are profits just a "quaint concept" that don't matter anymore? A technocracy was arriving, and in this world value would not be defined by P/E ratios but by Metcalfe's Law.
+
+* The Super Bowl in January of 2000 featured no fewer than 16 dot com commercials. (https://en.wikipedia.org/wiki/Dot-com_commercials_during_Super_Bowl_XXXIV)
+
+* Companies went from incorporation to IPO in a single year, like Pets.com which raised $82.5M in its IPO. (https://en.wikipedia.org/wiki/Pets.com)
+
+
+* At the height of the bubble, almost every single IPO popped, with an average of 68% first-day gains. (https://money.cnn.com/1999/12/27/investing/century_ipos/) Investing in tech IPOs seemed to be a foolproof way to multiply your money.
+
+![Biggest IPO pops](https://money.cnn.com/1999/12/27/investing/century_ipos/ipo.jpg)
+
+* The phenomenon of dot com parties spread across the Valley. (https://www.salon.com/2000/04/25/party_5/) It was a time of excess, of good fortune, of celebration.
+
+* But the end was in sight. By March 10, 2000, the NASDAQ would hit its peak. The first sign of a selloff was April 14, likely triggered by a tax selloff for the previous year's gains. By the end of that week, the NASDAQ tumbled 25%. Soon, companies began to realize that their spend rates were unsustainable. The Fed announced plans to aggressively raise interest rates, and the economy would see six such hikes over the next several months.
+
+* By May 18, Boo.com went bust. In November, Pets.com followed. A few months later, Webvan closed up shop. By the end of 2001, after the September 11 attacks, a majority of publicly traded dot coms had folded, and trillions of dollars of investment capital evaporated. The US would only emerge from this recession in 2003, two years later.
