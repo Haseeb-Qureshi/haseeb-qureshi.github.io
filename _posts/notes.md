@@ -113,9 +113,7 @@ ALT TITLES:
 
 * Netscape kicked off the dot com bubble, IPOing for 2.9B. (https://en.wikipedia.org/wiki/Netscape). It was somewhat unusual for an IPO to be so successful given that the company was not profitable, but its revenues were growing so rapidly, that would soon be forgotten. Netscape waved their advertisements that "The net is for everyone," and this was soon agreed. Netscape would soon be followed by Yahoo!, Excite, and Lycos, all fantastically successful IPOs by companies that were burning cash.
 
-![Netscape Navigator](https://images.techhive.com/images/article/2014/10/slide-3-100522661-gallery.idge.gif)
 
-![Marc Andreessen Time Magazine Cover](https://i.imgur.com/uVZXZ8h.jpg)
 
 * The internet itself became the interface for many of these investors. And they were eager to do so with their tax rebates, in fact pulling money out of many slower-growth companies to do so.
 
@@ -127,7 +125,7 @@ ALT TITLES:
 
 * A famous WSJ article from 1999 poses the question: are profits just a "quaint concept" that don't matter anymore? A technocracy was arriving, and in this world value would not be defined by P/E ratios but by Metcalfe's Law.
 
-* The Super Bowl in January of 2000 featured no fewer than 16 dot com commercials. (https://en.wikipedia.org/wiki/Dot-com_commercials_during_Super_Bowl_XXXIV)
+* The Super Bowl in January of 2000 featured no fewer than 16 dot com commercials.
 
 * Companies went from incorporation to IPO in a single year, like Pets.com which raised $82.5M in its IPO. (https://en.wikipedia.org/wiki/Pets.com)
 
