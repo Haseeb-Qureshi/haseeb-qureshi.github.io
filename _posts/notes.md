@@ -1,4 +1,16 @@
 
+## People to send to:
+* Rachel
+* ASKED SENT Simon Harris
+* ASKED SENT Nick Shalek from Ribbit
+* ASKED SENT Ali
+* ASKED SENT Jeff Meyerson
+* ASKED SENT Tony Sheng
+* ASKED YES Erik Torenberg
+* ASKED SENT Jesse Walden
+* ASKED SENT Salil
+* ASKED Alok
+
 ALT TITLES:
 # The 3 Historical Precedents for the ICO Bubble
 # The 3 Competing Frameworks that Explain the ICO Bubble
