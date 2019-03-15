@@ -53,7 +53,7 @@ Of course, history does not repeat. But there are a few refrains it loves to com
 **[A bubble from up close](#a-bubble-from-up-close)**
 # I. The file sharing revolution
 
-Bitcoin shares deep roots with the P2P networks. File sharing protocols became the first world-scale decentralized networks. Bitcoin's gossip-based networking model was inspired by Gnutella, the protocol behind LimeWire. Many P2P barons were foundational to the crypto movement: Jed McCaleb of eDonkey2000, Zooko Wilcox of Mojo Nation, and Bram Cohen of BitTorrent to name a few. They also share a philosophical lineage—Lawrence Lessig, the intellectual godfather of [piracy culture](https://en.wikipedia.org/wiki/Free_Culture_(book)#Piracy), is the originator of the phrase "[code is law](http://codev2.cc/download+remix/Lessig-Codev2.pdf)."
+Bitcoin shares deep roots with the P2P networks. File sharing protocols became the world's first global decentralized networks. Bitcoin's gossip-based networking model was inspired by Gnutella, the protocol behind LimeWire. Many P2P barons were foundational to the crypto movement: Jed McCaleb of eDonkey2000, Zooko Wilcox of Mojo Nation, and Bram Cohen of BitTorrent to name a few. They also share a philosophical lineage—Lawrence Lessig, the intellectual godfather of [piracy culture](https://en.wikipedia.org/wiki/Free_Culture_(book)#Piracy), is the originator of the phrase "[code is law](http://codev2.cc/download+remix/Lessig-Codev2.pdf)."
 
 The P2P file sharing revolution began in 1999, with a little application coded up by a college student. The application was called Napster. On its face, Napster was straightforward: log in, search for a song you want, double click, and it's yours.
 
