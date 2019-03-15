@@ -27,10 +27,30 @@ The second is the penny stock boom of the 90s, which explains the casino of shit
 
 And the third is the dotcom bubble, which explains the mass of speculators, the new paradigm of decentralized companies, the VC coins, and the redistribution of wealth.
 
-By exploring these episodes, I hope to show you how the ICO bubble recapitulates patterns from each of them.
+By exploring these episodes, I hope to show you how the ICO bubble recapitulated well-known patterns of human behavior.
 
-History does not repeat. But there are a few refrains it loves to come back to.
+Of course, history does not repeat. But there are a few refrains it loves to come back to.
 
+### Table of contents
+**[I. The file sharing revolution](#i-the-file-sharing-revolution)**
+  - [BitTorrent's power](#bittorrents-power)
+  - [The lesson of P2P file sharing](#the-lesson-of-p2p-file-sharing)
+  - [Every rebel wants a cause](#every-rebel-wants-a-cause)
+  - [The revolution that cried wolf](#the-revolution-that-cried-wolf)
+
+**[II. Penny stocks](#ii-penny-stocks)**
+  - [The history of penny stocks](#the-history-of-penny-stocks)
+  - [An embarrassment of riches](#an-embarrassment-of-riches)
+  - [So who was the ICO boom for?](#so-who-was-the-ico-boom-for)
+
+**[III. Bubbles and technological revolutions](#iii-bubbles-and-technological-revolutions)**
+  - [The fall](#the-fall)
+  - [Technological Revolutions and Financial Capital](#technological-revolutions-and-financial-capital)
+  - [Innovation moves in cycles](#innovation-moves-in-cycles)
+  - [The frenzy](#the-frenzy)
+  - [The aftermath](#the-aftermath)
+
+**[A bubble from up close](#a-bubble-from-up-close)**
 # I. The file sharing revolution
 
 Bitcoin shares deep roots with the P2P networks. File sharing protocols became the first world-scale decentralized networks. Bitcoin's gossip-based networking model was inspired by Gnutella, the protocol behind LimeWire. Many P2P barons were foundational to the crypto movement: Jed McCaleb of eDonkey2000, Zooko Wilcox of Mojo Nation, and Bram Cohen of BitTorrent to name a few. They also share a philosophical lineage—Lawrence Lessig, the intellectual godfather of [piracy culture](https://en.wikipedia.org/wiki/Free_Culture_(book)#Piracy), is the originator of the phrase "[code is law](http://codev2.cc/download+remix/Lessig-Codev2.pdf)."
@@ -57,7 +77,7 @@ Decentralized alternatives to Napster gradually arose, intentionally designed ar
 
 As the children of Napster proliferated, a philosophy began to solidify around internet piracy. Slogans materialized: "information wants to be free," "open culture," "sharing is caring." A new political party called [The Pirate Party](https://en.wikipedia.org/wiki/Pirate_Parties_International) was formed, championing online freedom and copyright reform, winning multiple political appointments across Europe. Radical innovations in intellectual property were explored such as the [Creative Commons](https://en.wikipedia.org/wiki/Creative_Commons) and [copyleft](https://en.wikipedia.org/wiki/Copyleft) licensing. The revolution had gained an energy and identity of its own.
 
-BitTorrent, founded by Bram Cohen in 2001, would arguably be the last stage in the evolution of P2P file sharing. The BitTorrent protocol overtook KaZaA, Limewire, DC++, SoulSeek, and all the other P2P networks. By 2012, it peaked at a staggering [150M monthly active users](https://web.archive.org/web/20140326102305/http://www.bittorrent.com/intl/es/company/about/ces_2012_150m_users), 15% of the entire [Facebook userbase](https://www.theguardian.com/news/datablog/2014/feb/04/facebook-in-numbers-statistics) at that time. During its peak, BitTorrent was by far the [single largest source of Internet traffic in the world](https://www.webcitation.org/6OVSh9hZ0?url=http://www.ipoque.com/sites/default/files/mediafiles/documents/internet-study-2008-2009.pdf).
+BitTorrent, founded by Bram Cohen in 2001, would arguably be the last stage in the evolution of P2P file sharing. The BitTorrent protocol overtook KaZaA, Limewire, DC++, SoulSeek, and all the other P2P networks. By 2012 it's estimated to have peaked at a staggering 400M-500M monthly active users, almost half of the entire [Facebook userbase](https://www.theguardian.com/news/datablog/2014/feb/04/facebook-in-numbers-statistics) at that time. During its peak, BitTorrent was by far the [single largest source of Internet traffic in the world](https://www.webcitation.org/6OVSh9hZ0?url=http://www.ipoque.com/sites/default/files/mediafiles/documents/internet-study-2008-2009.pdf).
 
 It's worth asking: why did BitTorrent dominate file sharing while other networks fell into irrelevance?
 
@@ -129,9 +149,9 @@ The ICO bubble let young people convince themselves: hey, maybe I can get my sha
 
 And wouldn't they get just a little convinced that for once, they were a step ahead of their parents, ahead of the gatekeepers, ahead of Wall Street and Silicon Valley?
 
-So they got in early. They ran everything up. They broke the rules. What were those rules good for anyway, besides [rigging the system for the rich](https://nypost.com/2019/01/29/most-americans-believe-the-economy-is-rigged-to-favor-the-rich-poll/)? Why couldn't anyone in the world invest in whatever they wanted? Who needs disclosures anyway, if the future is going to be open source?
+So they got in early and ran everything up. They started using VPNs. They got friends and family to create overseas accounts. They broke the rules. And what were those rules good for anyway, besides [rigging the system for the rich](https://nypost.com/2019/01/29/most-americans-believe-the-economy-is-rigged-to-favor-the-rich-poll/)? Why couldn't anyone in the world invest in whatever they wanted? Who needs disclosures anyway, if the future is going to be open source?
 
-So they speculated and joined Subreddits and debated ideas and convinced themselves that their investments would revolutionize the world's infrastructure. The market kept proving them right. A decentralized future was fast approaching, and they were going to be, for once, at the vanguard ushering it in.
+The market kept proving them right. So they speculated, they joined Subreddits and debated ideas and convinced themselves that their investments would revolutionize the world's infrastructure. A decentralized future was fast approaching, and they were going to be, for once, at the vanguard ushering it in.
 
 And of course, when reality finally caught up, it showed them the consequences of breaking those rules. 2018 brought everything crashing down, laying bare all the scams, frauds, and widespread market manipulation. A once ecstatic market flattened out like a pancake.
 
@@ -349,32 +369,26 @@ We know the techno-economic paradigm of the late internet revolution: move fast 
 
 Cast in these terms, the techno-economic paradigm of crypto is almost embarrassing to say out loud. Here’s what we taught founders about how to build a business in the crypto age:
 
-1. Shoehorn your idea into a protocol
-2. Spin a story about how it will become decentralized
+1. Invent a token and hypothesize an economy that will use it
+2. Spin a story how it will eventually become decentralized
 3. Write an academic-looking white paper with some math in it
 4. Create a Swiss foundation
 5. Open source your code
 6. Recruit advisors and put them on your website
 7. Do a public ICO
 
-Basically, cargo culting the Ethereum ICO, the same way dotcoms cargo culted Netscape.
+Basically, cargo culting the Ethereum ICO—the same way dotcoms cargo culted Netscape.
 
 In the ICO bubble, founders who deviated from this paradigm were seen as low-status, opportunistic, "not getting crypto," and were thus less rewarded in their fundraises. Yet in hindsight, almost none of this was predictive of an entrepreneur’s long-term success.
 
 Keep the dotcom crash in the back of your mind. For now, I'm going to focus entirely on how Perez's account of financial bubbles comports with the ICO bubble.
 
-## The installation phase
+## The Frenzy
 If we have just witnessed the *collapse* phase, then it’s worth rewinding to what Perez has to say about the period that precedes it: the installation phase.
-
-> During Installation, investment is led by financial capital, which funds the technological transformation, and, in the excitement, also intensifies its casino-type activities.
-
-Financial capital is what Perez calls short-term, return seeking capital. This is opposed to *production capital*, which is engaged in long-term and sustainable company-building. Production capital characterizes the deployment phase, whereas financial capital dominates the installation and collapse phases.
-
-Eventually all of this rises to a fever pitch in what Perez dubs "Frenzy."
 
 > Frenzy is the tumultuous period when financial capital takes off on its own... All those benefitting from this flourishing of opportunities believe the world is going through a marvelous time.
 
-New millionaires are minted. They try to multiply their wealth in the same way they made it, redeploying their capital to generate more profits. The gap between paper values and real values widens, and the newly rich come to believe that their newfound wealth is due to superior insight and intuition.
+In the frenzy, new millionaires are minted. They try to multiply their wealth in the same way they made it, redeploying their capital to generate more profits. The gap between paper values and real values widens, and the newly rich come to believe that their newfound wealth is due to superior insight and intuition.
 
 > Financial capital... breaks loose, backs the new entrepreneurs, dismantles as much as it can of the institutional framework, overinvests in the new infrastructure, and also uses the new technologies to innovate in instruments for financial speculation.
 
@@ -382,7 +396,7 @@ Dismantles institutional frameworks, check. Overinvests in new infrastructure, c
 
 > As the various assets go up in price, confidence grows that they will continue to do so... Since the profits to be had are amazing, everybody—including widows and orphans—eventually become aware of the incredible possibilities. They gradually dare to enter what used to be alien territory, trying to get a piece of the action.
 
-Do you remember being told by barbers, Uber drivers, personal trainers to invest in the BAT ICO? Do you remember the NYT article, [Everyone is Getting Hilariously Rich and You're Not](https://www.nytimes.com/2018/01/13/style/bitcoin-millionaires.html)?
+Do you remember being told by Uber drivers to invest in BAT or IOTA? Do you remember the New York Times article, [Everyone is Getting Hilariously Rich and You're Not](https://www.nytimes.com/2018/01/13/style/bitcoin-millionaires.html)?
 
 Perez recalls a quote by Bruce Nussbaum about the dotcom bubble:
 
@@ -430,7 +444,7 @@ So what does Perez explain about the ICO bubble?
 She explains the logic of frenzy, the stoking of financial capital, and the rhetoric of paradigm shifts ("all companies will become decentralized"). She explains the influx of retail investors ("widows and orphans"), traditional financial capital piling in at dizzying prices (Telegram, Filecoin, Hashgraph), and the flood of traditional entrepreneurs contorting themselves to follow the new paradigm.
 
 ## A bubble from up close
-In the end, we should count ourselves lucky that the ICO bubble was not as destructive as the dotcom bubble. About $15B were raised by ICOs in 2017-2018, but that's a drop in the bucket compared to all of venture capital, which deployed around [$500B during the same period](https://news.crunchbase.com/news/q4-2018-closes-out-a-record-year-for-the-global-vc-market/). And the ICO crash was not nearly as destabilizing as the dotcom bubble. When all is said and done, the dotcom bubble wiped out about $5 trillion of value and was much more concentrated in the United States. Losses in the ICO bubble were ~15% of that, absorbed across many more economies, and during a time of relative economic prosperity. (Also, we should be cautious [when conflating the "market cap" of crypto with the NASDAQ](https://medium.com/@RainDogDance/bitcoin-as-a-novel-market-institution-nic-carter-talk-at-baltic-honeybadger-2018-e085f163b213).)
+In the end, we should count ourselves lucky that the ICO bubble was not as destructive as the dotcom bubble. About $14B were raised by ICOs in 2017-2018, but that's a drop in the bucket compared to all of venture capital, which deployed around [$500B during the same period](https://news.crunchbase.com/news/q4-2018-closes-out-a-record-year-for-the-global-vc-market/). And the ICO crash was not nearly as destabilizing as the dotcom bubble. When all is said and done, the dotcom bubble wiped out about $5 trillion of value and was much more concentrated in the United States. Losses in the ICO bubble were ~15% of that, absorbed across many more economies, and during a time of relative economic prosperity. (Also, we should be cautious [when conflating the "market cap" of crypto with the NASDAQ](https://medium.com/@RainDogDance/bitcoin-as-a-novel-market-institution-nic-carter-talk-at-baltic-honeybadger-2018-e085f163b213).)
 
 The ICO bubble had no single cause. Mono-causal explanations always fall short in explaining complex phenomena. But its effects are easier to pinpoint.
 
@@ -445,3 +459,5 @@ So what happens now?
 If you believe that crypto has the stuff of a technological revolution, then as Perez puts it, the collapse will pave the way for a more fruitful deployment phase. At the end of the day, I'm an optimist about technology. So it won't surprise you that I think this deployment phase is coming. But it will be slow, unglamorous, and probably won't make for nearly as entertaining of headlines.
 
 Oh well.
+
+*Special thanks to Simon Harris, Salil Deshpande, Erik Torenberg, Jeff Meyerson, Nick Shalek, and Rachel Basse for reviewing this piece*
