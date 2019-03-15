@@ -4,11 +4,11 @@
 * ASKED SENT Simon Harris
 * ASKED SENT Nick Shalek from Ribbit
 * ASKED SENT Ali
-* ASKED SENT Jeff Meyerson
+* ASKED YES Jeff Meyerson
 * ASKED SENT Tony Sheng
 * ASKED YES Erik Torenberg
 * ASKED SENT Jesse Walden
-* ASKED SENT Salil
+* ASKED YES Salil
 * ASKED Alok
 
 ALT TITLES:
