@@ -384,8 +384,6 @@ In the ICO bubble, founders who deviated from this paradigm were seen as low-sta
 Keep the dotcom crash in the back of your mind. For now, I'm going to focus entirely on how Perez's account of financial bubbles comports with the ICO bubble.
 
 ## The Frenzy
-If we have just witnessed the *collapse* phase, then it’s worth rewinding to what Perez has to say about the period that precedes it: the installation phase.
-
 > Frenzy is the tumultuous period when financial capital takes off on its own... All those benefitting from this flourishing of opportunities believe the world is going through a marvelous time.
 
 In the frenzy, new millionaires are minted. They try to multiply their wealth in the same way they made it, redeploying their capital to generate more profits. The gap between paper values and real values widens, and the newly rich come to believe that their newfound wealth is due to superior insight and intuition.
@@ -415,10 +413,6 @@ None of this is new.
 And of course, do you remember all the voices ([rejoicing](https://medium.com/dash-for-newbies/crypto-the-dawn-of-the-single-greatest-wealth-transfer-in-the-history-of-mankind-bc7683ad4c) and [lamenting](https://twitter.com/RyanSAdams/status/1052566485200199681)) the new redistribution of wealth?
 
 > The whole frenzy phenomenon is, at bottom, a huge process of income redistribution in favor of those directly or indirectly involved in the casino, which funds the massive process of creative destruction in the economy. That regressive distribution generates a double vicious cycle: one is economic, expressed in the market; the other is social, expressed in political terms. Both get worse as the bubble increases.
-
-Of course, every bubble comes with its dark side as we've already explored: the fraudsters, the pump and dumpers, the exit scammers.
-
-> That permissive atmosphere generates an opacity that is highly convenient for corruption and for the flourishing of outright illegal activities... This is then a time for swindlers.
 
 The ICO bubble was simply a variation on the theme. The players and the tactics were different, but the human stories were the same. Like in the dot com bubble there were, as always, stories of overnight millionaires, flagrant scams, manifestos declaring a new technological order, levered debts and second mortgages that ended in catastrophe—all the usual roil and ruin of speculative manias.
 
