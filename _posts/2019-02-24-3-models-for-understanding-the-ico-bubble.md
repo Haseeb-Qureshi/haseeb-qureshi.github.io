@@ -50,6 +50,8 @@ Of course, history does not repeat. But there are a few refrains it loves to com
   - [The frenzy](#the-frenzy)
   - [The aftermath](#the-aftermath)
 
+(I recorded an [audio version](https://softwareengineeringdaily.com/2019/03/17/crypto-bubble-with-haseeb-qureshi/) of this blog post if you prefer listening.)
+
 **[A bubble from up close](#a-bubble-from-up-close)**
 # I. The file sharing revolution
 
