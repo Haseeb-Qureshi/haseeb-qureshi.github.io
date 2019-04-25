@@ -90,7 +90,7 @@ Bitcoin says: never mind the bundle of state-backed money. This here is just pur
 This is not just an abstract point. Let me give an example that helps cash out this perspective.
 
 ## On-chain arbitration is a form of bundling
-The [EOS Core Arbitration Forum](https://eoscorearbitration.io/) (ECAF) was a governance system for EOS, a prominent smart contract platform and top 10 token. Via the ECAF, any on-chain transaction could be reverted if the victim filed a claim with the ECAF. The ECAF did not have direct control over the underlying blockchain, but instead exerted soft power over block producers to carry out their injunctions.
+The [EOS Core Arbitration Forum](https://eoscorearbitration.io/) (ECAF) was a governance system for EOS, a prominent smart contract platform and top 10 token. Via the ECAF, any on-chain transaction could be reverted if the victim filed a claim with the ECAF. The ECAF did not have direct control over the underlying blockchain, but instead exerted soft power over block producers to enforce their judgments.
 
 Unsurprisingly, this all broke down a couple weeks ago and the ECAF has been written out of the EOS "Constitution."
 
