@@ -5,7 +5,7 @@ image: bill-rollup.jpg
 featured: "true"
 ---
 
-Here's a question: why are cash transfers so expensive?
+Here's a question: why are money transfers so expensive?
 
 Visa charges 3% + $0.30 on every US transaction. That's a lot to charge for shuffling around numbers in some databases. After all, everything in a credit card transaction is already digital—from the online payments gateway, to the credit card company's systems, to your bank's database, to the Fed account where your bank parks its reserves. It's packets and bytes all the way down.
 
@@ -73,7 +73,7 @@ Let's do the accounting of what's bundled with money today, just in the US:
 
 If you want to use fiat money today, you have to sign up for the whole bundle. It's difficult to opt out of any single component.
 
-A critic would rightly point out: if you don't like the bells and whistles, why not just use cash? But cash is not digital. Digital payments are essential to functioning in a global, interconnected economy. Even systems like ACH carry a 60-day chargeback window for individuals.
+A critic would rightly point out: if you don't like all these features, why not just use cash? But cash is not digital. Digital payments are essential to functioning in a global, interconnected economy. Even systems like ACH carry a 60-day chargeback window for individuals.
 
 What if I just want an account at the Fed? Digital US dollars without any of the bells and whistles that the banking system thrusts onto me? Tough luck. The Fed [forcefully maintains its financial bundling](https://www.bloomberg.com/opinion/articles/2019-03-08/the-fed-versus-the-narrow-bank), under the theory that doing otherwise would create "systemic stress" on the financial system.
 
