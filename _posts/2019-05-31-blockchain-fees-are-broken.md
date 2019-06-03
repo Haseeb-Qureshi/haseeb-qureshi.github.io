@@ -206,4 +206,4 @@ In the Bitcoin community, there's a [lot of interest in *maximizing* transaction
 
 Today, the UX of paying blockchain fees is pretty bad. But this will only get better through market design, more layer 2 primitives, and fee delegation through [meta-transactions and relayers](https://medium.com/@austin_48503/ethereum-meta-transactions-90ccf0859e84). ([Dapper Labs](https://www.meetdapper.com/) is one of the few companies really pushing the frontier here.) As newer platforms like [DFINITY](https://dfinity.org/), [Spacemesh](https://spacemesh.io/), and [AVA](https://avalabs.org/) come to market, I expect we'll see further iteration on the experience of paying blockchain fees. For now, when it comes to market design, blockchains are still in their infancy.
 
-(Thanks to Tarun Chitra and Rachel Diane Basse for proofreading this article.)
+(Thanks to Tarun Chitra, Ivan Bogatyy, and Rachel Diane Basse for proofreading this article.)
