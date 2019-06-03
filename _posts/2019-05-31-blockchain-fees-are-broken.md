@@ -7,7 +7,7 @@ featured: "true"
 
 When Satoshi Nakamoto designed the Bitcoin protocol, he had the insight to include the notion of transaction fees. These fees incentivized miners to include transactions into blocks. But initially, Bitcoin did not have, in any meaningful sense, a *fee market*.
 
-![free fees](https://i.imgur.com/UGacCBe.png)
+![free fees](https://i.imgur.com/ush3IPJ.png)
 
 A large portion of early Bitcoin transactions were completely free up until 2013 (blue in the above chart). Wallet developers eventually hard-coded tiny fixed fees into their clients, thought of as donations to miners. At first these fees defaulted to 0.1 BTC, but they were driven down as the Bitcoin price rose.
 
