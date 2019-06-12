@@ -42,6 +42,9 @@ image: rails-conf.jpg
 ##### From [Developer On Fire](http://developeronfire.com/)
 * [Developer on Fire&mdash;Virtue and Hustle with Haseeb Qureshi](http://developeronfire.com/podcast/episode-140-haseeb-qureshi-virtue-and-hustle)
 
+##### From [Off the Chain with Anthony Pompliano](https://player.fm/series/off-the-chain-2428336)
+* [Haseeb Qureshi](https://cms.megaphone.fm/channel/BWG2120167197?selected=BWG6955802124)
+
 ##### From [Hidden Forces](https://hiddenforces.io)
 * [ETC 51% Attack and what it means for Proof of Work and Crypto Exchanges](https://www.hiddenforces.io/podcast/show/haseeb-qureshi-etc-attack-proof-of-work)
 
@@ -50,12 +53,15 @@ image: rails-conf.jpg
 
 #### From [Software Engineering Daily](https://softwareengineeringdaily.com/tag/haseeb-qureshi/)
 
+* [Fireside chat with Haseeb Qureshi](https://softwareengineeringdaily.com/2019/04/12/bubbles-with-haseeb-qureshi/)
+* [The Crypto Bubble with Haseeb Qureshi](https://softwareengineeringdaily.com/2019/03/17/crypto-bubble-with-haseeb-qureshi/)
 * [Smart Contract Security with Haseeb Qureshi and Emin Gun Sirer](https://softwareengineeringdaily.com/2017/10/20/4085/)
 * [Automation with Haseeb Qureshi and Quincy Larson](https://softwareengineeringdaily.com/2017/05/08/automation-with-haseeb-qureshi-and-quincy-larson/)
 * [Cloudbleed and SHA-1 Collision with Haseeb Qureshi and Max Burkhardt](https://softwareengineeringdaily.com/2017/03/04/cloudbleed-and-sha-1-collision-with-max-burkhardt/)
 * [Convergence with Haseeb Qureshi](https://softwareengineeringdaily.com/2017/02/24/convergence-with-haseeb-qureshi/)
 * [Debugging Stories with Haseeb Qureshi](https://softwareengineeringdaily.com/2016/11/19/debugging-stories-with-haseeb-qureshi/)
 * [Topic Roundtable with Haseeb Qureshi and Practical Dev’s Ben Halpern](https://softwareengineeringdaily.com/2016/10/21/topic-roundtable-with-haseeb-qureshi-and-practical-devs-ben-halpern/)
+* [Salary negotiation with Haseeb Qureshi](https://softwareengineeringdaily.com/2016/07/11/salary-negotiation-with-haseeb-qureshi/)
 
 ##### From [Venture Stories](https://www.villageglobal.vc/podcast/)
 * [Crypto Stories: A Primer on Stablecoins with Haseeb Qureshi and Myles Snider](https://www.stitcher.com/podcast/village-global/venture-stories/e/55999312)
