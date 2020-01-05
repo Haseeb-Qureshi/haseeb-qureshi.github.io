@@ -19,7 +19,7 @@ Soon they divide into distinct factions: anti-ProgPoW and pro-ProgPoW. Reddit an
 
 In the meantime, DeFi operators watch anxiously. Their hands are tied: they cannot pick sides too early. Why? Because for a DeFi operator, picking the correct fork is critical to their system surviving, and nobody wants to be blamed for instigating additional conflict.
 
-Let's say that USDC is the first to cross the Rubicon. [CENTRE](https://www.centre.io/), the organization that issues USDC, announces that they are not supporting ProgPoW, and USDC will not be redeemable on the ProgPoW fork. Of course, this means that USDC will become completely worthless on the ProgPoW fork --- after all, USDC is a system of record for dollar-backed IOUs. Only one system of record can correspond to the real liabilities of CENTRE, and so the USDC ledger is effectively meaningless on the other chain.
+Let's say that USDC is the first to cross the Rubicon. [CENTRE](https://www.centre.io/), the organization that issues USDC, announces that they are not supporting ProgPoW, and USDC will not be redeemable on the ProgPoW fork. Of course, this means that USDC will become completely worthless on the ProgPoW fork—after all, USDC is a system of record for dollar-backed IOUs. Only one system of record can correspond to the real liabilities of CENTRE, and so the USDC ledger is effectively meaningless on the other chain.
 
 
 ![](https://miro.medium.com/max/2556/1*ddErvEmxRQmX5I5fXKsm3Q.png)
@@ -33,7 +33,7 @@ As the second most used stablecoin in decentralized finance (or DeFi), USDC repr
 
 ![](https://miro.medium.com/max/1115/1*S_DB-qGEYYcHIADc-RFiBQ.png)
 
-All other fiat backed stablecoins have negligible usage in DeFi. But so what, you might say --- this is a problem that the market can solve. Let other stablecoins like Tether and TUSD, which have billions in circulation, step up and take USDC's place.
+All other fiat backed stablecoins have negligible usage in DeFi. But so what, you might say—this is a problem that the market can solve. Let other stablecoins like Tether and TUSD, which have billions in circulation, step up and take USDC's place.
 
 But what about the existing financial instruments that use USDC, directly and indirectly? DeFi could hypothetically survive without USDC, but given how deeply entangled it all is, it's incredibly challenging to extricate it quickly and safely.
 
@@ -55,7 +55,7 @@ So all of DeFi sides with USDC. But what about the people who commit to the oppo
 
 ## The valley of D-ETH
 
-Imagine a small cohort goes through with the fork. Still optimistic, they brand their chain Decentralized ETH, or D-ETH. What will they find on the new chain waiting for them? As in all forks, the entire state of all smart contracts will be ported over --- but without the operators to keep them running, what will happen?
+Imagine a small cohort goes through with the fork. Still optimistic, they brand their chain Decentralized ETH, or D-ETH. What will they find on the new chain waiting for them? As in all forks, the entire state of all smart contracts will be ported over—but without the operators to keep them running, what will happen?
 
 ![](https://miro.medium.com/max/1732/1*92IGnoOnZkSs2IpOah0nkA.png)
 
@@ -63,7 +63,7 @@ Oracles stop posting data feeds. There are no more prices. Anything that used a 
 
 All centralized stablecoins are now worthless. Tether, USDC, TUSD, PAX, all gone. Most operators freeze the contracts, making the tokens now untransferable and unredeemable. For smaller stablecoins, no one even bothers.
 
-Any borrowers who used USDC as collateral have walked away with free tokens. Of course, unless the borrowed tokens were Dai, they're effectively worthless --- there isn't even a market for D-REP (the forked REP token) because Augur is no longer functioning. All long-dated Augur bets have become effectively debased. Not enough D-REP holders show up to report on outcomes. No UI even points to the D-ETH version, though there are complicated instructions someone posted in a Github issue somewhere. Eventually, the contract stops being poked entirely.
+Any borrowers who used USDC as collateral have walked away with free tokens. Of course, unless the borrowed tokens were Dai, they're effectively worthless—there isn't even a market for D-REP (the forked REP token) because Augur is no longer functioning. All long-dated Augur bets have become effectively debased. Not enough D-REP holders show up to report on outcomes. No UI even points to the D-ETH version, though there are complicated instructions someone posted in a Github issue somewhere. Eventually, the contract stops being poked entirely.
 
 A few contracts still work, like 0x and Uniswap, since they don't require any external actors. But liquidity is scant, as the prices of all the D-tokens have collapsed, and nothing is correctly priced anymore. The moment the fork goes live, smart arbitrageurs race to snipe 0x orders and Uniswap markets that are incorrectly priced post-fork.
 
@@ -85,7 +85,7 @@ What this little thought experiment tells us is: Ethereum is not what it used to
 
 ![](https://miro.medium.com/max/2070/1*n1Lxzbe2ONDDkruQiXYu7A.png)
 
-DeFi is ultimately the kingmaker of any future governance crisis --- users, miners, and developers certainly have a voice, but the chaos that would be unleashed by unraveling DeFi ties everyone else's hands. With all of the new higher-level financial applications coming online in the next year, DeFi is liable to only become more fragile.
+DeFi is ultimately the kingmaker of any future governance crisis—users, miners, and developers certainly have a voice, but the chaos that would be unleashed by unraveling DeFi ties everyone else's hands. With all of the new higher-level financial applications coming online in the next year, DeFi is liable to only become more fragile.
 
 If there can never be another ETC-like fork, then it seems that "[governance-by-fork](https://medium.com/@FEhrsam/blockchain-governance-programming-our-future-c3bfe30f2d74)" will become a thing of the past. Welcome to the post-forkable era.
 

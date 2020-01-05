@@ -97,6 +97,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
+  - node_modules
 plugins:
   - jekyll-avatar
   - jekyll-feed
