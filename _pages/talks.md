@@ -42,6 +42,9 @@ image: rails-conf.jpg
 ##### From [Developer On Fire](http://developeronfire.com/)
 * [Developer on Fire&mdash;Virtue and Hustle with Haseeb Qureshi](http://developeronfire.com/podcast/episode-140-haseeb-qureshi-virtue-and-hustle)
 
+##### From [Blockcrunch](https://podcasts.apple.com/us/podcast/blockcrunch-global-investors-podcast-for-crypto-blockchain/id1350649166)
+* [Haseeb Qureshi on Why Bitcoin Won't Become Money & Other Crypto Theses](https://podcasts.apple.com/us/podcast/haseeb-qureshi-on-why-bitcoin-wont-become-money-other/id1350649166?i=1000453489855)
+
 ##### From [Off the Chain with Anthony Pompliano](https://player.fm/series/off-the-chain-2428336)
 * [Haseeb Qureshi](https://cms.megaphone.fm/channel/BWG2120167197?selected=BWG6955802124)
 
@@ -53,6 +56,8 @@ image: rails-conf.jpg
 
 #### From [Software Engineering Daily](https://softwareengineeringdaily.com/tag/haseeb-qureshi/)
 
+* [Crypto businesses with Haseeb Qureshi](https://softwareengineeringdaily.com/2019/10/22/crypto-businesses-with-haseeb-qureshi/)
+* [Crypto and OSS with Haseeb Qureshi, Joseph Jacks, and Alok Vasudev](https://softwareengineeringdaily.com/2019/08/23/crypto-and-oss-with-haseeb-qureshi-joseph-jacks-and-alok-vasudev/)
 * [Fireside chat with Haseeb Qureshi](https://softwareengineeringdaily.com/2019/04/12/bubbles-with-haseeb-qureshi/)
 * [The Crypto Bubble with Haseeb Qureshi](https://softwareengineeringdaily.com/2019/03/17/crypto-bubble-with-haseeb-qureshi/)
 * [Smart Contract Security with Haseeb Qureshi and Emin Gun Sirer](https://softwareengineeringdaily.com/2017/10/20/4085/)

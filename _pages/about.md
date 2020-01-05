@@ -5,11 +5,11 @@ image: widescreen1_zkintz.jpg
 
 ## Hi, I'm Haseeb.
 
-I'm a general partner at **MetaStable Capital**, a cryptocurrency hedge fund.
+I'm a managing partner at **Dragonfly Capital**, a cryptocurrency venture fund.
 
 I'm also a programmer, a writer, a teacher, a public speaker, and an Effective Altruist.
 
-I teach a class on cryptocurrencies at the **Bradfield School of Computer Science**. I was formerly a software engineer at **Airbnb**. Before that I was Director of Product at **App Academy**. Before that I was a mental coach and wrote a book called *The Philosophy of Poker*. And before that I was a world-class professional poker player, sponsored by **Full Tilt Poker**.
+I used to teach a class on cryptocurrencies at the **Bradfield School of Computer Science**. I was formerly a software engineer at **Airbnb**. Before that I was Director of Product at **App Academy**. Before that I was a mental coach and wrote a book called *The Philosophy of Poker*. And before that I was a world-class professional poker player, sponsored by **Full Tilt Poker**.
 
 That's me in a nutshell. It's a pretty strange path, from professional poker player to software engineer to investor. But if you want to get the full picture, you'll need to know my origin story. It's good, I promise.
 <br /><br />
@@ -119,7 +119,7 @@ That, in large part, is what made me catch the crypto bug.
 ---
 
 <br />
-In June 2017, I decided the blockchain space was too interesting to sit on the sidelines. I said goodbye to Airbnb so I could pursue crypto full-time. Since then I've worked on some [security research](https://www.youtube.com/watch?v=RL2nE3huNiI), consulted to a company called 21 (now [Earn.com](https://earn.com)), did a lot of [writing](https://haseebq.com/blockchain/) and [speaking](https://youtu.be/3aJI1ABdjQk?t=17m26s), and taught a [course on cryptocurrencies](https://bradfieldcs.com/courses/cryptocurrencies/) at the Bradfield School of Computer Science. I'm now working at [MetaStable Capital](http://metastablecapital.com/) as a general partner, investing in promising blockchain projects that will lead to the future of money. I also donate 33% of my pre-tax income to charity.
+In June 2017, I decided the blockchain space was too interesting to sit on the sidelines. I said goodbye to Airbnb so I could pursue crypto full-time. Since then I've worked on some [security research](https://www.youtube.com/watch?v=RL2nE3huNiI), consulted to a company called 21 (now [Earn.com](https://earn.com)), did a lot of [writing](https://haseebq.com/blockchain/) and [speaking](https://youtu.be/3aJI1ABdjQk?t=17m26s), and taught a [course on cryptocurrencies](https://bradfieldcs.com/courses/cryptocurrencies/) at the Bradfield School of Computer Science. I'm now working at [Dragonfly Capital](https://dcp.capital/) as a managing partner, investing in promising blockchain projects that will lead to the future of money. I also donate 33% of my pre-tax income to charity.
 
 So that's what I'm about.
 
