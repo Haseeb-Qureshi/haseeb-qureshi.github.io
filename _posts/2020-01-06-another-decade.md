@@ -19,7 +19,7 @@ One thing that hasn't changed is that I'm constantly learning new things. The ar
 * Venture capital broadly, along with other forms of investing
 
 And I'm actively working to improve different skills:
-* Building up my network (especially of influential and high net worth individuals)
+* Building up my network (especially of potential LPs, coinvestors, and entrepreneurs)
 * Actively maintaining relationships
 * Writing, speaking, negotiating
 * Conversational Mandarin (slow going process!)
