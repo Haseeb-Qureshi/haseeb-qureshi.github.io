@@ -4,7 +4,7 @@ tags: [poker]
 image: book-cover_nigrpq.jpg
 ---
 
-[![cover of How to Be a Poker Player](https:/haseebq.com/images/book-cover_nigrpq.jpg)](https://www.amazon.com/How-Be-Poker-Player-Philosophy-ebook/dp/B00HFDJU6A/)
+[![cover of How to Be a Poker Player](https://i.imgur.com/vpN01En.png)](https://www.amazon.com/How-Be-Poker-Player-Philosophy-ebook/dp/B00HFDJU6A/)
 
 *What does it take to be a great poker player?*
 
