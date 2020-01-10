@@ -1,6 +1,6 @@
 ---
 title: "Ethereum is now unforkable, thanks to DeFi"
-tags: [blockchain]
+tags: [blockchain, programming]
 image: ether-coins.png
 featured: "true"
 ---

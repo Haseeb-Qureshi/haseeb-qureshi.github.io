@@ -315,8 +315,6 @@ The best overall textbook for blockchains is [Bitcoin and Cryptocurrency Technol
 
 If you want a more structured approach to learning this material, there are a few high-quality courses out there (and a lot of low-quality ones). I've already linked to a couple lectures from the [Princeton Coursera Course](https://www.coursera.org/learn/cryptocurrency) (the videos are [on Youtube](https://www.youtube.com/channel/UCNcSSleedtfyDuhBvOQzFzQ) as well), and the [UC Berkeley Decal](https://www.youtube.com/watch?v=ZWE3qFnSbMc&list=PLSONl1AVlZNX_JBggqZV40rDIGGB0FNHW). I've also heard good things about [Consensys Academy](https://consensys.net/academy/) for folks who want to get into smart contract development.
 
-**I'm also teaching a [4-week seminar on cryptocurrencies](https://bradfieldcs.com/courses/cryptocurrencies/) for software developers at the Bradfield School of Computer Science in SF.** The course is in-person in SF only and seats are limited, since it's a small and in-depth seminar-style class. But if you're a software engineer in SF and want to learn more about the theory and practice behind cryptocurrencies, it might be a good fit for you.
-
 # Getting a job
 
 As I said before, blockchain startups are hiring like crazy. If you’ve actually gotten this far and have done even half the things I suggested, you are probably already employable in this space. AngelList did a [great writeup](https://angel.co/talent-hacks/how-to-get-a-job-at-a-crypto-startup) on how to get a job in the crypto space.
