@@ -94,6 +94,7 @@ url: https://haseebq.com
 exclude:
   - .editorconfig
   - .gitignore
+  - .jekyll-cache
   - Gemfile
   - Gemfile.lock
   - README.md
