@@ -10,7 +10,6 @@ description: "Haseeb Qureshi is an investor, software engineer, author, effectiv
 email: haseeb@haseebq.com
 integrations: # Values here will be instered as USERNAME
   disqus: haseebq
-  facebook: someguynamedhaseeb #
   github: haseeb-qureshi
   gcse: # https://cse.google.com/
   medium: hosseeb # https://medium.com/@USERNAME
