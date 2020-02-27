@@ -110,8 +110,7 @@ The best way to bet on a future trend is by building for a small customer base t
 Building for crypto influencers. This is another common trap for crypto startups. In most industries, if you build a product that influencers will love, millions of other customers will follow. But crypto is a weird space --- the preferences of crypto influencers are very unrepresentative of crypto customers.
 
 ![](https://miro.medium.com/max/1228/0*HXq06Qrd3zNEJD5Z)
-
-(These numbers are very loose approximations.)
+*(These numbers are very loose approximations.)*
 
 If you went off crypto influencers, you'd assume most crypto consumers are paranoid cypherpunks who run their own full nodes and never hold their crypto on exchanges. In reality, this describes a vanishingly small slice of crypto users. Most crypto users hold their coins on exchanges, have no idea how to navigate a command line, and have never even heard of Austrian economics. They care a lot more about making money and a good UX than about decentralization.
 
@@ -202,8 +201,7 @@ If you're building pure crypto, open source your code. Once you're post-launch,
 Unlike the Internet, crypto is global from day one. That implies that no matter where your company is founded, you must eventually build a global team with boots on the ground around the world. Whether you're from the US, Europe, or Asia, you want to have a presence in each of those geographies to build awareness and relay the needs of your different communities. It's not enough to simply focus on your local geography.
 
 ![](https://miro.medium.com/max/1297/0*Dc1W7KTLxS-WyKFh)
-
-Credit: [Chappius Halder](https://www.chappuishalder.com/wp-content/uploads/2019/06/Publication_Crypto-traders-06-2019.pdf) (note: this data doesn't track China, which likely has more crypto traders than North America)
+*Credit: [Chappius Halder](https://www.chappuishalder.com/wp-content/uploads/2019/06/Publication_Crypto-traders-06-2019.pdf) (note: this data doesn't track China, which likely has more crypto traders than North America)*
 
 Finally, you must keep iterating on UI/UX. This is probably the most important frontier for crypto, and I suspect more and more businesses will differentiate on user experience rather than core technology. Taylor Monahan has [written eloquently](https://medium.com/mycrypto/building-confidence-not-dapps-d8a3bc1f29d1) on the importance of communicating clearly to your user, and Austin Griffith has continually pushed the frontier of [crypto onboarding](https://www.youtube.com/watch?v=4yq1wcwKHQk).
 
