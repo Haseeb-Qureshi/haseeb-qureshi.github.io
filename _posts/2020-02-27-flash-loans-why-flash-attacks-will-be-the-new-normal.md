@@ -40,7 +40,7 @@ Flash loans are different. Flash loans literally have no risk and no opportunity
 
 This means, in a sense, there's no cost to being a flash lender. This is deeply counterintuitive. So how much should a flash loan cost at equilibrium?
 
-Basically, flash loans should be free. Or more properly, a small enough fee to amortize the cost of the including the extra 3 lines of code to make an asset flash-lendable.
+Basically, flash loans should be free. Or more properly, a small enough fee to amortize the cost of including the extra 3 lines of code to make an asset flash-lendable.
 
 ```javascript
 interface Lender {
@@ -61,7 +61,7 @@ contract FlashERC20 is ERC20 {
 
 Flash loans cannot charge *interest* in the traditional sense, because the loan is active for zero time (any APR * 0 = 0). And of course, if flash lenders charged higher rates, they'd quickly be outcompeted by other flash lending pools that charged lower rates.
 
-Flash lending makes capital a true commodity. This race to the bottom inevitably results in zero fees or a tiny nominal fee. dYdX currently charges 0 fees for flash lending. AAVE, on the other hand, charges 0.09% on the principal for flash loans. I suspect this is not sustainable, and indeed, their community has [called for slashing fees to 0](https://medium.com/aave/flash-loans-one-month-in-73bde954a239). (Note that neither of the attacks we saw used AAVE as their flash lending pool.)
+Flash lending makes capital a true commodity. This race to the bottom inevitably results in zero fees or a tiny nominal fee. dYdX currently charges 0 fees for flash lending. AAVE, on the other hand, charges 0.09% on the principal for flash loans. I suspect this is not sustainable, and indeed, some in their community have [called for slashing fees to 0](https://medium.com/aave/flash-loans-one-month-in-73bde954a239). (Note that neither of the attacks we saw used AAVE as their flash lending pool.)
 
 # What are flash loans useful for?
 
@@ -78,11 +78,11 @@ But volumes have been tiny. AAVE has originated barely over $10K of borrows sinc
 
 This is because most arbitrage is performed by competitive arbitrageurs running sophisticated bots. They engage in on-chain [priority gas auctions](https://twitter.com/phildaian/status/1116155253890613249) and use [gas tokens](https://gastoken.io/) to optimize transaction fees. It's a very competitive market --- these guys are perfectly happy to keep some tokens on their balance sheet to optimize their earnings.
 
-On the other hand, borrowing on AAVE costs about [500K gas](https://developers.aave.com/#gas-consumption) and charges 0.09% of the principal --- a steep price to pay for an arbitrageur competing over tiny margins. In fact, in most [AAVE arbitrages](https://medium.com/aave/flash-loans-one-month-in-73bde954a239), the borrower ended up paying more in fees to the lending pool than they took home.
+On the other hand, borrowing on AAVE costs about [80K gas](https://developers.aave.com/#gas-consumption) and charges 0.09% of the principal --- a steep price to pay for an arbitrageur competing over tiny margins. In fact, in most [AAVE arbitrages](https://medium.com/aave/flash-loans-one-month-in-73bde954a239), the borrower ended up paying more in fees to the lending pool than they took home.
 
 In the long run, arbitrageurs are unlikely to use flash loans except in special circumstances.
 
-But flash loans have other more compelling use cases in DeFi. One example is refinancing loans. For example, say I have a Maker vault (CDP) with $100 of ETH locked in it, and I drew a loan of 40 DAI from it---so I've got a $60 net position minus my debt. Now I want to refinance into Compound for a better interest rate. Normally I'd need to go out and repurchase that 40 DAI to close out my CDP, which requires some up-front capital. Instead, I can flash borrow 40 DAI, close out the CDP, deposit $60 of my unlocked ETH into Compound, convert the other $40 of ETH back into DAI through Uniswap, and use that to repay the flash loan. Boom, atomic 0-capital refinancing.
+But flash loans have other more compelling use cases in DeFi. One example is refinancing loans. For example, say I have a Maker vault (CDP) with $100 of ETH locked in it, and I drew a loan of 40 DAI from it---so I've got a $60 net position minus my debt. Now say I want to refinance into Compound for a better interest rate. Normally I'd need to go out and repurchase that 40 DAI to close out my CDP, which requires some up-front capital. Instead, I can flash borrow 40 DAI, close out the $100 CDP, deposit $60 of my unlocked ETH into Compound, convert the other $40 of ETH back into DAI through Uniswap, and use that to repay the flash loan. Boom, atomic 0-capital refinancing.
 
 That's pretty magical! It's a great example of money legos™ at work. [1x.ag](https://1x.ag/#/) actually built a margin trading aggregator that automates this kind of thing using flash loans. But as cool as flash loans can be, the bZx attackers showed us that they aren't just fun and games.
 
