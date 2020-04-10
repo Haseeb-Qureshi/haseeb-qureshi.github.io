@@ -16,7 +16,7 @@ Fast forward to 2020. Ethereum is as slow as ever, and yet it has survived all t
 
 And yet, new solutions such as optimistic and ZK rollup are being hailed as the best scaling solutions. But memory of Plasma seems to have vanished without a trace.
 
-# So who killed Plasma?
+## So who killed Plasma?
 
 Let's go back to what it was like in early 2017. Ethereum had just gone mainstream for the first time, and there was limitless optimism about what would soon be possible. It was claimed that all valuable assets would soon be tokenized. Meetups in San Francisco were standing room only, and crowds materialized whenever Ethereum was mentioned. But Ethereum wasn't scaling.
 
@@ -31,7 +31,7 @@ Plasma claimed to allow Ethereum to scale to Visa-level transaction volumes, and
 
 But what exactly was Plasma, and why didn't it end up fulfilling its promises?
 
-# How does Plasma work?
+## How does Plasma work?
 
 The original Plasma paper described a mechanism for constructing a MapReduce "tree of blockchains". Each node in the tree would represent a unique blockchain that was connected to its parent, and all of these blockchains were arranged in a massive hierarchy. This initial specification, however, was vague and complex. Soon after its release, Vitalik simplified the spec in a new paper appropriately named [MVP](https://ethresear.ch/t/minimal-viable-plasma/426) (Minimal Viable Plasma).
 
@@ -76,7 +76,7 @@ In the worst case, if all users needed to exit a Plasma chain, the entire valid
 
 As prices began collapsing in 2018, Ethereum followers started to realize that Plasma MVP wouldn't be the silver bullet scaling solution they'd hoped for. There was simply no way to overcome its weaknesses. Plasma MVP was a dead end. All the while, Ethereum continued to struggle under its transaction load, and Ethereum 2.0 was still many years away.
 
-# The next generation of Plasma
+## The next generation of Plasma
 
 In mid-2018, as prices continued to crash, Ethereum's research community continued their attempts to improve on Plasma, iterating on the Plasma MVP design. The new version they came up with was termed [Plasma Cash](https://ethresear.ch/t/plasma-cash-plasma-with-much-less-per-user-data-checking/1298).
 
@@ -106,7 +106,7 @@ The Ethereum community was in limbo. While [new Plasma constructions](https://e
 
 It seemed that Plasma was dead.
 
-# Enter Rollups
+## Enter Rollups
 
 Just as confidence in layer-2 hit bottom, a GitHub repo named [roll_up](https://github.com/barryWhiteHat/roll_up) was made public by a pseudonymous user known as Barry Whitehat. This repo described a new type of layer-2 scaling solution: a Plasma-like construction with "bundled" up transactions, where instead of relying on operator trust, the correctness of the bundle could be attested to using an on-chain proof --- a SNARK.
 
@@ -133,7 +133,7 @@ By mid-2019, these new developments had re-energized the Ethereum research commu
 
 Additionally, Starkware (also a portfolio company) is building a variation on zk-Rollup they call [StarkExchange](https://medium.com/starkware/starkexchange-8045695b798). StarkExchange uses a STARK to prove the validity of sidechain transactions, but delegates the problem of data hosting off-chain (if the sidechain ever halts, exits are guaranteed through on-chain checkpointing). They are implementing a DEX in partnership with [DeversiFi ](https://deversifi.com/)with this design and will be launching on mainnet in the near future.
 
-# A dose of optimism
+## A dose of optimism
 
 But not everyone was pinning their hopes on zk-Rollups. One year after the release of the first zk-Rollup spec, John Adler and Mikerah introduced a design they called [Merged Consensus](https://ethresear.ch/t/minimal-viable-merged-consensus/5617). Merged Consensus enables off-chain consensus systems that are entirely verifiable on Ethereum without any fancy zero-knowledge cryptography. After its release, the Plasma Group released an extended version of the Merged Consensus design with the now well-known title: Optimistic Rollup.
 
@@ -153,7 +153,7 @@ While zk-Rollups would require programmers to understand complex constraint syst
 
 The rollup family of solutions provide similar approaches to solving Plasma's data availability issues and exit complexity, but all have the potential to far extend Plasma's constructions. [IDEX](https://idex.market/eth/idex), for example, has built and deployed their own version of Optimistic Rollups and run a DEX on this construction. Similarly, [Fuel labs](https://medium.com/@fuellabs/announcing-the-fuel-v0-open-beta-565a2d340fc3) has built a version of Optimistic Rollups that allows for UTXO style payments and ERC-20 token swaps. Plasma Group (now Optimism), recently announced their pivot to focus on Optimistic Rollups, and are aiming to offer general smart-contract capabilities on their platform (via their [OVM](https://medium.com/plasma-group/introducing-the-ovm-db253287af50) construction).
 
-# Everything that rises must converge
+## Everything that rises must converge
 
 Plasma was ultimately much more than just a protocol. In a time of irrational exuberance, Plasma was the story that Ethereum needed to believe in. But its claims of boundless scalability turned out to be, with the benefit of hindsight, technological hubris. Only in moving past Plasma have we been able to deeply appreciate the tradeoffs inherent in layer-2 scaling.
 

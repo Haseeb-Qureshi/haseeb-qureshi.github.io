@@ -18,7 +18,7 @@ In the wake of these attacks, I've been thinking a lot about flash loans and the
 
 In short: I believe flash loans are a big security threat. But flash loans are not going away, and we need to think carefully about the impact they will have for DeFi security going forward.
 
-# What is a flash loan?
+## What is a flash loan?
 
 The concept of a flash loan was first termed by Max Wolff, the creator of [Marble Protocol](https://medium.com/marbleorg/introducing-marble-a-smart-contract-bank-c9c438a12890) in 2018. Marble marketed itself as a "smart contract bank," and its product was a simple, yet brilliant DeFi innovation: zero-risk loans via a smart contract.
 
@@ -63,7 +63,7 @@ Flash loans cannot charge *interest* in the traditional sense, because the loa
 
 Flash lending makes capital a true commodity. This race to the bottom inevitably results in zero fees or a tiny nominal fee. dYdX currently charges 0 fees for flash lending. AAVE, on the other hand, charges 0.09% on the principal for flash loans. I suspect this is not sustainable, and indeed, some in their community have [called for slashing fees to 0](https://medium.com/aave/flash-loans-one-month-in-73bde954a239). (Note that neither of the attacks we saw used AAVE as their flash lending pool.)
 
-# What are flash loans useful for?
+## What are flash loans useful for?
 
 Flash loans were originally marketed on the premise that they'd primarily be used for arbitrage. Marble's [breakout announcement](https://medium.com/marbleorg/introducing-marble-a-smart-contract-bank-c9c438a12890) claimed:
 
@@ -86,7 +86,7 @@ But flash loans have other more compelling use cases in DeFi. One example is ref
 
 That's pretty magical! It's a great example of money legos™ at work. [1x.ag](https://1x.ag/#/) actually built a margin trading aggregator that automates this kind of thing using flash loans. But as cool as flash loans can be, the bZx attackers showed us that they aren't just fun and games.
 
-# Flash attacks have big security implications
+## Flash attacks have big security implications
 
 I've increasingly come to believe that what flash loans really unlock are flash attacks --- capital-intensive attacks funded by flash loans. We saw the first glimpses of this in the recent bZx hacks, and I suspect that's only the the tip of the spear.
 
@@ -111,7 +111,7 @@ And yet we acknowledge that Ethereum itself can be 51% attacked for [less than 
 
 (** To be clear, I don't believe these numbers---the figure conveniently ignores slippage and the dearth of supply---plus consensus-layer security and application-layer security are different beasts. But you get the point.)
 
-# So how can you mitigate against flash attacks?
+## So how can you mitigate against flash attacks?
 
 Say I'm a DeFi protocol and I want to avoid getting flash attacked. The natural question might be --- can I detect whether the user interacting with me is using a flash loan?
 
@@ -161,7 +161,7 @@ Ideally, it'd be great if governance tokens weren't flash loanable at all. But t
 
 More broadly, all governance tokens must have timelocks. A timelock enforces that all governance decisions must wait a period of time before they go live (for [Compound's timelock](https://compound.finance/developers/governance#timelock), it's 2 days). This allows the system to recover from any unanticipated governance attacks. Even though MKR isn't yet flash borrowable in bulk, MakerDAO was recently called out for being [vulnerable to this sort of attack](https://twitter.com/ameensol/status/1229848488621428736). It recently implemented [a 24 hour timelock](https://vote.makerdao.com/executive-proposal/activate-the-dai-debt-ceiling-adjustment-set-dai-savings-rate-spread-set-sai-stability-fee-lower-surplus-auction-bid-set-governance-delay-module), closing this attack vector.
 
-# What does all of this mean for the long term?
+## What does all of this mean for the long term?
 
 I believe the bZx attacks changed things.
 

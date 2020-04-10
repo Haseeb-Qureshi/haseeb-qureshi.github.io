@@ -43,6 +43,7 @@ image: rails-conf.jpg
 * [Developer on Fire&mdash;Virtue and Hustle with Haseeb Qureshi](http://developeronfire.com/podcast/episode-140-haseeb-qureshi-virtue-and-hustle)
 
 ##### From [Unchained: Big Ideas from the Worlds of Blockchain and Cryptocurrency](https://unchainedpodcast.com/dragonfly-capital-on-why-ethereum-is-so-far-in-the-lead/)
+* [Why Decentralization Isn't as Important as You Think](https://unchainedpodcast.com/why-decentralization-isnt-as-important-as-you-think/)
 * [Dragonfly Capital on Why Ethereum Is So Far in the Lead](https://unchainedpodcast.com/dragonfly-capital-on-why-ethereum-is-so-far-in-the-lead/)
 
 ##### From [The Blockchain Debate Podcast](https://www.buzzsprout.com/767033)
