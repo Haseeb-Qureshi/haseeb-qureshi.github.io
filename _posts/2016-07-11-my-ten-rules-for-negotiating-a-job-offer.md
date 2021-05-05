@@ -13,8 +13,6 @@ It just so happens that most people don't negotiate at all, or if they do, they 
 
 Worse yet, most of the advice out there on negotiation is borderline useless. Almost anything you read on the subject will be a vague and long-winded exhortation to &ldquo;make sure you negotiate&rdquo; and &ldquo;never say the first number.&rdquo; Beyond those two morsels of advice, you're pretty much on your own.
 
-<div class="ui embed" data-url="https://www.youtube.com/embed/v1xrgXHfrFo/">[video]</div>
-
 I thought to myself: why is there so little actionable advice out there about negotiation? I suspect it's because deep down, many people believe that negotiation is inexplicable, that it's something some people can do and others can't, and that there's no real way to break it down so anyone can learn it.
 
 I say that's bullshit. Negotiation is a skill that can be learned just like any other, and I don't believe it's particularly elusive or hard to understand. So I'm going to try to explain how anyone can do it.
