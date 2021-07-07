@@ -8,7 +8,7 @@ image: airbnb_cls6dd_yggjbh.png
 
 Despite the rejection from 23AndMe, I kept pushing.
 
-I applied to the all the big hiring websites. [Hired](https://hired.com) rejected me from their platform. I got no bites anywhere on [AngelList](https://angel.co) or LinkedIn&mdash;not even cold e-mails from recruiters. Nothing from [WhiteTruffle](https://whitetruffle.com) or [SmartHires](https://www.smarthires.io).
+I applied to all the big hiring websites. [Hired](https://hired.com) rejected me from their platform. I got no bites anywhere on [AngelList](https://angel.co) or LinkedIn&mdash;not even cold e-mails from recruiters. Nothing from [WhiteTruffle](https://whitetruffle.com) or [SmartHires](https://www.smarthires.io).
 
 Not a breath of interest anywhere.
 
@@ -262,7 +262,7 @@ So that's enough of soapboxing. Here are some stats.
 
 ## A Few Statistics
 
-By the end of my process, I had received a total of 8 job offers (not including re-negotiation with App Academy). I had completed 12 onsites total, so my I had a total onsite-to-offer rate of 66%.
+By the end of my process, I had received a total of 8 job offers (not including re-negotiation with App Academy). I had completed 12 onsites total, so I had a total onsite-to-offer rate of 66%.
 
 Considering only the onsites after receiving my first offer however, my onsite-to-offer rate was 87%.
 
