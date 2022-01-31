@@ -222,7 +222,7 @@ I think this response is totally backwards. The behavior of tech companies here 
 
 First, you must realize what a company's goal is. A company's goal is to hire someone who will become an effective employee and produce more value than their cost. How do you figure out who will do that? Well, you can't know for certain without actually hiring them, but there are a few proxies. Pedigree is the strongest signal; if they did it at other companies, they can probably do it at yours. And if someone trusted within the organization can vouch for them, that's often a strong signal as well.
 
-But turns out, almost everything else is a weak signal. Weak in the sense that it's just not very reliable. Interviews, if you think about it, are long, sweaty, uncomfortable affairs that only glancingly resemble actual employment. They're weird and can't tell you that much about whether an individual will be a good at their job. There's no way around this. There are a few stronger signals, like bringing someone in for a week or two on a contract-to-hire position, but strong candidates won't consider this. So candidates as a whole have effectively forced companies to assume almost all of the risk in hiring.
+But turns out, almost everything else is a weak signal. Weak in the sense that it's just not very reliable. Interviews, if you think about it, are long, sweaty, uncomfortable affairs that only glancingly resemble actual employment. They're weird and can't tell you that much about whether an individual will be good at their job. There's no way around this. There are a few stronger signals, like bringing someone in for a week or two on a contract-to-hire position, but strong candidates won't consider this. So candidates as a whole have effectively forced companies to assume almost all of the risk in hiring.
 
 The truth is, knowing that someone has passed your interview just doesn't say *that much* about whether they'll be a good employee. It's as though you knew nothing about a student other than their SAT score. It's just not a lot of data to go off.
 
@@ -232,7 +232,7 @@ And this is precisely why it's rational for companies to care that you've receiv
 
 This is not to say that companies respond proportionally to these signals, or that they don't overvalue credentials and brands. They do. But caring about whether you have other offers and valuing you accordingly is completely rational.
 
-So this is all to say&mdash;tell other companies that you've received offers. Give them more signal so that they know you're a valued and compelling candidate. And understand why this changes their mind about whether to interview you.
+So this is all to say&mdash;tell other companies that you've received offers. Give them more signals so that they know you're a valued and compelling candidate. And understand why this changes their mind about whether to interview you.
 
 As you continue interviewing, remember to keep practicing your interview skills. The single strongest determinant of your final offer will be the number and strength of offers that you receive.
 
@@ -268,13 +268,13 @@ Example conversation:
 
 If they push back and say this is the best they can do, then politely reply:
 
-> That's really unfortunate. I like [YOUR COMPANY] and was really excited about the team, but like I said, there's no way I can consider this offer. 48 hours just too unreasonable of a window. The next company I join will be a big life decision for me, and I take my commitments very seriously. I also need to consult with my [EXTERNAL_DECISION_MAKER]. There's no way that I can make a decision I'm comfortable with in this short an amount of time.
+> That's really unfortunate. I like [YOUR COMPANY] and was really excited about the team, but like I said, there's no way I can consider this offer. 48 hours just too unreasonable of a window. The next company I join will be a big life decision for me, and I take my commitments very seriously. I also need to consult with my [EXTERNAL_DECISION_MAKER]. There's no way that I can make a decision I'm comfortable with within this short amount of time.
 
 Pretty much any company will relent at this point. If they persist, don't be afraid to walk away over it. (They probably won't let that happen, and will come grab you as you're walking out the door. But if they don't, then honestly, screw 'em.)
 
 I was given several exploding offers during my job search. And every time, I did essentially this. Every single offer immediately widened to become more reasonable, sometimes by several weeks.
 
-I want to emphasize, lest I be misunderstood here&mdash;what I'm saying is not to just silently let an exploding offer expire, and assume that everything will be fine and they'll still hire you. They won't. For exploding offers to be a credible weapon, a company has to have a reputation of enforcing them. I'm saying explicitly call this out as an issue when they make the offer.
+I want to emphasize, lest I be misunderstood here&mdash;what I'm saying is not to just silently let an exploding offer expire, and assume that everything will be fine and they'll still hire you. They won't. For exploding offers to be a credible weapon, a company has to have a reputation for enforcing them. I'm saying explicitly call this out as an issue when they make the offer.
 
 Don't let a company bully you into giving away your negotiating power.
 
@@ -282,7 +282,7 @@ Don't let a company bully you into giving away your negotiating power.
 
 Before we enter into the actual back-and-forth, I want to examine the mindset you should have as a negotiator. This applies not just to how you approach the conversation, but also to how you think about the company.
 
-Do not fall into the trap of valuing companies solely along one dimension. That means don't just value companies based on salary, equity, or even on prestige. Those are all important dimensions, but so are cultural fit, the challenge of the work, learning potential, later career options, quality of life, growth potential, and just overall happiness. None of these inherently trump any of the other. Anyone who tells you &ldquo;just choose wherever you think you'll be happiest&rdquo; is being just as simplistic than someone who says &ldquo;just choose the one that offers the most money.&rdquo; All of these things matter, and your decision should be genuinely multi-dimensional.
+Do not fall into the trap of valuing companies solely along one dimension. That means don't just value companies based on salary, equity, or even on prestige. Those are all important dimensions, but so are cultural fit, the challenge of the work, learning potential, later career options, quality of life, growth potential, and just overall happiness. None of these inherently trump any of the other. Anyone who tells you &ldquo;just choose wherever you think you'll be happiest&rdquo; is being just as simplistic as someone who says &ldquo;just choose the one that offers the most money.&rdquo; All of these things matter, and your decision should be genuinely multi-dimensional.
 
 Be open to being surprised as you explore different companies.
 
