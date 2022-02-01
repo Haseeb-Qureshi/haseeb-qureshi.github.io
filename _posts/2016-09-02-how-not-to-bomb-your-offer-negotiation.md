@@ -11,7 +11,7 @@ Naturally, this is the part where everything goes horribly wrong.
 
 But worry not. Stick with me, and I'm going to make you into a superhuman negotiator. (Or at least an eccentric billionaire negotiator, which is sometimes better?)
 
-Seriously though. In this article I'm going to deep dive on the whole negotiating process, and discuss the final 4 rules on how to negotiate a job offer.
+Seriously though. In this article I'm going to deep dive into the whole negotiating process, and discuss the final 4 rules on how to negotiate a job offer.
 
 Right. Let's start from the top.
 
@@ -45,11 +45,11 @@ Ah, but it's not actually true for cake. What if I hate corner pieces and you lo
 
 Of course, when I posed the question I didn't mention anything about cherries or my feelings on corner pieces. It might seem like I just made shit up.
 
-But this is exactly what good negotiators do. They bend the rules. They question assumptions and ask unexpected questions. They dig to find the core what everyone values and looks for creative ways to widen the terrain of negotiation.
+But this is exactly what good negotiators do. They bend the rules. They question assumptions and ask unexpected questions. They dig to find the core of what everyone values and look for creative ways to widen the terrain of negotiation.
 
 While you were thinking about how to haggle over slices, I'm thinking about how to give both of us more than just half of a cake.
 
-Different parties in a negotiation almost always have different value functions. We may value the *same* things&mdash;we both care about cake, after all. But we we don't value them in exactly the same way, so there's probably a way to give each of us more of what we want.
+Different parties in a negotiation almost always have different value functions. We may value the *same* things&mdash;we both care about cake, after all. But we don't value them in exactly the same way, so there's probably a way to give each of us more of what we want.
 
 Most people go into a job negotiation thinking they need to stubbornly haggle over salary like slices of cake. They don't ever stop to ask&mdash;hey, what do I actually value? Why do I value it? What does the company value? Why do they value that?
 
@@ -71,7 +71,7 @@ Your first decision is whether you're going to negotiate over the phone or keep 
 
 Talking on the phone not only signals confidence, but more importantly, it allows you to build a strong relationship with your recruiter.
 
-Talking on the phone enables bantering, telling jokes, and building connection. You want your recruiter to like you, understand you, empathize with you, and want you to succeed. Likewise, you want to care about your recruiter and understand what's motivating them.
+Talking on the phone enables bantering, telling jokes, and building a connection. You want your recruiter to like you, understand you, empathize with you, and want you to succeed. Likewise, you want to care about your recruiter and understand what's motivating them.
 
 The best deals get made between friends. It's hard to make friends over e-mail.
 
@@ -107,7 +107,7 @@ But what if you don't manage to get any other offers? Does all the negotiating j
 
 Not at all. What's important here is not actually having other offers. More specifically, it's in having strong alternatives. Which is why **Rule #6 of negotiating is: have alternatives.**
 
-A negotiation needs stakes. If there were no risk and you knew for sure the other side would sign a contract, what incentive would you have to offer them anything more?
+A negotiation needs stakes. If there were no risks and you knew for sure the other side would sign a contract, what incentive would you have to offer them anything more?
 
 Your alternatives are what give a negotiation its stakes. By signaling your alternatives, you allow your interlocutor to develop a mental model of when and why you'll walk away from the negotiation. Your alternatives also have an anchoring effect on how much the other side thinks you're objectively worth.
 
@@ -170,7 +170,7 @@ And you're worried that if you negotiate, they'll take it away?
 
 Further yet, understand that salary is only one part of the cost of employing you. An employer also has to pay for your benefits, your equipment, space, utilities, other random expenses, and employment taxes on top of all of that. All-in, [your actual salary often comprises less than 50% of the total cost of employing you](http://web.mit.edu/e-club/hadzima/pdf/how-much-does-an-employee-cost.pdf).
 
-(Which means they expect that your value to the company, in terms of the revenue you'll generate, to be more than 2x your salary. If they didn't believe that, they wouldn't be hiring you at all.)
+(Which means they expect your value to the company, in terms of the revenue you'll generate, to be more than 2x your salary. If they didn't believe that, they wouldn't be hiring you at all.)
 
 So, this is all to say: everything is stacked in your favor. It doesn't feel that way, but it absolutely is.
 
@@ -238,7 +238,7 @@ Either way, be unfailingly polite.
 
 If you're dissatisfied with the offer, you might say something like:
 
-> I appreciate the work you guys put into constructing this offer. But there were a couple things I was unsatisfied with.
+> I appreciate the work you guys put into constructing this offer. But there were a couple of things I was unsatisfied with.
 
 If you want to be more reserved, you can say something like:
 
@@ -262,7 +262,7 @@ If you *had* to raise your salary or you wouldn't be able to afford rent, or if 
 
 It's kind of a brain-hack, both for yourself and for your negotiating partner. Just stating a reason&mdash;any reason&mdash;makes your request feel human and important. It's not you being greedy, it's you trying to fulfill your goals.
 
-The more unobjectionable and sympathetic your reason, the better. If it's medical expenses, or paying off student loans, or taking care of family, you'll bring tears to their eyes. I told employers that I was earning-to-give, so since I was donating 33% of my income to charity, I had negotiate aggressively to leave myself enough to live off.
+The more unobjectionable and sympathetic your reason, the better. If it's medical expenses, or paying off student loans, or taking care of family, you'll bring tears to their eyes. I told employers that I was earning-to-give, so since I was donating 33% of my income to charity, I had to negotiate aggressively to leave myself enough to live off.
 
 But honestly, even if your reason is inane and unimpressive, it will still carry this effect.
 
@@ -286,7 +286,7 @@ One effective move you can make in a negotiation, especially after an ask, is to
 >
 > Let me know your thoughts.
 
-Be confident without boasting or trying to hold yourself specific metrics (unless you're supremely confident). Whatever you assert should be something you've touched on earlier in your discussions, but it's okay to repeat it now as a gentle reminder. It reminds them of the carrot and shows that you're still excited to add value.
+Be confident without boasting or trying to hold yourself to specific metrics (unless you're supremely confident). Whatever you assert should be something you've touched on earlier in your discussions, but it's okay to repeat it now as a gentle reminder. It reminds them of the carrot and shows that you're still excited to add value.
 
 This is not appropriate in every negotiation, especially for very junior positions, where it's harder to differentiate yourself. But later in your career (or for more specialized/consulting roles) this can be a really valuable nudge.
 
@@ -322,9 +322,9 @@ If you are genuinely risk-neutral or early in your career, then you should gener
 
 ## A Brief Primer on Equity
 
-You can skip this section if you're already pretty familiar with how equity works. I'm going to speaking to the totally uninitiated here, because too many people get swindled when it comes to valuing stock.
+You can skip this section if you're already pretty familiar with how equity works. I'm going to be speaking to the totally uninitiated here, because too many people get swindled when it comes to valuing stock.
 
-First, understand there are two completely different classes of companies: public companies and private companies. If the company is public (i.e., it has IPOed and is listed on the stock market), then its stock is as good as cash. You will usually be granted RSUs (Restricted Stock Units), which are just shares like you can purchase on the stock market. Once these shares vest (that is, are released to you), you can turn around and sell them on the stock market. This is how they turn into money.
+First, understand there are two completely different classes of companies: public companies and private companies. If the company is public (i.e., it has IPOed and is listed on the stock market), then its stock is as good as cash. You will usually be granted RSUs (Restricted Stock Units), which are just like shares you can purchase on the stock market. Once these shares vest (that is, are released to you), you can turn around and sell them on the stock market. This is how they turn into money.
 
 If the company is private, then things get a lot more complicated. For private companies, most of the time they will not actually issue you stock grants. Usually, they will issue you stock options. An option is a pre-agreed right to purchase shares of stock at a frozen price.
 
@@ -336,13 +336,13 @@ Thus, options are very risky. It's easier to get screwed by options, especially 
 
 Many companies will try to play mindgames with you when it comes to equity. Several companies pulled these on me.
 
-A common one is presenting the total value of the stock grant rather than the annualized value, despite the the stock not vesting evenly, or vesting over 5 years instead of the standard 4.
+A common one is presenting the total value of the stock grant rather than the annualized value, despite the stock not vesting evenly, or vesting over 5 years instead of the standard 4.
 
 But the most egregious thing that companies will do is tell you absurd stories about the value of their stock. They'll say: &ldquo;okay, we're worth this much now, but at the rate we're growing we're going to be worth 10X that in a year. So really, the value of your options is many millions of dollars!&rdquo;
 
 To not mince words: this is cynically dishonest bullshit. Don't buy it even for a second. I got this a few times, and the only reason I didn't walk away from the offer immediately was because it was always a recruiter pulling this crap. If it was a manager I would've turned down the offer outright.
 
-Here's why this is infuriatingly stuptags: [a company's valuation is determined by investors. These investors see the financials and the growth rate of the company, and invest at a price that **reflects the current growth rate of the company.** In other words, they invested at a valuation that already took their 10x growth rate into account. Investors are not idiots. And unless you (or your recruiter) think you have privileged information or insight that the company's investors don't, you should probably take the investors' word for it.
+Here's why this is infuriatingly stupid: a company's valuation is determined by investors. These investors see the financials and the growth rate of the company, and invest at a price that **reflects the current growth rate of the company.** In other words, they invested at a valuation that already took their 10x growth rate into account. Investors are not idiots. And unless you (or your recruiter) think you have privileged information or insight that the company's investors don't, you should probably take the investors' word for it.
 
 (Not to mention a company's nominal valuation is almost always inflated due to preferred shares, debt, and survivorship bias, but let's ignore that for now.)
 
@@ -364,11 +364,11 @@ Don't assume anything's off the table until you've tried bringing it up.
 
 That said, don't throw the entire kitchen sink at them. A negotiation can quickly become cumbersome for an employer if you bring up a litany of changes. Keep the changeset as pithy as you can.
 
-## Negotiating Jiu Jitsu
+## Negotiating Jiu-Jitsu
 
 Recruiters love trying to trick you into ending the negotiation early. They're going to do this relentlessly. Don't fault them for it&mdash;I suspect they can't help themselves.
 
-Just keep breaking out of their shenanigans, and don't let yourself be pressured into ending a negotiation until you're actually ready to make a final decision. This is especially grave if you have multiple offers, and you let one company pressure you into canceling the others. Companies succeed in doing this all the time, so I want to equip you with the skills to jiu jitsu out of these techniques.
+Just keep breaking out of their shenanigans, and don't let yourself be pressured into ending a negotiation until you're actually ready to make a final decision. This is especially grave if you have multiple offers, and you let one company pressure you into canceling the others. Companies succeed in doing this all the time, so I want to equip you with the skills to jiu-jitsu out of these techniques.
 
 Here are two situations you can break out of. (These are both real situations that happened to me during my negotiations, though the numbers and details are invented.)
 
@@ -388,7 +388,7 @@ They respond:
 
 >I think I can, it just comes down to you Haseeb. If you're serious about joining us, then I'll go fight for you. But I need to know for sure you'll sign.
 
-Great. Time to Jiu Jitsu.
+Great. Time to Jiu-Jitsu.
 
 > That makes sense. Unfortunately I can't commit to signing yet; I'm not yet at the stage where I can make a final decision. Like I told you before, this weekend I'm going to sit down with my family and talk things over with them. Choosing the company I'm going to spend the next few years at is a commitment I take really seriously, and so I want to be sure I'm making a well-considered decision.
 
@@ -430,9 +430,9 @@ Don't go dark on people. Be open and communicative. I keep saying be honest and 
 
 Aside: I keep talking about honesty, and you might protest that this is antithetical to my earlier rule of &ldquo;protect information.&rdquo; It's not. True, you should protect information that might weaken your negotiating position, but you should be as communicative as possible about everything else (which is most things).
 
-Negotiating is all about relationship, and communication is the bedrock of any relationship.
+Negotiating is all about relationships, and communication is the bedrock of any relationship.
 
-This brings me to the **the final rule: be winnable.** This is more than just giving the company the impression that you like them (which you continually should). But more so that you must give any company you're talking to a clear path on how to win you. Don't bullshit them or play stupid games. Be clear and unequivocal with your preferences and timeline.
+This brings me to **the final rule: be winnable.** This is more than just giving the company the impression that you like them (which you continually should). But more so that you must give any company you're talking to a clear path on how to win you. Don't bullshit them or play stupid games. Be clear and unequivocal with your preferences and timeline.
 
 If there is nothing that a company could do to sign you, or you don't actually want to work for them, then don't negotiate with them. Period.
 
@@ -470,11 +470,11 @@ Every company that's still on the table, let them know what it would take to sig
 
 > Hi Joel, I've been thinking it over and it's genuinely a really tough decision for me. I loved everyone at [COMPANY] but the one thing that makes it hard for me is the salary. As you know I'm trying to pay off my student loans so salary is really important to me right now. If you can improve the salary by 10K a year, then I'll be totally ready to sign.
 
-With luck, they meet you half-way. Or, with a little more luck, they'll meet you all the way.
+With luck, they meet you halfway. Or, with a little more luck, they'll meet you all the way.
 
-And just because I know someone will ask&mdash;yes, once say you're going to sign, you should always sign. Never go back on your word. It's a small world, people talk, and these kind of things will come back to haunt you. (More importantly, never go back on your word because you're the kind of person who never goes back on their word.)
+And just because I know someone will ask&mdash;yes, once say you're going to sign, you should always sign. Never go back on your word. It's a small world, people talk, and these kinds of things will come back to haunt you. (More importantly, never go back on your word because you're the kind of person who never goes back on their word.)
 
-Tell all of the other parties that you've made your final decision. Thank them for the negotiation. If you did it well, they'll usually thank you back, tell you to keep in touch, and to reach out again in a couple years next time you're on the market.
+Tell all of the other parties that you've made your final decision. Thank them for the negotiation. If you did it well, they'll usually thank you back, tell you to keep in touch, and to reach out again in a couple of years next time you're on the market.
 
 And that's it. You did it! Congratulations! You're still alive, right?
 
