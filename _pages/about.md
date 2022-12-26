@@ -9,7 +9,7 @@ I'm a managing partner at **Dragonfly**, a crypto fund.
 
 I'm also a programmer, a writer, a teacher, a public speaker, and an Effective Altruist.
 
-I've taught a class on [web3 Entrepreneurship](https://www.youtube.com/playlist?list=PLS01nW3Rtgor3EijYdpEHOQi1sZ6m5gos) at UC Berkeley. I used to teach a class on cryptocurrencies for programmers at the **Bradfield School of Computer Science**. I was formerly a software engineer at **Earn.com** (acquired by Coinbase), and before that at **Airbnb**. Before that I was Director of Product at **App Academy**. Before that I was a mental coach and wrote a book called *The Philosophy of Poker*. And before that I was a top-ranked high stakes professional poker player, sponsored by **Full Tilt Poker**.
+I've taught a class on [web3 Entrepreneurship](https://www.youtube.com/playlist?list=PLS01nW3Rtgor3EijYdpEHOQi1sZ6m5gos) at **UC Berkeley**. I used to teach a class on cryptocurrencies for programmers at the **Bradfield School of Computer Science**. I was formerly a software engineer at **Earn.com** (acquired by Coinbase), and before that at **Airbnb**. Before that I was Director of Product at **App Academy**. Before that I was a mental coach and wrote a book called *The Philosophy of Poker*. And before that I was a top-ranked high stakes professional poker player, sponsored by **Full Tilt Poker**.
 
 That's me in a nutshell. It's a pretty strange path, from professional poker player to software engineer to investor. But if you want to get the full picture, you'll need to know my origin story. 
 
