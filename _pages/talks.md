@@ -3,7 +3,7 @@ title: Talks
 image: rails-conf.jpg
 ---
 
-Note: this list is no longer up-to-date as of 2020.
+A selection of older talks and interviews. For current appearances, listen to [The Chopping Block](/podcast/), which I record every week.
 
 <div class="ui embed" data-url="//player.ooyala.com/static/v4/stable/4.22.11/skin-plugin/iframe.html?ec=Jrb3dwaDE6048Xb-hig2wEOg0ZF7Uojz&pbid=9935c14646034dc285185d1bbb784519&pcode=FvbGkyOtJVFD33j_Rd0xPLSo0Jiv"></div>
 <div class="caption">Stablecoins Roundtable at MIT Business of Blockchain Conference</div>
