@@ -13,7 +13,7 @@ Well, turns out your friend just described Uniswap. Uniswap is the world's simpl
 
 If you haven't paid close attention to what's happening in DeFi in the last year, you're probably wondering: what is going on here?
 
-![Uniswap volume](https://miro.medium.com/max/1036/0*VucV5OzgXuqOET48)
+![Chart of Uniswap v2 daily trading volume rising sharply, from Uniswap.info](https://miro.medium.com/max/1036/0*VucV5OzgXuqOET48)
 *Uniswap v2 volume. Credit: [Uniswap.info](https://uniswap.info/)*
 
 (If you're already familiar with Uniswap and AMMs, skip ahead to the section titled "[The Cambrian AMM Explosion](https://medium.com/dragonfly-research/what-explains-the-rise-of-amms-7d008af1c399#e49e).")
@@ -34,7 +34,7 @@ If she buys an apple, our pool will be left with 49 apples, but `49 * b` has t
 
 Note that this is close to the natural price of 1:1! Because it's a small order, there is only a little slippage. But what if the order is larger?
 
-![Uniswap curve](https://miro.medium.com/max/60/0*9Lxz-Fw5szjVzFps?q=20)
+![Constant-product pricing curve of apples vs bananas; the slope at each point is the marginal exchange rate](https://miro.medium.com/max/60/0*9Lxz-Fw5szjVzFps?q=20)
 *You can interpret the slope at each point as the marginal exchange rate.*
 
 If she wants to buy 10 apples, Uniswap would charge her 12.5 bananas for a unit price of 1.25 bananas / apple for 10 apples.
@@ -43,7 +43,7 @@ And if she wanted a huge order of 25 apples---half of all the apples in inventor
 
 The important thing to realize is that *Uniswap cannot deviate from this pricing curve*. If someone wants to buy some apples and later someone else wants to buy some bananas, Uniswap will sweep back and forth through this pricing curve, wherever demand carries it.
 
-![Uniswap curve](https://miro.medium.com/max/60/0*z7XOwnC25gcKIvNj?q=20)
+![Diagram of Uniswap sweeping back and forth along its constant-product pricing curve as trades occur](https://miro.medium.com/max/60/0*z7XOwnC25gcKIvNj?q=20)
 *Uniswap sweeping back and forth through its pricing curve after a series of trades.*
 
 Now here's the kicker: if the true exchange rate between apples and bananas is 1:1, then after the first customer purchases 10 apples, our Uniswap pool will be left with 40 apples and 62.5 bananas. If an arbitrageur then steps in and buys 12.5 bananas, returning the pool back to its original state, Uniswap would charge them a unit price of only 0.8 apples / banana.
@@ -68,7 +68,7 @@ What happens on Uniswap?
 
 The very next second, an arbitrageur swoops in to pick off the cheaply priced bananas in your Uniswap pool. They size their trade so that they purchase every banana that's priced below the new exchange rate of 5:1. That means they'll need to move the curve until it satisfies the equation: `5b * b = 2500`.
 
-![Uniswap responding to a large trade](https://miro.medium.com/max/60/1*bLfpm6lfuIPdKpVDh1xlpQ.gif?q=20)
+![Animation of an arbitrage trade moving the pool along the constant-product curve to the new 5:1 price](https://miro.medium.com/max/60/1*bLfpm6lfuIPdKpVDh1xlpQ.gif?q=20)
 
 Running the math out, they'd purchase 27.64 bananas for a grand total of 61.80 apples. This comes out to an average price of 2.2 apples : 1 banana, way under market, netting the equivalent of 76.4 free apples.
 
@@ -88,12 +88,12 @@ In retrospect, it's incredibly elegant, one of the simplest possible products yo
 
 Since Uniswap's rise, there has been an explosion of innovation in AMMs. A legion of Uniswap descendants have emerged, each with its own specialized features.
 
-![AMM trading volume](https://miro.medium.com/max/700/0*pZ-8-IHotoC30ijE)
+![Chart comparing trading volume of Uniswap, Balancer, and Curve, from Dune Analytics](https://miro.medium.com/max/700/0*pZ-8-IHotoC30ijE)
 *Uniswap, Balancer, and Curve trading volume. Source: [Dune Analytics](https://explore.duneanalytics.com/queries/6097/source#12075)*
 
 Though they all inherited the core design of Uniswap, they each come with their own specialized pricing function. Take [Curve](https://www.curve.fi/), which uses a mixture of constant product and constant sum, or [Balancer](https://balancer.finance/), whose multi-asset pricing function is defined by a multi-dimensional surface. There are even shifted curves that can run out of inventory, like the ones [Foundation](https://withfoundation.com/blog/we-are-empowering-creators-to-build-their-own-markets-on-ethereum) uses to sell limited edition goods.
 
-![Curve's curve](https://miro.medium.com/max/700/0*TfURki3oti3_JFUg)
+![Stableswap curve (blue) plotted against constant-product and constant-sum curves, from the Curve whitepaper](https://miro.medium.com/max/700/0*TfURki3oti3_JFUg)
 *The Stableswap curve (blue), used in Curve. Source: [Curve whitepaper](https://www.curve.fi/stableswap-paper.pdf)*
 
 Different curves are better suited for certain assets, as they embed different assumptions about the price relationship between the assets being quoted. You can see in the chart above that the Stableswap curve (blue) approximates a line most of the time, meaning that in most of its trading range, the two stablecoins will be priced very close to each other. Constant product is a decent starting place if you don't know anything about the two assets, but if we know the two assets are stablecoins and they are *probably* going to be worth around the same, then the Stableswap curve will produce more competitive pricing.
@@ -119,7 +119,7 @@ The general principle is this: the Uniswap thesis works best when the two asset
 
 We can accordingly draw a hierarchy of the most profitable Uniswap pools, all other things equal.
 
-![Correlation spectrum](https://miro.medium.com/max/700/0*wSg1c3TKAGYlY58F)
+![Spectrum ranking Uniswap pool profitability by pair correlation, from mean-reverting to inverse correlated](https://miro.medium.com/max/700/0*wSg1c3TKAGYlY58F)
 
 Mean-reverting pairs are obvious. Correlated pairs often move together, so Uniswap won't exhibit as much impermanent loss there. Uncorrelated pairs like ETH/DAI are rough, but sometimes the fees can make up for it. And then there are the inverse correlated pairs: these are absolutely awful for Uniswap.
 
@@ -129,7 +129,7 @@ So Uniswap works really well for certain pairs and terribly for others.
 
 But it's hard not to notice that almost all of the top Uniswap pools so far have been profitable! In fact, even the ETH/DAI pool has been profitable since inception.
 
-![Uniswap returns](https://miro.medium.com/max/700/0*Zf5xkN3t_ab-eQvy)
+![Chart of Uniswap ETH/DAI pool returns versus holding 50/50 ETH and DAI, from ZumZoom Analytics](https://miro.medium.com/max/700/0*Zf5xkN3t_ab-eQvy)
 *Uniswap returns for ETH/DAI pool (vs holding 50/50 ETH/DAI). Source: [ZumZoom Analytics](https://zumzoom.github.io/analytics/uniswap/roi/)*
 
 This demands explanation. Despite their flaws, CFMMs have been impressively profitable market makers. How is this possible? To answer this question, it pays to understand a bit about how market makers work.
@@ -220,7 +220,7 @@ In 2025, I don't expect CFMMs the way they look today to be the dominant way peo
 
 In the early days of the Internet, web portals like Yahoo were the first affordance to take off on the Web. The constrained environment of the early Web was perfectly suited to being organized by hand-crafted directories. These portals grew like crazy as mainstream users started coming online! But we now know portals were a temporary stepping stone on the path to organizing the Internet's information.
 
-![Yahoo vs Google](https://miro.medium.com/max/1060/0*Ngto7GUJt5ePZcQa)
+![Screenshots of the original Yahoo homepage next to the original Google homepage](https://miro.medium.com/max/1060/0*Ngto7GUJt5ePZcQa)
 *The original Yahoo homepage and the original Google homepage*
 
 What are CFMMs a stepping stone to? Will something replace it, or will CFMMs evolve alongside DeFi? In my next post, entitled *Unbundling Uniswap*, I'll try to answer this question.
