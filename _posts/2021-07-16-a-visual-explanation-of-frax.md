@@ -12,13 +12,13 @@ If you take a real central bank, most of their assets are other sovereign curren
 
 Here’s how FRAX works in more detail:
 
-![](/images/posts/a-visual-explanation-of-frax/01.gif)
+![Animated diagram of FRAX as a bank balance sheet with USDC cash assets, FRAX liabilities, and a 100% collateral ratio](/images/posts/a-visual-explanation-of-frax/01.gif)
 
 **The iron rule is that 1 FRAX can always be created or redeemed for \$1.**
 
 But when market conditions change, the Collateral Ratio (CR) changes, and the composition of that \$1 changes:
 
-![](/images/posts/a-visual-explanation-of-frax/02.gif)
+![Animation of the FRAX collateral ratio adjusting with demand; above peg, minting uses 98 cents collateral plus 2 cents of burned FXS](/images/posts/a-visual-explanation-of-frax/02.gif)
 
 Like with Seigniorage Shares, the money supply of Frax is elastic. When demand for the FRAX stablecoin increases, the system can expand the money supply beyond the total collateral in the system.
 

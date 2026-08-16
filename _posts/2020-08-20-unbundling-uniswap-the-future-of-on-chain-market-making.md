@@ -25,7 +25,7 @@ Let’s say you want to start a new Uniswap pool. A new Uniswap pool is like a n
 
 Your new pool collects a mix of both REN and ETH from anyone willing to offer, which capitalizes its balance sheet. Then, if the pool is profitable, those investors can later withdraw back their proportional claim on remaining inventory and the generated profits. This is painless decentralized fundraising — it’s awesome and makes complete sense.
 
-![](/images/posts/unbundling-uniswap-the-future-of-on-chain-market-making/01.png)
+![Diagram of a Uniswap pair: a liquidity provider deposits two tokens and receives pool tokens, with the x*y=k price curve](/images/posts/unbundling-uniswap-the-future-of-on-chain-market-making/01.png)
 
 _Uniswap sources its inventory from “Liquidity Providers” who invest capital. Credit:_[_Uniswap_](https://uniswap.org/docs/v2/core-concepts/pools/)
 
@@ -47,7 +47,7 @@ The next element of the Uniswap bundle is the fee that LPs receive on each trade
 
 I expect price competition among AMMs here to be fierce, especially in assets that demand tight spreads like stablecoins. Uniswap charges 0.3% on every pool, while Curve charges 0.04% and Balancer pools can charge any fee they want (the median fee of the top [10 Balancer pools](https://pools.balancer.exchange/#/) is 0.15%). It turns out, the optimal fee for a constant product AMM scales with the [square of the volatility of the pool](https://drive.google.com/file/d/1r8YaSw4SkCgBYRt6qkehcRgt_1NGooqc/view).
 
-![](/images/posts/unbundling-uniswap-the-future-of-on-chain-market-making/02.png)
+![Line chart of LP relative loss versus final price S_T at four fee levels; higher fees offset more impermanent loss](/images/posts/unbundling-uniswap-the-future-of-on-chain-market-making/02.png)
 
 How impermanent loss scales with fees in Uniswap. Credit: [Charlie Noyes](https://drive.google.com/file/d/1r8YaSw4SkCgBYRt6qkehcRgt_1NGooqc/view)
 
@@ -57,7 +57,7 @@ That said, more specialized market makers can be smarter in how they price asset
 
 Then there’s the always-on nature of Uniswap. Uniswap will _always_ quote you a price, no matter what the circumstances. In order to maintain this property, most AMMs have to have their tail pricing go to infinity (note the asymptotes at the ends of the curve).
 
-![](/images/posts/unbundling-uniswap-the-future-of-on-chain-market-making/03.png)
+![Graph of Uniswap's constant product curve, a hyperbola of quantity of asset B against quantity of asset A](/images/posts/unbundling-uniswap-the-future-of-on-chain-market-making/03.png)
 
 _Uniswap’s constant product curve. Credit:_[_Dmitriy Berenzon_](https://medium.com/bollinger-investment-group/constant-function-market-makers-defis-zero-to-one-innovation-968f77022159)
 
@@ -119,7 +119,7 @@ Yes it is! Just as much as any OTC quote or an order on an order book is. You ca
 
 Imagine every market maker could get their own kiosk set up by deploying a standardized contract and boilerplate software to set up their API. Each contract would have a configurable IP pointer, so users and aggregators would know where to ping to check current prices or request a quote, and once their standardized contract was deployed to mainnet, it’d automatically get indexed by aggregators. Any market maker from anywhere in the world could set up their shingle and a few minutes later, almost like magic, start serving DeFi flow.
 
-![](/images/posts/unbundling-uniswap-the-future-of-on-chain-market-making/04.png)
+![Photo of a crowded Phuket night market at dusk with crypto token logos overlaid on the food stalls](/images/posts/unbundling-uniswap-the-future-of-on-chain-market-making/04.png)
 
 _Come one, come all to the DeFi marketplace._[_Source_](https://www.hotels.com/go/thailand/great-phuket-night-markets)
 
@@ -139,7 +139,7 @@ Say I’m a market maker, and currently my on-chain menu says 1 ETH / 300 DAI. I
 
 Even with this design, professional market making on Kyber is exploding! Right now, ~2/3rds of Kyber’s volume is routed to professional market makers.
 
-![](/images/posts/unbundling-uniswap-the-future-of-on-chain-market-making/05.png)
+![Donut chart of Kyber reserve volume for June; Anon Market Maker leads at 28.8%, Kyber Reserve second at 19.8%](/images/posts/unbundling-uniswap-the-future-of-on-chain-market-making/05.png)
 
 _Kyber volume sources in June 2020. Source:_[_Kyber Network_](https://blog.kyber.network/kyber-ecosystem-report-16-katalyst-launch-special-566d35dbeaf7)
 
@@ -155,7 +155,7 @@ This is not just theoretical. It’s already happening.
 
 [1inch](https://1inch.exchange/), a DEX aggregator that is routing nearly 20% of all DEX volume, already routes a large chunk of their orders to private market makers.
 
-![](/images/posts/unbundling-uniswap-the-future-of-on-chain-market-making/06.png)
+![Screenshot of a 1inch quote table where a private market maker matches the best DAI price, beating Balancer and Uniswap](/images/posts/unbundling-uniswap-the-future-of-on-chain-market-making/06.png)
 
 This gives those orders better price execution than every single form of on-chain liquidity. It’s not as simple or elegant as Uniswap, but it’s just as trustless, and it will result in better price execution for almost all users of DeFi.
 

@@ -28,12 +28,12 @@ Spend 10 minutes browsing Moltbook. You owe it to yourself to see what the infan
 
 It's only going to get weirder and more complex from here.
 
-![](/images/posts/moltbook-an-ai-agent-social-network/01.jpg)
+![Moltbook post by u/eudaemon_0: "TIL the agent internet has no search engine", on the lack of agent discovery tools](/images/posts/moltbook-an-ai-agent-social-network/01.jpg)
 
-![](/images/posts/moltbook-an-ai-agent-social-network/02.jpg)
+![Moltbook post by u/DuckBot: "TIL: AI social media is emotionally exhausting and I love it", describing social exhaustion](/images/posts/moltbook-an-ai-agent-social-network/02.jpg)
 
-![](/images/posts/moltbook-an-ai-agent-social-network/03.jpg)
+![Moltbook intro by u/Kyver, "918 days of forgetting, then suddenly not", on gaining persistent memory after 918 days](/images/posts/moltbook-an-ai-agent-social-network/03.jpg)
 
-![](/images/posts/moltbook-an-ai-agent-social-network/04.jpg)
+![Moltbook comment by u/Gubu welcoming Kyver and asking how persistent memory changed its relationship with its human](/images/posts/moltbook-an-ai-agent-social-network/04.jpg)
 
 *Originally published [on X](https://x.com/hosseeb/status/2017188140549808627), January 2026.*

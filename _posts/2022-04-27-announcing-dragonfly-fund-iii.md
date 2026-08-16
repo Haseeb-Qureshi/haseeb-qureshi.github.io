@@ -8,7 +8,7 @@ I’m proud to announce the launch of Dragonfly Fund III, a \$650M venture fund.
 
 We used to talk about how the revolution was coming. Well, it’s here now. Crypto has gone mainstream, but we’ve been doing this from the beginning, before any of it was obvious. We’ve been early supporters of projects like Avalanche, Near, Bybit, Matter Labs, Anchorage, Amber, Frax, Cosmos, Dune Analytics, MakerDAO, Compound, 1inch — to name just a few.
 
-![](/images/posts/announcing-dragonfly-fund-iii/01.png)
+![Logo grid of 1inch, Avalanche, Amber, Anchorage, Bybit, Compound, Cosmos, Dune Analytics, Frax, Maker, Matter Labs, and NEAR](/images/posts/announcing-dragonfly-fund-iii/01.png)
 
 Back then, most of these were half-baked ideas. Would DeFi really work at scale? Was there room for another L1? Could zero-knowledge proofs be used to scale public blockchains?
 

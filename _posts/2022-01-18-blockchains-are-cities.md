@@ -10,7 +10,7 @@ It depends on your mental model of what blockchains are.
 
 People usually describe L1 blockchains as **networks**, e.g. the Ethereum network, the Solana network. This implies that blockchains are endlessly extensible like the Internet, or Telegram, or Facebook. If blockchains are networks, then network effects will dominate, and one blockchain will win.
 
-![](/images/posts/blockchains-are-cities/01.png)
+![Photo of pins on a white board linked by purple and blue threads into a web, with one small cluster set apart](/images/posts/blockchains-are-cities/01.png)
 
 **But networks are the wrong analogy for blockchains.** Blockchains are *physically constrained***.** Blockchains cannot expand to infinite block space because blockchains require many independent small validators; if blocks were arbitrarily big, the blockchain would no longer be decentralized.
 
@@ -22,7 +22,7 @@ It’s expensive. It’s congested, it’s slow, it was built so long ago that n
 
 Ethereum is New York City.
 
-![Credit: IntroducingNewYork](/images/posts/blockchains-are-cities/02.png)
+![Aerial view of the Manhattan skyline at sunset, the Empire State Building at center](/images/posts/blockchains-are-cities/02.png)
 
 *Credit: IntroducingNewYork*
 
@@ -36,7 +36,7 @@ There are three paths to scaling a city.
 
 **Path \#1: build up.** Land might be limited, but you can always go vertical. By building taller and taller cities, you can fit a lot more people in the same physical land.
 
-![Credit: Erik Pendzich/Rex](/images/posts/blockchains-are-cities/03.png)
+![The slender 432 Park Avenue tower rising far above the surrounding Manhattan skyline](/images/posts/blockchains-are-cities/03.png)
 
 *Credit: Erik Pendzich/Rex*
 
@@ -44,7 +44,7 @@ But building up is not a complete answer. There’s a limit to how tall a skyscr
 
 L2 and rollups are the blockchain equivalent of skyscrapers. Each rollup is like a vertical blockchain that extends from the ground L1. There’s a lot of headroom in a rollup! But to visit one rollup from another, you have to exit to Ethereum down below and deal with its underlying traffic.
 
-![](/images/posts/blockchains-are-cities/04.png)
+![Diagram of an Ethereum root chain of blocks with columns of smaller rollup blocks feeding into the newest block](/images/posts/blockchains-are-cities/04.png)
 
 Building upward helps — it fits way more people into the city — but it’s not a complete answer. If Ethereum is crowded now, it’ll be crowded after rollups too (the billionaires can afford to stay on L1 and pay the fees).
 
@@ -56,7 +56,7 @@ Polkadot and Cosmos offer SDKs for developers to launch application-specific blo
 
 In the city metaphor, this is like creating a network of small towns that only do one thing. Here there’s a little mining town, over there a bunch of factories, then a farming town, then a town that’s just outlet stores. Each of these are connected along a massive highway system.
 
-![A factory town in Sim City](/images/posts/blockchains-are-cities/05.png)
+![SimCity screenshot of a dense factory town laid out on a grid, surrounded by green countryside](/images/posts/blockchains-are-cities/05.png)
 
 *A factory town in Sim City*
 
@@ -72,19 +72,19 @@ But the nice thing about building a new city is that *each city can be built dif
 
 Take Solana for example — **Solana is LA**. It’s big and sprawling and cheap compared to Manhattan. You can be a starving actor and get by in LA! Ignore that east coast fixation on decentralization — move your app to Solana, launch your NFT, and capture your 10 minutes of fame.
 
-![](/images/posts/blockchains-are-cities/06.png)
+![Los Angeles at dusk, with palm-lined Echo Park Lake in the foreground and the downtown skyline behind](/images/posts/blockchains-are-cities/06.png)
 
 Sure, Solana isn’t the most decentralized. But games and NFTs don’t need that much decentralization to begin with. The weather’s great, fees are low, and no one takes themselves too seriously.
 
 What’s Avalanche then? I’d say Avalanche is Chicago: trying to be the next Wall Street, but newer, cheaper, more aggressive. It’s cold up there, but Avalanche’s specialization in finance and trading gives the city energy and self-confidence. It’s hard not to bet on it rising.
 
-![Credit: ChooseChicago](/images/posts/blockchains-are-cities/07.png)
+![Crowds around Chicago's mirrored Cloud Gate sculpture with skyscrapers behind](/images/posts/blockchains-are-cities/07.png)
 
 *Credit: ChooseChicago*
 
 And NEAR? NEAR is San Francisco — built for web3 techies. It’s an idealistic city, full of people who want to fulfill the Ethereum 3.0 dream. In their minds, sharding is the only way forward long-term.
 
-![Credit: Rough Guides](/images/posts/blockchains-are-cities/08.png)
+![The Golden Gate Bridge in front of the Marin Headlands, San Francisco rooftops in the foreground](/images/posts/blockchains-are-cities/08.png)
 
 *Credit: Rough Guides*
 
@@ -94,7 +94,7 @@ So will we live in a multi-chain world, or will there be “one chain to rule th
 
 Here’s the question reframed: will we live in a multi-city world, or will there be one city to rule them all?
 
-![Credit: ThoughtCo](/images/posts/blockchains-are-cities/09.png)
+![Bar chart of the biggest U.S. city populations: New York 8.5M, LA 4.0M, Chicago 2.7M, Houston 2.3M, Phoenix 1.6M](/images/posts/blockchains-are-cities/09.png)
 
 *Credit: ThoughtCo*
 

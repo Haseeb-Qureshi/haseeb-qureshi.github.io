@@ -46,10 +46,10 @@ There's a great tidbit from 1924 where the New York Times praises the manipulati
 
 Couldn't have said it better myself.
 
-![](/images/posts/on-the-polymarket-fud/01.png)
+![Live prediction market odds chart: Trump 58 on Polymarket, 54 Kalshi, 52 PredictIt; Harris trailing on all three](/images/posts/on-the-polymarket-fud/01.png)
 
-![](/images/posts/on-the-polymarket-fud/02.png)
+![WSJ headline: "The Trump-Betting Whale Speaks Out"; French trader says he bet over $30 million after analyzing polls](/images/posts/on-the-polymarket-fud/02.png)
 
-![](/images/posts/on-the-polymarket-fud/03.jpg)
+![Book excerpt "Markets versus Manipulation" quoting 1924 New York Times pieces on Wall Street election betting odds](/images/posts/on-the-polymarket-fud/03.jpg)
 
 *Originally published [on X](https://x.com/hosseeb/status/1852505525868757296), November 2024.*

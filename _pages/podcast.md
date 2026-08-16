@@ -4,9 +4,9 @@ title: Podcast
 
 ## The Chopping Block
 
-Every week I sit down with three friends—[Tom Schmidt](https://x.com/tomhschmidt) (Dragonfly), [Tarun Chitra](https://x.com/tarunchitra) (Gauntlet), and [Robert Leshner](https://x.com/rleshner) (Superstate)—and we argue about what's actually going on in crypto. We're all investors or founders, so we talk about the industry from the inside: what's real and what's noise.
+Every week I sit down with three friends—[Tom Schmidt](https://x.com/tomhschmidt) (Dragonfly), [Tarun Chitra](https://x.com/tarunchitra) (Gauntlet), and [Robert Leshner](https://x.com/rleshner) (Superstate)—and we argue about what's actually going on in crypto. We're all investors or founders, so we talk about the industry from the inside.
 
-The show is produced with [Unchained](https://unchainedcrypto.com/the-chopping-block/). New episodes come out weekly.
+The show is produced with [Unchained](https://unchainedcrypto.com/the-chopping-block/).
 
 **Listen on:** [Apple Podcasts](https://podcasts.apple.com/us/podcast/unchained/id1123922160) · [Spotify](https://open.spotify.com/show/1cJrrfGY1SKBIRn5noKSAf) · [YouTube](https://www.youtube.com/channel/UCWiiMnsnw5Isc2PP1to9nNw/) · [Unchained](https://unchainedcrypto.com/the-chopping-block/)
 

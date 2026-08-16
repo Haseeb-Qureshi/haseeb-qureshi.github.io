@@ -8,7 +8,7 @@ The “[Cypherpunk’s Manifesto](https://www.activism.net/cypherpunk/manifesto.
 
 That’s just price, but the adoption metrics haven’t fared much better. Even on darknet markets, where you’d expect privacy coins to thrive, BTC is still the asset of choice.
 
-![Source: Rand Corporation](/images/posts/why-privacy-coins-havent-taken-off/01.png)
+![Pie chart of cryptocurrency mentions in dark web market listings: Bitcoin 59%, Monero 27%, ETH 12%, LTC and Zcash 1% each](/images/posts/why-privacy-coins-havent-taken-off/01.png)
 
 *Source: Rand Corporation*
 
@@ -24,7 +24,7 @@ While people may want their money to be private, they don’t want to pay each o
 
 This is why Ethereum-based privacy systems like [Tornado Cash](http://tornado.cash) have so much [uptake](https://dune.xyz/poma/tornado-cash_1) in comparison. Tornado brings privacy to where people actually are — on smart contract chains, in currencies they actually want to use like ETH, USDC or DAI. Compare that to Monero, where the wallets, off-ramps and liquidity are so poor that most users will give up.
 
-![Credit: Dune Analytics](/images/posts/why-privacy-coins-havent-taken-off/02.png)
+![Bar chart of weekly Tornado Cash deposit and withdrawal volume, near zero in 2020 and rising past $200M by late 2021](/images/posts/why-privacy-coins-havent-taken-off/02.png)
 
 *Credit: Dune Analytics*
 
@@ -52,7 +52,7 @@ Look at people’s revealed preferences. They use social media apps that openly 
 
 It’s tempting to blame this situation on a lack of consumer awareness, but that doesn’t fit the facts. Take social media companies: Despite a parade of massive scandals, from Cambridge Analytica to last year’s Twitter hacks, social media use has never been higher.
 
-![Source: Pew Research](/images/posts/why-privacy-coins-havent-taken-off/03.png)
+![Line chart of US adult social media use by age group, 2005 to 2019, rising across all ages with 18-29 highest](/images/posts/why-privacy-coins-havent-taken-off/03.png)
 
 *Source: Pew Research*
 

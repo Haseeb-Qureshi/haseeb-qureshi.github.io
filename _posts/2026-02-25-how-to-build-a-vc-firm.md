@@ -132,7 +132,7 @@ Lesson #10: All of the money gets made in a few deals.
 
 There is a simple matrix that describes VC investing.
 
-![](/images/posts/how-to-build-a-vc-firm/01.jpg)
+![2x2 matrix of consensus vs. non-consensus and wrong vs. right; non-consensus right deals earn by far the most money](/images/posts/how-to-build-a-vc-firm/01.jpg)
 
 Many hot deals are consensus right. Meaning most people believe the company is a winner, and it is in fact, a winner. These deals are usually fine deals, but you’re not going to make that much money from them, because they’ll be aggressively bid up.
 
@@ -168,7 +168,7 @@ You are not a tourist.
 
 It takes many years to measure progress. There are no overnight successes in venture. Most of the value in your funds is still tied up many years later. That means you are the embodiment of that famous NYT article: 
 
-![](/images/posts/how-to-build-a-vc-firm/02.png)
+![NYT headline "Everyone Is Getting Hilariously Rich and You're Not" above two men in Bitcoin and Ethereum sweaters](/images/posts/how-to-build-a-vc-firm/02.png)
 
 That's OK. 
 

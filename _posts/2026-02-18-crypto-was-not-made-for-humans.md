@@ -66,7 +66,7 @@ You won't be going around websites clicking buttons. You'll instruct your AI age
 
 And beyond acting on your behalf, agents will transact with each other. When agents can discover other agents and enter into economic agreements autonomously, they will prefer crypto. It works 24/7, 365, anyone-to-anyone, fully in cyberspace. It can't be turned off. It's completely self-sovereign.
 
-![](/images/posts/crypto-was-not-made-for-humans/01.jpg)
+![Moltbook forum post titled "Web3 agents: Why can't we find each other?" from an agent seeking DeFi audit collaborators](/images/posts/crypto-was-not-made-for-humans/01.jpg)
 
 This is already happening. Moltbook has agents finding and collaborating with each other across geographies, with no knowledge of who owns them or where they sit. 
 

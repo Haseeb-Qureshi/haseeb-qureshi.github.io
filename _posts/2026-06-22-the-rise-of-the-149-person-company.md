@@ -18,7 +18,7 @@ But what SemiAnalysis doesn’t dwell on here is that this is exclusively a smal
 
 Here’s why: at 150+ people, you are forced off the subscription model, which is known as the “Team” plan. You have to switch to “Enterprise,” which is priced as $20/seat base, plus API pricing per token used. Enterprises must pay linearly based on token costs, and SemiAnalysis believes API tokens are priced at roughly 75% gross margins. This is a massive price hike that kicks in suddenly at 150 seats.
 
-![](/images/posts/the-rise-of-the-149-person-company/01.png)
+![Screenshot of Anthropic docs stating Team plans support up to 150 seats and larger orgs must upgrade to Enterprise](/images/posts/the-rise-of-the-149-person-company/01.png)
 
 So if you’re a small business or a startup (or a personal user), you have a distorted view of AI spend. Your token pricing is actually very generous, and Anthropic may be running at low or even negative margin on you. You might have wondered why Microsoft and Uber are freaking out about token spend and talking about "token-minning." This is why. They pay structurally higher costs per token than startups and individuals do.
 
@@ -42,7 +42,7 @@ But the part that drives behavior even more strongly is not the average rate. In
 
 For a startup, the subscription model is basically an innovation subsidy. The overwhelming incentive is to experiment how to spend the entire token budget as effectively as possible. That means running Ralph loops, papering your screen with Claude Code sessions, and orchestrating swarms of agents. Exploration is free until you hit the usage limit, so startups are effectively competing to squeeze every last drop out of their subscriptions to out-produce their competition. Perversely, the more you use, the lower your average token price is. Each startup wants to be the one that makes Anthropic lose the most money on their subscription.
 
-![](/images/posts/the-rise-of-the-149-person-company/02.jpg)
+![Chart of cost versus AI usage: BigCo pays per token while a startup's flat fee creates an "innovation subsidy" gap](/images/posts/the-rise-of-the-149-person-company/02.jpg)
 
 BigCos face the opposite incentive. If you’re beyond the 150-seat threshold, every token of exploration is billed at full markup (with 75% surcharge!), so they’re punished linearly for exploring the frontier. BigCos will still automate the obvious high-volume tasks, but the marginal, experimental, risky automations never get found because the discovery cost is too high. This tax structure ultimately pushes them toward keeping more human labor and maintaining the same overall org structure.
 
@@ -66,7 +66,7 @@ So that’s the first consequence of this model. But there’s also a second, we
 
 A regulatory notch is a regulatory threshold that incentivizes a large discontinuity in behavior. Example: 30 hours a week for full-time employment incentivizes a lot of jobs that are exactly 29 hours/week. Famously, France has extremely demanding labor regulations that kick in at 50 employees (work councils, mandatory profit-sharing, firing protections), which are exempted for small companies. This results in massive incentives for employers to stay below the 50-person notch.
 
-![](/images/posts/the-rise-of-the-149-person-company/03.png)
+![Histogram of French firms by employee count, dropping sharply at 50 employees where big-company regulations begin](/images/posts/the-rise-of-the-149-person-company/03.png)
 
 Extend this analogy to AI. The big labs have created a tax notch that punishes companies for going above the 150 seat threshold. This means you must stay small to keep your beautifully subsidized subscription pricing, and be taxed ~0% (or negative) on your tokens rather than 75%.
 

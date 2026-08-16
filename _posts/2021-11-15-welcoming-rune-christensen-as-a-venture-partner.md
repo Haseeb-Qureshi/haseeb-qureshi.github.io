@@ -8,7 +8,7 @@ As Dragonfly Capital continues to expand, we are delighted to bring on Rune Chri
 
 Rune hails from Copenhagen, and is an early believer in Bitcoin and cryptocurrencies. But after Mt. Gox collapsed in 2014, Rune became obsessed with the idea of building a decentralized stablecoin whose value would not get eroded by market volatility. In 2015, Christensen launched MakerDAO with the goal of creating a better, more transparent financial system. Maker is one of the first DAOs on the Ethereum blockchain, with over \$18B in TVL today, and it was the first DeFi protocol to cross \$1B in TVL.
 
-![](/images/posts/welcoming-rune-christensen-as-a-venture-partner/01.jpg)
+![Black-and-white portrait photo of Rune Christensen, founder of MakerDAO](/images/posts/welcoming-rune-christensen-as-a-venture-partner/01.jpg)
 
 Rune has been a pioneer pushing the boundaries of DeFi, DAO governance, and protocol security. We are honored to have him collaborating with us at Dragonfly, advancing the state of the decentralized economy and supporting our ecosystem of entrepreneurs. You can follow Rune on Twitter at [RuneKek](https://twitter.com/RuneKek).
 

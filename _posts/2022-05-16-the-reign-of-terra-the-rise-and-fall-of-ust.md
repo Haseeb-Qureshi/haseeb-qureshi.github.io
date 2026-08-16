@@ -8,7 +8,7 @@ Terra will be remembered as the apotheosis of the 2020 crypto bull market.
 
 It started from humble beginnings as an experimental stablecoin. But in the span of a single year, Terra went from one of the best performing assets of this cycle to the most spectacular collapse a major cryptoasset has ever seen. The effects of its failure will reverberate through the industry for years to come — the perception of DeFi and decentralized stablecoins may be permanently marred. Its story serves as an instructive parable in misdirection, excess, and folly.
 
-![Terra (LUNA) price since 2020. Credit: CoinMarketCap](/images/posts/the-reign-of-terra-the-rise-and-fall-of-ust/01.png)
+![Line chart of LUNA price, flat near $1 until 2020, climbing to about $116, then crashing to $1.30 in May 2022](/images/posts/the-reign-of-terra-the-rise-and-fall-of-ust/01.png)
 
 *Terra (LUNA) price since 2020. Credit: CoinMarketCap*
 
@@ -16,7 +16,7 @@ Terraform Labs, the company behind Terra got its start in 2018 as a decentralize
 
 In the early days, Terra only facilitated Korean e-commerce payments, almost all of which were sourced through Chai. But after DeFi exploded in summer of 2020, Do Kwon had the stroke of insight: by expanding the Terra blockchain to support smart contracts, he could create a native DeFi ecosystem to increase adoption of Terra stablecoins, centered around UST, its USD-pegged stablecoin. (Until then, the largest stablecoin on Terra was KRT, which was pegged to the Korean Won.)
 
-![Total transactions on Terra since 2021. Credit: Coincu](/images/posts/the-reign-of-terra-the-rise-and-fall-of-ust/02.png)
+![Line chart of daily Terra transactions rising from about 100k in early 2021 to 766k by May 8, 2022](/images/posts/the-reign-of-terra-the-rise-and-fall-of-ust/02.png)
 
 *Total transactions on Terra since 2021. Credit: Coincu*
 
@@ -24,7 +24,7 @@ This strategy was resoundingly successful. Through 2021, Terra exploded in popul
 
 At the center of this meteoric growth was Anchor, the leading protocol on Terra, built by Terraform Labs. Dragonfly was a small investor in Anchor’s seed round. It was originally conceived as a simple idea — it was a money market that accepted UST and yield-generating assets (generally liquid staking derivatives like stETH). Because the staking derivatives passively generated a yield, this yield was captured by the protocol and used to subsidize the prevailing interest rate paid to depositors.
 
-![The Anchor tagline. Credit: Anchor Protocol](/images/posts/the-reign-of-terra-the-rise-and-fall-of-ust/03.png)
+![Anchor logo in a green wireframe cube on black, with the tagline "The Reliable Savings Protocol"](/images/posts/the-reign-of-terra-the-rise-and-fall-of-ust/03.png)
 
 *The Anchor tagline. Credit: Anchor Protocol*
 
@@ -32,13 +32,13 @@ Anchor’s most important (and controversial) feature was that the protocol deci
 
 In the early days of Anchor, this was mostly sustainable because the prevailing interest rate in DeFi was high. But as the broader DeFi yields declined in summer of 2021, Anchor refused to change its target rate. This made the 20% guaranteed yield in Anchor more and more attractive.
 
-![Compound USDC interest rates since early 2020. Source: Dune Analytics](/images/posts/the-reign-of-terra-the-rise-and-fall-of-ust/04.png)
+![Dune chart of Compound cUSDC interest rates falling from about 12% in May 2021 to under 4% by 2022](/images/posts/the-reign-of-terra-the-rise-and-fall-of-ust/04.png)
 
 *Compound USDC interest rates since early 2020. Source: Dune Analytics*
 
 As the year went on, Anchor’s 20% stable yield became many times higher than the prevailing yield on stablecoins, which primarily settled below 2%. Deposits on Anchor ballooned, growing out of lockstep with borrows. It eventually made Anchor the single largest lending protocol by total value locked (TVL) in all of DeFi.
 
-![Anchor deposits and borrows over time (culminating in its collapse). Source: Anchor Protocol](/images/posts/the-reign-of-terra-the-rise-and-fall-of-ust/05.png)
+![Chart of Anchor total deposits climbing far above total borrows through 2021, then both collapsing in May 2022](/images/posts/the-reign-of-terra-the-rise-and-fall-of-ust/05.png)
 
 *Anchor deposits and borrows over time (culminating in its collapse). Source: Anchor Protocol*
 
@@ -46,7 +46,7 @@ A small ecosystem of neobank startups emerged that simply offered their customer
 
 More and more UST began to get minted, only to be deposited into Anchor for the UST yield. At its height, Anchor held more than \$14B of UST, and became the sink for almost all of the UST in existence. It single-handedly made UST the third largest stablecoin in the world.
 
-![UST supply until May 8th. Source: Messari](/images/posts/the-reign-of-terra-the-rise-and-fall-of-ust/06.png)
+![Messari chart of UST circulating supply growing from under 2B in mid-2021 to 18.77B by May 8, 2022](/images/posts/the-reign-of-terra-the-rise-and-fall-of-ust/06.png)
 
 *UST supply until May 8th. Source: Messari*
 
@@ -54,31 +54,31 @@ But was it sustainable?
 
 Obviously a 20% yield on more than \$10B of UST — more than \$2B a year in interest payments — could not be given out using interest paid by borrowers alone. The on-chain yield reserve needed to pay the difference. But as the UST deposits grew, the yield reserve was rapidly draining.
 
-![Anchor Yield Reserve Funds, which recapitalized in mid-February with $450M. Credit: Flipside Crypto](/images/posts/the-reign-of-terra-the-rise-and-fall-of-ust/07.png)
+![Chart of Anchor's UST yield reserve draining to near zero by February 2022, jumping to $500M, then declining again](/images/posts/the-reign-of-terra-the-rise-and-fall-of-ust/07.png)
 
 *Anchor Yield Reserve Funds, which recapitalized in mid-February with $450M. Credit: Flipside Crypto*
 
 In February of 2022, in the face of a dwindling on-chain reserve, Do Kwon was forced to swiftly recapitalize the reserve with \$450M of UST.
 
-![](/images/posts/the-reign-of-terra-the-rise-and-fall-of-ust/08.png)
+![Do Kwon tweet polling followers on the Anchor yield reserve top-up; 81% of 17,443 votes chose $300M](/images/posts/the-reign-of-terra-the-rise-and-fall-of-ust/08.png)
 
 This dynamic was the ultimate cause of the rise of UST.
 
 Anchor was the cancer at the heart of Terra and its dizzying growth. It demanded to be fed, and through its ravenous appetite, it made UST the fastest growing stablecoin in the entire industry.
 
-![](/images/posts/the-reign-of-terra-the-rise-and-fall-of-ust/09.png)
+![Table of Q1 2022 stablecoin growth: UST leads at 63% (6.3B added), ahead of FRAX, USDC, BUSD, USDT, and DAI](/images/posts/the-reign-of-terra-the-rise-and-fall-of-ust/09.png)
 
 But why? Why do this if it obviously wasn’t sustainable? Why didn’t they stop it earlier?
 
 The argument behind Anchor’s yield was a simple one: Anchor was essential to the broader adoption of Terra and its central stablecoin, UST. The reflexivity of UST growth alongside the LUNA price attracted new developers and projects onto Terra, reinforcing the cycle. The yield, it was argued, was simply a customer acquisition cost that had to be paid until UST became the dominant stablecoin in crypto.
 
-![A commenter in the Anchor governance forum. Source: Anchor Protocol](/images/posts/the-reign-of-terra-the-rise-and-fall-of-ust/10.png)
+![Anchor governance forum comment urging the 20% rate stay, calling it “a great marketing tool”](/images/posts/the-reign-of-terra-the-rise-and-fall-of-ust/10.png)
 
 *A commenter in the Anchor governance forum. Source: Anchor Protocol*
 
 Though we, like many others, had publicly commented on the unsustainability of UST and Terra, Terra brushed off all challenges. Do Kwon had formed a cult of personality around himself, publicly attacking naysayers and dismissing claims of unsustainability.
 
-![Do Kwon publicly bet $1M on the future solvency of Terra against Algod, who publicly decried Terra as a ponzi scheme. Do Kwon made public bets against other critics, totaling $11M. Credit: Twitter](/images/posts/the-reign-of-terra-the-rise-and-fall-of-ust/11.png)
+![Twitter thread where Algod calls LUNA a ponzi and Do Kwon replies with taunts like “Continue in poverty ser”](/images/posts/the-reign-of-terra-the-rise-and-fall-of-ust/11.png)
 
 *Do Kwon publicly bet $1M on the future solvency of Terra against Algod, who publicly decried Terra as a ponzi scheme. Do Kwon made public bets against other critics, totaling $11M. Credit: Twitter*
 
@@ -88,7 +88,7 @@ So this was the setup. But to understand how everything finally unraveled, it’
 
 You can think of Terra as a central bank: it had liabilities in the form of UST, and it had assets in the form of LUNA, the native token of its blockchain. The central bank had a single mandate: keep UST always trading at \$1. It did this by essentially “market making” UST — it would always trade 1 UST for \$1 worth of LUNA (whose price it monitored using an on-chain oracle).
 
-![](/images/posts/the-reign-of-terra-the-rise-and-fall-of-ust/12.png)
+![Diagram of Terra as a bank: LUNA coins as cash assets on one side, UST coins as liabilities on the other](/images/posts/the-reign-of-terra-the-rise-and-fall-of-ust/12.png)
 
 This means if the price of UST was \$0.99, an arbitrageur could burn their UST for \$1 worth of LUNA. If the price of UST was \$1.01, an arbitrageur could mint extra UST with only \$1 worth of LUNA. Both of these mechanisms should result in UST swiftly returning to the peg.
 
@@ -104,7 +104,7 @@ So the reserve was now composed of massive quantities of LUNA, as well as the LF
 
 But when in early Q2, stoked by fears of inflation, risk assets and crypto markets began to sell off, the ratio of LUNA to UST market cap quickly declined.
 
-![LUNA market cap after mid-January. Source: CoinMarketCap](/images/posts/the-reign-of-terra-the-rise-and-fall-of-ust/13.png)
+![Chart of LUNA market cap from about $20B in mid-January to a $41B March peak, then crashing to near zero in May](/images/posts/the-reign-of-terra-the-rise-and-fall-of-ust/13.png)
 
 *LUNA market cap after mid-January. Source: CoinMarketCap*
 
@@ -114,13 +114,13 @@ This incited a panic. More Anchor users began withdrawing and selling their UST,
 
 UST was now suddenly undercollateralized.
 
-![UST’s peg breaking on May 9th (red line) alongside the decline in LUNA price. Credit: TradingView](/images/posts/the-reign-of-terra-the-rise-and-fall-of-ust/14.png)
+![Candlestick chart of LUNA falling 53% on May 9 while the overlaid UST price line drops 24% below its peg](/images/posts/the-reign-of-terra-the-rise-and-fall-of-ust/14.png)
 
 *UST’s peg breaking on May 9th (red line) alongside the decline in LUNA price. Credit: TradingView*
 
 Markets reacted violently. Anchor depositors scrambled for the exits before UST and Anchor completely combusted. A full on bank run ensued. This rush of selling caused a violent depegging and aggressively drove down UST.
 
-![Total Anchor deposits collapsed in May as users rushed to withdraw. Credit: Anchor Protocol](/images/posts/the-reign-of-terra-the-rise-and-fall-of-ust/15.png)
+![Chart of Anchor's total collateral value growing over a year, then dropping 58% in the May 2022 bank run](/images/posts/the-reign-of-terra-the-rise-and-fall-of-ust/15.png)
 
 *Total Anchor deposits collapsed in May as users rushed to withdraw. Credit: Anchor Protocol*
 
@@ -128,11 +128,11 @@ LFG, armed with billions in LUNA and BTC, desperately tried to buy the UST being
 
 Do Kwon and the Terra community projected confidence that it was only a matter of time until the peg would be restored. Many assumed that the enormous capital backing LFG — billions in BTC and LUNA, plus the vested interests of Jump Trading, Three Arrows Capital, among others, made Terra too big to fail.
 
-![](/images/posts/the-reign-of-terra-the-rise-and-fall-of-ust/16.png)
+![Do Kwon tweet from May 9, 2022: “Deploying more capital - steady lads”](/images/posts/the-reign-of-terra-the-rise-and-fall-of-ust/16.png)
 
 But in the coming hours and days, the UST peg gradually fell further and further alongside the LUNA price.
 
-![UST/USD exchange rate since May 8th. Credit: CoinMarketCap](/images/posts/the-reign-of-terra-the-rise-and-fall-of-ust/17.png)
+![Chart of UST/USD falling from $1.00 on May 8 to about $0.20 by May 12, with brief recoveries near $0.93](/images/posts/the-reign-of-terra-the-rise-and-fall-of-ust/17.png)
 
 *UST/USD exchange rate since May 8th. Credit: CoinMarketCap*
 
@@ -140,7 +140,7 @@ There were rumors of massive margin calls, and funds and market makers that were
 
 As more and more UST was redeemed for LUNA, in order to meet all redemptions, LUNA had to be printed at a faster and faster rate. Initially LUNA had a daily cap on its minting rate (enough to redeem ~290M UST a day), but in an attempt to clear the backlog, validators voted to release this cap and mint faster. But the market was not able to absorb this selling. Terra’s algorithmic printing caused it to enter a hyperinflationary spiral, like a third-world country stubbornly printing depreciating currency to pay back its debtors.
 
-![The hyperinflation of LUNA supply. Credit: TerraScope](/images/posts/the-reign-of-terra-the-rise-and-fall-of-ust/18.png)
+![Table of daily LUNA circulating supply exploding from 343 million on May 8 to 6.5 trillion by May 13, 2022](/images/posts/the-reign-of-terra-the-rise-and-fall-of-ust/18.png)
 
 *The hyperinflation of LUNA supply. Credit: TerraScope*
 

@@ -20,7 +20,7 @@ So, no. We’re going to need a different approach.
 
 After observing the landscape, it’s clear to me that three main approaches have emerged to tackle verifiable inference: zero-knowledge proofs, optimistic fraud proofs, and cryptoeconomics. Each has its own flavor of security and cost implications.
 
-![](/images/posts/dont-trust-verify-an-overview-of-decentralized-inference/01.png)
+![Spectrum diagram from ZK ML (slow, costly, extremely secure) through optimistic ML to cryptoeconomics (fast, cheap)](/images/posts/dont-trust-verify-an-overview-of-decentralized-inference/01.png)
 
 #### 1. **Zero-Knowledge Proofs (ZK ML)**
 
@@ -38,7 +38,7 @@ The optimistic approach is to trust, but verify. We assume the inference is corr
 
 These fraud proofs are [Truebit-style](https://nikolish.in/truebit-overview) interactive challenge-response games, where you repeatedly bisect the model execution trace on-chain until you find the error.
 
-![](/images/posts/dont-trust-verify-an-overview-of-decentralized-inference/02.png)
+![Flowchart of a verification game where a challenged solver's computation is bisected and one step is verified on chain](/images/posts/dont-trust-verify-an-overview-of-decentralized-inference/02.png)
 
 If this ever actually happens it’s incredibly costly, since these programs are massive and have huge internal states — a single GPT-3 inference costs about [1 petaflop](https://github.com/amirgholami/ai_and_memory_wall) (10¹⁵ floating point operations). But the game theory suggests this should almost never happen (fraud proofs are also notoriously difficult to code correctly, since the code almost never gets hit in production).
 
@@ -72,7 +72,7 @@ This is why these three verification approaches mirror the ways that blockchains
 
 ML is unique because ML computations are generally represented as dense computation graphs that are designed to be run efficiently on GPUs. They are not designed to be proven. So if you want to prove ML computations in a ZK or optimistic environment, they have to be recompiled in a format that makes this possible — which is very complex and expensive.
 
-![](/images/posts/dont-trust-verify-an-overview-of-decentralized-inference/03.png)
+![Diagram of a fully connected neural network with a three-node input layer, two ten-node hidden layers, and three outputs](/images/posts/dont-trust-verify-an-overview-of-decentralized-inference/03.png)
 
 The second fundamental difficulty with ML is nondeterminism. Program verification assumes that the outputs of programs are deterministic. But if you run the same model on different GPU architectures or CUDA versions, you’ll get different outputs. Even if you have to force each node to use the same architecture, you still have the problem of randomness used in algorithms (the noise in diffusion models, or token sampling in LLMs). You can fix that randomness by controlling the [RNG](https://en.wikipedia.org/wiki/Random_number_generation) seed. But even with all that, you’re still left with the final menacing problem: the nondeterminism inherent in floating point operations.
 

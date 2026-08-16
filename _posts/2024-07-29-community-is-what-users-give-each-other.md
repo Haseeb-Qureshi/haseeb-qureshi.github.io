@@ -12,6 +12,6 @@ Hype is not community. You can build a big brand and still not have a community.
 
 Because community is not what you give to your users. It's what your users give to each other.
 
-![](/images/posts/community-is-what-users-give-each-other/01.jpg)
+![Diagram contrasting hype, one node broadcasting arrows outward, with community, nodes linked by two-way arrows](/images/posts/community-is-what-users-give-each-other/01.jpg)
 
 *Originally published [on X](https://x.com/hosseeb/status/1817967979122012185), July 2024.*

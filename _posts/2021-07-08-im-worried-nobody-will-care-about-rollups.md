@@ -6,7 +6,7 @@ image: posts/im-worried-nobody-will-care-about-rollups/01.png
 
 The biggest story in Ethereum over the last 6 months has been the explosion in transaction demand. Transaction fees have crossed all-time highs, and many everyday users are now priced out of using Ethereum.
 
-![ETH fees in USD. Credit: Coinmetrics](/images/posts/im-worried-nobody-will-care-about-rollups/01.png)
+![Coin Metrics chart of ETH mean and median transaction fees in USD, 2017 to 2021, spiking near $40 in early 2021](/images/posts/im-worried-nobody-will-care-about-rollups/01.png)
 
 *ETH fees in USD. Credit: Coinmetrics*
 
@@ -22,7 +22,7 @@ But now let’s take the second biggest story in Ethereum these last 6 months: t
 
 Voila, scaling.
 
-![Transactions on Polygon (green) vs Binance Smart Chain (black) vs Ethereum (blue). Credit: Our Network](/images/posts/im-worried-nobody-will-care-about-rollups/02.png)
+![Chart of daily transactions, January to May 2021: Binance Smart Chain nears 12M, Polygon passes 6M, Ethereum stays near 1M](/images/posts/im-worried-nobody-will-care-about-rollups/02.png)
 
 *Transactions on Polygon (green) vs Binance Smart Chain (black) vs Ethereum (blue). Credit: Our Network*
 
@@ -30,7 +30,7 @@ Both chains have taken off like gangbusters, and they’re now each doing more t
 
 The world basically looks like this now:
 
-![](/images/posts/im-worried-nobody-will-care-about-rollups/03.png)
+![Diagram of Ethereum at the center with dashed bridge links to Avalanche, Solana, Tron, NEAR, Polygon, and other chains](/images/posts/im-worried-nobody-will-care-about-rollups/03.png)
 
 It’s almost like sharding, but with Ethereum 1.0 as the “beacon chain.” Cross-chain transfers and messages are assisted by multisigs, makeshift bridges, and sure, a few trusted parties. I call this architecture the poor man’s sharding. It’s how DeFi is de facto scaling today.
 
@@ -46,7 +46,7 @@ Let me tell you an old story.
 
 There once was a blockchain that didn’t scale. But then some really smart people invented **\~~trustless layer-2 technology\~~** that would scale the blockchain. Users were excited. Then, after years of hard work, the smart people finally built the layer-2. And when the users could get their hands on it, no one cared because they were already using some other simpler jank solution.
 
-![](/images/posts/im-worried-nobody-will-care-about-rollups/04.png)
+![Meme of a painting of Jesus preaching to a crowd, labeled Layer 2, with a rollup Merkle tree diagram floating in the sky](/images/posts/im-worried-nobody-will-care-about-rollups/04.png)
 
 Does this story ring a bell?
 
@@ -124,7 +124,7 @@ In the long run, ZK technology will only get better and better.
 
 But even in the short run, I’m excited for what Matter Labs is doing with zkSync 2.0 and its [zkPorter architecture](https://medium.com/matter-labs/zkporter-a-breakthrough-in-l2-scaling-ed5e48842fbf). zkPorter is a hybrid between a [Validium](https://medium.com/starkware/volition-and-the-emerging-data-availability-spectrum-87e8bfa09bb) and a ZK rollup, allowing users to seamlessly migrate between the two. The Validium side, with its data off-chain, can charge fees comparable to Polygon, while the more costly ZK rollup is still accessible for those who want greater security. This integrates the full spectrum of user choices under the same roof, with full interoperability between them.
 
-![The zkPorter architecture. Credit: Matter Labs](/images/posts/im-worried-nobody-will-care-about-rollups/05.png)
+![zkSync state tree diagram: zkRollup accounts use on-chain data availability, zkPorter accounts rely on validator stake](/images/posts/im-worried-nobody-will-care-about-rollups/05.png)
 
 *The zkPorter architecture. Credit: Matter Labs*
 

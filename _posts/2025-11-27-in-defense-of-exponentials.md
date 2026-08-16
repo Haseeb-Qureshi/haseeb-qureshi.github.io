@@ -140,12 +140,12 @@ And you were a part of it.
 
 Disclosure: These are my own views. Dragonfly is an investor in $MON, $MEGA, $ETH, $SOL, $HYPE, $SKY among many other tokens. Dragonfly believes in the exponential. This is not investment advice, but is advice of another kind.
 
-![](/images/posts/in-defense-of-exponentials/01.jpg)
+![Blockworks chart of Solana weekly network REV in USD, Dec 2023 to Nov 2025, spiking near $200M in early 2025](/images/posts/in-defense-of-exponentials/01.jpg)
 
-![](/images/posts/in-defense-of-exponentials/02.jpg)
+![Benedict Evans slide "Amazon doesn't make a profit": Amazon revenue climbing 1995-2019 while net income stays near zero](/images/posts/in-defense-of-exponentials/02.jpg)
 
-![](/images/posts/in-defense-of-exponentials/03.jpg)
+![Amazon stock price chart, May 1997 to May 2007: dot-com peak, crash through 2001, then slow recovery](/images/posts/in-defense-of-exponentials/03.jpg)
 
-![](/images/posts/in-defense-of-exponentials/04.jpg)
+![Four Artemis charts: chain daily active users, stablecoin supply, P2P transfer volume, and DEX volumes, all trending up](/images/posts/in-defense-of-exponentials/04.jpg)
 
 *Originally published [on X](https://x.com/hosseeb/status/1994110900454949263), November 2025.*

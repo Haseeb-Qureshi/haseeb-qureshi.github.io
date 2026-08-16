@@ -8,11 +8,11 @@ image: posts/axelar-bridges-and-blockchain-globalization/01.png
 
 Thanks to cross-chain bridges, free flow of cross-chain capital peaked in March to over \$25B of bridged assets. This mirrors the history of traditional finance: it recalls the rise of [direct foreign investment](https://data.worldbank.org/indicator/BX.KLT.DINV.CD.WD?end=2019&start=1970&view=chart) in the 1990s, when capital once locked inside countries began to travel freely across the world.
 
-![Foreign direct investment as a percentage of world GDP. Credit: The Economist](/images/posts/axelar-bridges-and-blockchain-globalization/01.png)
+![Line chart of foreign direct investment stock as a share of global GDP, flat near 10% until 1990, rising to 35% by 2015](/images/posts/axelar-bridges-and-blockchain-globalization/01.png)
 
 *Foreign direct investment as a percentage of world GDP. Credit: The Economist*
 
-![TVL in bridges until April 2022 (lower now). Credit: Dune Analytics](/images/posts/axelar-bridges-and-blockchain-globalization/02.png)
+![Stacked area chart of TVL in Ethereum bridges by bridge, May 2021 to April 2022, peaking near $25 billion](/images/posts/axelar-bridges-and-blockchain-globalization/02.png)
 
 *TVL in bridges until April 2022 (lower now). Credit: Dune Analytics*
 
@@ -30,7 +30,7 @@ Banks take in assets on one side and they issue liabilities on the other side. F
 
 Almost every major bridge today is a two-way bridge of this kind. Notably, most of these bridges are **“state-sponsored,”** by which I mean that the blockchain they’re bridging to has themselves built and subsidized the bridge. Think of the Polygon bridge, the Avalanche bridge, or the NEAR Rainbow bridge — all of these bridges are created or sponsored by the “blockchain nation-state” on which they are built. And almost all of them bridge directly to Ethereum.
 
-![](/images/posts/axelar-bridges-and-blockchain-globalization/03.png)
+![Diagram of Ethereum at the center with dashed bridge links to Avalanche, Solana, Tron, NEAR, Polygon, and other chains](/images/posts/axelar-bridges-and-blockchain-globalization/03.png)
 
 This is not surprising. For emerging blockchains, bridges are essential to the inflow of assets and users. It is analogous to canals and railroads in the real world, which were often [nationalized](https://en.wikipedia.org/wiki/History_of_rail_transport_in_Germany#The_L%C3%A4nderbahn_era_(1871_to_1920)) and subsidized, since the benefits of infrastructure were too dispersed to be captured by private investors. So even if the bridges are costly to develop and maintain — many of them are not even profitable — it is nevertheless in the interest of the “state” to subsidize and backstop them.
 
@@ -54,13 +54,13 @@ In the early days, Cosmos and Polkadot had ambitions of being this blockchain �
 
 This is why I’m so excited about Axelar.
 
-![](/images/posts/axelar-bridges-and-blockchain-globalization/04.png)
+![Axelar wordmark logo in black with a pixelated trail crossing the letter X](/images/posts/axelar-bridges-and-blockchain-globalization/04.png)
 
 Axelar is a universal interoperability layer that connects L1 blockchains through a decentralized network. Using Axelar’s SDKs, any smart contract developer can seamlessly call a contract on another supported chain with a simple asynchronous call.
 
 The simplest form of cross-contract calls is bridging. But a ton of bridges already exist, so that’s not likely where Axelar is going to shine. Instead, Axelar’s superpower is in enabling more complex forms of cross-chain composability and commerce.
 
-![](/images/posts/axelar-bridges-and-blockchain-globalization/05.png)
+![Illustration of Cosmos, Polkadot, Ethereum, Avalanche, Polygon, and Fantom tiles linked by a network mesh to a tablet of apps](/images/posts/axelar-bridges-and-blockchain-globalization/05.png)
 
 Axelar’s SDKs are designed to enable three things:
 
@@ -72,7 +72,7 @@ Eventually, the goal will be that from the perspective of a user, they don’t n
 
 If you’ve been following this space, you’re probably familiar with LayerZero and its Stargate Finance. LayerZero sits at the same place in the stack as Axelar. So what are the differences between the two, and why am I bullish on Axelar here?
 
-![](/images/posts/axelar-bridges-and-blockchain-globalization/06.png)
+![Axelar stack diagram: apps and SDKs above Layer 1 gateways and a Cross-Chain Gateway Protocol run by validators](/images/posts/axelar-bridges-and-blockchain-globalization/06.png)
 
 Axelar is a fully-fledged PoS network with its own native token. All of the nodes on Axelar are running the software of other blockchains (Ethereum, Avalanche, Cosmos, etc.). When you ask Axelar about the state of any underlying blockchain it connects to, the Axelar nodes synchronize with each other to query their local blockchain clients and agree on the current state of other chains. If you want to perform a cross-chain transaction, all of the nodes within Axelar collectively manage threshold signature accounts on each chain which can be used to perform actions or custody funds on behalf of Axelar. Axelar handles the routing and execution, and the security of Axelar is backstopped by the robustness of its PoS validator set. The project was founded by the former heads of cryptography and mathematics Algorand, so their cryptography and distributed systems backgrounds are world-class.
 
