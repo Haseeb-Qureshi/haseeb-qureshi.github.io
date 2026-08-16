@@ -174,7 +174,6 @@ In the end, Terra’s collapse is ultimately a story about hubris, and the folly
 
 *Thanks to Ashwin Ramachandran and Ryan Phua for their edits and contributions to this piece.*
 
-<https://medium.com/media/239bb983a353047b3f8a065a070f49e4/href>
 
 ------------------------------------------------------------------------
 

@@ -26,7 +26,6 @@ The future is decentralized. \>\|\<
 
 And if you’re working on something new, [we’d love to hear about it](https://www.dragonfly.xyz/contact).
 
-<https://medium.com/media/239bb983a353047b3f8a065a070f49e4/href>
 
 *The views expressed in this publication are the subjective views of the individual Dragonfly Digital Management, LLC (“Dragonfly”) personnel credited herein and are not the views of Dragonfly or its affiliates. Dragonfly and its principals have made investments in some of the entities and cryptocurrencies discussed herein. This publication is not investment advice and may not be used or relied upon in evaluating the merits of any investment. The information contained herein is current only as of the date of publication.*
 

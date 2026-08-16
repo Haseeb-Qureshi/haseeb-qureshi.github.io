@@ -80,7 +80,6 @@ Until then, expect regulators to continue scapegoating privacy coins, and expect
 
 *Dragonfly Capital may have a financial interest in some of the assets discussed in this piece. Nothing in this piece should be construed as financial advice. This was originally published on Coindesk.*
 
-<https://medium.com/media/239bb983a353047b3f8a065a070f49e4/href>
 
 ------------------------------------------------------------------------
 

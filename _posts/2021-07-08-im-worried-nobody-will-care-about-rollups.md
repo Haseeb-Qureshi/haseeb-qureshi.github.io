@@ -134,7 +134,6 @@ As far as rollups go, that’s where I’m placing my bets. But who knows! I’v
 
 *\<This post was written furiously while on a plane, so forgive any oversights. Dragonfly holds positions in pretty much everything mentioned in this post. Thanks to Ivan and Celia for their admittedly brief reviews.\>*
 
-<https://medium.com/media/239bb983a353047b3f8a065a070f49e4/href>
 
 ------------------------------------------------------------------------
 

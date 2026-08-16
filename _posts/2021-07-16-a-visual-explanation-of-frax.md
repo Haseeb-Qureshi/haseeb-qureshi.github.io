@@ -36,7 +36,6 @@ This is an innovative vision, and one that looks quite different from other conc
 
 Frax recently closed a strategic round, which was led by us at Dragonfly Capital, with participation from Electric Capital, Robot Ventures (Robert Leshner & Tarun Chitra), Balaji Srinivasan, and Stani Kulechov. If you want to get involved, you can [read more here](https://docs.frax.finance/price-stability) about how FRAX works and [join the community](https://t.me/fraxfinance)!
 
-<https://medium.com/media/239bb983a353047b3f8a065a070f49e4/href>
 
 ------------------------------------------------------------------------
 

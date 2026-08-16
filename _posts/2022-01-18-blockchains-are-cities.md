@@ -111,7 +111,6 @@ I’ll leave you with six things this model predicts:
 5.  Application-specific blockchains will remain niche.
 6.  In the physical world, transportation accounts for [almost half the GDP of housing](https://www.energy.gov/eere/vehicles/articles/fotw-1105-october-28-2019-transportation-accounted-88-all-us-gross-domestic). If we see anything like that in crypto, cross-chain bridges will become extremely valuable.
 
-<https://medium.com/media/239bb983a353047b3f8a065a070f49e4/href>
 
 ------------------------------------------------------------------------
 

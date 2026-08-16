@@ -22,7 +22,6 @@ Godspeed, anon.
 
 (You can read more about it in: [TechCrunch](https://techcrunch.com/2022/04/27/crypto-focused-dragonfly-capital-launches-650m-third-fund/), [Coindesk](https://www.coindesk.com/business/2022/04/27/dragonfly-capital-raises-650m-for-third-crypto-fund/))
 
-<https://medium.com/media/239bb983a353047b3f8a065a070f49e4/href>
 
 ------------------------------------------------------------------------
 

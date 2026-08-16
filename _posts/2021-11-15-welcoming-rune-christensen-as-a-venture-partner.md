@@ -14,7 +14,6 @@ Rune has been a pioneer pushing the boundaries of DeFi, DAO governance, and prot
 
 And if you’re an entrepreneur working on something great in crypto, we’d always love to hear from you: hello@dcp.capital.
 
-<https://medium.com/media/239bb983a353047b3f8a065a070f49e4/href>
 
 ------------------------------------------------------------------------
 

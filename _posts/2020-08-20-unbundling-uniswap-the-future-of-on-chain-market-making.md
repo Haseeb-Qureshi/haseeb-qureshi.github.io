@@ -187,4 +187,6 @@ _Thanks to Hasu, Tom Schmidt, Ivan Bogatyy, Freddie Farmer, and Liam Kovatch for
 
 _Disclosure: Dragonfly is an investor in 1inch._
 
+---
+
 *Originally published on [Medium](https://medium.com/dragonfly-research/unbundling-uniswap-the-future-of-on-chain-market-making-1c7d6948d570), August 2020.*
