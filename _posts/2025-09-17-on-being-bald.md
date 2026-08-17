@@ -1,6 +1,7 @@
 ---
 title: "On being bald"
 tags: [personal]
+image: haseeb-profile-pink.jpg
 ---
 
 I started shaving my head in my early 20s. I was way too young to be balding that early, and it terrified me. So I decided, fuck it, just go all the way to the finish line.

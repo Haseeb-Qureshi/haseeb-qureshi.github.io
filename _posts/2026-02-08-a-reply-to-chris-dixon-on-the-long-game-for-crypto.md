@@ -1,6 +1,7 @@
 ---
 title: "A reply to Chris Dixon on the long game for crypto"
 tags: [blockchain]
+image: bitcoin-globe.png
 ---
 
 <!-- TODO: confirm title (derived, not his own) -->

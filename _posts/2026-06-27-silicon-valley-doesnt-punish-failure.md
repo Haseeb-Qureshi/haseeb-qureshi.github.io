@@ -1,6 +1,7 @@
 ---
 title: "Silicon Valley doesn't punish failure"
 tags: [tech careers]
+image: precipice_snbyis.jpg
 ---
 
 <!-- TODO: confirm title (derived, not his own) -->
