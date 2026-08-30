@@ -2,7 +2,6 @@
 title: "Blockchains should not be democracies"
 tags: [blockchain, programming]
 image: blockchain-people.png
-featured: "true"
 ---
 
 How do you govern a blockchain?

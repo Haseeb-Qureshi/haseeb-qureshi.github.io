@@ -2,7 +2,6 @@
 title: "Flash Loans: Why Flash Attacks will be the New Normal"
 tags: [blockchain]
 image: the-flash.png
-featured: "true"
 ---
 
 Flash loans have been the center of attention lately. Recently two hackers used flash loans to attack the margin trading protocol bZx, [first in a $350K attack and later in a $600K copycat attack](https://www.palkeo.com/en/projets/ethereum/bzx.html).

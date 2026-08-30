@@ -2,7 +2,6 @@
 title: "Launching the Introduction to Cryptocurrency"
 tags: [blockchain, programming]
 image: Course-Overview.png
-featured: "true"
 ---
 
 Today I'm launching [Introduction to Cryptocurrency](https://nakamoto.com/introduction-to-cryptocurrency/), an online course teaching the basics of programming cryptocurrencies. The first two modules are already released, and the remainder of the course will be coming out over the next few months.

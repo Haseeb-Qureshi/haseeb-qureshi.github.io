@@ -2,7 +2,6 @@
 title: "We already know blockchain's killer apps"
 tags: [blockchain, programming]
 image: bitcoin-chip.jpg
-featured: "true"
 ---
 
 It wasn't too long ago that Silicon Valley scoffed at cryptocurrencies. All over coffee shops in Mountain View and Menlo Park, you heard the same conversation: "Sure, it's cool technology, *but when are we going to see the killer app*"?

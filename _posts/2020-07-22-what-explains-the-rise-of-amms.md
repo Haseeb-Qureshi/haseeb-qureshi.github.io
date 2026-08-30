@@ -2,7 +2,6 @@
 title: "What explains the rise of AMMs?"
 tags: [blockchain]
 image: uniswap.png
-featured: "true"
 ---
 
 Imagine a college friend reached out to you and said, "Hey, I have a business idea. I'm going to run a market making bot. I'll always quote a price no matter who's asking, and for my pricing algorithm I'll use *`x * y = k`*. That's pretty much it. Want to invest?"

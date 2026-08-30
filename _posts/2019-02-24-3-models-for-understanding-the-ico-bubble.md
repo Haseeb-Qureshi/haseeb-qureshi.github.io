@@ -2,7 +2,6 @@
 title: "3 Moments in History that Explain the ICO Bubble"
 tags: [blockchain]
 image: roman-coins.jpeg
-featured: "true"
 ---
 
 We can safely say the ICO bubble is over now.

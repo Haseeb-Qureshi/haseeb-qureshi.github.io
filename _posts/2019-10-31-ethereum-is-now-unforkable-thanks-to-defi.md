@@ -2,7 +2,6 @@
 title: "Ethereum is now unforkable, thanks to DeFi"
 tags: [blockchain, programming]
 image: ether-coins.png
-featured: "true"
 ---
 
 *By Haseeb Qureshi and Leland Lee*

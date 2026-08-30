@@ -4,9 +4,11 @@ tags: [blockchain]
 image: posts/on-the-polymarket-fud/01.png
 ---
 
-<!-- TODO: confirm title (derived, not his own). REVIEWER'S CALL: dated news peg — cut if stale. -->
+<!-- TODO: confirm title (derived, not his own). -->
 
 I'm getting annoyed by all this stupid Polymarket FUD from the media.
+
+![WSJ headline: "The Trump-Betting Whale Speaks Out"; French trader says he bet over $30 million after analyzing polls](/images/posts/on-the-polymarket-fud/02.png)
 
 The front page story of the WSJ right now is a story unmasking the "Polymarket whale." Obviously, the story is a nothingburger—the whale is a French punter who thinks the pollsters aren't correcting for shy Trump voters. Turns out he was gradually edging into his position because he didn't want to push up his own entrance price. No manipulation, no Trump campaign conspiracy.
 
@@ -26,6 +28,8 @@ Nope, also wrong. Wash trading does not affect prices, it affects volumes. Maybe
 
 This is also why it infuriated me to see this on the Bloomberg front page today:
 
+![Bloomberg front-page chart of live prediction market odds: Polymarket, Kalshi, and PredictIt lines tangled to look like a dead heat](/images/posts/on-the-polymarket-fud/01.png)
+
 I'm sure an editor somewhere made a concession to do this to seem non-partisan. But this is a chart crime.
 
 Polymarket has about 15x the volume of Kalshi, and about 70x the volume of PredictIt. These should not be side-by-side on the same chart. This is like comparing the price of soybeans on the CME to the price at a local farmer's market.
@@ -44,12 +48,8 @@ I'll end on this. I was reading an old paper detailing the history of election b
 
 There's a great tidbit from 1924 where the New York Times praises the manipulation-resistant of election betting markets:
 
-Couldn't have said it better myself.
-
-![Live prediction market odds chart: Trump 58 on Polymarket, 54 Kalshi, 52 PredictIt; Harris trailing on all three](/images/posts/on-the-polymarket-fud/01.png)
-
-![WSJ headline: "The Trump-Betting Whale Speaks Out"; French trader says he bet over $30 million after analyzing polls](/images/posts/on-the-polymarket-fud/02.png)
-
 ![Book excerpt "Markets versus Manipulation" quoting 1924 New York Times pieces on Wall Street election betting odds](/images/posts/on-the-polymarket-fud/03.jpg)
+
+Couldn't have said it better myself.
 
 *Originally published [on X](https://x.com/hosseeb/status/1852505525868757296), November 2024.*

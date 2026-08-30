@@ -1,7 +1,8 @@
 ---
 title: "The Rise of the 149-Person Company"
+featured: "true"
 tags: [ai, tech careers]
-image: posts/the-rise-of-the-149-person-company/01.png
+image: posts/the-rise-of-the-149-person-company/03.png
 ---
 
 @SemiAnalysis_ recently found something bizarre in the economics of AI coding subscriptions. If you run them at max usage limits, you're actually paying 20x-70x cheaper than you would buying tokens through the API.

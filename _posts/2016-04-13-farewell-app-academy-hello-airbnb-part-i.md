@@ -2,7 +2,6 @@
 title: "Farewell, App Academy. Hello, Airbnb. (Part I)"
 tags: [effective altruism, personal, tech careers]
 image: aa_op0i5p.png
-featured: "true"
 ---
 
 A couple weeks ago I had my last day as Director of Product at App Academy. This coming Monday, I will be starting work as a software engineer at Airbnb.

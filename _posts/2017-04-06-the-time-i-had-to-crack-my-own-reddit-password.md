@@ -2,7 +2,6 @@
 title: The Time I Had to Crack My Own Reddit Password
 tags: [personal, programming]
 image: hackers.jpg
-featured: "true"
 ---
 
 **I have no self-control.**

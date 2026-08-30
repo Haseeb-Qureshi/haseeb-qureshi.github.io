@@ -2,7 +2,6 @@
 title: "So you want to build a crypto startup?"
 tags: [blockchain]
 image: crypto-users.png
-featured: "true"
 ---
 
 I'm a crypto VC. That means I spend my days talking to crypto entrepreneurs, hearing pitches, and evaluating products. The first thing you realize working in this industry is that pretty much everyone is winging it. (That applies to me, but it especially applies to founders.)

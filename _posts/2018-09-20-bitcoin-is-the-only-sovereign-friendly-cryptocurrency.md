@@ -2,7 +2,6 @@
 title: "Why isn't Bitcoin banned everywhere?"
 tags: [blockchain]
 image: bitcoin_ban.jpg
-featured: "true"
 ---
 
 When I first heard of Bitcoin, it sounded like something out of a dystopian sci-fi novel. Digital, cryptographic, uncensorable money? It seemed such a radical idea, it couldn't possibly belong in this decade.

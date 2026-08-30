@@ -2,7 +2,6 @@
 title: "DeFi in Eth2: Cities, suburbs, and farms"
 tags: [blockchain]
 image: island-city.png
-featured: "true"
 ---
 Ethereum today is [incredibly congested](https://blockchair.com/ethereum/charts/median-gas-price?granularity=week)---it's even more congested now than it was during the height of the ICO bubble.
 

@@ -2,7 +2,6 @@
 title: "How DeFi cannibalizes PoS security"
 tags: [blockchain]
 image: unraveling.png
-featured: "true"
 ---
 
 On-chain lending has become the most popular decentralized finance (DeFi) application today, with [over $600M in loans originated this year](https://loanscan.io/loans?interval=1y) across MakerDAO, Compound, and dYdX. On-chain lending has the potential to disrupt traditional secured lending. But it seems it may do more than that: it might also disrupt proof of stake consensus.

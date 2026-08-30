@@ -2,7 +2,6 @@
 title: "Blockchain fees are broken. Here are 3 proposals to fix them."
 tags: [blockchain]
 image: fees.jpg
-featured: "true"
 ---
 
 When Satoshi Nakamoto designed the Bitcoin protocol, he had the insight to include the notion of transaction fees. These fees incentivized miners to include transactions into blocks. But initially, Bitcoin did not have, in any meaningful sense, a *fee market*.

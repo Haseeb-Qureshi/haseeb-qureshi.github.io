@@ -1,5 +1,6 @@
 ---
 title: "How to Build a VC Firm"
+featured: "true"
 tags: [blockchain]
 image: posts/how-to-build-a-vc-firm/01.jpg
 ---
@@ -18,7 +19,7 @@ I first came into crypto VC when, in most people's eyes, it was already dead. In
 
 So when I met Bo and we decided to partner up together on Dragonfly, we were not expecting a lot of enthusiasm from the market. But every VC firm has to start from somewhere.
 
-Lesson #0: Your first fund, you have to put your life on the line.
+**Lesson #0: Your first fund, you have to put your life on the line.**
 
 The lifeblood of a VC firm is money. To have a fund, you need to first and foremost raise money. If you have no access to money (or partners who can help you raise money), then you are not yet ready to build a fund.
 
@@ -30,7 +31,7 @@ Once you get some initial capital from the people who have good reason to bet on
 
 So OK, you're now pitching your fund to all these thick-pocketed investors. But as a first-time manager, what gives you the right to manage money? The answer: you need a clear, articulable edge.
 
-Lesson #1: Find some niche or angle that you're better at than anyone else, no matter how small it is.
+**Lesson #1: Find some niche or angle that you're better at than anyone else, no matter how small it is.**
 
 At the time we started Dragonfly, crypto VC was a small space. But even then, there were already several dominant crypto VCs: Polychain, Pantera, a16z. To us, they were juggernauts. It's hard to describe how dominant they were at the time.
 
@@ -42,7 +43,7 @@ The original idea was this: Bo was in Asia, I was in the US, and so we'd do this
 
 This angle wasn't enough for us to lead deals. Nobody wants the "east-meets-west fund" to be their lead investor. But it was strategic enough to earn us a check in the round, and that was enough for us to start working our way in.
 
-Lesson #2: Do the dirty work.
+**Lesson #2: Do the dirty work.**
 
 As it happened, this east-west arbitrage was ours for the taking. At first I wondered why no one else was doing this; it seemed so obvious.
 
@@ -56,7 +57,7 @@ But we had no other path to success. So we put ourselves through it. We outworke
 
 Many people idolize VC as a genteel job, where you take the summers off and go skiing at quarterly offsites. We didn't do any of that shit, because we couldn't. We didn't have the money, the time, or the breathing room. The closest we had to wintersports were the crypto winters.
 
-Lesson #3: Optimize like a startup.
+**Lesson #3: Optimize like a startup.**
 
 Once you've established an angle and you've started getting into rounds, you now need to start building feedback loops. Investing is all about feedback loops, and the tighter they are, the better.
 
@@ -66,7 +67,7 @@ You should be tracking everything. Your discussions, your misses, use AI to reco
 
 Most investors don't bother. They basically "vibe invest." Their success often boils down to how lucky their network happens to make them. That might work for a while, but luck is not a strategy, and it doesn't compound the way that ruthless optimization does.
 
-Lesson #4: Talent is everything.
+**Lesson #4: Talent is everything.**
 
 VC funds are terribly managed. I mean in the sense of corporate management. Really simple bread and butter stuff like 1:1s, mentorship, KPIs, clear lines of responsibility, communication, transparency, all-hands. For a while I wondered why so many VCs are managed so poorly. I eventually understood: VC does not select for management in the same way that companies do.
 
@@ -74,7 +75,7 @@ A badly managed company will eventually collapse or be outcompeted. But venture 
 
 At Dragonfly, we were able to attract people and retain them who really should've been at better, bigger platforms than ours. But we took care of them. We gave them stability, voice, and independence. We showed them through our actions that we valued them, and now they are a big part of why we have outperformed.
 
-Lesson #5: Be stupidly ambitious.
+**Lesson #5: Be stupidly ambitious.**
 
 It still amazes me that most new VC firms, when you ask them what they want to become, they can't really tell you. "We want to invest in great companies and be our founders' best partner."
 
@@ -88,7 +89,7 @@ When we started Dragonfly, our ambition was simple: beat Polychain.
 
 That was it. We wanted to beat Polychain. At the time, Polychain was the preeminent crypto VC--they were the OG everyone measured themselves against. Many years later, after we started beating Polychain, I realized I had to upgrade that ambition. So it became: become a top 3 crypto fund. That animated us for a long time. We are now, by my lights, a top 3 crypto fund, so the most recent goal became to become the #2 crypto fund, and then the #1 crypto fund. Will leave where we currently are on that journey as an exercise to the reader.
 
-Lesson #6: Fake it, but then make sure you make it.
+**Lesson #6: Fake it, but then make sure you make it.**
 
 Your first fund, you have no brand. So it's essential that you leverage what little social proof you have to immediately fake a brand.
 
@@ -98,7 +99,7 @@ We called ourselves a research-driven fund. The "research" was just me writing �
 
 We told people we had the best connectivity in Asia from the West. And that was theoretically true. But in the beginning, we had no idea what people actually wanted from Asia (and to be fair, many of them were also not sure what they wanted), so we figured that all out as we went. Eventually it became much more systematic. But in the beginning, we just pushed the story as hard as we could, and figured it out in real time. It worked.
 
-Lesson #7: The trend is not your friend.
+**Lesson #7: The trend is not your friend.**
 
 Resist the siren song of trend following. Crypto, as all hot sectors, is full of stupid trends. NFT issuers, TCRs, P2E, chatbot tokens, VC-backed memecoins, and so on. Our best wins and moments as a VC came from avoiding the crazy stuff--Terra, Axie Infinity, Yuga Labs, etc., as well as doing big bets when others left the sector for dead. We did the Ethena seed soon after the collapse of Terra, and Polymarket before the 2024 election run-up.
 
@@ -106,7 +107,7 @@ Every cycle has a narrative that feels irresistible. A category that's so hot th
 
 The discipline required here is mostly psychological. When you pass on the hot deal that everyone is fighting over, and the next week that token is up 5x, you will feel like an idiot. Your team will second-guess you. You will feel like your competitors are pulling ahead. But the flipside of trend following is that you inevitably end up with a portfolio of "what was popular 18 months ago," which is the single worst portfolio construction strategy imaginable. Your job is to invest in what will matter in 3 to 5 years, and hot markets are reliably incapable of thinking that far ahead. Don’t let that be your fund.
 
-Lesson #8: Own your distribution.
+**Lesson #8: Own your distribution.**
 
 People used to say that a16z was a media business with a venture arm. That used to be a joke, but now it’s just reality
 
@@ -116,7 +117,7 @@ Push your team to build their own brands, reward them for putting themselves out
 
 Some firms literally discourage their employees from tweeting, which blows my mind. You must build an audience so that your name rings out. If you expect your founders to be able to master social media, why should they not expect the same from you?
 
-Lesson #9: Cultivate power.
+**Lesson #9: Cultivate power.**
 
 This is one of the last steps in transforming your fund from an upstart to a power player.
 
@@ -128,7 +129,7 @@ Marc Andreessen once described it as: VCs are in the business of lending their b
 
 As your fund grows, this is where you have to evolve from a pure investment shop into a platform. The best founders don't just want your capital; they want your ability to actually move things for them. At Dragonfly, we built out a platform team that helps with everything from token design to exchange listings to executive recruiting. None of this is glamorous, and it doesn't directly generate returns the way picking winners does. But it compounds. Every founder you go to bat for becomes an evangelist for the next one. And once that flywheel is spinning, your competitors can't just copy it.
 
-Lesson #10: All of the money gets made in a few deals.
+**Lesson #10: All of the money gets made in a few deals.**
 
 There is a simple matrix that describes VC investing.
 
@@ -144,7 +145,7 @@ The implication is counterintuitive: your hit rate barely matters. What matters 
 
 And the painful corollary: consensus deals almost never produce these outcomes. If everyone agrees something is great, the price already reflects it and your upside is capped. The truly generational investments are the ones where other smart people think you’re an idiot for doing it.
 
-Lesson #11: None of this matters if you don't win the deal.
+**Lesson #11: None of this matters if you don't win the deal.**
 
 There are four stages to the VC value chain:
 
@@ -158,7 +159,7 @@ Winning is the most important step. You can have the best deal flow in the world
 
 Supporting is the last step, and it feeds back into why you win on sourcing and winning. Support is where your NPS score comes from, and why the whole loop continues. If you do right by your founders, they become your best salespeople. They refer the next great founder your way. They vouch for you in the group chat. This is a small and incestuous industry, and reputation travels fast. One pissed-off founder can poison a dozen future deals, while one happy one can open doors for a decade into the future.
 
-Lesson #12: Venture is a "get rich slow" business.
+**Lesson #12: Venture is a "get rich slow" business.**
 
 You will see many, many people in this industry rise fast and become meteoric successes.
 
@@ -176,7 +177,7 @@ Your job is to keep the ship steady. Flotsam, jetsam, high tide, low tide. You m
 
 So be long-term.
 
-Lesson #13: Raise when the raising's good.
+**Lesson #13: Raise when the raising's good.**
 
 As much as founders hate to fundraise, VCs have to do it too, and it's no better.
 

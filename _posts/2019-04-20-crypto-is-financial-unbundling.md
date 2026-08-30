@@ -2,7 +2,6 @@
 title: "Crypto is financial unbundling"
 tags: [blockchain]
 image: bill-rollup.jpg
-featured: "true"
 ---
 
 Here's a question: why are money transfers so expensive?

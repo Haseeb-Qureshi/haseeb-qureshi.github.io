@@ -1,7 +1,8 @@
 ---
 title: "Crypto was not made for humans"
+featured: "true"
 tags: [blockchain]
-image: posts/crypto-was-not-made-for-humans/01.jpg
+image: bitcoin-chip.jpg
 ---
 
 We're a crypto fund. If anyone should believe in crypto, it's us.

@@ -2,7 +2,6 @@
 title: "The authoritative guide to blockchain development"
 tags: [blockchain, programming]
 image: block-chain-zeroes.jpg
-featured: "true"
 ---
 
 Cryptocurrencies, ICOs, magic internet money—it's all so damn exciting, and you, the eager developer, want to get in on the madness. Where do you start?

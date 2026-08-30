@@ -2,7 +2,6 @@
 title: "The Life and Death of Plasma"
 tags: [blockchain]
 image: plasma.jpeg
-featured: "true"
 ---
 
 *By Haseeb Qureshi and Ashwin Ramachandran*

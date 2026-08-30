@@ -10,6 +10,8 @@ Firm: https://www.dragonfly.xyz/
 ## Selected essays
 
 - [How to Build a VC Firm](https://haseebq.com/how-to-build-a-vc-firm/): how Dragonfly was built, through the launch of its $650M Fund IV in 2026
+- [The Rise of the 149-Person Company](https://haseebq.com/the-rise-of-the-149-person-company/): how AI subscription pricing acts like tax policy that favors small companies
+- [Crypto was not made for humans](https://haseebq.com/crypto-was-not-made-for-humans/): why AI agents, not people, are crypto's natural users
 - [In Defense of Exponentials](https://haseebq.com/in-defense-of-exponentials/): on AI progress and why exponential forecasts keep beating linear ones
 - [What Explains the Rise of AMMs?](https://haseebq.com/what-explains-the-rise-of-amms/): how automated market makers came to dominate crypto trading
 - [The Reign of Terra: The Rise and Fall of UST](https://haseebq.com/the-reign-of-terra-the-rise-and-fall-of-ust/): postmortem of the Terra collapse
