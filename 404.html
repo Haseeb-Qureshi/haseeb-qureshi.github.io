@@ -4,10 +4,14 @@ permalink: /404.html
 title: Page Not Found
 ---
 
-<p>Sorry, the page you requested cannot be found. Perhaps you can find it in the list below.</p>
+<p>Sorry, the page you requested cannot be found.</p>
 
-</ul>
+<p>Try the <a href="/">homepage</a>, or one of the popular essays:</p>
+
+<ul>
   {% for page in site.posts %}
-    <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
+    {% if page.featured == "true" %}
+      <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+    {% endif %}
   {% endfor %}
 </ul>

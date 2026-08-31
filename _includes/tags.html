@@ -1,10 +1,10 @@
 {% for tag in include.tags %}
   {% unless forloop.last %}
-    <a href="{{ site.url }}/{{ tag | slugify }}">
+    <a href="/{{ tag | slugify }}">
       {{ tag | rstrip | append: "," }}
     </a>
   {% else %}
-    <a href="{{ site.url }}/{{ tag | slugify }}">
+    <a href="/{{ tag | slugify }}">
       {{ tag }}
     </a>
   {% endunless %}
