@@ -34,7 +34,7 @@ It's painfully obvious that we're not ready for it.
 
 At its core, a blockchain is a surprisingly simple and elegant data structure. It's basically just a linked list with one important augmentation—each block contains a [cryptographic hash](https://simple.wikipedia.org/wiki/Cryptographic_hash_function) of the previous block. This creates an effectively unalterable chain of blocks and their fingerprints, stretching back to the original block.
 
-![Blockchain](http://i.imgur.com/Ymhi8jq.png)
+![Blockchain](/images/posts/blockchain-the-revolution-were-not-ready-for/01.png)
 
 If everyone in your system replicates this linked list (and verifies its legitimacy by repeating the cryptographic hash functions), it will implement a slow and somewhat crude distributed database that's resistant to tampering.
 
@@ -75,7 +75,7 @@ The second category are the profiteers who trying to make a quick buck off the u
 Unfortunately, this second category is getting most of the attention.
 
 ## The tower of Blockchain
-![tower of Babel](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_%28Vienna%29_-_Google_Art_Project.jpg/1200px-Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_%28Vienna%29_-_Google_Art_Project.jpg)
+![tower of Babel](/images/posts/blockchain-the-revolution-were-not-ready-for/02.jpg)
 Imagine stumbling across the world wide web in 1995, browsing through dinky fan sites catering to eccentrics, and thinking: "Hah. Wow. This weird little ecosystem is going to be really important someday."
 
 That was blockchain a few years ago. In other words, blockchain has safely crossed the Angelfire chasm.
@@ -84,7 +84,7 @@ Now that it has proven its first glimmer of usefulness, the next act is inevitab
 
 You may have heard about the [ICO mania](https://medium.com/blockchannel/understanding-the-ethereum-ico-token-hype-429481278f45), or the recent rallies of [the prices of Bitcoin and Ethereum](https://coinmarketcap.com/). The wise and the wily have taken notice and have realized blockchain's tremendous potential. And they've already made and lost fortunes speculating on the potential future of cryptocurrencies.
 
-![Crypto prices](http://i.imgur.com/OlfsjU9.png)
+![Crypto prices](/images/posts/blockchain-the-revolution-were-not-ready-for/03.png)
 
 It's unfortunate that right now, blockchain-as-speculation is dominating most people's attention. The signal is getting drowned in the noise.
 

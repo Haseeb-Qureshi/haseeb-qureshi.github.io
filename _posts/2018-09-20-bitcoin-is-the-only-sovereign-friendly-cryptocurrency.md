@@ -56,7 +56,7 @@ How is this done? It starts with the fiat onramps, where an exchange collects in
 
 This is more than hypothetical. Exchanges have significant insight into the flows of Bitcoin—enough to successfully deter hacks, stolen funds, and regularly file [suspicious activity reports](https://en.wikipedia.org/wiki/Suspicious_activity_report) (as all US exchanges are required to). We saw this with the [Mueller Probe](https://blog.cotten.io/bitcoin-money-laundering-and-muellers-12-e2fa91097e12) and with analysis of the [Mt. Gox hack](https://www.youtube.com/watch?v=l70iRcSxqzo). Companies like Chainalysis provide surveillance services to law enforcement and various three-letter agencies, [reportedly earning more than $5.7M in 2018 via government contracts](https://diar.co/volume-2-issue-38/).
 
-![Bitcoin flows](https://i.imgur.com/QZc8vv6.png)
+![Bitcoin flows](/images/posts/bitcoin-is-the-only-sovereign-friendly-cryptocurrency/01.png)
 
 For the average person, this is probably not a big deal. Most cryptocurrency users aren't doing anything illegal and needn't worry they're being targeted for surveillance. But consider: how is this any different from other systems we use? Most people feel their cell phone conversations are private. But in the back of their heads, they know that their phones could be tapped or their phone provider subpoenaed. We take solace that this surveillance is unlikely and usually requires a significant legal threshold. And yet, we know not to be surprised if someday our phone calls are replayed before a jury of our peers. Bitcoin falls into the same security model.
 
@@ -78,7 +78,7 @@ It's worth remembering: money is the ultimate network effect, and it's incredibl
 
 So Bitcoin is not suited to be a global currency. But Bitcoin can still succeed! As Nic Carter (no affiliation with the Backstreet Boys) documents, Bitcoin has iterated its way into a [vision of "digital gold."](https://medium.com/@nic__carter/visions-of-bitcoin-4b7b7cbcd24c) Turns out, sovereigns are pretty okay with this.
 
-![Digital gold](https://cdn-images-1.medium.com/max/800/0*HGo7gctDrqpDCDmx.jpg)
+![Digital gold](/images/posts/bitcoin-is-the-only-sovereign-friendly-cryptocurrency/02.jpg)
 
 Note, Bitcoin becoming a form of digital gold is still a long ways away. To say nothing of their relative volatility, the market cap of gold is in the trillions of dollars. Bitcoin is still dwarfed by gold's dominance as the global store of value.
 
@@ -102,7 +102,7 @@ It might sound like this article is ragging on Bitcoin. But I'm actually very bu
 
 You see, almost every other cryptocurrency that exists today can be pinpointed on a map. It was concocted by a single mind or a few minds. We know where they come from, where they live, and where they are evangelizing the project.
 
-![Satoshi Nakamoto](https://cdn-images-1.medium.com/max/800/0*3Q0DhZR8vaxxzAnc.jpg)
+![Satoshi Nakamoto](/images/posts/bitcoin-is-the-only-sovereign-friendly-cryptocurrency/03.jpg)
 
 Bitcoin is the only exception. Its pseudonymous creator, Satoshi Nakamoto, is now an apparition. Bitcoin belongs to no one, and it relies on no one. If all of its developers were rounded up and thrown into secret prisons, its development would continue under another set of names. This also implies that if a government were to throw its support behind Bitcoin, it would not cede power to any other country. This fact is under-appreciated.
 

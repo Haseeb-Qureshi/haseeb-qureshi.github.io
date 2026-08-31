@@ -28,7 +28,7 @@ The best way to model a complex economic system like Ethereum DeFi is through a 
 
 Tarun Chitra from Gauntlet did precisely this in his [most recent paper](https://docsend.com/view/697feid), *Competitive equilibria between staking and on-chain lending**,* where he analyzes how on-chain lending interacts with PoS staking, assuming [economically rational](https://en.wikipedia.org/wiki/Modern_portfolio_theory) stakers. (Economically rational meaning: each agent has a portfolio of assets that are either lent, staked, held, or traded, and each agent has a slightly different risk profile. They rebalance the assets in their portfolio to maximize their risk-adjusted returns.)
 
-![](https://miro.medium.com/max/1600/0*PK0urC0y1Vp0lQZw)
+![](/images/posts/how-defi-cannibalizes-pos-security/01.png)
 
 Staked supply of ETH vs lent supply of ETH over time
 
@@ -44,7 +44,7 @@ If the attacker subsidizes an on-chain lending market and pays a better long-ter
 
 In Compound, of course, the way you drive down borrow rates is by simply borrowing out of the asset pool. The risk model then automatically adjusts the interest rate upward. As the attacker keeps borrowing, the rates for lending increase, more and more stakers transition into lending, and slowly the security of PoS gets drained. This may lead to a snowball effect: as onlookers see the total stake shrinking, they now want to go short ETH, further increasing the borrow demand on Compound. You can imagine the staking network is like a sweater, and the attacker is pulling on a single thread: the interest rate. As the attacker pulls, the sweater responds to the pressure, the thread gets longer and longer, until soon enough, the attacker has unspooled the whole thing.
 
-![](https://miro.medium.com/max/800/1*NF2GfKqV8PrMtEu8ExX6TQ.png)
+![](/images/posts/how-defi-cannibalizes-pos-security/02.png)
 
 Of course, the attacker needs to borrow assets in Compound to do this, meaning they must put up collateral to borrow. But if they collateralize with USDC or tokenized Bitcoin, then the attacker can have no price exposure to ETH while attacking the network. The analogue of this attack in a PoW chain would require taking a large short position off-chain. But in PoS, an attacker can perform this attack while hedging out all of their price risk, all without anyone's permission, all on-chain.
 

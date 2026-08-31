@@ -6,7 +6,7 @@ image: roman-coins.jpeg
 
 We can safely say the ICO bubble is over now.
 
-![ICO collapse](https://i.imgur.com/4p3GLDQ.png)
+![ICO collapse](/images/posts/3-models-for-understanding-the-ico-bubble/01.png)
 
 When the bubble finally popped last year, the "market cap" of all crypto fell over $700B, an 85% drop from its peak in January - steeper than the dotcom bubble's 78% crash. The media gawked at this collapse, and as usual, proclaimed this was the [nail in the coffin](https://99bitcoins.com/bitcoin-obituaries/) for cryptocurrencies.
 
@@ -60,7 +60,7 @@ The P2P file sharing revolution began in 1999, with a little application called 
 
 It sounds simple, but it's hard to describe how large of a paradigm shift Napster was.
 
-![Napster interface](https://regmedia.co.uk/2011/10/06/napster.gif)
+![Napster interface](/images/posts/3-models-for-understanding-the-ico-bubble/02.gif)
 
 Remember what it was like to purchase music in 1999: standing in a CD aisle, surrounded by rows of disc jackets, debating in your head which album to spend your $20 on. Jay-Z? Smashmouth? Or maybe J-Lo? Every purchase was a careful tradeoff. Music was scarce and precious.
 
@@ -92,7 +92,7 @@ BitTorrent was intentionally structured differently from other P2P file sharing 
 It is a surprisingly dry, intellectual manifesto.
 
 Compare this to KaZaA's credo:
-![KaZaA advertising](https://i.imgur.com/DGKe3SF.png)
+![KaZaA advertising](/images/posts/3-models-for-understanding-the-ico-bubble/03.png)
 
 Bram Cohen explicitly disavowed all illegal file sharing usage of BitTorrent. He never once acknowledged this as a legitimate use of the service. The core team and their messaging was unimpeachable. And this is precisely what allowed BitTorrent to flourish on the back of all of its legitimate uses: Linux distros, World of Warcraft updates, dataset sharing, and so on.
 
@@ -119,7 +119,7 @@ If you listen to Lawrence Lessig or [Peter Sunde](https://en.wikipedia.org/wiki/
 
 The real story is much simpler than that.
 
-![Boston Tea Party](https://www.massmoments.org/files/assets/moments/11-17-1738/11_17.1_1738.jpg)
+![Boston Tea Party](/images/posts/3-models-for-understanding-the-ico-bubble/04.jpg)
 
 The file sharing revolution took off because people opposed a rule: *you can only consume music how the record industry says you can*.
 
@@ -189,7 +189,7 @@ But there's another, darker side to explaining the ICO bubble—as an enabler of
 
 Balaji Srinivasan once claimed that tokens would turn blockchains into the [world's biggest stock market](https://www.cnbc.com/2017/09/05/balaji-srinivasan-21-co-interview-on-blockchain.html). This may someday be true—but for now, it seems that blockchains have become the world's biggest penny stock market instead.
 
-![Wolf of Wall Street](https://i.imgur.com/3uYtZBj.jpg)
+![Wolf of Wall Street](/images/posts/3-models-for-understanding-the-ico-bubble/05.jpg)
 
 The term "penny stock" evokes images of shady stockbrokers in boiler rooms, and for good reason. You'll remember Jordan Belfort, the protagonist of the 2013 film Wolf of Wall Street, made his fortune hustling as a penny stock broker.
 
@@ -218,7 +218,7 @@ As a former professional poker player, I can tell you the answer is simple: peop
 
 For penny stocks, they tap into the same greedy credulity behind all get rich quick schemes. It hardly matters what the underlying company does.
 
-![Penny stocks banner](https://sykes-wpengine.netdna-ssl.com/images/banner-tim.jpg)
+![Penny stocks banner](/images/posts/3-models-for-understanding-the-ico-bubble/06.jpg)
 
 But we must also acknowledge the other side of this market: the hustlers and fraudsters. To them, penny stocks are a gift. And they also don't care what the stocks represent—they simply need a company with a ticker and story to manipulate. Greed takes care of the rest.
 
@@ -233,7 +233,7 @@ The modern version: hiring an [ICO marketing agency](https://hackernoon.com/the-
 
 Don't have a real community? No problem, buy a fake one.
 
-![Buying Telegram group members](https://i.imgur.com/eUymVXC.png)
+![Buying Telegram group members](/images/posts/3-models-for-understanding-the-ico-bubble/07.png)
 
 > The current fashion is to announce the discovery of a new, inexpensive method of sending broadband signals over telephone lines at speeds far exceeding existing technologies... The promoters issue a constant stream of press releases chronicling development breakthroughs, marketing agreements and endorsements of the technology from qualified scientists.
 
@@ -241,19 +241,19 @@ How about a "hyper-scalable" "quantum-resistant protocol" for "supply chain mana
 
 > Optimistic posts then begin appearing on Internet stock message boards, such as those maintained by Yahoo and Raging Bull. Because few have heard of the new company, the promoters plant messages on other heavily frequented boards.
 
-![BitcoinTalk pumping offer](https://cdn-images-1.medium.com/max/1000/1*3clYeCwJXzvgxi9ohxATgg.png)
+![BitcoinTalk pumping offer](/images/posts/3-models-for-understanding-the-ico-bubble/08.png)
 
 > If the promoters do a good job, and the market is strong, the stock price can soar from a few cents a share to $10, or in some cases, much more. Eventually, the share price collapses after the promoters sell out and quit pumping.
 
-![Pump and dump group](https://bitfalls.com/wp-content/uploads/2018/01/03-3.png)
+![Pump and dump group](/images/posts/3-models-for-understanding-the-ico-bubble/09.png)
 
-![Pumping chat](https://bitfalls.com/wp-content/uploads/2018/01/08-2.png)
+![Pumping chat](/images/posts/3-models-for-understanding-the-ico-bubble/19.png)
 
 (many of these examples are drawn from [Anatomy of a Pump & Dump Group](https://bitfalls.com/2018/01/12/anatomy-pump-dump-group/))
 
 You know the jig. Bounties, referral bonuses, airdrops, presales, advisor shares, purchased reviews, paid followers, social media bots, wash trading, painting TA signals, and so on. By the time the ICO boom had gone mainstream, this procedure was a well-oiled machine.
 
-![Fraudulent market making service](https://i.imgur.com/cTM75k6.png)
+![Fraudulent market making service](/images/posts/3-models-for-understanding-the-ico-bubble/11.png)
 
 Most of the long tail of ICOs—and that tail was very long—were complete nonsense. According to most trackers, the total number of ICOs was well into the thousands, and that's only counting those that were able to rise above the noise.
 
@@ -283,7 +283,7 @@ After all, I don't believe for a second that the crypto boom was principally abo
 
 The World Wide Web—the Internet as most people know it—was created by Tim Berners-Lee in 1989. Its invention was the spark that set off the Information Age, and alongside it, the greatest stock market bubble of this generation.
 
-![Netscape Navigator](https://images.techhive.com/images/article/2014/10/slide-3-100522661-gallery.idge.gif)
+![Netscape Navigator](/images/posts/3-models-for-understanding-the-ico-bubble/12.gif)
 
 Compared to the technologies that came before it, the Web evolved rapidly. The Internet only had 2% penetration in the US when the Mosaic browser launched in 1993. Six years later, at the height of the bubble, a full [36% of the US was online](https://data.worldbank.org/indicator/IT.NET.USER.ZS?locations=US). (Telephones took [more than 30 years](https://ourworldindata.org/grapher/technology-adoption-by-households-in-the-united-states?time=1903..2016) to reach the same level of penetration.)
 
@@ -291,7 +291,7 @@ The rapid rise of the Web, combined with low interest rates and the Clinton tax 
 
 Netscape, the company that built the Web's most dominant web browser, kicked off the age. Netscape IPOed for $2.9B in 1995. It was somewhat unusual for an unprofitable company to IPO so successfully, but Netscape's revenues were growing so rapidly that this would soon be forgotten.
 
-![Marc Andreessen Time Magazine Cover](https://i.imgur.com/uVZXZ8h.jpg)
+![Marc Andreessen Time Magazine Cover](/images/posts/3-models-for-understanding-the-ico-bubble/10.jpg)
 
 The Netscape IPO would be quickly followed in 1996 by Yahoo!, Excite, and Lycos, all fantastically successful IPOs by companies that were also growing rapidly. And though, like Netscape, they were burning through cash, it didn't seem to matter. Internet companies had become anointed.
 
@@ -301,7 +301,7 @@ In just five years, the NASDAQ had risen more than 400%. This fomented an all-ou
 
 Companies like Pets.com were going from incorporation to IPO in a single year. Almost every single IPO popped, with an average of [68% first-day gains](https://money.cnn.com/1999/12/27/investing/century_ipos/). Investing in tech IPOs was widely agreed to be a foolproof way to multiply your money. A phenomenon of [dotcom parties](https://www.salon.com/2000/04/25/party_5/) spread across the valley, and those close to founders often received "friends and family" shares as tokens of generosity.
 
-![Top 10 first-day IPO performances](https://i.imgur.com/Frdj3QS.png)
+![Top 10 first-day IPO performances](/images/posts/3-models-for-understanding-the-ico-bubble/14.png)
 
 It was a time of excess. The trend was baffling to Wall Street, to the East Coast elites, to the old money. Storied hedge funds like Tiger Management [went under](https://www.nytimes.com/2000/03/31/business/the-end-of-the-game-tiger-management-old-economy-advocate-is-closing.html), unable to keep up with the shifting market structure. But the techies—they knew it all along, they told themselves.
 
@@ -314,7 +314,7 @@ Soon, dotcoms realized that their burn rates were unsustainable. The Fed announc
 
 By May 18th, Boo.com went bust. In November, Pets.com followed. A few months later, Webvan shuttered operations. The show came crashing down faster than it had started, and funding had all but vanished. By the end of 2001, after the September 11 attacks, most publicly traded dotcoms went bankrupt. Trillions of dollars of investment capital had evaporated.
 
-![NASDAQ Composite Index](https://i.imgur.com/cnT4NQJ.png)
+![NASDAQ Composite Index](/images/posts/3-models-for-understanding-the-ico-bubble/15.png)
 
 The ensuing recession would last several years. It wouldn't be until 2004 when the first major post-crash dotcom company, Google, would IPO again.
 
@@ -329,7 +329,7 @@ To understand the dotcom bubble, we have to start with Carlota Perez.
 
 Carlota Perez is the patron saint of venture capitalists. Her seminal work, [*Technological Revolutions and Financial Capital*](https://www.amazon.com/Technological-Revolutions-Financial-Capital-Dynamics/dp/1843763311) has been been cited by [Marc Andreessen](http://fortune.com/2014/02/13/marc-andreessen-tech-is-recovering-from-a-depression/) and [Fred Wilson](https://avc.com/2015/02/the-carlota-perez-framework/) as pivotal to their understanding of the tech industry.
 
-![Technological Revolutions and Financial Capital](https://images-na.ssl-images-amazon.com/images/I/51sYEeZHITL._SX315_BO1,204,203,200_.jpg)
+![Technological Revolutions and Financial Capital](/images/posts/3-models-for-understanding-the-ico-bubble/16.jpg)
 
 I won’t do her book justice here, but I’ll attempt to summarize the key ideas that are relevant to both the dotcom crash and the ICO bubble. I’ll be quoting heavily from Carlota herself.
 
@@ -342,7 +342,7 @@ According to Perez, these innovation waves consist of three phases:
 2. Collapse
 3. Deployment
 
-![Carlota Perez](https://i.imgur.com/Ss36xmF.png)
+![Carlota Perez](/images/posts/3-models-for-understanding-the-ico-bubble/17.png)
 
 **Installation** is the period when a new technology is first explored, installed, and then speculated on. This speculation leads to an unsustainable asset bubble and a spectacular **collapse**. Then a more sober period of **deployment** takes place, during which the technology matures and sustainably alters many aspects of society. After a full deployment cycle has exhausted its economic growth, a new technology initiates a new innovation wave, and the cycle begins anew.
 
@@ -352,7 +352,7 @@ The same general shape can be observed in each cycle.
 
 Each of these revolutions was kicked off by a seminal project that would catalyze the technology—the industrial revolution with Arkwright's Cromford mill, the steam and railway age with the Liverpool-Manchester Railway, the steel and heavy engineering age with Carnegie's Bessemer steel plant, the age of automobiles with Ford's assembly line, and the computer age with Intel's 4004 microprocessor.
 
-![K-waves summary](https://i.imgur.com/77Niqak.png)
+![K-waves summary](/images/posts/3-models-for-understanding-the-ico-bubble/18.png)
 
 By this model, the moment that kicked off ICO bubble must be the launch of Ethereum. Ethereum was not the first cryptocurrency, but it was the first ICO to produce astronomical returns, and it would set the foundation for the frenzy that was to come. Ethereum launched in 2015, exactly 44 years after the Intel 4004 in 1971.
 
@@ -364,7 +364,7 @@ Simply put, a techno-economic paradigm is a new accepted way of doing things. Wh
 
 > The emerging heuristic routines and approaches are gradually internalized by engineers and managers, investors and bankers, sales and advertising people, entrepreneurs and consumers. In time, a shared logic is established; a new "common sense" is accepted for investment decisions as well as for consumer choice. The old ideas are unlearned and the new ones become "normal."
 
-As a techno-economic paradigm [becomes ascendant](https://i.imgur.com/ywCcYxa.png), any entrepreneur who does not subscribe to the new paradigm will be seen as low-status and behind the times.
+As a techno-economic paradigm [becomes ascendant](/images/posts/3-models-for-understanding-the-ico-bubble/21.png), any entrepreneur who does not subscribe to the new paradigm will be seen as low-status and behind the times.
 
 We know the techno-economic paradigm of the late internet revolution: move fast and break things, launch MVPs, iterate in short cycles, pursue business models with zero marginal cost. Basically all the mantras consumed today by aspiring tech founders.
 
@@ -417,14 +417,14 @@ And of course, do you remember all the voices ([rejoicing](https://medium.com/da
 
 The ICO bubble was simply a variation on the theme. The players and the tactics were different, but the human stories were the same. Like in the dot com bubble there were, as always, stories of overnight millionaires, flagrant scams, manifestos declaring a new technological order, levered debts and second mortgages that ended in catastrophe—all the usual roil and ruin of speculative manias.
 
-![Installation phase](https://i.imgur.com/7bBzPss.png)
+![Installation phase](/images/posts/3-models-for-understanding-the-ico-bubble/13.png)
 
 All this is to say, we've seen this before.
 
 ## The aftermath
 Crypto's gilded age is probably now over. Most of those newly minted millionaires have unwittingly surrendered their riches. The hype has died away, ICO funding has dried up, [SEC enforcement actions](http://fortune.com/2018/11/02/sec-ico-report-cryptocurrency-scams/) are trickling in, and the media's crush on crypto has passed.
 
-![ICO Funding per month](https://i.imgur.com/qFvYiQN.png)
+![ICO Funding per month](/images/posts/3-models-for-understanding-the-ico-bubble/20.png)
 
 But, Perez reminds us, the frenzy phase and subsequent crash is not merely painful—it is necessary to any technological revolution. The financial casino attracts the funds necessary to install basic infrastructure and facilitate social learning.
 

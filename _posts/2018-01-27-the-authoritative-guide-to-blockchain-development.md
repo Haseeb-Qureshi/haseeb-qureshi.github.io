@@ -169,7 +169,7 @@ Now that you've built a blockchain and understand the dynamics of Bitcoin, it's 
 
 You understand how blockchains and proof-of-work can achieve distributed, Byzantine fault-tolerant consensus within a peer-to-peer network. But a payments network is just one application you can run atop such a blockchain. In 2013, Vitalik Buterin, the creator of Ethereum asked: what if you used a blockchain to implement a decentralized computer?
 
-![ethereum](https://themerkle.com/wp-content/uploads/2017/04/Ethereum-Logo.png)
+![ethereum](/images/posts/the-authoritative-guide-to-blockchain-development/01.png)
 
 In Ethereum, you pay miners to execute your programs on this distributed virtual machine. This means you can perform arbitrary computations, using a Turing-complete programming language (unlike Bitcoin script). Obviously that includes payments-related applications, so Ethereum enables a superset of Bitcoin's functionality and has birthed a renaissance of innovation.
 
@@ -193,7 +193,7 @@ The dominant programming language for Ethereum is Solidity, which is a staticall
 
 To get your first exposure to Solidity development, I recommend working through all of the [CryptoZombies tutorial](https://cryptozombies.io). It's a delightful and high-quality Codecademy-esque tutorial that will teach you the basics of Solidity programming.
 
-![CryptoZombies](https://user-images.githubusercontent.com/10965087/35200954-36c71c0a-fecb-11e7-9391-16f8dd106e05.png)
+![CryptoZombies](/images/posts/the-authoritative-guide-to-blockchain-development/02.png)
 
 Now that you've whetted your appetite, it's time to develop on your own.
 

@@ -6,13 +6,13 @@ image: fees.jpg
 
 When Satoshi Nakamoto designed the Bitcoin protocol, he had the insight to include the notion of transaction fees. These fees incentivized miners to include transactions into blocks. But initially, Bitcoin did not have, in any meaningful sense, a *fee market*.
 
-![free fees](https://i.imgur.com/ush3IPJ.png)
+![free fees](/images/posts/blockchain-fees-are-broken/01.png)
 
 A large portion of early Bitcoin transactions were completely free up until 2013 (blue in the above chart). Wallet developers eventually hard-coded tiny fixed fees into their clients, thought of as donations to miners. At first these fees defaulted to 0.1 BTC, but they were driven down as the Bitcoin price rose.
 
 It would be late 2014 when the first Bitcoin blocks actually filled to capacity. 2015 would see long stretches of full blocks, and by 2016 the Bitcoin blockchain was continuously operating at more or less full capacity.
 
-![bitcoin blocks](https://i.imgur.com/xCKPCAM.png)
+![bitcoin blocks](/images/posts/blockchain-fees-are-broken/02.png)
 
 Only after blocks were full did Bitcoin blocks really begin to function as a fee market. Programmers developed dynamic fee estimators, which inspected the mempool and predicted the optimal fee to pay at any given time. Transaction fees would sometimes spike due to bidding wars over limited block space.
 
@@ -38,7 +38,7 @@ For the Internet, you *bulk purchase these packets in advance*, via a monthly ba
 
 But a blockchain setting has further constraints: opportunity costs. If you don't give a miner an economic incentive to include your transactions in their block, they won't do it. This is because processing transactions requires time and computation, which eats into a miner's bottom line. A larger block also takes longer to transmit, which increases the likelihood that the block gets orphaned. An empty Bitcoin block is worth about $100K today in pure block rewards, while an empty Ethereum block is about $600. This would be a significant loss to any miner. So long as transaction fees are negligible in relative terms, miners are perfectly happy to [mine an empty block with 0 transactions in it](https://www.blockchain.com/btc/block/000000000000000000138250dba2adb1715ff6f84441b03b18db2258910c8c96).
 
-![gas limit vs uncle rate](https://i.imgur.com/pug2Zqx.png)
+![gas limit vs uncle rate](/images/posts/blockchain-fees-are-broken/03.png)
 
 (In practice, most of these empty blocks occur because it is mined very soon after receiving the newest block, before a block template with unique transactions can be prepared.)
 
@@ -65,7 +65,7 @@ But markets are only the starting place. What *kind* of market do we want here? 
 ## Auction design
 Almost all blockchain fee markets are first-price auctions. In a first-price auction, all bidders submit sealed bids, and the highest bidder pays whatever they bid. It's basically the most obvious way to design a sealed-bid auction. (Of course, blockchain fees are not technically sealed and they can often be updated using [RBF](https://en.bitcoin.it/wiki/Replace_by_fee) or [CPFP](https://bitcoinelectrum.com/how-to-do-a-manual-child-pays-for-parent-transaction/), but they still mostly behave like a first-price auction).
 
-![block fees](https://atomicwallet.io/css/images/articles/bitcoin-network-fee.png)
+<!-- image lost to link rot: https://atomicwallet.io/css/images/articles/bitcoin-network-fee.png -->
 
 Because each block that's being auctioned off has multiple slots in its block space, this is known as a *multi-unit auction*. The first slot in the block goes to the highest bidder, the second slot goes to the second highest bidder, and so forth. (Ethereum is somewhat more complex because "slots" can affect each other, such as in [DEX arbitrage](https://arxiv.org/abs/1904.05234).)
 
@@ -86,7 +86,7 @@ Everyone sees the same set of problems. Is it possible to fix blockchain fees? T
 ## Proposal #1: The EOS "no fee" model
 One radical innovation on the blockchain fee model was invented by Dan Larimer, first implemented in Steem and now in EOS (later borrowed  by Tron).
 
-![eos model](https://i.imgur.com/2UnOnRr.png)
+![eos model](/images/posts/blockchain-fees-are-broken/05.png)
 
 Dan Larimer knew how frustrating it is to deal with fluctuating fees. He imagined a system where instead of users bidding for space in blocks, they'd be *entitled* to a portion of the system's throughput. After all, blockchains are supposed to be a public good, meant to serve the user base.
 
@@ -131,7 +131,7 @@ You can think of the big idea behind EIP-1559 as the migration of fee estimation
 
 So EIP-1559 attempts exactly that. It introduces a per-block *flat fee* that every transaction must pay. That flat fee goes up and down based on how full the previous block was, targeting an average block utilization of 50%. When the previous block was more than 50% full, the fixed fee goes up proportionally (capped at +12.5% per block), and when it's below 50% usage, fees go down. In a sense, this synchronizes everyone on the same intra-protocol fee estimator.
 
-![fee mechanism](https://i.imgur.com/Farx8FK.png)
+![fee mechanism](/images/posts/blockchain-fees-are-broken/06.png)
 
 The other feature of EIP-1559 is that these flat fees don't actually get paid to miners. Instead, they get burned. This has two big consequences: first, it makes it harder for miners to manipulate this mechanism, since they can't just stuff their own transactions into a block without also burning fees. Second, because this fee burning must be performed in Ether, it solidifies ETH as the only way to pay for usage of Ethereum, preventing [economic abstraction](https://twitter.com/econoar/status/1055845633754447872). Now instead of fees being a value transfer from users to miners, it's a value transfer from users to all ETH holders through lower inflation.
 
@@ -157,7 +157,7 @@ Perhaps the crown jewel of auction theory is the Vickrey auction, for which Will
 
 The second-price auction is a simple idea. Like in a first-price auction, all bids are secret, and the person who bids the highest wins. But the winner doesn't pay what they bid; instead they pay *what the second highest bidder bid* (sometimes + 1 cent).
 
-![first-vs-second-price-auctions](https://i.imgur.com/pmZvOPr.png)
+![first-vs-second-price-auctions](/images/posts/blockchain-fees-are-broken/07.png)
 
 This slight change in design turns out to change everything.
 
@@ -189,7 +189,7 @@ To prevent these kinds of antics, the authors add a second augmentation: instead
 
 Beyond lowering fees, this scheme also has the nice side effect of smoothing transaction fee volatility. This obviates many fee sniping attacks and increases the [stability of Bitcoin after the block reward tapers off](http://randomwalker.info/publications/mining_CCS.pdf). In their paper, the authors estimate that their design would have saved ~$270M in transaction fees during the 2017 Bitcoin fee run-up.
 
-![figure 5](https://i.imgur.com/5U7q4qf.png)
+![figure 5](/images/posts/blockchain-fees-are-broken/04.png)
 
 Their design is theoretically enticing. But it's a significant departure from the way fee markets are currently architected for blockchains. Adopting a system like this would require a hard fork, and would break almost all wallets and exchanges. It would also be a totally new paradigm for users to think about how to pay fees, and there will no doubt be unforeseen issues in practice. That said, it's likely that in the long run, multi-unit second-price auctions would enable simpler fees, lower volatility for miners, and overall greater social surplus.
 

@@ -1,5 +1,6 @@
 ---
 title: The Million Dollar Bet
+featured: "true"
 tags: [poker]
 image: house-of-cards-falling_vshmfx.jpg
 ---

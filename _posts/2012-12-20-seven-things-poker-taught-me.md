@@ -53,7 +53,7 @@ Enough hours at the grindstone, and your mind will become sharp like a blade, yo
 
 Although ego is what brought you into this game to begin with, it must be the first thing to go. In some sense, ego is unavoidable&mdash;we are not motivated by money so much as by the desire to improve, to get better, to be as good as we can be. Poker is inherently ego-driven. *But*, poker teaches you that you must sweep your ego out of the foreground. Ego can't be on your mind. You can't always want to win, and you can't be better than everyone all the time. You're going to lose&mdash;that's the only way to become stronger.
 
-![](http://edhird.files.wordpress.com/2012/01/king-hearts4.png)
+![](/images/posts/seven-things-poker-taught-me/01.png)
 
 Survey yourself. What are your failings? What are your weaknesses? What do other people know about you that you don't? If you're not prepared to face your own flaws, then you have no chance in the world of poker.
 
@@ -81,7 +81,7 @@ The poker world is, after all, a marketplace of ideas&mdash;there are many strat
 
 This one came to me, as I suspect it does for most people, in bits and pieces over my career. We naturally don't want to believe this one. We all worship our poker heroes; they represent what it means to be great. They exist high above us, beyond impeachment, like the heroes of the constellations. We resist letting go of this idealism.
 
-![](http://kingpinlifestyle.com/wp-content/uploads/2012/09/losing.jpeg)
+![](/images/posts/seven-things-poker-taught-me/02.jpg)
 
 I used to be this way with Prahlad Friedman. When I first started playing poker, I gushed over the epic battles between him and Green Plastic. I read with wide eyes the stories of his hyper-aggression, his perfectly sized overbets, his seemingly flawless timing. He was, to me, the perfect poker player, an impossible genius.
 
@@ -96,7 +96,7 @@ I won't go so far as to say it's possible for you to beat anyone&mdash;obviously
 
 To play poker is to trudge again and again through the storms of variance. It is perhaps the central contradiction of our lives as poker players&mdash;that we must somehow negotiate our way through a world that is utterly indifferent to us. How do we know that, when we lose, it is our fault or not? How do we know, when we win, if we're actually good or just on a heater? Poker offers us no answers&mdash;it is incapable answering. Poker is an abyss, a mute god, a faceless smile.
 
-![](http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2012/11/20/1353423493344/A-man-shuffling-a-deck-of-012.jpg)
+![](/images/posts/seven-things-poker-taught-me/03.jpg)
 
 So as a poker player, you learn to live in uncertainty. You learn how to settle into variance, how to find comfort within randomness. Because you are not in control, there is nothing to do but keep pushing through the winds of variance, to take your next hand, to play it well. Moving forward is all you have&mdash;and that is true in poker, as in life.
 

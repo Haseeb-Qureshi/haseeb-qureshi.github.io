@@ -40,7 +40,7 @@ I had never done an actual job search before. Because I had been hired directly 
 
 So, in the free time I had available to me on evenings and weekends, I began beefing up my portfolio. First, I built out my Asteroids game, getting it presentable and fully playable. ([Check it out](http://haseeb-qureshi.github.io/Asteroids/)! It's pretty fun and fully developed now.)
 
-![](https://github.com/Haseeb-Qureshi/Asteroids/raw/master/assets/asteroids.gif)
+![](/images/posts/farewell-app-academy-hello-airbnb-part-i/01.gif)
 
 Second, I made a brand new project, heavier on computer science and built in React, to show off my knowledge of front-end development. This project took quite a while to get off the ground, but the process was very satisfying.
 
@@ -50,7 +50,7 @@ Basically, I built an interface that would visually demonstrate local search alg
 
 It's pretty fascinating! Many of the best algorithms to solve this problem involve randomization, including iterative repair, which is by far the fastest algorithm I found. [Give it a spin!](http://haseeb-qureshi.github.io/n-queens-visualizer/)
 
-![](https://camo.githubusercontent.com/eb84b58a08982181867a06661a7d4c51d7453ffb/687474703a2f2f692e696d6775722e636f6d2f4e4c41464949742e676966)
+![](/images/posts/farewell-app-academy-hello-airbnb-part-i/02.gif)
 
 Having wrapped up my projects, I spent the majority of my free time grinding on algorithms problems and strengthening my knowledge of system design. Before long, I was prepped for the interview circuit.
 

@@ -30,7 +30,7 @@ But there is a second type of governance model that's gaining steam, known as **
 
 On-chain governance is central to many "blockchain 3.0" projects, such as Tezos, DFINITY, and Cosmos. Others, such as 0x and Maker, are planning to eventually implement on-chain governance through a more gradual transition.
 
-![](https://i.imgur.com/tktVi6K.jpg)
+![](/images/posts/blockchains-should-not-be-democracies/01.jpg)
 
 *On-chain governance is a radical proposition.* It attempts to side-step the messy human dramas of traditional organizations. Instead, it wants to turn a blockchain into a self-governing, mechanistic democracy.
 
@@ -104,7 +104,7 @@ Altruism and inertia probably make it unlikely, but we've seen this kind of thin
 
 But DFINITY's is not the only proposed model. Many of these on-chain governance models will instead employ [liquid democracy](https://en.wikipedia.org/wiki/Delegative_democracy), wherein voters can entrust their votes to a delegate who can vote on their behalf. Those delegates are then compensated for their voting activity.
 
-![](https://i.imgur.com/I5yrTaH.png)
+![](/images/posts/blockchains-should-not-be-democracies/02.png)
 
 All democracies struggle with the issue of low voter turnout (even Ethereum's [DAO Carbonvote](http://carbonvote.com/) only had a 4.5% turnout). Liquid democracy cleverly addresses this issue by letting coinholders delegate their votes to better informed voters.
 

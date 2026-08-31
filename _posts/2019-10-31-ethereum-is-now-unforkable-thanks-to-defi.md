@@ -21,7 +21,7 @@ In the meantime, DeFi operators watch anxiously. Their hands are tied: they cann
 Let's say that USDC is the first to cross the Rubicon. [CENTRE](https://www.centre.io/), the organization that issues USDC, announces that they are not supporting ProgPoW, and USDC will not be redeemable on the ProgPoW fork. Of course, this means that USDC will become completely worthless on the ProgPoW fork—after all, USDC is a system of record for dollar-backed IOUs. Only one system of record can correspond to the real liabilities of CENTRE, and so the USDC ledger is effectively meaningless on the other chain.
 
 
-![](https://miro.medium.com/max/2556/1*ddErvEmxRQmX5I5fXKsm3Q.png)
+![](/images/posts/ethereum-is-now-unforkable-thanks-to-defi/01.png)
 
 On seeing this, all DeFi operators are forced to now follow USDC's lead. They cannot defy CENTRE. The reasons for this are subtle, and increasingly define Ethereum DeFi. Composability both rules and constrains everything.
 
@@ -30,7 +30,7 @@ On seeing this, all DeFi operators are forced to now follow USDC's lead. They ca
 As the second most used stablecoin in decentralized finance (or DeFi), USDC represents 99% of all fiat-backed stablecoins locked in DeFi applications.
 
 
-![](https://miro.medium.com/max/1115/1*S_DB-qGEYYcHIADc-RFiBQ.png)
+![](/images/posts/ethereum-is-now-unforkable-thanks-to-defi/02.png)
 
 All other fiat backed stablecoins have negligible usage in DeFi. But so what, you might say—this is a problem that the market can solve. Let other stablecoins like Tether and TUSD, which have billions in circulation, step up and take USDC's place.
 
@@ -56,7 +56,7 @@ So all of DeFi sides with USDC. But what about the people who commit to the oppo
 
 Imagine a small cohort goes through with the fork. Still optimistic, they brand their chain Decentralized ETH, or D-ETH. What will they find on the new chain waiting for them? As in all forks, the entire state of all smart contracts will be ported over—but without the operators to keep them running, what will happen?
 
-![](https://miro.medium.com/max/1732/1*92IGnoOnZkSs2IpOah0nkA.png)
+![](/images/posts/ethereum-is-now-unforkable-thanks-to-defi/03.png)
 
 Oracles stop posting data feeds. There are no more prices. Anything that used a price feed is now broken.
 
@@ -82,7 +82,7 @@ The minority community grumbles about conspiracies. But once D-ETH liquidity slo
 
 What this little thought experiment tells us is: Ethereum is not what it used to be. In 2016, Ethereum was still a proof of concept, and ETC could plausibly claim to be a better vision of how the "world computer" should evolve. But today, it's clear that ETH is valuable because of the *systems that exist on top of it*. Unlike Bitcoin, whose ledger is simple enough that forks are functionally airdrops, ETH's ecosystem is incredibly complex. Because its applications are intertwined with unforkable components, the entire system is rendered unforkable. Any minority fork is doomed to obscurity.
 
-![](https://miro.medium.com/max/2070/1*n1Lxzbe2ONDDkruQiXYu7A.png)
+![](/images/posts/ethereum-is-now-unforkable-thanks-to-defi/04.png)
 
 DeFi is ultimately the kingmaker of any future governance crisis—users, miners, and developers certainly have a voice, but the chaos that would be unleashed by unraveling DeFi ties everyone else's hands. With all of the new higher-level financial applications coming online in the next year, DeFi is liable to only become more fragile.
 

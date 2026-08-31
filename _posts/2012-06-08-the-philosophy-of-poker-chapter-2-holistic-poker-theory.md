@@ -90,7 +90,7 @@ It's a simple example of course, but it gives you the idea of this sort of holis
 
 Next we are going to look at a more advanced concept in poker. Note the following diagram.
 
-![](http://3.bp.blogspot.com/-aXB6gLdLdg4/T9MDy50gofI/AAAAAAAABQ8/NwZmE3OCyJo/s1600/central.png)
+![](/images/posts/the-philosophy-of-poker-chapter-2-holistic-poker-theory/01.png)
 
 Imagine this rectangle is a map of poker. This rectangle represents the field of possibilities, and every point on this rectangle represents one possible sequence for a poker hand that can take place.
 

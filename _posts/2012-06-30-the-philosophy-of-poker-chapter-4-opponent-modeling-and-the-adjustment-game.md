@@ -265,7 +265,7 @@ But what happens when you cannot? What of the times when your range-based abstra
 
 Recall the diagram of the circle of centrality. 
 
-![](http://3.bp.blogspot.com/-aXB6gLdLdg4/T9MDy50gofI/AAAAAAAABQ8/NwZmE3OCyJo/s1600/central.png)
+![](/images/posts/the-philosophy-of-poker-chapter-4-opponent-modeling-and-the-adjustment-game/01.png)
 
 Instead of thinking of this as the circle of centrality, the same metaphor applies to a circle of comfort. If the field of all possible moves is the rectangle, then we can also say that the circle in the middle of contains all of the lines, actions, and betsizes that your opponent is comfortable with, which he believes are &ldquo;good&rdquo; and &ldquo;solid&rdquo; plays. That is the domain of poker moves that is available to him; that he feels are &ldquo;right.&rdquo;
 

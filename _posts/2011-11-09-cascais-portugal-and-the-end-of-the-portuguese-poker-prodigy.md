@@ -34,13 +34,13 @@ Somewhere along my travels, someone asked me at some point about why I was debat
 
 So I came to Portugal.
 
-![](http://4.bp.blogspot.com/-KJHWV0ylCSw/TrqK-KhSy5I/AAAAAAAABJ8/znLpEoeC7us/s1600/IMG_4095.JPG)
+![](/images/posts/cascais-portugal-and-the-end-of-the-portuguese-poker-prodigy/01.jpg)
 
 It's strange. I went to Guincho beach where I told him I would meet him. Guincho beach is near the west most point in all of Europe, cupped against the Atlantic. It was cold, and I walked along the beach back and forth, waiting for him to arrive. Evening turned to night, and the sea which at first seemed so sorry and melancholy became a colossal darkness. There was only one light along the entire beach. I walked back and forth, waiting. The photos that I took of the beach I took only an hour before Jose arrived, before it became dark.
 
-![](http://3.bp.blogspot.com/-kauxVhDZyKg/TrqLzyjbRtI/AAAAAAAABLQ/f9XrMcq6nFk/s1600/IMG_4230.JPG)
+![](/images/posts/cascais-portugal-and-the-end-of-the-portuguese-poker-prodigy/02.jpg)
 
-![](http://3.bp.blogspot.com/-k8dUNqbHZ4M/TrqM5U19KrI/AAAAAAAABMA/GgQa2RSkd_0/s1600/IMG_4313.JPG)
+![](/images/posts/cascais-portugal-and-the-end-of-the-portuguese-poker-prodigy/03.jpg)
 
 The first moment I saw him, I was climbing the steps to the embankment above the beach. He had arrived on his motorcycle. I had been thinking for a long time what I would do the first moment I saw him. I imagined sometimes that perhaps I would punch him in the gut, or perhaps that I would give him a measured and pregnant look in his eyes to communicate my anger and disappointment in him. And sometimes I imagined I just wouldn't know what to say, shake his hand, and say &ldquo;hey.&rdquo;
 
@@ -48,7 +48,7 @@ He took off his motorcycle helmet. I knew that he was 6 feet tall&mdash;a young 
 
 In that moment, I did not want to hate him, to curse him, or to show him he was unworthy. I wanted to forgive him, and to understand him. He put out his hand to shake mine. I pulled him in to hug him. And though I had my arm around him, he did not hug me back. He seemed uncertain of himself around me. He would later tell me that I made him nervous, and that meeting me felt surreal&mdash;that he didn't know how to act around me. He could sense my heaviness. He felt guilty for it. He felt sad. He didn't know what to do, or what to say. I could see it in him. And I forgave him for that too.
 
-![](http://2.bp.blogspot.com/-0ew1inRevyw/TrqLTAGdZNI/AAAAAAAABKk/B52ad-nEGr4/s1600/IMG_4130.JPG)
+![](/images/posts/cascais-portugal-and-the-end-of-the-portuguese-poker-prodigy/04.jpg)
 
 *It is by self-forgetting that one finds,
  And it is by forgiving that one is forgiven.*
@@ -57,7 +57,7 @@ Over the many days I was in Portugal, we spoke many times about many things. And
 
 And yet, I felt my soul accumulating itself. I came to understand. More about myself, about Jose, and about why our stories intertwined with one another the way they did. In the moment I left London almost three months ago, I felt like my soul had been shattered. I felt like I didn't know who I was anymore. I've been a professional poker player for 5 years. Poker was my lodestone, it was my meaning, it was how I knew in the end that I was worthy, that I was special, that my mind and my life were worth my struggles to uphold them. When I lost it, I felt like I was empty. And so I realize now that the purpose of my journey was to remember who I was. I am such an amazingly different person now than who I was 5 years ago, before I began my romance with the game of poker. So now I look inward and take stock of what's left. Who am I now? I pick up little pieces along the way as I travel, one on this day, one in this city, another one from this person. I don't have everything, and some pieces of my puzzle are still missing, perhaps under a couch or beneath a carpet somewhere, or maybe on the tongue of an insightful stranger. But it feels right. I am moving forward.
 
-![](http://1.bp.blogspot.com/-kfz0hL6HGTo/TrqNZl4kmHI/AAAAAAAABMM/z4hRzWw3YYw/s1600/IMG_4339.JPG)
+![](/images/posts/cascais-portugal-and-the-end-of-the-portuguese-poker-prodigy/05.jpg)
 
 Jose offered to let me stay at his place. I declined. It didn't feel right (though admittedly, I could've used the laundry machine, haha). For five days I stayed, met with him, wrote, paced, and slept. And I suppose that now I have my trophy, small that it may be, which is in knowing. The day before yesterday I returned to Lisbon, from which I flew back to London. I am now in Gloucester, and am facing the final chapter of my journey.
 
@@ -73,7 +73,7 @@ The truth is, I am afraid. I don't know what I will experience. But I want to se
 
 I think of Alex.
 
-![](http://2.bp.blogspot.com/-vYS_5F8nu68/TrqLnA_NIZI/AAAAAAAABK8/-TuZiKyjsjM/s1600/IMG_4156.JPG)
+![](/images/posts/cascais-portugal-and-the-end-of-the-portuguese-poker-prodigy/06.jpg)
 
 In two hours the coach will arrive to take me into the countryside. Tomorrow morning I will begin the vow of silence.
 

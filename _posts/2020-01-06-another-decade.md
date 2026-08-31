@@ -2,7 +2,6 @@
 title: "Another decade"
 tags: [personal, effective altruism]
 image: mountains.jpeg
-featured: "true"
 ---
 
 I recently turned 30. When the decade began in 2010, I was still 20, a professional poker player, a college dropout, and deeply unhappy. What did I believe I'd be doing a decade later? I don't think I knew, only that I definitely wouldn't be playing poker anymore. I'd be doing something much more valuable to the world, I thought. But I had no idea what it might be.
@@ -59,7 +58,7 @@ This year I've donated entirely through [EA Funds](https://app.effectivealtruism
 
 Now that I'm a fund manager myself, the specialization really resonates. My time has become so scarce, it's silly to believe that I could do a better job allocating capital than experts who are working on this full-time. Seeing the enormous delta between an expert and an amateur in my own field, I'd expect it to be no different in philanthropy.
 
-![Effective altruism funds](https://i.imgur.com/22ptAmE.png)
+![Effective altruism funds](/images/posts/another-decade/01.png)
 
 This year I've split my donations into three buckets:
 

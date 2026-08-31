@@ -14,27 +14,27 @@ While I was wandering around I met a sweet German girl who spoke good English an
 
 Anyway, I took today what I think is the most badass photo I've ever taken ever. I'm seriously very proud of this one, although it was just a stroke of luck and it's cropped from the original photo, but still. After I took the photo she scolded me and said, &ldquo;hey, this is my job!&rdquo; so I paid her a euro, but it was worth it, haha. Some other good photos today.
 
-![](http://1.bp.blogspot.com/-tb2ca2OSMlw/TlH8xVNbHaI/AAAAAAAAAd0/9Ir2HtfeSk0/s640/IMG_1855+-+Copy.JPG)
+![](/images/posts/koln-photos/01.jpg)
 
 <div class="caption">A street performer outside Dom cathedral on her break. SO AWESOME, FUCK.</div>
 
-![](http://4.bp.blogspot.com/-kURRtr_MK-Y/TlH6wrirt6I/AAAAAAAAAcM/wSTy29Pwn6U/s400/IMG_1852.JPG)
+![](/images/posts/koln-photos/02.jpg)
 
 <div class="caption">Dom cathedral.</div>
 
-![](http://4.bp.blogspot.com/-LICl096AnQc/TlH68FrhFNI/AAAAAAAAAcc/J3E3Ogbj7rE/s1600/IMG_1858.JPG)
+![](/images/posts/koln-photos/03.jpg)
 
 <div class="caption">Christianity, fk yeah.</div>
 
-![](http://4.bp.blogspot.com/-sabs-j5Ca5M/TlH8Q49Iq6I/AAAAAAAAAdQ/lLomKahBS-s/s1600/IMG_1889.JPG)
+![](/images/posts/koln-photos/04.jpg)
 
 <div class="caption">Interesting German architecture.</div>
 
-![](http://4.bp.blogspot.com/-vIdce12UAyA/TlH8h6K_0AI/AAAAAAAAAdk/5tjkpOzGru8/s1600/IMG_1907.JPG)
+![](/images/posts/koln-photos/05.jpg)
 
 <div class="caption">A broken wine glass I found along the banks of the Rhine.</div>
 
-![](http://2.bp.blogspot.com/-VNLgYZSjbrc/TlH8uUoU12I/AAAAAAAAAds/CUSs8NLQ-lM/s1600/IMG_1917.JPG)
+![](/images/posts/koln-photos/06.jpg)
 
 <div class="caption">A peculiar sculpture above a kinesthesiologist's office.</div>
 

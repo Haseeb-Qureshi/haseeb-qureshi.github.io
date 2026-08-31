@@ -6,7 +6,7 @@ image: Course-Overview.png
 
 Today I'm launching [Introduction to Cryptocurrency](https://nakamoto.com/introduction-to-cryptocurrency/), an online course teaching the basics of programming cryptocurrencies. The first two modules are already released, and the remainder of the course will be coming out over the next few months.
 
-![Introduction to Cryptocurrency](https://i.imgur.com/1D0ffzm.png)
+![Introduction to Cryptocurrency](/images/posts/introduction-to-cryptocurrency/01.png)
 
 Introduction to Cryptocurrency is a multidisciplinary exploration of cryptocurrencies from the ground up, spanning computer science, history, cryptography, and economics.
 

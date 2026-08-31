@@ -8,7 +8,7 @@ Hello friends,
 
 It has been a long time since I've written. Too long really, though perhaps it has taken me this long for good reason. It still surprises me that people occasionally e-mail me, asking what I'm up to and why I'm not writing in this blog anymore. Apparently my story is meaningful to people, which in the back of my mind I find difficult to comprehend. But for my own part, my life and thoughts have been scattered all over the place. Let me give you some idea of what my life has been since my return to Austin.
 
-![](http://1.bp.blogspot.com/-e_m_1WPtars/T3X7vMrcuSI/AAAAAAAABOY/--FPmIU5ojw/s1600/IMG_4596.JPG)
+![](/images/posts/looking-into-the-fire/01.jpg)
 
 When I got home, one of the first decisions I made was that I was going to re-enroll in university and finish my degree. I had abandoned it when I was 20, despite only having a year left, because I wanted to spend more time focusing on poker. Since then people always told me, once you walk away from university it doesn't matter if you say it's only temporary&mdash;most people never go back and finish. It just never ends up happening. Well, that didn't sit right with me. So the first thing I decided I was going to do was wrap up my degree, and with grades that I could respect. While I was playing poker I stopped giving much emphasis on grades, ditched classes, became disillusioned with the whole project of academia, and so it's been a challenge to engender more rigorous habits.
 
@@ -18,7 +18,7 @@ But more than that, my focus has been to better myself. Since the ten day vow of
 
 I think about Alex often. I try to resolve myself, to see that I am what I do. I think about how to choose what is difficult, how to say yes to it, how to make my entire life into one overwhelming &ldquo;yes.&rdquo;
 
-![](http://4.bp.blogspot.com/-GJ6_AhuS4MM/T3X74imy0zI/AAAAAAAABO4/lVKMqMiLmCs/s1600/IMG_4611.JPG)
+![](/images/posts/looking-into-the-fire/02.jpg)
 
 My time in Gloucester rattled me when it came to that. It was ten days of pain, frustration, and reflection. Of eating very simple, very little (very vegetarian) food. Meditating on my life, on my shortcomings, on who I am. But more than that, spending ten days separated from all but the essentials of living, well, it made me reflect on just how much extraneous crap I've always let into my life.
 
@@ -28,13 +28,13 @@ I guess you could say I've been trying to forge a new identity for myself. It oc
 
 But DogIsHead is gone. I am not him anymore. And so I realized on my travels through Europe, I could no longer tell people I was a poker player. It didn't make sense, that wasn't who I was. Then what was I? What did I have left? I was just a kid. I was just who I was. I was Haseeb. And I realized that part of the tremendous sadness I felt was that I was grieving. I was grieving the death of DogIsHead, grieving the end of my first adult identity. I had to pick up where I left off, to disembark from the train and stand on the hard ground with my own two feet. In a sense, it's a rather simple thing – the business of being, of personhood. But at that moment, and sometimes even now, it is hard to know what to do with it.
 
-![](http://1.bp.blogspot.com/-QWjJ0XAX1yw/T3X7-QWiswI/AAAAAAAABPg/sSurrj36NHg/s1600/IMG_4647.JPG)
+![](/images/posts/looking-into-the-fire/03.jpg)
 
 This is an expansive thing, and in a way I don't know where to start or if I'm making any progress. But one thing I do know is it has been a relief. a great relief, to be away from the poker world. To just be a normal person again. Well, maybe normal isn't quite the word, but at least someone unextraordinary. In the past even while I was in school I was always a student second, and a poker player first. Poker always seemed to take primacy. It was the hungry cyclops that domineered the cave of my life. It has been nice to live for myself for a while.
 
 But I realize that something is missing. It's not quite right. I wanted to get away from poker, from this world, from the eyes of others, and to be immersed in the world of the living again, to simply be for my own sake&mdash;it was something I desperately needed. I needed to be there for my brother (who is gradually improving these days), to re-assume my place in my family, to re-figure my place among friends, old poker buddies, within the world around me and within myself. It has all been important. But, I must also admit that I've been running away from this. From the poker world. The past. The judgment, the eyes of the crowd, the being-for-others.
 
-![](http://3.bp.blogspot.com/-FanNHXqcVAk/T3X780NiyRI/AAAAAAAABPY/6jAva6Kl5M8/s1600/IMG_4644.JPG)
+![](/images/posts/looking-into-the-fire/04.jpg)
 
 Running from it is not the answer either. I have been thinking about this lately. Though I needed to get away from the poker world, away from this defunct identity of mine as a poker player, there is something insincere and reactionary about trying to shut it out the way I have.
 
@@ -42,11 +42,11 @@ Allow me to tell you a brief story. Spring Break was coming up about a couple we
 
 I spent that week alone, in a self-created solitude.
 
-![](http://4.bp.blogspot.com/-4RlW7xuZNFI/T3X7o_9VTSI/AAAAAAAABNo/tpx5RaAO8u8/s1600/IMG_4670.JPG)
+![](/images/posts/looking-into-the-fire/05.jpg)
 
 In that time I saw a lot of the landscapes, went hiking on the Colorado trail, and met some fascinating people while I was there. But most of the time I spent alone, contemplating. It occurred to me that maybe the reason why I brought myself there was that some part of me knew instinctively that I needed to stop for a moment. To recede from the clamor and rally of my life, and take stock. To remember who I am, where I'm going, to be able to see beyond the breadth of a moment or a day. This is important.
 
-![](http://3.bp.blogspot.com/-lXCoOQNrUBc/T3X7sJILhFI/AAAAAAAABOI/cbOy03J_61I/s1600/IMG_4691.JPG)
+![](/images/posts/looking-into-the-fire/06.jpg)
 
 And it was there that I decided it was time to return and to face this. Poker was an important part of my life. And in truth, it still is. I can't get away from that, and it would be dishonest to try, or to pretend. I'm not a poker player anymore, that's for certain. But nevertheless, I am very much a part of this world in my own way. I am a child of poker. I need to think about what I can give of value back to  this world. When I thought about it, I realized that in all my time as a poker player, what gave me the most pleasure and satisfaction was in teaching, in helping others. There is always something more meaningful about doing for others than for oneself&mdash;this is something which poker does its very best to obscure from our minds (the emphasis is always on protecting information, on looking out for your own EV and no one else's). Despite being a teacher, I always considered it something secondary while I was a poker player. But I realize now it's the only thing that sticks. The people who I've helped, and the value I offered them is the only thing on which I ever look back with fondness.
 
@@ -58,7 +58,7 @@ So I've decided to take this on as an experiment to see if this is something I a
 
 On a concluding note, I told you guys before that I was going to write something in depth about the ten days I spent in Gloucester. I ended up writing something&mdash;it was very intense and personal, and as it happens, long. It ran about 21 pages single spaced. But after poring it over carefully, I don't like how I wrote it. I'm going to keep it to myself for now, but it has been a good experiment for me in writing, and I am gradually honing my craft. By the time I finish  my book, I hope I will have something more complete. Something I can be proud of. It will take time, but I am learning. I apologize to you who were looking forward to the story, but perhaps it is better after all that I spare you mine, so that you might be made curious enough to seek out one of your own. Also, I want to thank everybody for the kind and encouraging comments re: my family situation. We are all doing better, and I believe things will only improve.
 
-![](http://1.bp.blogspot.com/-f2PrdjT4s9I/T3X76sMAqaI/AAAAAAAABPI/14ooWllvK5g/s1600/IMG_4631.JPG)
+![](/images/posts/looking-into-the-fire/07.jpg)
 
 To end, I wanted to include for you guys a short piece I wrote while I was camping in Colorado. It was spurred by the storm of confusion and frustration I felt, which tends to form when one is alone. It is personal, but I wanted to share it with you all. I hope you guys can appreciate it.
 
@@ -78,7 +78,7 @@ The firewood is prepared from earlier in the day. I crumple up a local newspaper
 
 The design I have made is ugly and slipshod, but it'll do. I light the paper. It is stubborn at first, but after applying my lighter in a few spots the paper starts to throw up flames of its own. Paper burns fast and theatrically; it makes a show of itself. But I am unsure whether it will take to the wood. I cannot know. I can only watch and wait.
 
-![](http://3.bp.blogspot.com/-hiCdSKoIjRo/T3X7qcqxnmI/AAAAAAAABN4/3mSIMGipQZ4/s1600/IMG_4678.JPG)
+![](/images/posts/looking-into-the-fire/08.jpg)
 
 A fire contains many things. And for that reason there are few things that are quite as absorbing as a fire. There must be some part of my DNA that remembers what it was to be a prehistoric man, squatting over its warmth, entranced by its flickering existence. He must have understood how unlike fire is to the rest of the world. When he looked around him he saw a stone-faced earth, catatonic gods, a night that abandoned him in darkness. But here, in this crackling fire, was life, flitting and fluttering like a furious heart. Yes, fire contains many things – the warming nurture of a mother, the sputter and sharpness of a man. It is the human essence. Even the Greeks knew it.
 

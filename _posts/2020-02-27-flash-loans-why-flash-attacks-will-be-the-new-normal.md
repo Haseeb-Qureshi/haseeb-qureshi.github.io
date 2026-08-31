@@ -8,7 +8,7 @@ Flash loans have been the center of attention lately. Recently two hackers used 
 
 These attacks were, in a word, magnificent. In each attack, a penniless attacker instantaneously borrowed hundreds of thousands of dollars of ETH, threaded it through a chain of vulnerable on-chain protocols, extracted hundreds of thousands of dollars in stolen assets, and then paid back their massive ETH loans. All of this happened in an instant---that is, in a single Ethereum transaction.
 
-![Comic book cover art of The Flash by Carmine Infantino](https://miro.medium.com/max/540/0*SWR0W8H-jgWhn6xb)
+![Comic book cover art of The Flash by Carmine Infantino](/images/posts/flash-loans-why-flash-attacks-will-be-the-new-normal/01.png)
 *Cover art by Carmine Infantino*
 
 We don't know who these attackers were or where they came from. Both started with basically nothing and walked away with hundreds of thousands of dollars in value. Neither left any traces to identify themselves.
@@ -21,7 +21,7 @@ In short: I believe flash loans are a big security threat. But flash loans are n
 
 The concept of a flash loan was first termed by Max Wolff, the creator of [Marble Protocol](https://medium.com/marbleorg/introducing-marble-a-smart-contract-bank-c9c438a12890) in 2018. Marble marketed itself as a "smart contract bank," and its product was a simple, yet brilliant DeFi innovation: zero-risk loans via a smart contract.
 
-![Logo of Marble Protocol, the smart contract bank that introduced flash loans](https://miro.medium.com/max/401/1*jxZck-vRNIjKaT4EYiEBCQ.png)
+![Logo of Marble Protocol, the smart contract bank that introduced flash loans](/images/posts/flash-loans-why-flash-attacks-will-be-the-new-normal/02.png)
 
 How can a loan have zero risk?
 
@@ -70,7 +70,7 @@ Flash loans were originally marketed on the premise that they'd primarily be use
 
 And it's true --- by volume, most of the flash loans we've seen so far have been used for this kind of arbitrage.
 
-![AAVE chart of flash loan usage by category, with arbitrage accounting for most volume](https://miro.medium.com/max/605/0*iEZ9lsff9ZXWMAft)
+![AAVE chart of flash loan usage by category, with arbitrage accounting for most volume](/images/posts/flash-loans-why-flash-attacks-will-be-the-new-normal/03.png)
 *Flash loan usage on AAVE. Credit: AAVE*
 
 But volumes have been tiny. AAVE has originated barely over $10K of borrows since inception. This is miniscule compared to the arbitrage and liquidations market on DeFi.
@@ -178,7 +178,7 @@ Instead of extending the chain, it'd be in your interest to go back and try to r
 
 This is isomorphic to having a special super-block that contains 1000x the normal block reward --- just as you expect, the rational result of such a super-block should be a dogpile of miners competing to orphan the tip of the chain and steal that block for themselves.
 
-![AP photo of football players piled on top of each other, standing in for miners dogpiling on a block](https://miro.medium.com/max/1280/0*iUAd_QlkHfgajL6w)
+![AP photo of football players piled on top of each other, standing in for miners dogpiling on a block](/images/posts/flash-loans-why-flash-attacks-will-be-the-new-normal/04.png)
 *Artist's visualization of a miner dogpile. Credit: AP Photo/Denis Poroy*
 
 At equilibrium, all flash attacks should ultimately be extracted by miners. (Note that they should also end up stealing all on-chain arbitrage and liquidations.) This will, ironically, serve as a deterrent against flash attacks, since it will leave attackers unable to monetize their discoveries of these vulnerabilities. Perhaps eventually miners will start soliciting attack code through private channels and pay the would-be attacker a finder's fee. Technically, this could be done trustlessly using zero-knowledge proofs. (Weird to think about, right?)

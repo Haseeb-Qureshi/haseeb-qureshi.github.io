@@ -2,7 +2,6 @@
 title: "Stablecoins: designing a price-stable cryptocurrency"
 tags: [blockchain, programming]
 image: bitcoin-balance.jpg
-featured: "true"
 ---
 
 A useful currency should be a medium of exchange, a unit of account, and a store of value. Cryptocurrencies excel at the first, but as a store of value or unit of account, they're pretty bad. You cannot be an effective store of value if your price fluctuates by 20% on a normal day.
@@ -37,7 +36,7 @@ This is not to say that stablecoins are impossible. Stablecoins are just currenc
 
 But this is an incomplete analysis.
 
-![band](http://d2vlcm61l7u1fs.cloudfront.net/media%2Fa57%2Fa5722790-c342-46ef-82f2-176311b0206c%2FphpiLeW13.png)
+![band](/images/posts/stablecoins-designing-a-price-stable-cryptocurrency/01.png)
 
 The reality is, any peg *can* be maintained, but only **within a certain band of market behavior**. For different pegs the band might be wider than others. But it's straightforwardly true that within at least some market conditions, it's possible to maintain a peg. The question for each pegging mechanism is: how wide is the band of behavior it can support?
 
@@ -61,13 +60,13 @@ So how can you design a stablecoin?
 
 The more stablecoin schemes I've examined, the more I've realized how small the space of possible designs actually is. Most schemes are slight variations of one another, and there are only a few fundamental models that actually work.
 
-![Stablecoin triangle](https://i.imgur.com/tCaT9Fy.png)
+![Stablecoin triangle](/images/posts/stablecoins-designing-a-price-stable-cryptocurrency/02.png)
 
 At a high level, the taxonomy of stablecoins includes three families: fiat-collateralized coins, crypto-collateralized coins, and non-collateralized coins. We'll analyze each in turn.
 
 ## Fiat-collateralized stablecoins
 
-![fiat-collateralized](https://i.imgur.com/YRTAwaV.png)
+![fiat-collateralized](/images/posts/stablecoins-designing-a-price-stable-cryptocurrency/03.png)
 
 If you want to build a stablecoin, it's best to start with the obvious. Just create a cryptocurrency that's literally an IOU, redeemable for $1.
 
@@ -94,7 +93,7 @@ This is essentially what Tether purports to be, though they have not been recent
 
 ## Crypto-collateralized stablecoins
 
-![crypto-collateralized](https://i.imgur.com/Js99sRh.png)
+![crypto-collateralized](/images/posts/stablecoins-designing-a-price-stable-cryptocurrency/04.png)
 
 Say we don't want to integrate with the traditional payment rails. After all, this is crypto-land! We just reinvented money, why go back to centralized banks and state-backed currencies?
 
@@ -135,7 +134,7 @@ The first stablecoin to use this scheme was [BitUSD](https://bitshares.org/techn
 
 ## Non-collateralized stablecoins
 
-![non-collateralized](https://i.imgur.com/ZWvzT5n.png)
+![non-collateralized](/images/posts/stablecoins-designing-a-price-stable-cryptocurrency/05.png)
 
 As you get deeper into crypto-land, eventually you have to ask the question: how sure are we that we actually need collateral to begin with? After all, isn't a stablecoin just a coordination game? Arbitrageurs just have to believe that our coin will eventually trade at $1. The United States was able to move off the gold standard and is no longer backed by any underlying asset. Perhaps this means collateral is unnecessary, and a stablecoin could adopt the same model.
 
@@ -161,7 +160,7 @@ Clearly this means that in the limit, if the system doesn't eventually continue 
 
 Perhaps that's not an unreasonable assumption though. After all, the monetary base for most world currencies have experienced nearly monotonic growth for the last several decades. It's possible that a stable cryptocurrency might experience similar growth.
 
-![image](https://user-images.githubusercontent.com/10965087/35904987-1d792ac8-0b9a-11e8-8c43-4d32c3b7bbca.png)
+![image](/images/posts/stablecoins-designing-a-price-stable-cryptocurrency/06.png)
 
 But there's no free lunch in economics. Seignorage Shares can absorb some amount of downward pressure for a time, but if the selling pressure is sustained for long enough, traders will lose confidence that shares will eventually pay out. This will further push down the price and trigger a death spiral.
 
@@ -193,7 +192,7 @@ Stablecoins are critical to the future of crypto. The differences between these 
 
 But after having looked at many of these, my primary conclusion is that there is no ideal stablecoin. Like with most technologies, the best we can do is choose the set of tradeoffs that we're willing to accept for a given application and risk profile.
 
-![tradeoff matrix](https://i.imgur.com/a22G4vL.png)
+![tradeoff matrix](/images/posts/stablecoins-designing-a-price-stable-cryptocurrency/07.png)
 
 The best outcome then, is not to try to pick winners early, but rather to encourage the many stablecoin experiments to bear their fruit in the marketplace.
 

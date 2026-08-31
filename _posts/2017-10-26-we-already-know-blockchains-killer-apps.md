@@ -12,7 +12,7 @@ A few merchants dipped their toes into accepting Bitcoin in 2014. But adoption l
 
 In the last year, interest in cryptocurrencies has skyrocketed. The public cryptocurrency market cap has surged to highs of over $170B. With over 1.5B raised through ICOs in 2017, over 70 crypto exchanges open for business, and crypto hedge funds and VCs popping up [left](https://next.autonomous.com/thoughts//how-many-crypto-hedge-funds-can-you-count) and [right](https://www.cnbc.com/2017/10/27/there-are-now-more-than-120-hedge-funds-focused-solely-on-bitcoin.html), it seems that everyone is clambering to get a seat on the rocketship.
 
-![](https://i.imgur.com/RPt60ei.png)
+![](/images/posts/we-already-know-blockchains-killer-apps/01.png)
 
 In all this frenzy, nobody is asking about killer apps anymore.
 
@@ -31,7 +31,7 @@ To make sense of this phenomenon, you're forced to one of two possible conclusio
 
 The first is that the value of crypto is entirely in speculation.
 
-![](https://pbs.twimg.com/media/DG1U7AsW0AEPJIe.jpg)
+![](/images/posts/we-already-know-blockchains-killer-apps/02.jpg)
 
 There's a lot of unfounded speculation in cryptocurrency markets, no doubt. Many of my close friends think cryptocurrencies are entirely a bubble. This kind of skepticism is a healthy perspective in a frothy market, but I'd say this is too broad a claim.
 
@@ -67,7 +67,7 @@ Bitcoin has done a decent job of distancing itself from its roots. But the first
 
 The dark web refers to recesses of the Internet that can only be accessed through special anonymizing protocols, such as Tor, I2P, and Freenet. Transactions that take place through dark web markets range from the relatively innocuous, like purchasing prescription drugs, all the way to hacked credential dumps, digital ransoms, firearms, and famously, [assassinations](https://www.wired.com/2015/02/read-transcript-silk-roads-boss-ordering-5-assassinations/).
 
-![](https://i.kinja-img.com/gawker-media/image/upload/t_original/pbmi1ldedzbiy3pugc1p.jpg)
+![](/images/posts/we-already-know-blockchains-killer-apps/03.jpg)
 
 Before Bitcoin, dark web markets had a glaring problem. How can you perform payments between pseudonymous dark web buyers and sellers, on opposite sides of the world, when they don't trust each other and don't want anyone to know who they are?
 
@@ -88,7 +88,7 @@ Depending on who you ask, describing Bitcoin as "digital gold" can be taken as a
 
 This term gets thrown around a lot, but what does it mean for something to be digital gold?
 
-![](http://geekfence.com/wp-content/uploads/2017/05/bitcoin.jpg)
+![](/images/posts/we-already-know-blockchains-killer-apps/04.jpg)
 
 #### The power of analog gold
 Gold as a material is not intrinsically useful. Less than 10% of all the gold mined is used for any industrial or manufacturing purpose. Despite that, humans have converged on believing that gold is highly valuable.
@@ -99,7 +99,7 @@ Putting aside the primitive reasons why humans are attracted to gold, it has sev
 
 As this static store of value, gold serves as a hedge against global economic movements. Even as economies rise and fall, gold remains gold, and its movements are largely independent. Thus, for the last several thousand years, gold has served as our globally decentralized store of value. It's valuable because we all agree to use it that way.
 
-![](https://media.coindesk.com/uploads/2013/07/shutterstock_93772660.jpg)
+![](/images/posts/we-already-know-blockchains-killer-apps/05.jpg)
 
 But gold, it turns out, is [far from the *ideal* store of value](http://www.reuters.com/article/uk-bundesbank-gold/germany-brings-its-gold-stash-home-sooner-than-planned-idUKKBN15O192). Gold bars are big and heavy. Gold is expensive to house and guard. It's difficult to transport. It can be stolen and manipulated. You can easily lie about having gold, or the purity of that gold.
 
@@ -125,11 +125,11 @@ You might argue that a currency that fluctuates by 15% on a normal day cannot po
 
 In fact, as [Chris Burniske](https://twitter.com/cburniske/status/921794165083648000) points out, Bitcoin is already about as volatile as oil, and less volatile than many S&P 500 equities.
 
-![](https://pbs.twimg.com/media/DMrf46iVoAAFJ0j.png)
+![](/images/posts/we-already-know-blockchains-killer-apps/06.png)
 
 Bitcoin is now about 5-6 times more volatile than gold, and the gap is gradually closing.
 
-![](https://pbs.twimg.com/media/DMre4IdVQAAWIyF.png)
+![](/images/posts/we-already-know-blockchains-killer-apps/07.png)
 
 Still, you might hear this and assume this is speculation. Bitcoin cannot *yet* act as digital gold, but people are buying it hoping it one day will.
 
@@ -144,7 +144,7 @@ These first two points could describe most cryptocurrencies, but there's a third
 
 Unlike other cryptocurrencies, Bitcoin has seen surprisingly little innovation or evolution since its invention in 2008 by Satoshi Nakamoto. While protocols like Ethereum and Ripple have undergone significant and enterprising pivots in their roadmaps, Bitcoin and its community are ideologically committed to maintaining something close to its original design.
 
-![](http://s.newsweek.com/sites/www.newsweek.com/files/styles/cover/public/2014/04/02/2014/03/05/67-2014-3-14-cover.jpg)
+![](/images/posts/we-already-know-blockchains-killer-apps/08.jpg)
 
 Take Bitcoin's spectral creator, [Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto). After single-handedly inventing and coding the first version of the Bitcoin protocol, Satoshi disappeared from the Bitcoin world in 2010. His absence imbues an almost religious reverence around the technology's initial specification, and many Bitcoiners are devoted to its technological immutability. This is furthered by the political deadlock among miners, developers, and users, who are all opposed to any of the other parties changing the balance of power.
 
@@ -159,7 +159,7 @@ And it already does. In many jurisdictions, if someone wants to hedge against th
 #### Beyond economics
 I've often heard the argument: but gold is more than just the sum of its economic properties. There is a narrative valence around gold. Gold is the metal of kings, of legendary palaces, of ancient riches.
 
-![](http://www.ancient-origins.net/sites/default/files/field/image/Lost-City-of-Z.jpg)
+![](/images/posts/we-already-know-blockchains-killer-apps/09.jpg)
 
 Unlike Bitcoin, nobody needs to explain why gold is valuable. You don't need to round up bankers to expensive conferences and give them [presentations on why gold is a good store of value](https://twitter.com/nwoodfine/status/921488217358118912). Gold is simple. Bitcoin is complicated. So in the long run, the argument goes, Bitcoin can never replace gold.
 
@@ -167,7 +167,7 @@ Unlike Bitcoin, nobody needs to explain why gold is valuable. You don't need to 
 
 It's true that the stories we tell matter. But those stories can change. On the [island of Yap](https://en.wikipedia.org/wiki/Yap#Stone_money) the Yapese decided that large stone disks would be their store of value. Eventually, after the introduction of modern currencies, the [Rai](https://en.wikipedia.org/wiki/Rai_stones) stones fell mostly out of use, and they now primarily transact with US dollar bills. Stories don't win over everything. Eventually, raw utility supplants tradition.
 
-![](http://media.economist.com/images/na/2010w28/201028NAC425.gif)
+![](/images/posts/we-already-know-blockchains-killer-apps/10.gif)
 
 Furthermore, gold has not always been as stable or as valuable as it is now. Oil once had the same physical aura and narrative valence as gold, but as other commodities started to overtake its utility, it became less valuable.
 
@@ -177,7 +177,7 @@ I'll grant this though: gold's simplicity is a great feature. But Bitcoin is lik
 
 But this argument against technically complex money is ultimately a fallacy. Take credit cards.
 
-![](http://www.luxuryplastic.com/wp-content/uploads/old_amex.jpg)
+![](/images/posts/we-already-know-blockchains-killer-apps/11.jpg)
 
 The first plastic credit card was issued in 1958. The magnetic stripe was introduced in 1970. By the mid-70s credit cards were totally pedestrian and ubiquitous in American society. How many people who transact with credit cards can explain what magnetism [*even is*](https://www.youtube.com/watch?v=lFabsRFnWy0)? Forget about knowing how their credit scores work.
 
@@ -210,7 +210,7 @@ Right now, most people are far below that level of technical competence. Until t
 
 Parallel to this, many economies are making big leaps forward in the ease of traditional payments. Look at Venmo in the U.S., M-Pesa in Africa, or AliPay and WeChat Pay in China. Traditional fintech is moving fast enough that its advances will easily overtake blockchain in the short to medium term on this front.
 
-![](http://static5.businessinsider.com/image/567311862340f83b008b68dd/technology-is-disrupting-the-financial-services-industry--heres-how.jpg)
+![](/images/posts/we-already-know-blockchains-killer-apps/12.png)
 
 In both adoption and ease of use, cryptocurrencies are far behind the traditional banking system. But there are two use cases where cryptocurrencies are far ahead.
 
@@ -228,7 +228,7 @@ With traditional financial networks (taking Visa as the canonical example), any 
 
 This renders most micropayment schemes untenable on traditional payments networks. A lot of otherwise innovative business models are simply ruled out. What if you wanted to create a blogging service that charged 25c to read past the fold? Tough luck—after payment processing fees, it wouldn't be worth the HTML it was printed on.
 
-![](http://www.craighuggart.net/wp-content/uploads/2014/08/Dollar-with-knife-760x508.jpg)
+![](/images/posts/we-already-know-blockchains-killer-apps/13.jpg)
 
 There has been one nominal solution for this: namely, maintaining an internal ledger. This is what advertising companies do. Google might pay you a cent for someone clicking through an ad on your website, but it's not going to directly pay you that cent—instead, it marks down that cent in its internal database, and then settles up with you on a monthly basis.
 
@@ -246,7 +246,7 @@ Banks may be able to protect their market share if they adopt blockchains. [Alre
 It's going to be an interesting next few years.
 
 ## Killer App #4: Tokenization
-**Market size**: [???](https://i.imgur.com/jfL2nbJ.png)
+**Market size**: [???](/images/posts/we-already-know-blockchains-killer-apps/14.png)
 
 **What's blocking this?** Regulation, legal frameworks
 
@@ -271,7 +271,7 @@ The pro-token argument is somewhat subtle, and it has many detractors. Let me fi
 
 First, what do we mean by tokenization?
 
-![](http://nationalticket.com/images/tokens.jpg)
+<!-- image lost to link rot: http://nationalticket.com/images/tokens.jpg -->
 
 There are two kinds of tokenization: protocol tokenization and asset tokenization.
 
@@ -289,7 +289,7 @@ Thomas Hobbes long ago predicted that to make a society function at massive scal
 
 Traditionally, we have used a Leviathan to enforce these incentives. By propping up a central authority (usually the state, or in BitTorrent's case, a centralized identity service), you can force each actor in a system to behave—other than the Leviathan itself, of course.
 
-![](https://az616578.vo.msecnd.net/files/2017/01/05/636192558376654830-2037197114_Hobbes-Leviathan.jpg)
+![](/images/posts/we-already-know-blockchains-killer-apps/15.jpg)
 
 Modern democratic theory arose in response to precisely this problem: given that you need a central authority to enforce incentives, how can you prevent that authority from itself becoming corrupt and misbehaving? By default, each actor's incentive is to exploit its own power. So we invented elections, we invented constitutions, we invented checks and balances and impeachment proceedings. We did all this to try to cage the Leviathan, to prevent the inevitable drift of central authorities toward corruption and rent-seeking.
 
@@ -299,7 +299,7 @@ But protocol tokens may now change that. They may offer us a new way to solve in
 
 Protocol tokens, such as Filecoin, serve as an intra-protocol incentive scheme. By calibrating the incentives and how they align with the token, you can create a protocol just like BitTorrent where instead of merely hoping users do the right thing, you *pay* them to do the right thing. And instead of hoping users aren't assholes, you *charge them money* to be assholes.
 
-![](https://i.stack.imgur.com/TgksQ.png)
+![](/images/posts/we-already-know-blockchains-killer-apps/16.png)
 
 By programmatically aligning incentives and creating the right [payoff matrix](https://en.wikipedia.org/wiki/Normal-form_game), a protocol can use economics and game theory to incent users toward the desired protocol behavior. Design the incentives right, and almost magically, everything falls into place and the economy runs smoothly. No central authority required, no checks or balances, no elections or impeachments, no laws or courts. The incentives simply work without them.
 
@@ -323,7 +323,7 @@ When you hear this, you should be skeptical. As [Preston Byrne points out](https
 
 Obviously, there already exist centralized exchanges like the NYSE that enable trading of "tokenized assets," i.e., shares of company stock.
 
-![](http://ak2.picdn.net/shutterstock/videos/12604922/thumb/1.jpg)
+![](/images/posts/we-already-know-blockchains-killer-apps/17.jpg)
 
 That said, it's very expensive to get listed on the NYSE ([the average company incurs about $3.7M to get listed](https://www.pwc.com/us/en/deals/publications/assets/pwc-cost-of-ipo.pdf)). Foreign investors have to jump through expensive hoops to invest in American assets, and vice versa. There are large regulatory and legal barriers here which prevent the free flow of capital. (Granted, most of these barriers exist for good reasons. But there are also layers of waste and rent-seeking that have accrued on most of these processes.)
 
@@ -342,7 +342,7 @@ The second reason is that there are major startup costs to creating a well-funct
 
 Here's a toy example: consider FarmVille. FarmVille has many in-game assets—money, in-game items, whatever. Those assets live squarely in Zynga's databases. Presumably FarmVille players value these assets, so buyers and sellers would willingly engage in a marketplace for them.
 
-![](https://www4.picturepush.com/photo/a/8477182/640/8477182.png)
+![](/images/posts/we-already-know-blockchains-killer-apps/18.png)
 
 However, to enable that marketplace, Zynga would have to invest in building and managing an exchange that integrates with its database. In reality, Zynga doesn't want this for PR and regulatory reasons—but let's ignore that for the moment. Even if they wanted to build it, creating this fully-featured exchange would be significant engineering work.
 

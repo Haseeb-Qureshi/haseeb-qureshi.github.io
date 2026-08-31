@@ -18,7 +18,7 @@ In 2016, my donations totaled **$50,600**. My finances this year were little mor
 
 Below are the organizations I donated to and why.
 
-![](https://cdn-images-1.medium.com/max/800/1*LqhZqp3zTN9D6CJsnoSPSQ.png)
+![](/images/posts/2016-donations-and-some-thoughts/01.png)
 
 ## The Against Malaria Foundation
 
@@ -28,7 +28,7 @@ Below are the organizations I donated to and why.
 
 It's important to make speculative and high-risk altruistic investments. But there is some straightforward value in just rewarding and spreading the word about organizations that rock at saving lives (and in the worst case, to have no doubt that one's donations are having real positive impact). I also donated to them in 2015, and good chance I'll donate again in 2017.
 
-![](http://cvox.imgix.net/images/campaign_11046/583756b782eb1_55d0e028cfa8836684be9b40a670736b.png?ixjsv=2.2.3&w=310)
+![](/images/posts/2016-donations-and-some-thoughts/02.jpg)
 
 ## .impact
 
@@ -40,7 +40,7 @@ Young people have already shown that in many ways they are going to be the prima
 
 In short, I think influencing more young people to think critically about effectiveness is one of our best levers for ensuring a positive future.
 
-![](https://cdn-images-1.medium.com/max/800/1*_IkNmLi8VpyThIYZCUNdMA.png)
+![](/images/posts/2016-donations-and-some-thoughts/03.png)
 
 ## 80,000 Hours
 
@@ -54,7 +54,7 @@ My largest donation this year was to [80,000 Hours](https://80000hours.org/) (80
 
 So that wraps up my donations. Now I'd like to do what I normally never do, and say a few words about the political climate in the U.S.
 
-![](https://cdn-images-1.medium.com/max/800/1*LeEPFvCBl6u638r_dsvViA.png)
+![](/images/posts/2016-donations-and-some-thoughts/04.png)
 
 ## Authoritarianism, walls, and the &ldquo;Muslim Ban&rdquo;
 

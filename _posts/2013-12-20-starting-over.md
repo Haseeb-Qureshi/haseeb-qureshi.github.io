@@ -50,9 +50,9 @@ Receipt from [charity: water](http://www.charitywater.org/whywater/) for $20,000
 
 Receipt from [GiveDirectly](http://givedirectly.org/) for $15,000 donation (matched by Good Ventures)&mdash;[Scribd]( http://www.scribd.com/doc/200134742/GiveDirectly-Tax-Receipt-Haseeb-Qureshi)
 
-Documentation of title transfer (deeding my real estate to my parents): [image](http://i.imgur.com/7l07wij.jpg)
+Documentation of title transfer (deeding my real estate to my parents): [image](/images/posts/starting-over/01.jpg)
 
-Bank statement (with $55K segregated for the remainder of charity donations)&mdash;[image](http://i.imgur.com/f8AdgRJ.jpg)
+Bank statement (with $55K segregated for the remainder of charity donations)&mdash;[image](/images/posts/starting-over/02.jpg)
 
 Picture of the cafeteria food I'm now eating everyday ($9.10 for all-you-can-eat)&mdash;[image](http://i.imgur.com/w2o6O34.jpg)
 

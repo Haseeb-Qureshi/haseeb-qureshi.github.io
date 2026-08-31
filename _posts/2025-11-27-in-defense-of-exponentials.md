@@ -1,5 +1,6 @@
 ---
 title: "In Defense of Exponentials"
+featured: "true"
 tags: [ai]
 image: posts/in-defense-of-exponentials/01.jpg
 ---
@@ -26,7 +27,10 @@ You’ve got many bullish analysts now trying to conjure up optimistic L1 valuat
 
 Late last year, Solana very proudly embraced REV as a metric that could finally justify their valuation. They proudly announced: we—and only we—are no longer bluffing to Wall Street!
 
-And, of course, almost immediately after REV was embraced, it fell off a cliff (though $SOL, tellingly, did better than REV did).  
+And, of course, almost immediately after REV was embraced, it fell off a cliff (though $SOL, tellingly, did better than REV did).
+
+![Blockworks chart of Solana weekly network REV in USD, Dec 2023 to Nov 2025, spiking near $200M in early 2025](/images/posts/in-defense-of-exponentials/01.jpg)
+
 Not that there’s anything wrong with REV. REV is a very clever metric. But the point of this post is not metric selection.
 
 Then came the launch of Hyperliquid. A DEX that had real revenue and buybacks and PE multiples. And the chorus said—look, look I told you! Finally, for the first time ever, a token that has some real profits and a proper PE multiple. (Nevermind BNB, we don’t talk about that.) Hyperliquid will eat everything because obviously Ethereum and Solana don’t make any real money, we can stop pretending to value them now.
@@ -95,12 +99,18 @@ To which I answer: you still don’t believe in the exponential.
 
 Because the exponential’s answer is always the same: it doesn’t matter. This stuff is going to be so much bigger than it is today. And when it’s absolutely enormous, you’ll make it up on scale.
 
-Study this chart.  
+Study this chart.
+
+![Benedict Evans slide "Amazon doesn't make a profit": Amazon revenue climbing 1995-2019 while net income stays near zero](/images/posts/in-defense-of-exponentials/02.jpg)
+
 This is Amazon’s P&L from 1995 to 2019. That’s 24 years. Red is revenue, gray is profit. You see that little blip on the end where the gray line goes up? That’s when, 22 years in, Amazon started actually making a profit. 
 
 Amazon was 22 years old when this little gray line of net income first peeled off of 0. Every single year before then, there were op eds and critics and short sellers claiming that Amazon was a ponzi scheme that would never make any money.
 
-Ethereum just turned 10 years old. This is what the first 10 years of Amazon stock looked like:  
+Ethereum just turned 10 years old. This is what the first 10 years of Amazon stock looked like:
+
+![Amazon stock price chart, May 1997 to May 2007: dot-com peak, crash through 2001, then slow recovery](/images/posts/in-defense-of-exponentials/03.jpg)
+
 10 years of chop. All along the way, Amazon was beset with doubters and non-believers. Is e-commerce a VC-subsidized charity? They’re selling underpriced cheap low-quality knick-knacks to bargain hunters, who cares? How are they ever going to make actual money, like Walmart or GE?
 
 If you were arguing about Amazon’s P/E ratio, you were in the wrong regime. That’s the regime of linear growth. But e-commerce was not a linear trend, and so every single person for 22 years arguing about P/E ratios was devastatingly wrong. No matter what you paid, no matter when you bought, you were not bullish enough.
@@ -111,7 +121,10 @@ This is the thing that Silicon Valley has always understood better than Wall Str
 
 Granted, crypto growth doesn’t look as smooth as e-commerce’s growth. It’s burstier, it goes in fits and starts. This is because crypto, being about money, is deeply tied to macro forces, and it also has more violent regulatory push and pull than e-commerce. Crypto strikes at the heart of the state—money—and so it’s more unnerving to governments than e-commerce ever was.
 
-But the exponential is no less inevitable. It's a crude argument. But if crypto is exponential, then the crude argument is correct.  
+But the exponential is no less inevitable. It's a crude argument. But if crypto is exponential, then the crude argument is correct.
+
+![Four Artemis charts: chain daily active users, stablecoin supply, P2P transfer volume, and DEX volumes, all trending up](/images/posts/in-defense-of-exponentials/04.jpg)
+
 Zoom out.
 
 Financial assets want to be free. They want to be open. They want to be interconnected. Crypto turns financial assets into file formats, makes it as easy to send a dollar or a stock as to send a PDF. Crypto makes it possible for everything to talk to everything. It makes it all 24/7, global, interconnected, and open.
@@ -140,12 +153,8 @@ And you were a part of it.
 
 Disclosure: These are my own views. Dragonfly is an investor in $MON, $MEGA, $ETH, $SOL, $HYPE, $SKY among many other tokens. Dragonfly believes in the exponential. This is not investment advice, but is advice of another kind.
 
-![Blockworks chart of Solana weekly network REV in USD, Dec 2023 to Nov 2025, spiking near $200M in early 2025](/images/posts/in-defense-of-exponentials/01.jpg)
 
-![Benedict Evans slide "Amazon doesn't make a profit": Amazon revenue climbing 1995-2019 while net income stays near zero](/images/posts/in-defense-of-exponentials/02.jpg)
 
-![Amazon stock price chart, May 1997 to May 2007: dot-com peak, crash through 2001, then slow recovery](/images/posts/in-defense-of-exponentials/03.jpg)
 
-![Four Artemis charts: chain daily active users, stablecoin supply, P2P transfer volume, and DEX volumes, all trending up](/images/posts/in-defense-of-exponentials/04.jpg)
 
 *Originally published [on X](https://x.com/hosseeb/status/1994110900454949263), November 2025.*

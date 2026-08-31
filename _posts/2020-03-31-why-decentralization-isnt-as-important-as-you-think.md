@@ -73,7 +73,7 @@ Here’s the problem with it: decentralization is a global, emergent property. T
 
 There’s a [simple framework](https://twitter.com/least_nathan/status/1050789388823670785) for thinking about the properties of a network that I first learned from Nathan Wilcox. There are two axes: a property can be either global or local, and it can be either direct or emergent.
 
-![](https://unchainedpodcast.com/wp-content/uploads/2020/03/framework_Tony_Sheng.png)
+![](/images/posts/why-decentralization-isnt-as-important-as-you-think/01.png)
 *Credit: Tony Sheng*
 
 Q1: local and direct properties. Think the local weather. It’s local to your city, and everyone in your city feels it, so it’s direct. People frequently choose which city to live in based on local and direct properties like the weather.
@@ -172,7 +172,7 @@ But here’s another problem with asking whether something is “truly decentral
 
 Understand, at the margin, decentralization does not linearly reduce risk. It’s more like an S-curve. The first little bit of decentralization doesn’t really accomplish anything. Take Napster for example—Napster was _kind of_ decentralized, in that it didn’t store files on their own servers. But Napster acted as the search index that let people discover other people’s files. So if someone shut down the Napster servers (as happened in [2001](https://en.wikipedia.org/wiki/A%26M_Records,_Inc._v._Napster,_Inc.#Vicarious_infringement)), they basically shut down everything. All the little P2P elements of the Napster design were basically window dressing, because the whole system could be trivially foreclosed from the top.
 
-![](https://unchainedpodcast.com/wp-content/uploads/2020/03/Risk_decentralisation.png)
+![](/images/posts/why-decentralization-isnt-as-important-as-you-think/02.png)
 
 Your early attempts to decentralize don’t accomplish anything until you’re decentralized enough to not be censored. It’s like trying to make a barrel waterproof—the first little bit of sealant doesn’t do anything until you actually plug every hole. At that point, you hit the elbow of the decentralization curve, where suddenly all the work you’re putting in makes a big observable difference to your shutdown risk.
 

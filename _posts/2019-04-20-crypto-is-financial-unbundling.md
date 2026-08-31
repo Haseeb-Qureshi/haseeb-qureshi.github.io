@@ -25,7 +25,7 @@ Unbundling is the reverse process, where a traditionally bundled product is sold
 
 Repackaging a market in either direction is a timeless and often disruptive business model. For example, the newspaper industry has undergone a broad unbundling over the last 20 years.
 
-![Bundling is caring](https://i.imgur.com/X1q9sal.png)
+![Bundling is caring](/images/posts/crypto-is-financial-unbundling/01.png)
 
 A [rule of thumb](https://hbr.org/2010/02/the-pros-and-cons-of-bundled-p) is that for commoditized goods, bundling tends to favor the seller, while unbundling tends to favor the customer. In a bundled product, a seller can obscure costly line items and convince customers to purchase more than they need. With an unbundled suite of products, a customer is free to only pay for the services they value, and each service can better amplify its core value proposition. (For non-commoditized goods, [bundling can carry more benefits](http://cdixon.org/2012/07/08/how-bundling-benefits-sellers-and-buyers/), which is why they tend to see continual swings between bundling and unbundling.)
 
@@ -50,7 +50,7 @@ Here's another way to think about it: the ability to charge back a purchase basi
 
 This sprawling insurance system is a large part of what the 3% + $0.30 is buying. And you can't opt out of it. It's a fee built into any modern payment system. This is like being required to buy traveler's insurance on any flight anyone takes, ever.
 
-![travelers insurance](https://i.imgur.com/PXdr328.png)
+![travelers insurance](/images/posts/crypto-is-financial-unbundling/02.png)
 
 It's a weird thing to force everyone to do.
 
@@ -93,7 +93,7 @@ The [EOS Core Arbitration Forum](https://eoscorearbitration.io/) (ECAF) was a go
 
 Unsurprisingly, this all broke down a couple weeks ago and the ECAF has been written out of the EOS "Constitution."
 
-![ECAF](https://i.imgur.com/v8GSjGg.png)
+![ECAF](/images/posts/crypto-is-financial-unbundling/03.png)
 
 So the ECAF no longer exists, and it's now agreed to have been a bad institution. But I want to go a step further: it was not just a bad institution, but a *bad idea for an institution*. This is an important point, because there are many proposed systems that resemble it, such as DFINITY's "[Blockchain Nervous System](https://medium.com/dfinity/the-dfinity-blockchain-nervous-system-a5dd1783288e)." We can call this class of systems "on-chain arbitration systems."
 

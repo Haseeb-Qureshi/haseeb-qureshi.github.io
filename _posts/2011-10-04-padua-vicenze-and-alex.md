@@ -30,7 +30,7 @@ He noticed my impatience, and smiled. &ldquo;I'm actually German.&rdquo;
 
 &ldquo;Hm.&rdquo;
 
-![](http://3.bp.blogspot.com/-TElpE__vzrI/TouRPqT1r7I/AAAAAAAAApM/Z7joXOGUDC8/s1600/IMG_3224.JPG)
+![](/images/posts/padua-vicenze-and-alex/01.jpg)
 
 That was how I met Alex. It took me some time to get any straight answers out of him about himself. But the more I spoke to him, the more I felt the immensity of this man. His intelligence, the breadth of his experience, and his tremendous strength of character. When I first spoke to him, he scarcely told me anything about himself. When I would ask him personal questions, he would often answer &ldquo;oh, that's a long story. Too long for this night.&rdquo; Despite his guardedness, I could sense a tremendous humility from this man.
 
@@ -38,7 +38,7 @@ He asked me why I was traveling. What the purpose was of my journey. I started w
 
 I ended up telling Alex a lot about my life, my history, my fears and about the chaos in my mind. He listened. Truth be told, the first couple of hours that we spoke I basically poured out my heart and mind to this man. He accepted it, nodding, gazing at me, asking questions now and again.
 
-![](http://1.bp.blogspot.com/-Q6LI_uUx8kw/TouRXj1TvhI/AAAAAAAAApQ/D4En34brf1M/s1600/IMG_3228.JPG)
+![](/images/posts/padua-vicenze-and-alex/02.jpg)
 
 I could go all day about the conversation we had. But one subject that he spoke of that sticks with me is religion. He asked me if I was religious, and I told him that I wasn't. He inquired about my family and my upbringing&mdash;he knew a lot about Pakistani culture. He told me that he had spent a great deal of his life studying and exploring various religious traditions. &ldquo;I don't know what it is you're looking for or if this is an answer, but maybe you will find something in the culture that you left behind. I can't claim that this will solve your problems or make you whole, but if you're searching, then this is a good a place as any to start.&rdquo;
 
@@ -46,7 +46,7 @@ He told me he knew many people like me; cultural transplants who no longer belie
 
 He paused for a moment. &ldquo;Have you ever faced death?&rdquo;
 
-![](http://2.bp.blogspot.com/-jh1DHqCJXcE/TouRxs3icGI/AAAAAAAAApo/hTZRTx_zocA/s1600/IMG_3246.JPG)
+![](/images/posts/padua-vicenze-and-alex/03.jpg)
 
 I looked at him. &ldquo;No.&rdquo;
 
@@ -60,9 +60,9 @@ He smiled at me.
 
 &ldquo;I wear my religion on my heart, not on my tongue.&rdquo;
 
-![](http://1.bp.blogspot.com/-nLrAeupvzUQ/TouRfvrBOrI/AAAAAAAAApc/ZXL8pOlczQg/s1600/IMG_3240.JPG)
+![](/images/posts/padua-vicenze-and-alex/04.jpg)
 
-![](http://1.bp.blogspot.com/-m3fqdf1BE8A/TouRvheghXI/AAAAAAAAApk/lNFetw3FrOw/s1600/IMG_3242.JPG)
+![](/images/posts/padua-vicenze-and-alex/05.jpg)
 
 It is very rare that I take it seriously when somebody suggests to me religion as the answer to my problems. I took Alex very seriously. I still have that piece of paper.
 
@@ -70,7 +70,7 @@ Alex lived a crazy life, as I came to learn. I don't want to go into too much de
 
 In comparison, I feel small; incomplete.
 
-![](http://2.bp.blogspot.com/-VuyeDhVnQQM/TouRHwgJDwI/AAAAAAAAApI/hobuLnQWTss/s1600/IMG_3216.JPG)
+![](/images/posts/padua-vicenze-and-alex/06.jpg)
 
 Alex showed me what it means to be a strong man. Not just in his physicality, but in the resolve of his character. He is self-contained, prepared for anything. If you dropped him onto any point on this planet he would be able to thrive. According to him: his ideal of a man was &ldquo;the Victorian gentleman.&rdquo; The Victorian gentleman was a lover, a fighter, a poet, a philosopher, a dancer, an adventurer, and an intellectual. He told me what drove him in his life and guided his evolution was his desire to become this sort of man he always idolized.
 
@@ -86,7 +86,7 @@ Before we parted ways, I took it upon myself to let him know that I had great re
 
 I wrote him a rather long-email a few weeks ago. He never replied. That's okay, I don't expect him to (and perhaps wouldn't myself if the situations were reversed). My task and challenge now is to learn the lesson that he had to teach me. To not let our meeting be lost on me.
 
-![](http://3.bp.blogspot.com/-5BSZy9hX-I8/TouR-NfjasI/AAAAAAAAAp0/HiCOADu_MYM/s1600/IMG_3261.JPG)
+![](/images/posts/padua-vicenze-and-alex/07.jpg)
 
 I musn't let myself forget. I still remember his voice. His confident, yet careful tone. His large, dark eyes. His hands.
 
