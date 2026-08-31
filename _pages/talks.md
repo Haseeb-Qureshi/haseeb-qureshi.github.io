@@ -11,9 +11,6 @@ Talks, interviews, and podcast appearances. For the weekly show, listen to [The 
 <div class="ui embed" data-url="https://www.youtube.com/embed/RTJjXZZN1jg"></div>
 <div class="caption">Crypto's Not Made for Humans—It's for AI (Bankless, 2026)</div>
 
-<div class="ui embed" data-url="https://www.youtube.com/embed/9wiFCXryl6o"></div>
-<div class="caption">$4B Crypto Fund, Manhood, Discipline, VC (Luba Yudasina, 2026)</div>
-
 <div class="ui embed" data-url="https://www.youtube.com/embed/JFRayfyhFYA"></div>
 <div class="caption">In Defense of Exponentials, read aloud (The Chopping Block, 2025)</div>
 
@@ -25,6 +22,9 @@ Talks, interviews, and podcast appearances. For the weekly show, listen to [The 
 
 <div class="ui embed" data-url="https://www.youtube.com/embed/VWKBH_N1XYI"></div>
 <div class="caption">Debate: Will Synthetic Dollars Cause the Next Luna-Type Collapse? (DAS London, 2025)</div>
+
+<div class="ui embed" data-url="https://www.youtube.com/embed/9wiFCXryl6o"></div>
+<div class="caption">$4B Crypto Fund, Manhood, Discipline, VC (Luba Yudasina, 2026)</div>
 
 <div class="ui embed" data-url="https://player.vimeo.com/video/1182038041"></div>
 <div class="caption">FinTech's Global Playbook (Milken Institute Global Conference, 2026)</div>
