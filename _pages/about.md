@@ -5,7 +5,7 @@ image: widescreen1_zkintz.jpg
 
 ## Hi, I'm Haseeb.
 
-I'm a managing partner at [Dragonfly](https://www.dragonfly.xyz/), a crypto venture fund investing across [CONFIRM: stage/geography phrasing]. In February 2026 we launched our fourth fund, at $650M. Every week I co-host [The Chopping Block](/podcast/), a podcast where I argue about crypto with three friends.
+I'm a managing partner at [Dragonfly](https://www.dragonfly.xyz/), a crypto venture fund. In February 2026 we launched our fourth fund, at $650M. Every week I co-host [The Chopping Block](/podcast/), a podcast where I argue about crypto with three friends.
 
 Before this I was a general partner at MetaStable Capital, a software engineer at Earn.com (acquired by Coinbase) and Airbnb, and Director of Product at App Academy. Before *that* I was a professional poker player—for a while one of the best heads-up players in the world—and wrote a book about it. I've taught web3 entrepreneurship at UC Berkeley and cryptocurrencies at the Bradfield School of Computer Science. I'm an Effective Altruist and donate a big chunk of my income to charity.
 

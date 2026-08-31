@@ -4,7 +4,6 @@ tags: [blockchain]
 image: posts/i-passed-on-solanas-seed-round/01.png
 ---
 
-<!-- TODO: confirm title (derived, not his own). -->
 
 I passed on @solana's seed round in early 2018 at $0.04.
 

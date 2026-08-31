@@ -5,7 +5,6 @@ tags: [tech careers]
 image: precipice_snbyis.jpg
 ---
 
-<!-- TODO: confirm title (derived, not his own) -->
 
 > A founder just informed me that they ran out of runway and have to wind down their business.
 > 

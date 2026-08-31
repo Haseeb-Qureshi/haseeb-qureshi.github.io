@@ -4,7 +4,6 @@ tags: [tech careers]
 image: Backlit_keyboard.jpg
 ---
 
-<!-- TODO: confirm title (derived, not his own). -->
 
 Here's what I would do if I was a young person trying to break into VC:
 
