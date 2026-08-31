@@ -157,4 +157,4 @@ Disclosure: These are my own views. Dragonfly is an investor in $MON, $MEGA, $ET
 
 
 
-*Originally published [on X](https://x.com/hosseeb/status/1994110900454949263), November 2025.*
+*Originally published [on X](https://x.com/hosseeb/status/1994110900454949263), November 2025. Prefer audio? I [read this essay aloud](https://www.youtube.com/watch?v=JFRayfyhFYA) on The Chopping Block.*

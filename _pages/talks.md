@@ -3,7 +3,40 @@ title: Talks
 image: rails-conf.jpg
 ---
 
-A selection of older talks and interviews. For current appearances, listen to [The Chopping Block](/podcast/), which I record every week.
+Talks, interviews, and podcast appearances. For the weekly show, listen to [The Chopping Block](/podcast/), which I record every week.
+
+<div class="ui embed" data-url="https://www.youtube.com/embed/XbMhaT_nA0M"></div>
+<div class="caption">Building a $4B Fund in Public (Surface Area, 2026)</div>
+
+<div class="ui embed" data-url="https://www.youtube.com/embed/RTJjXZZN1jg"></div>
+<div class="caption">Crypto's Not Made for Humans—It's for AI (Bankless, 2026)</div>
+
+<div class="ui embed" data-url="https://www.youtube.com/embed/JFRayfyhFYA"></div>
+<div class="caption">In Defense of Exponentials, read aloud (The Chopping Block, 2025)</div>
+
+<div class="ui embed" data-url="https://www.youtube.com/embed/4ew_uOd393g"></div>
+<div class="caption">The Secrets of a Top-Tier Crypto VC (Epicenter, 2025)</div>
+
+<div class="ui embed" data-url="https://www.youtube.com/embed/Kt1H64ArXUY"></div>
+<div class="caption">How to Distribute Tokens (Network State Conference, 2025)</div>
+
+<div class="ui embed" data-url="https://www.youtube.com/embed/VWKBH_N1XYI"></div>
+<div class="caption">Debate: Will Synthetic Dollars Cause the Next Luna-Type Collapse? (DAS London, 2025)</div>
+
+<div class="ui embed" data-url="https://player.vimeo.com/video/1182038041"></div>
+<div class="caption">FinTech's Global Playbook (Milken Institute Global Conference, 2026)</div>
+
+##### On TV
+* [US 'Way Behind' on Crypto Regulation (Bloomberg, 2025)](https://www.bloomberg.com/news/videos/2025-07-09/us-way-behind-on-crypto-regulation-dragonfly-partner-video)
+* [Dragonfly on Investing in Digital Asset Treasuries (Bloomberg, 2025)](https://www.bloomberg.com/news/videos/2025-10-02/dragonfly-on-investing-in-digital-asset-treasuries-video)
+* [On the Future of Digital Assets (Fox Business, 2025)](https://www.foxbusiness.com/video/6386292510112)
+
+##### More appearances
+* [The Fable Backlash: Is This the Case for Decentralized AI? (The Defiant, 2026)](https://www.youtube.com/watch?v=lrtdLtKzDO8)
+* [AI Lab Economics on TBPN (2026)](https://www.youtube.com/watch?v=_H9-wKy4m_g&t=9230s)
+* [DeFi's Next Chapter (Token2049 Singapore, 2025)](https://www.youtube.com/watch?v=ElSjjy7coR0)
+
+##### Older talks
 
 <div class="ui embed" data-url="https://www.youtube.com/embed/svD6cCv-Nes"></div>
 <div class="caption">Stablecoins: an Overview (Stanford Bitcoin Club)</div>
