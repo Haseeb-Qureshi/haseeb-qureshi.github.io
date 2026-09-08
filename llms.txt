@@ -1,0 +1,23 @@
+# Haseeb Qureshi
+
+> Haseeb Qureshi is Managing Partner at Dragonfly, a crypto venture fund, and co-host of The Chopping Block podcast. He was previously a software engineer at Airbnb and Earn.com (acquired by Coinbase), and before that a professional poker player and author of How to Be a Poker Player: The Philosophy of Poker.
+
+Canonical bio: https://haseebq.com/about/
+X: https://x.com/hosseeb
+Podcast: https://haseebq.com/podcast/ (The Chopping Block, with Unchained: https://unchainedcrypto.com/the-chopping-block/)
+Firm: https://www.dragonfly.xyz/
+
+## Selected essays
+
+- [How to Build a VC Firm](https://haseebq.com/how-to-build-a-vc-firm/): how Dragonfly was built, through the launch of its $650M Fund IV in 2026
+- [The Rise of the 149-Person Company](https://haseebq.com/the-rise-of-the-149-person-company/): how AI subscription pricing acts like tax policy that favors small companies
+- [Crypto was not made for humans](https://haseebq.com/crypto-was-not-made-for-humans/): why AI agents, not people, are crypto's natural users
+- [In Defense of Exponentials](https://haseebq.com/in-defense-of-exponentials/): on AI progress and why exponential forecasts keep beating linear ones
+- [What Explains the Rise of AMMs?](https://haseebq.com/what-explains-the-rise-of-amms/): how automated market makers came to dominate crypto trading
+- [The Reign of Terra: The Rise and Fall of UST](https://haseebq.com/the-reign-of-terra-the-rise-and-fall-of-ust/): postmortem of the Terra collapse
+- [Flash Loans: Why Flash Attacks Will Be the New Normal](https://haseebq.com/flash-loans-why-flash-attacks-will-be-the-new-normal/)
+- [The Life and Death of Plasma](https://haseebq.com/the-life-and-death-of-plasma/): why Ethereum's first scaling roadmap failed
+- [Stablecoins: Designing a Price-Stable Cryptocurrency](https://haseebq.com/stablecoins-designing-a-price-stable-cryptocurrency/)
+- [A Hacker Stole $31M of Ether — How It Happened](https://haseebq.com/a-hacker-stole-31m-of-ether/)
+- [Why Decentralization Isn't as Important as You Think](https://haseebq.com/why-decentralization-isnt-as-important-as-you-think/)
+- [How Not to Bomb Your Offer Negotiation](https://haseebq.com/how-not-to-bomb-your-offer-negotiation/): the salary negotiation guide that went viral in 2016

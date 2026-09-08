@@ -6,7 +6,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="HandheldFriendly" content="True">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=PT+Serif:400,700,400italic,700italic|PT+Sans:400,700|Droid+Sans+Mono">
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=PT+Serif:400,700,400italic,700italic|PT+Sans:400,700|Droid+Sans+Mono" media="print" onload="this.media='all'">
+    <noscript><link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=PT+Serif:400,700,400italic,700italic|PT+Sans:400,700|Droid+Sans+Mono"></noscript>
     <link rel="stylesheet" type="text/css" href="{{ site.url }}/assets/semantic/semantic.min.css">
     <link rel="stylesheet" type="text/css" href="{{ site.url }}/assets/css/haseebq.css">
     <link rel="stylesheet" type="text/css" href="{{ site.url }}/assets/css/highlighting.css">
@@ -22,14 +23,21 @@
     {% feed_meta %}
 
     <!-- page settings -->
-    <title>{{ page.title | default: "home" }} - {{ site.title }}</title>
+    {% if page.url == "/" %}
+      {% capture page_meta_title %}Haseeb Qureshi — Managing Partner at Dragonfly{% endcapture %}
+      {% capture page_meta_description %}Haseeb Qureshi is Managing Partner at Dragonfly, a crypto venture fund, and co-host of The Chopping Block. Essays on crypto, investing, and decision-making.{% endcapture %}
+    {% else %}
+      {% capture page_meta_title %}{{ page.title | default: "home" }} - {{ site.title }}{% endcapture %}
+      {% capture page_meta_description %}{{ page.content | default: site.description | markdownify | strip_html | truncate: 200 }}{% endcapture %}
+    {% endif %}
+    <title>{{ page_meta_title }}</title>
     <meta name="author" content="{{ site.author }}">
     <meta property="article:author" content="https://www.facebook.com/{{ site.integrations.facebook }}">
     <link rel="canonical" href="{{ page.url | absolute_url | default: site.url }}">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="description" content="{{ page.content | default: site.description | markdownify | strip_html | truncate: 200 }}">
-    <meta property="og:description" content="{{ page.content | default: site.description | markdownify | strip_html | truncate: 200 }}">
-    <meta name="twitter:description" content="{{ page.content | default: site.description | markdownify | strip_html | truncate: 200 }}">
+    <meta name="description" content="{{ page_meta_description }}">
+    <meta property="og:description" content="{{ page_meta_description }}">
+    <meta name="twitter:description" content="{{ page_meta_description }}">
     <meta property="og:image" content="{{ page.image | prepend: 'https://haseebq.com/images/' }}">
     <meta name="twitter:image" content="{{ page.image | prepend: 'https://haseebq.com/images/' }}">
     <meta property="og:locale" content="{{ site.locale }}">
@@ -44,27 +52,44 @@
     <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Website",
-  "publisher": {
-    "@type": "Person",
-    "name": "{{ site.author }}",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "{{ site.profile | absolute_url }}",
-      "width": 160,
-      "height": 160
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://haseebq.com/#haseeb",
+      "name": "Haseeb Qureshi",
+      "givenName": "Haseeb",
+      "familyName": "Qureshi",
+      "jobTitle": "Managing Partner",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "Dragonfly",
+        "url": "https://www.dragonfly.xyz/"
+      },
+      "description": "Haseeb Qureshi is Managing Partner at Dragonfly, a crypto venture fund. He co-hosts The Chopping Block podcast. He was previously a software engineer at Airbnb and Earn.com (acquired by Coinbase), and before that a professional poker player and author of How to Be a Poker Player: The Philosophy of Poker.",
+      "url": "https://haseebq.com/",
+      "image": "https://haseebq.com/images/haseeb-profile-pink.jpg",
+      "sameAs": [
+        "https://x.com/hosseeb",
+        "https://twitter.com/hosseeb",
+        "https://www.linkedin.com/in/imhaseeb",
+        "https://medium.com/@hosseeb",
+        "https://github.com/Haseeb-Qureshi",
+        "https://www.dragonfly.xyz/",
+        "https://unchainedcrypto.com/the-chopping-block/",
+        "https://www.amazon.com/stores/author/B00HFF3JKQ",
+        "https://www.goodreads.com/author/show/7713774.Haseeb_Qureshi",
+        "https://iq.wiki/wiki/haseeb-qureshi",
+        "https://www.crunchbase.com/person/haseeb-qureshi-7bd5"
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://haseebq.com/#site",
+      "url": "https://haseebq.com/",
+      "name": "haseeb qureshi",
+      "publisher": { "@id": "https://haseebq.com/#haseeb" }
     }
-  },
-  "url": "{{ page.url | absolute_url }}",
-  "image": {
-    "@type": "ImageObject",
-    "url": "{{ page.image | prepend: 'https://haseebq.com/images/' }}"
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "{{ page.url | absolute_url }}"
-  },
-  "description": "{{ page.content | default: site.description | markdownify | strip_html | truncate: 200 }}"
+  ]
 }
     </script>
   </head>
@@ -88,16 +113,21 @@
         <div class="ui divider"></div>
         <div class="ui tight small header">Years</div>
         <div class="years menulist">
-          <a class="item" href="{{ site.url }}/2020">/2020</a>
-          <a class="item" href="{{ site.url }}/2019">/2019</a>
-          <a class="item" href="{{ site.url }}/2018">/2018</a>
-          <a class="item" href="{{ site.url }}/2017">/2017</a>
-          <a class="item" href="{{ site.url }}/2016">/2016</a>
-          <a class="item" href="{{ site.url }}/2015">/2015</a>
-          <a class="item" href="{{ site.url }}/2014">/2014</a>
-          <a class="item" href="{{ site.url }}/2013">/2013</a>
-          <a class="item" href="{{ site.url }}/2012">/2012</a>
-          <a class="item" href="{{ site.url }}/2011">/2011</a>
+          <a class="item" href="/2026">/2026</a>
+          <a class="item" href="/2025">/2025</a>
+          <a class="item" href="/2024">/2024</a>
+          <a class="item" href="/2022">/2022</a>
+          <a class="item" href="/2021">/2021</a>
+          <a class="item" href="/2020">/2020</a>
+          <a class="item" href="/2019">/2019</a>
+          <a class="item" href="/2018">/2018</a>
+          <a class="item" href="/2017">/2017</a>
+          <a class="item" href="/2016">/2016</a>
+          <a class="item" href="/2015">/2015</a>
+          <a class="item" href="/2014">/2014</a>
+          <a class="item" href="/2013">/2013</a>
+          <a class="item" href="/2012">/2012</a>
+          <a class="item" href="/2011">/2011</a>
         </div>
         <div class="ui divider"></div>
         {% include navigation.html %}

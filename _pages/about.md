@@ -5,13 +5,11 @@ image: widescreen1_zkintz.jpg
 
 ## Hi, I'm Haseeb.
 
-I'm a managing partner at **Dragonfly**, a crypto fund.
+I'm a managing partner at [Dragonfly](https://www.dragonfly.xyz/), a crypto venture fund. In February 2026 we launched our fourth fund, at $650M. Every week I co-host [The Chopping Block](/podcast/), a podcast where I argue about crypto with three friends.
 
-I'm also a programmer, a writer, a teacher, a public speaker, and an Effective Altruist.
+Before this I was a general partner at MetaStable Capital, a software engineer at Earn.com (acquired by Coinbase) and Airbnb, and Director of Product at App Academy. Before *that* I was a professional poker player—for a while one of the best heads-up players in the world—and wrote a book about it. I've taught web3 entrepreneurship at UC Berkeley and cryptocurrencies at the Bradfield School of Computer Science. I'm an Effective Altruist and donate a big chunk of my income to charity.
 
-I've taught a class on [web3 Entrepreneurship](https://www.youtube.com/playlist?list=PLS01nW3Rtgor3EijYdpEHOQi1sZ6m5gos) at **UC Berkeley**. I used to teach a class on cryptocurrencies for programmers at the **Bradfield School of Computer Science**. I was formerly a software engineer at **Earn.com** (acquired by Coinbase), and before that at **Airbnb**. Before that I was Director of Product at **App Academy**. Before that I was a mental coach and wrote a book called *The Philosophy of Poker*. And before that I was a top-ranked high stakes professional poker player, sponsored by **Full Tilt Poker**.
-
-That's me in a nutshell. It's a pretty strange path, from professional poker player to software engineer to investor. But if you want to get the full picture, you'll need to know my origin story. 
+That's me in a nutshell. It's a strange path, from poker player to software engineer to investor. If you want the full picture, you'll need my origin story.
 
 It's good, I promise.
 <br /><br />

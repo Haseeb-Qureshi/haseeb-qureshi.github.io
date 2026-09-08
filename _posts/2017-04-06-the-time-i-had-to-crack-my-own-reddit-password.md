@@ -1,15 +1,15 @@
 ---
 title: The Time I Had to Crack My Own Reddit Password
+featured: "true"
 tags: [personal, programming]
 image: hackers.jpg
-featured: "true"
 ---
 
 **I have no self-control.**
 
 Luckily, I know this about myself. This allows me to consciously engineer my life so that despite having the emotional maturity of a heroin-addicted lab rat, I'm occasionally able to get things done.
 
-<img src="https://media.giphy.com/media/gOH54eiriYIwM/giphy.gif">
+<img src="/images/posts/the-time-i-had-to-crack-my-own-reddit-password/01.gif">
 <div class="caption">Mm, a waste of time!</div>
 
 I waste a lot of time on Reddit. If I want to procrastinate on something, I'll often open a new tab and dive down a Reddit-hole. But sometimes one needs to turn on the blinders and dial down distractions. 2015 was one of these times&mdash;I was singularly focused on improving as a programmer, and Redditing was becoming a liability.
@@ -22,7 +22,7 @@ So it occurred to me: how about I lock myself out of my account? 
 
 ## Here's what I did:
 
-![](https://cdn-images-1.medium.com/max/800/1*8Zpw3ipnu92ehqA_6T-o8w.gif)
+![](/images/posts/the-time-i-had-to-crack-my-own-reddit-password/02.gif)
 
 I set a random password on my account. Then I asked a friend to e-mail me this password on a certain date. With that, I'd have a foolproof way to lock myself out of Reddit. (Also changed the e-mail for password recovery to cover all the bases.)
 
@@ -30,20 +30,20 @@ This should have worked.
 
 Unfortunately it turns out, friends are very susceptible to social engineering. The technical terminology for this is that they are &ldquo;nice to you&rdquo; and will give you back your password if you &ldquo;beg them.&rdquo;
 
-![](https://media.giphy.com/media/uB6rsQFg5yPzW/giphy.gif)
+![](/images/posts/the-time-i-had-to-crack-my-own-reddit-password/03.gif)
 
 After a few rounds of this failure mode, I needed a more robust solution. A little Google searching, and I came across this:
 
-![](https://cdn-images-1.medium.com/max/800/1*iMtDCzvNYVF9UOeiIbU7Ww.png)
+![](/images/posts/the-time-i-had-to-crack-my-own-reddit-password/04.png)
 
-![](https://cdn-images-1.medium.com/max/800/1*7QCLp-4HnnDwgj1FSnRstw.png)
+![](/images/posts/the-time-i-had-to-crack-my-own-reddit-password/05.png)
 <div class="caption">(Looks legit.)</div>
 
 Perfect&mdash;an automated, friend-less solution! (I'd alienated most of them by now, so that was a big selling point.)
 
 A bit sketchy looking, but hey, any port in a storm.
 
-![](https://cdn-images-1.medium.com/max/800/1*TOUIDOIRHiVySUWt46n3mw.gif)
+![](/images/posts/the-time-i-had-to-crack-my-own-reddit-password/06.gif)
 
 For a while I set this up this routine&mdash;during the week I'd e-mail myself my password, on the weekends I'd receive the password, load up on internet junk food, and then lock myself out again once the week began. It worked quite well from what I remember.
 
@@ -55,7 +55,7 @@ I'm now gainfully employed at Airbnb. And Airbnb, it so happens, has a large tes
 
 I decide to scrounge up my old account and find my Reddit password.
 
-![](https://cdn-images-1.medium.com/max/800/1*sAr_MYJtJVkNq6uHiVQxtQ.gif)
+![](/images/posts/the-time-i-had-to-crack-my-own-reddit-password/07.gif)
 
 Oh. *Oh. Oh shit.*
 
@@ -71,13 +71,13 @@ All of my options were messy. I was walking home that night from the office pond
 
 I pulled up the app on my mobile phone and tried it:
 
-![](https://cdn-images-1.medium.com/max/800/1*DvLUtm_ZGOaTGKy1bOuyYQ.gif)
+![](/images/posts/the-time-i-had-to-crack-my-own-reddit-password/08.gif)
 
 Hmm.
 
 Okay. So it's indexing the subject for sure. What about the body?
 
-![](https://cdn-images-1.medium.com/max/800/1*esw6gkV0G-M1JKaPAqipLA.gif)
+![](/images/posts/the-time-i-had-to-crack-my-own-reddit-password/09.gif)
 
 I try a few letters, and voila. It's definitely got the body indexed. Remember: the body consisted entirely of my password.
 
@@ -95,29 +95,29 @@ So let's think about this. A few things I know about my password: I know it was 
 
 We also have a subject line as part of the string we're querying. And we know the subject is &ldquo;password&rdquo;.
 
-![](https://cdn-images-1.medium.com/max/800/1*XvaVCyWtSdqKSz59HKnNDw.png)
+![](/images/posts/the-time-i-had-to-crack-my-own-reddit-password/10.png)
 
 Let's pretend the body is 6 characters long. So we've got six slots of characters, some of which may appear in the subject line, some of which certainly don't. So if we take all of the characters that aren't in the subject and try searching for each of them, we know for sure we'll hit a unique letter that's in the password. Think like a game of Wheel of Fortune.
 
-![](https://cdn-images-1.medium.com/max/800/1*LOzh--_Ujutrh_OKhjfNaw.png)
+![](/images/posts/the-time-i-had-to-crack-my-own-reddit-password/11.png)
 
 We keep trying letters one by one until we hit a match for something that's not in our subject line. Say we hit it.
 
-![](https://cdn-images-1.medium.com/max/800/1*fdoVAq3t5naQ5G9yARr0RA.png)
+![](/images/posts/the-time-i-had-to-crack-my-own-reddit-password/12.png)
 
 Once I've found my first letter, I don't actually know where in this string I am. But I know I can start building out a bigger substring by appending different characters to the end of this until I hit another substring match.
 
 We'll potentially have to iterate through every character in our alphabet to find it. Any of those characters could be correct, so on average it'll hit somewhere around the middle, so given an alphabet of size `A`, it should average out to `A/2` guesses per letter (let's assume the subject is small and there are no repeating patterns of 2+ characters).
 
-![](https://cdn-images-1.medium.com/max/800/1*GJ5xKZzTe0F5un-Iz11pXg.png)
+![](/images/posts/the-time-i-had-to-crack-my-own-reddit-password/13.png)
 
 I'll keep building this substring until it eventually hits the end and no characters can extend it further.
 
-![](https://cdn-images-1.medium.com/max/800/1*E9ri3Rf8LBPxUTjgs5BvPQ.png)
+![](/images/posts/the-time-i-had-to-crack-my-own-reddit-password/14.png)
 
 But that's not enough&mdash;most likely, there will be a prefix to the string that I missed, because I started in a random place. Easy enough: all I have to do is now repeat the process, except going backwards.
 
-![](https://cdn-images-1.medium.com/max/800/1*F_n0WGRP_8RJdFtR-v0b1g.png)
+![](/images/posts/the-time-i-had-to-crack-my-own-reddit-password/15.png)
 
 Once the process terminates, I should be able to reconstruct the password. In total, I'll need to figure out `L` characters (where `L` is the length), and need to expend on average `A/2` guesses per character (where `A` is the alphabet size), so total guesses = `A/2 \* L`.
 
@@ -129,7 +129,7 @@ Damn.
 
 This is actually doable.
 
-![](https://media.giphy.com/media/119cVU19ICcAKc/giphy.gif)
+![](/images/posts/the-time-i-had-to-crack-my-own-reddit-password/16.gif)
 
 ## The Implementation
 
@@ -162,7 +162,7 @@ status=302></:response:0x007fc01a5716d8>
 
 So how do we sign in? We need to send in our [cookies](http://stackoverflow.com/questions/17769011/how-does-cookie-based-authentication-work) in the header, of course. Using Chrome inspector we can trivially grab them.
 
-![](https://cdn-images-1.medium.com/max/800/1*PSxZtW4wppyzRXMdBWgGWw.gif)
+![](/images/posts/the-time-i-had-to-crack-my-own-reddit-password/17.gif)
 
 (Not going to show my real cookie here, obviously. Interestingly, looks like it's storing `user_id` client-side which is always a great sign.)
 
@@ -183,7 +183,7 @@ It's got my name in there, so we're definitely logged in!
 
 We've got the scraping down, now we just have to parse the result. Luckily, this pretty easy&mdash;we know it's a hit if the e-mail result shows up on the page, so we just need to look for any string that's unique when the result is present. The string &ldquo;password&rdquo; appears nowhere else, so that will do just nicely.=op
 
-![](https://cdn-images-1.medium.com/max/800/1*cZT37Ji9j8sm8dobFpiAWQ.png)
+![](/images/posts/the-time-i-had-to-crack-my-own-reddit-password/18.png)
 
 <script src="https://gist.github.com/Haseeb-Qureshi/4db364c7432730e4f432c3ea3dcac9bc.js"></script><noscript>View the code on [Gist](https://gist.github.com/Haseeb-Qureshi/4db364c7432730e4f432c3ea3dcac9bc).</noscript>
 
@@ -331,7 +331,7 @@ Cross your fingers&hellip;
 PasswordCracker.new(Api).crack!
 ```
 
-![](https://cdn-images-1.medium.com/max/800/1*NR-y9WthtHg4DVjLDwikVA.gif)
+![](/images/posts/the-time-i-had-to-crack-my-own-reddit-password/19.gif)
 <div class="caption">(Sped up 3x)</div>
 
 Boom. 443 iterations.
@@ -346,7 +346,7 @@ Recall our original formula for the number of iterations: `A(N/2 + 2)`. The true
 
 **Math.**
 
-![](https://media.giphy.com/media/26xBI73gWquCBBCDe/giphy.gif)
+![](/images/posts/the-time-i-had-to-crack-my-own-reddit-password/20.gif)
 
 **It works.**
 

@@ -46,6 +46,6 @@ Why is it that the poker world doesn't acknowledge all of the arguments against 
 
 The relationship between degeneracy and the poker culture comes to mind. There's a lot that I could say about the way the poker culture views and treats degeneracy, but this post is running long, I am starting to ramble, and there are clearly not enough pictures. So here's a photo (that somebody else took) of the cathedral just outside Thalys station in Cologne.
 
-![Thalys Station, Cologne](http://howyoudoin.files.wordpress.com/2010/02/cologne-cathedrel-full2.jpg)
+![Thalys Station, Cologne](/images/posts/cologne-germany/01.jpg)
 
 Will write more soon.

@@ -2,7 +2,6 @@
 title: "A hacker stole $31M of Ether—how it happened and what it means for Ethereum"
 tags: [blockchain, programming]
 image: hacker.png
-featured: "true"
 ---
 
 Yesterday, a hacker pulled off the second biggest heist in the history of digital currencies.
@@ -11,7 +10,7 @@ Around 12:00 PST, an unknown attacker exploited a critical flaw in the Parity mu
 
 But someone stopped them.
 
-![Hacker](https://cdn-images-1.medium.com/max/800/1*l0L_X-wFPpb3YHJ0Oqxp_Q.png)
+![Hooded figure overlaid with streams of code and binary digits on a dark background](/images/posts/a-hacker-stole-31m-of-ether/01.png)
 
 Having sounded the alarm bells, a group of benevolent white-hat hackers from the Ethereum community rapidly organized. They analyzed the attack and realized that there was no way to reverse the thefts, yet many more wallets were vulnerable. Time was of the essence, so they saw only one available option: **hack the remaining wallets before the attacker did.**
 
@@ -39,7 +38,7 @@ If you are familiar with Ethereum and the crypto world, you can skip to the seco
 
 There are three building blocks to this story: **Ethereum**, **smart contracts**, and **digital wallets**.
 
-![Ethereum](https://cdn-images-1.medium.com/max/800/1*J_yJEaeQXUZ_Wk2w5sQXuQ.png)
+![Ethereum logo: gray octahedron diamond next to the word ETHEREUM](/images/posts/a-hacker-stole-31m-of-ether/02.png)
 
 **[Ethereum](https://www.ethereum.org/)** is a digital currency invented in 2013—a full 4 years after the release of Bitcoin. It has since grown to be the second largest digital currency in the world by market cap—$20 billion to Bitcoin's $40 billion.
 
@@ -51,7 +50,7 @@ To put it another way, *Ethereum is literally a computer that spans the entire w
 
 Let me be emphatic: *this is crazy shit*. The crypto world is ebullient about the potential of Ethereum, which has seen its value skyrocket in the last 6 months.
 
-![Ethereum price chart](https://cdn-images-1.medium.com/max/800/1*cGo4ezL9EPH_jGqsj3QS_Q.png)
+![ETH/USD price chart from 2015 to July 2017, nearly flat until a steep climb to about $400 in mid-2017](/images/posts/a-hacker-stole-31m-of-ether/03.png)
 
 The developer community has rallied behind it, and there's a lot of excitement about what can be built on top of the EVM—and this brings us to smart contracts.
 

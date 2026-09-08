@@ -2,7 +2,6 @@
 title: "Why Bitcoin is not trustless"
 tags: [blockchain, programming]
 image: bitcoin-web.jpg
-featured: "true"
 ---
 
 Cryptocurrencies have a trust problem.
@@ -46,7 +45,7 @@ So what about cryptocurrencies?
 ## The trust in cryptocurrencies
 Decentralized cryptocurrencies imply you don't have to trust a central party. After all, the Bitcoin protocol dictates that every node stores a record of every transaction and double-checks everything themselves. No trust required—right?
 
-![](https://cdn-images-1.medium.com/max/800/1*L-DU3pUSD0QoMxqjPlJvBQ.png)
+![](/images/posts/bitcoin-is-not-trustless/01.png)
 
 Nonsense. The trust is not gone, it's just distributed across more parties. So where is the trust now?
 

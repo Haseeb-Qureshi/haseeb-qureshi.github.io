@@ -2,14 +2,13 @@
 title: "The Life and Death of Plasma"
 tags: [blockchain]
 image: plasma.jpeg
-featured: "true"
 ---
 
 *By Haseeb Qureshi and Ashwin Ramachandran*
 
 It was August 2017. The price of Ether was near an all time high, the Ethereum blockchain was exploding with usage, and the chain was buckling under the ever increasing demand. Researchers and developers were frantically searching for new scalability solutions. At blockchain conferences around the world, developers debated scaling proposals. The Ethereum community was desperate for a solution. In the middle of this frenzy the first version of the Plasma paper was released, promising a layer-2 scaling solution that could handle "nearly all financial computation worldwide."
 
-![](https://miro.medium.com/max/783/0*pmSpCD5bi_0ER4MR)
+![Screenshot of a TechCrunch headline reporting on the release of the Plasma scaling paper](/images/posts/the-life-and-death-of-plasma/01.png)
 *TechCrunch reporting on Plasma*
 
 Fast forward to 2020. Ethereum is as slow as ever, and yet it has survived all the so-called Ethereum killers. Ethereum 2.0's launch date keeps receding further into the future, and Plasma seems to have disappeared entirely with many development groups [shuttering operations](https://twitter.com/plasma_group/status/1215410533052055553).
@@ -22,12 +21,12 @@ Let's go back to what it was like in early 2017. Ethereum had just gone mainstre
 
 In the middle of this craze, Vitalik Buterin and Joseph Poon published[ a paper](https://plasma.io/plasma.pdf), where they introduced a new layer-2 scalability solution called Plasma.
 
-![](https://miro.medium.com/max/1600/0*7XuvIcVTIXPjoolQ)
+![Photo of Vitalik Buterin and Joseph Poon presenting Plasma on stage at a San Francisco meetup](/images/posts/the-life-and-death-of-plasma/02.png)
 *Vitalik and Joseph Poon introduce Plasma at a meetup in San Francisco*
 
 Plasma claimed to allow Ethereum to scale to Visa-level transaction volumes, and its bold claims triggered a [wave of developer and community excitement](https://www.reddit.com/r/ethereum/comments/6sqca5/plasma_scalable_autonomous_smart_contracts/). Soon after, the Ethereum research community rallied around Plasma as the salvation to Ethereum's scaling woes.
 
-![](https://miro.medium.com/max/794/1*S4LgcG7_5HiUJ84wL4FFXQ.png)
+![Social media post from the 2017 wave of Ethereum community excitement around Plasma](/images/posts/the-life-and-death-of-plasma/03.png)
 
 But what exactly was Plasma, and why didn't it end up fulfilling its promises?
 
@@ -35,14 +34,14 @@ But what exactly was Plasma, and why didn't it end up fulfilling its promises?
 
 The original Plasma paper described a mechanism for constructing a MapReduce "tree of blockchains". Each node in the tree would represent a unique blockchain that was connected to its parent, and all of these blockchains were arranged in a massive hierarchy. This initial specification, however, was vague and complex. Soon after its release, Vitalik simplified the spec in a new paper appropriately named [MVP](https://ethresear.ch/t/minimal-viable-plasma/426) (Minimal Viable Plasma).
 
-![](https://miro.medium.com/max/638/0*ljhRM5ybxm635x4Y)
+![Diagram of the Plasma tree of blockchains: child chains branching in a hierarchy from the Ethereum root chain](/images/posts/the-life-and-death-of-plasma/04.png)
 *The Plasma “Tree of Blockchains”*
 
 MVP proposed a stripped-down version of Plasma: a simple UTXO based sidechain that would be safe under data unavailability. But what is a sidechain? And what does it mean for data to be unavailable? Before we delve into Plasma, let's walk through what these terms mean.
 
 A sidechain is simply a blockchain that is attached to another blockchain. Sidechains can be operated in many different ways, such as by a trusted third-party, a federation, or a consensus algorithm. For example, Blockstream participates in a federated sidechain on the Bitcoin network called [Liquid](https://blockstream.com/liquid/). Liquid allows for higher transaction throughput, which it achieves due to a tradeoff in its trust model. Users must trust the federation not to collude and steal funds. The chain operators in this context are the various members of the Liquid federation, such as Blockstream the company.
 
-![](https://miro.medium.com/max/971/0*P5GqjhzTyRI4R_kk)
+![Diagram of two-way peg transfers between a main chain and a sidechain, using the Liquid network as an example](/images/posts/the-life-and-death-of-plasma/05.png)
 *Visualization of sidechain transfers (exemplified by Liquid). Credit: [Georgios Konstantopoulos](https://www.gakonst.com/sidechains2019.pdf)*
 
 A sidechain is attached to a larger blockchain (like Bitcoin) via a two-way peg. Users can deposit funds on the sidechain by sending them to a particular address or smart contract on the main chain. This is referred to as a peg-in transaction. To withdraw funds, users can perform the same operation on the sidechain to retrieve their funds on the main chain. This is referred to as a peg-out transaction. But how does this relate to Plasma?
@@ -69,7 +68,7 @@ But it gets worse.
 
 Remember, even if an operator withholds data, we want users to be able to withdraw their funds from the Plasma chain. MVP handled this in the following way: if Plasma transaction data was withheld, each user needed to individually exit their own money based on the Plasma chain's last valid state. (Note: to avoid a malicious operator frontrunning honest users, exits are prioritized in order of how long ago they last transacted.)
 
-![](https://miro.medium.com/max/700/0*Vioh2FqkxrNU1gAj)
+![Chart of Ethereum state storage growing steadily over time](/images/posts/the-life-and-death-of-plasma/06.png)
 *Growth of Ethereum storage. Credit: [Alexey Akhunov](https://raw.githubusercontent.com/ledgerwatch/eth_state/master/State_rent.pdf)*
 
 In the worst case, if all users needed to exit a Plasma chain, the entire valid state of the chain would have to be posted on the Ethereum mainnet within a single challenge period. Given that Plasma chains can grow arbitrarily large, and that Ethereum blocks are already near capacity, it would be almost impossible to dump an entire Plasma chain onto the Ethereum mainnet. Thus, any stampede for the exits would almost certainly congest Ethereum itself. This is known as the mass exit problem.
@@ -82,7 +81,7 @@ In mid-2018, as prices continued to crash, Ethereum's research community continu
 
 According to Vitalik, who was one of its main designers, Plasma Cash would allow for arbitrarily high transactions per second and solve the problems that plagued its predecessor. Some even claimed that this new design would achieve hundreds of thousands of transactions per second.
 
-![](https://miro.medium.com/max/670/1*ZsQGreDRZs3hZBNJxoMLIw.png)
+![Screenshot of a claim that Plasma Cash could reach hundreds of thousands of transactions per second](/images/posts/the-life-and-death-of-plasma/07.png)
 
 First, let's remember the issues with Plasma MVP.
 
@@ -116,9 +115,9 @@ Soon after, Vitalik released an [improved version](https://ethresear.ch/t/on-ch
 
 Publishing transaction data as function arguments meant it could be verified at the time of publication and then thrown away (so that it did not bloat Ethereum's storage). zk-Rollup could avoid Plasma's exit games and challenge periods entirely without trading off affordability or security. With zk-Rollup, one could use novel cryptography to solve all of Plasma's layer-2 scaling dilemmas in one fell swoop.
 
-![](https://miro.medium.com/max/960/0*PHbHLyMPdNXwiwpX)
+![Illustration of zk-Rollup bundling sidechain transactions and posting their data to Ethereum](/images/posts/the-life-and-death-of-plasma/08.png)
 
-![](https://miro.medium.com/max/721/0*jwqlaAzuHVdFNDti)
+![Screenshot of Vitalik Buterin's zk-Rollup post on the Ethereum research forum](/images/posts/the-life-and-death-of-plasma/09.png)
 *Vitalik’s [zk-Rollup post](https://ethresear.ch/t/on-chain-scaling-to-potentially-500-tx-sec-through-mass-tx-validation/3477)*
 
 
@@ -126,7 +125,7 @@ But zk-Rollup came with its own set of tradeoffs. Namely, validity proofs are c
 
 Additionally, it is currently not possible to deploy general smart contracts on zk-Rollup sidechains. Proposals are under development for specialized zero-knowledge VMs that would enable this, such as [zkVM](https://github.com/stellar/slingshot/tree/main/zkvm) and [ZEXE](https://github.com/scipr-lab/zexe), but they still require lots of specialized knowledge to interact with them. For the most part, zk-Rollups limit general programmability.
 
-![](https://miro.medium.com/max/527/1*vZT8ezybGijoLGVdPa-75w.png)
+![Diagram of a zk-Rollup: a relayer bundles user transactions and posts a SNARK proof to a contract on Ethereum](/images/posts/the-life-and-death-of-plasma/10.png)
 *zk-Rollup visualization. Credit: [Georgios Konstantopoulos](https://www.gakonst.com/sidechains2019.pdf)*
 
 By mid-2019, these new developments had re-energized the Ethereum research community. zk-Rollup seemed to solve many of the problems that had plagued the layer-2 narrative. Companies such as [Matter Labs](https://matter-labs.io/) (one of our portfolio companies) and [LoopRing](https://loopring.org/#/) began actively developing zk-Rollups, and both have testnet implementations live today. With optimizations, Matter Labs believes that it can achieve upwards of 2,000 TPS on its [ZK Sync](https://github.com/matter-labs/zksync) network.
@@ -159,7 +158,7 @@ Plasma was ultimately much more than just a protocol. In a time of irrational ex
 
 As Ether prices have rebounded over the last year, so has optimism about Ethereum's future. After nearly 3 years of searching for a secure, extensible, and robust scalability solution, the Ethereum research community has finally converged around rollups. Plasma and its cousins were noble first attempts, but a select group of innovators eventually created more realistic layer-2 designs that seem to have solved Plasma's worst problems.
 
-![](https://miro.medium.com/max/1182/0*WF692AxocXAhh7m4)
+![Illustration of Ethereum layer-2 scaling research converging from Plasma toward rollup designs](/images/posts/the-life-and-death-of-plasma/11.png)
 
 Some Plasma focused research groups, such as the Plasma Group, have [moved on](https://twitter.com/plasma_group/status/1215410533052055553) to work on Optimistic Rollup solutions, but we believe the search for the final layer-2 scaling solution is just getting started. There are many contenders, and we expect the field to remain an active and exciting area of research and development.
 

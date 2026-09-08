@@ -18,7 +18,7 @@ It occurred to me that I had been having similar dreams for a long time now&mdas
 
 I slipped on my jacket and let myself out to take a walk, hoping it would settle my mind. I tried to shake the thoughts that troubled me, but in the dimness, they only became more and more visible. Finally, I returned to my room in agitation, got out a pen and paper, and began to write.
 
-![](http://lh6.googleusercontent.com/-P6pz2IOTovc/T3X70a4XO6I/AAAAAAAABOs/8PGPymnP8T8/s720/IMG_4605.JPG)
+![](/images/posts/the-crime-and-the-scaffold/01.jpg)
 
 As I wrote, I realized how deeply ashamed I was. I wrote and wrote, and watching myself writing, I realized that I was still thinking about Jose. I was still carrying that shame with me. Even now, more than a year later after the scandal&mdash;a year later! So much has passed since then. I am almost a different person. I am living a different life. I am not even a poker player anymore, I thought to myself. So why is this sense of shame still lodged so deep inside me? It seemed in that moment like a splinter that, picking and scratching, I could never get out.
 
@@ -30,7 +30,7 @@ There, sitting in that bed in the near-dark, my legs crossed beneath me, it occu
 
 And why shouldn't people ask me? Why shouldn't I have to confront, again and again, the mistakes I made?
 
-![](https://lh4.googleusercontent.com/-vYS_5F8nu68/TrqLnA_NIZI/AAAAAAAABK8/-TuZiKyjsjM/s720/IMG_4156.JPG)
+![](/images/posts/the-crime-and-the-scaffold/02.jpg)
 
 After I returned home from Kaufman, I made a list of people who I felt I had wronged during the events of the Girah scandal. I wrote to each of them, to let them know that I was deeply sorry, and that I was ashamed for what I had done. I asked not for forgiveness, but that they know my regret for having acted as I did.
 
@@ -42,7 +42,7 @@ But recently, a student of mine told me something surprising after a mental coac
 
 These things all make sense&mdash;as money supply shrinks, markets move toward efficiency, incentives of altruism shrivel&mdash;these are all things that most people intuitively understand. In fact, it is something that many poker players were forecasting even when I was still playing. In that sense, it is no surprise that this is happening. Perhaps we are entering a dark age of online poker&mdash;an age approaching market efficiency, and the breakdown of a once noble culture of gambling. Perhaps this is all simply inevitable, in a march-of-history sort of way.
 
-![](http://i.telegraph.co.uk/multimedia/archive/02128/Cezanne_2128852b.jpg)
+![](/images/posts/the-crime-and-the-scaffold/03.jpg)
 
 But I can't help but think that the whole Girah scandal, as sensational as it was and as widely as it was covered, may have contributed. That my lies, which I have always wanted to see as small, self-interested deeds, may have in fact accelerated the dissolution of the poker culture I once admired, even if in a small way.
 

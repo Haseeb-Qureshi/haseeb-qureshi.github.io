@@ -8,7 +8,7 @@ I used to have a running joke with my students. Whenever I would checkraise a fl
 
 This is my fourth night sleeping on the farm.
 
-![](http://3.bp.blogspot.com/-JG9KNyhE1aQ/TpZ4WLEG-hI/AAAAAAAAAw0/A9LLy5Y1-oI/s1600/IMG_3669.JPG)
+![](/images/posts/farm-life-pt-1/01.jpg)
 
 I've been working from 8:30 AM til 2PM. The first couple of days we have been repairing a damaged barn and bricklaying. Today we started clearing a forest near the back of the farm. I don't think I've done manual labor on this level before in my life. My back, shoulders, and arms all ache.
 
@@ -16,11 +16,11 @@ I've been working from 8:30 AM til 2PM. The first couple of days we have been re
 
 It feels right. I need this. Somehow I know I'm exactly where I'm supposed to be.
 
-![](http://4.bp.blogspot.com/-Rhw8VJXQRmw/TpZ6oQ3EvFI/AAAAAAAAAxs/3EoyCtkadTw/s1600/IMG_3745.JPG)
+![](/images/posts/farm-life-pt-1/02.jpg)
 
 My hosts are interesting characters. A Swiss-English couple. The woman, Wendy, is 68, and the man, Peter, is 39. They used to run a horseriding school in Switzerland together, but now they and their horses have retired to this farm in the south of France. Interestingly, they became a couple when Peter was 21. that means at the time, she was 50. They are, to say the least, a curious couple. But they're lovely and have been very good to me. I am learning a lot everyday. But unlike me, my hosts go to sleep very early and wake up around 6am. So I've been trying to go to sleep earlier than I usually do, but in the last couple months I've been used to sleeping around 3AM or even later.
 
-![](http://3.bp.blogspot.com/-Zr_fXPymlWs/TpZ6W4rZ8JI/AAAAAAAAAxc/nFJMjD6BWxM/s1600/IMG_3724.JPG)
+![](/images/posts/farm-life-pt-1/03.jpg)
 
 Every night before bed, I take a walk. As I walk down the country road, I start thinking to myself. It reminds me of the walks I used to take back home. But here, there are no streetlights, only the light of the moon. There is nothing around, and it is too dark to make out anything in the distance but the rolling hills. It's quiet, and I realize that I am alone.
 
@@ -28,7 +28,7 @@ For a moment, I try to place myself. Try to tell myself that I am walking down a
 
 Wonder why I am so desperate to mean something.
 
-![](http://1.bp.blogspot.com/-5o1xW4gFUm0/TpZ4FAlWUZI/AAAAAAAAAwo/_2J-fbtfGPI/s1600/IMG_3663.JPG)
+![](/images/posts/farm-life-pt-1/04.jpg)
 
 And then I think: it's late, I should head home. Because breakfast is at 8, and I suck at waking up in the mornings.
 

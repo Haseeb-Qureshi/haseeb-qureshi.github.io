@@ -12,13 +12,13 @@ When I awoke I made sure to stay away from the computer. I thought to myself, I 
 
 After the rain cleared I took some photos; they didn't come out too bad. Here are a few of them, along with a link to the album.
 
-![](http://4.bp.blogspot.com/-tN4U6zGVgk8/TkVD_e_aZnI/AAAAAAAAAWo/Om28PL6U2nY/s640/IMG_1706.JPG)
+![](/images/posts/update-before-i-leave/01.jpg)
 
-![](http://2.bp.blogspot.com/-1qdk-ou04MI/TkVEPd5GIwI/AAAAAAAAAW8/mVy5yezK3Ok/s1600/IMG_1712.JPG)
+![](/images/posts/update-before-i-leave/02.jpg)
 
-![](http://3.bp.blogspot.com/-Y8a6_IHAwC0/TkVEwdEyqxI/AAAAAAAAAX0/yTYKJ8ub7bw/s1600/IMG_1730.JPG)
+![](/images/posts/update-before-i-leave/03.jpg)
 
-![](http://3.bp.blogspot.com/-228__RKzVZE/TkVE80kXyeI/AAAAAAAAAYI/HHWP3qf-itE/s1600/IMG_1748.JPG)
+![](/images/posts/update-before-i-leave/04.jpg)
 
 [Album link](https://picasaweb.google.com/dogishead/RoyalConnaughtPark?authuser=0&authkey=Gv1sRgCPuLj8bE3rWypgE&feat=directlink)
 

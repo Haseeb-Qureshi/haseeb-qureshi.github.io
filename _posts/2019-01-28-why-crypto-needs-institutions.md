@@ -2,7 +2,6 @@
 title: "Why Crypto Needs Institutions"
 tags: [blockchain]
 image: bitcoin-bank.png
-featured: "true"
 ---
 
 Most cryptocurrency pioneers would not call what they're building "institutions." The term reeks of centralization—it's too unsexy. (Except when it's "institutional capital", then it's welcomed with open arms.)

@@ -5,7 +5,7 @@
 <div class="flexbox">
   <div class="narrow item">
     <a class="ui fluid image" href="{{ include.page.url }}">
-      <img src="{{ site.url }}/images/{% if include.page.image %}{{ include.page.image }}{% else %}placeholder.jpg{% endif %}"></a>
+      <img src="/images/{% if include.page.image %}{{ include.page.image }}{% else %}placeholder.jpg{% endif %}"></a>
   </div>
   <div class="wide item">
     <p>{{ include.page.content | markdownify | strip_html | truncatewords: 70 }}<br>

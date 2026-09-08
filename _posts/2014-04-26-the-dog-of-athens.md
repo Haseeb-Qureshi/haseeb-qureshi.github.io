@@ -26,7 +26,7 @@ Even when I was a poker player, I always had a fondness for living simply. Every
 
 Now, writing a memoir and mind coaching, eating healthy and working out a lot, volunteering and spending time with friends, I'm enjoying the process of my life. I don't know if I'll ever become rich again. If I do though, things will probably be different. I imagine I'll probably be more measured in how I spend and invest it. I'll appreciate it a lot more, I imagine. But I think, most of all, I'll be better at putting it to good use&mdash;not just for myself, but for others.
 
-![](https://haseebq.com/images/Jean-L%C3%A9on_G%C3%A9r%C3%B4me_-_Diogenes_-_Walters_37131_z6gt53.jpg)
+![](/images/Jean-L%C3%A9on_G%C3%A9r%C3%B4me_-_Diogenes_-_Walters_37131_z6gt53.jpg)
 
 It's said that Diogenes died by holding his breath&mdash;at the time, considered a noble, philosophical death.
 

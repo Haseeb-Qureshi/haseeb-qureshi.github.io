@@ -2,13 +2,12 @@
 title: "DeFi in Eth2: Cities, suburbs, and farms"
 tags: [blockchain]
 image: island-city.png
-featured: "true"
 ---
 Ethereum today is [incredibly congested](https://blockchair.com/ethereum/charts/median-gas-price?granularity=week)---it's even more congested now than it was during the height of the ICO bubble.
 
 This is impressive, but also worrying! Ethereum 2.0 is still a ways away, but the tiny island of Ethereum 1.0 is already populated to the point of saturation.
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F19903bf8-b00b-4728-91c5-a0f7dc5719df_1200x630.png)
+![Aerial photo of Migingo, a tiny rock island in Lake Victoria packed edge to edge with shacks](/images/posts/defi-in-eth2-cities-suburbs-and-farms/01.jpg)
 *Artist's rendition of Ethereum 1.0 ([source](https://www.elitereaders.net/migingo-overpopulated-tiny-rock-island-lake-victoria-africa/))*
 
 You've probably heard that Ethereum 2.0 is going to be sharded. Beyond base scalability improvements, sharding is how Ethereum 2.0 is going to scale to meet demand. 
@@ -21,7 +20,7 @@ Ethereum 2.0 is going to create a bunch of shards, which will work like loosely 
 
 So we'll end up in the exact same place we started: one huge DeFi shard, massive congestion. 
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa48b96b6-3c7e-41ac-94d8-6658148f1b66_1028x1200.png)
+![Aerial photo of a slightly larger island completely covered in densely packed buildings](/images/posts/defi-in-eth2-cities-suburbs-and-farms/02.jpg)
 *The same crowded island, but a little bigger now. ([source](https://twitter.com/GreekPictures/status/1117049992810770433/photo/1))*
 
 In a sense, this vision is almost certainly correct. But it's wrong in being alarmed about this: in fact, this is perfectly fine and to be expected!
@@ -32,7 +31,7 @@ Let me paint a thought experiment for you.
 
 Imagine the day that Ethereum 2.0 launches with full smart contracts. On day one, it's empty, like a fresh and untouched landscape. Eager Ethereum 1.0 settlers disperse across the shards.
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc791cad4-4306-4be7-a7a5-2708f064c0ce_700x440.png)
+![Aerial photo of empty, undeveloped green land, like Ethereum 2.0's untouched shards at launch](/images/posts/defi-in-eth2-cities-suburbs-and-farms/03.jpg)
 *Ethereum 2.0 on day one. ([Source](https://www.advancelandandtimber.com/))*
 
 Will they spread uniformly across this landscape?
@@ -45,7 +44,7 @@ But it's worth it! These early cities are the centers of commerce. It might be t
 
 This first city in Ethereum 2.0 will likely be the DeFi shard.
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F872f4f7f-788a-43b7-a0b4-1a01017ce461_1000x499.png)
+![Painting of a bustling early American market street crowded with merchants, carts, and townspeople](/images/posts/defi-in-eth2-cities-suburbs-and-farms/04.jpg)
 *The city-like DeFi shard. Ah, the hustle and bustle of composability! ([Source](https://brewminate.com/the-market-revolution-in-early-america/))*
 
 That DeFi shard will be the place where the major DeFi protocols settle---those that benefit from high velocity and being connected to large liquidity pools for liquidations, flash loans, or whatever. Maybe there will be one major financial shard, like London, or two city shards with their own specializations, like New York City and Chicago. I expect if there is a second city shard, it will be for centralized exchange settlement, separated from DeFi and all of its chaos.
@@ -66,14 +65,14 @@ But if you want to do something simple at the local corner store, like swap some
 
 Suburbs will see medium-throughput, medium-value transactions. It will be economical for most people to just park their assets here and live out their blockchain lives in middle-class tranquility.
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc49dd149-56cc-4957-a12c-14840b0969e1_1100x733.png)
+![Aerial photo of a suburban neighborhood with rows of near-identical houses on tree-lined streets](/images/posts/defi-in-eth2-cities-suburbs-and-farms/05.png)
 *The blockchain 'burbs. For us normies. ([Source](https://www.businessinsider.com/i-moved-from-city-to-suburbs-why-ill-stay#theres-a-lot-more-space-1))*
 
 Finally, there are the farmland shards. These are the rural areas that are empty of people. If you are a blockchain game that is mostly doing its own thing and doesn't immediately need to interoperate with other assets, you can just settle all your game actions directly onto a farmland shard.
 
 Or if you're a [weather app just dumping a bunch of data on-chain](https://cointelegraph.com/news/98-of-bsv-transactions-used-for-writing-weather-data-on-blockchain-report), you'd rather do it in an unpopulated area, because why not? It's not like that shard is being used for anything important. 
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F349858d7-5745-4c01-b4b9-2dd3483d60e7_1600x900.png)
+![Aerial photo of open farmland with crop fields and no people in sight](/images/posts/defi-in-eth2-cities-suburbs-and-farms/06.jpg)
 *Ah, perfect for dumping my homomorphically encrypted supply chain data! ([Source](https://www.microsoft.com/en-us/p/aerial-farmland-premium/9plwgl934r9q?activetab=pivot:overviewtab))*
 
 If there are pollutive activities that are uneconomical in cities or suburbs, take it to the boonies. There are no DeFi services or tokens to displace anyway. Out here, no one is all that bothered. Farmland shards allow for high-throughput, low-value transactions to your heart's content.
@@ -86,7 +85,7 @@ First, yes, there will be congested shards on Ethereum 2.0! And the most congest
 
 But sharding doesn't mean that activity is uniformly spread across shards. That's not only impossible---it's economically stupid. Let high-value enterprises move into the cities, let boring families move to the suburbs, and let farmlands do their thing far away from the valuable real estate.
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6e408439-a9bf-4151-b5bf-e1669d221ed8_1140x500.png)
+![World Bank illustration of a landscape graded from dense city to towns to rural farmland](/images/posts/defi-in-eth2-cities-suburbs-and-farms/07.png)
 *Heterogeneity = economic efficiency. ([Source](https://blogs.worldbank.org/sustainablecities/how-do-we-define-cities-towns-and-rural-areas))*
 
 *(This also gives you a sense why [programmatically load balancing contracts across shards](http://fc20.ifca.ai/wtsc/WTSC2020/WTSC20_paper_7.pdf) is unwise! We should assume that protocols and contract deployers are making rational choices about where to live. Uprooting a business from a city center and transplanting it onto farmland to "load balance the city" would be a disastrous mistake.)*

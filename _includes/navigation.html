@@ -3,11 +3,10 @@
   <div class="padded item">
     <div class="ui small header">Main</div>
     <div class="menulist">
-      <a class="item" href="{{ site.url }}/">/home</a>
+      <a class="item" href="/">/home</a>
       {% for page in site.pages %}
         <a class="item" href="{{ page.url }}">/{{ page.title | downcase }}</a>
       {% endfor %}
-      <a class="item" href="https://nakamoto.com/introduction-to-cryptocurrency/">/course</a>
     </div>
   </div>
   <div class="divider padded item">

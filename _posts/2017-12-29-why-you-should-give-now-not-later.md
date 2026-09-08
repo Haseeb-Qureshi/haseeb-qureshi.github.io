@@ -76,7 +76,7 @@ So that’s why I’m giving now rather than later. And I feel pretty damn good 
 
 In total this year I'm donating $45,370.00 (slightly less than last year due to not working for a few months after I left Airbnb).
 
-![anti-malarial bednet](http://mediad.publicbroadcasting.net/p/shared/npr/styles/x_large/nprshared/201401/257657916.jpg)
+![anti-malarial bednet](/images/posts/why-you-should-give-now-not-later/01.jpg)
 
 Of that sum, $11,340 I'm donating to the Against Malaria Foundation—the same organization I donate to every year, and the #1 top ranked charity on [Givewell](https://givewell.org) for multiple years. The Against Malaria Foundation is a non-profit that funds and distributes anti-malarial bednets in malaria-ravaged countries, primarily in Africa and Asia. A single bednet can be funded and distributed for ~$4, making them perhaps the most cost-effective life-saving intervention in the world.
 
@@ -84,7 +84,7 @@ The remaining 75% of my donations this year, $34,030, I'm donating to a [donor-a
 
 For those who are unfamiliar with AI safety, you might have heard folks Elon Musk, Stephen Hawking, and Sam Harris making pronouncements about the dangers of uncontrolled artificial general intelligence. AI is advancing rapidly, and it's likely to grow and control more of the infrastructure of the world far faster than we can develop our understanding of how to make it safe. So far the world has invested an remarkably small amounts into thinking about how to make AIs more safe, and I think this will be an increasingly important problem as AI research advances. If you're new to this, I recommend reading [this](http://slatestarcodex.com/superintelligence-faq/), then [this](http://slatestarcodex.com/2015/05/22/ai-researchers-on-ai-risk/), then [this](https://intelligence.org/2014/11/18/misconceptions-edge-orgs-conversation-myth-ai/).
 
-![superintelligence](https://www.altexsoft.com/media/2017/04/image.png)
+![superintelligence](/images/posts/why-you-should-give-now-not-later/02.png)
 
 In general the study of AI risk is so enormously underfunded, it's clear to me that this was a pressing area that needed more attention and capital. I don't know as much about the charities on the ground, so a donor-advised fund allows me to let someone I trust make better-researched decisions than I could in this area.
 

@@ -42,7 +42,7 @@ Usually, the brain adapts to become better at commonly repeated tasks or stimuli
 
 Perhaps the high rate of information processing puts so much load on the brain that it weakens other faculties, such as working memory or attention control. It's not implausible. Studies have shown that overstimulation leads to [significant impairments in cognitive function for mice](http://www.nature.com/srep/2012/120731/srep00546/full/srep00546.html). Maybe this is something similar&mdash;perhaps poker players are getting overstimulated, and it's affecting their brainpower.
 
-![](http://upload.wikimedia.org/wikipedia/commons/5/58/Human_brain.png)
+![](/images/posts/your-brain-on-multitabling/01.png)
 
 But on the other hand, there are reasons to believe that some multitasking has positive effects on the brain. Studies have shown that complex computer tasks like Internet browsing are powerful mental exercise, and have positive effects on patients with cognitive decline. [One study](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0070350) even introduced non-gamers to Starcraft, the real-time strategy game, and found a significant boost in their cognitive flexibility after a few months. These studies seem to indicate that some amount of multitasking is valuable mental stimulation. So when does brain training become brain overload?
 

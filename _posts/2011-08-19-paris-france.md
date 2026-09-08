@@ -14,16 +14,16 @@ He and his friends took a liking to me and showed me around Paris. They were ama
 
 The first night we returned to Adrien's home in a small town just outside of Paris. I took some photos of it yesterday morning. It was a beautiful house and there was an amazing mansion just outside in the neighborhood. Here are some of the photos I took:
 
-![](http://2.bp.blogspot.com/-1Mj1-sFan3Y/Tk5DK-n4urI/AAAAAAAAAbM/QO_ZuwCdViI/s400/IMG_1830.JPG)
+![](/images/posts/paris-france/01.jpg)
 <div class="caption">Adrien and his puppy Eunice</div>
 
-![](http://2.bp.blogspot.com/-rtXDbd520EM/Tk5DIGqp10I/AAAAAAAAAbA/Doy0xhEEXQQ/s400/IMG_1814.JPG)
+![](/images/posts/paris-france/02.jpg)
 <div class="caption">The house I stayed in</div>
 
-![](http://3.bp.blogspot.com/-6F3_pg1NWkk/Tk5DDxtgDRI/AAAAAAAAAao/ZLAE3T9PMDM/s400/IMG_1794.JPG)
+![](/images/posts/paris-france/03.jpg)
 <div class="caption">An old French mansion</div>
 
-![](http://2.bp.blogspot.com/-NwRNmdQEJ_k/Tk5DNuyq5jI/AAAAAAAAAbc/VsKcs03UK7Q/s400/IMG_1840.JPG)
+![](/images/posts/paris-france/04.jpg)
 <div class="caption">An old bench I found</div>
 
 [Link to the album](https://picasaweb.google.com/dogishead/Parispt1?authuser=0&feat=directlink)

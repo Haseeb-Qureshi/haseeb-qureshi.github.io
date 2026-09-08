@@ -1,12 +1,13 @@
 ---
 title: 10 Principles I Want to Live By
+featured: "true"
 tags: [effective altruism, personal]
 image: stairs.jpg
 ---
 
 I just came home from a vow of silence at a meditation center in northern California. It's a strange feeling coming back to city life after five days of silent meditation.
 
-![](https://cdn-images-1.medium.com/max/2000/1*W3bSf7ni68rbzw8Wy_tJTg.jpeg)
+![](/images/posts/10-principles-i-want-to-live-by/01.jpg)
 
 Looking around at puffing joggers, Christmas wreaths, eager couples waiting outside restaurants, the stop and start of traffic&mdash;it's almost too much for my senses.
 
@@ -36,7 +37,7 @@ You already have everything you need.
 
 Simplify. Give things away. Turn down offers for more. Know that you are complete and you don't need more things to live a good life.
 
-![](https://cdn-images-1.medium.com/max/800/1*SxUjpFIsHW7t7Iv2k3Nqqw.jpeg)
+![](/images/posts/10-principles-i-want-to-live-by/02.jpg)
 
 What a pleasure it is to pack up your life into a few bags and embark on a new life! Allow yourself to do that, again, and again, and again.
 
@@ -64,7 +65,7 @@ Attention or fame can be pleasurable, sometimes even useful. But more often than
 
 It's not about you. It's about something bigger than you.
 
-![](https://cdn-images-1.medium.com/max/800/1*2ZlJC9xDCKWjUDj8ufheqA.jpeg)
+![](/images/posts/10-principles-i-want-to-live-by/03.jpg)
 
 Give. Contribute. Not just money, or time, but your identity. Make your life about more than just you.
 
@@ -90,7 +91,7 @@ There will always be people who are better, stronger, wiser than you.
 
 When you don't know something, proclaim it out loud. Feverishly seek the answers. Wear out your knees with humbleness. Never let ignorance or shame deter you, because the desire to learn is always noble.
 
-![](https://cdn-images-1.medium.com/max/800/1*qBuMPCuhUBhdTr2HAmv34g.jpeg)
+![](/images/posts/10-principles-i-want-to-live-by/04.jpg)
 
 Go searching for your teachers, and don't give up until you find them.
 
@@ -114,7 +115,7 @@ Be smart, be calculated, be careful. But when opportunity arises, steel your ner
 
 It's okay if you don't know what you're doing&mdash;trust that you'll learn before you hit the floor. And if you crash: brush yourself off, forgive your errors, and try again. This is the only way progress has ever happened.
 
-![](https://cdn-images-1.medium.com/max/800/1*5a5ovIzCTvdRlNeWns4iuA.jpeg)
+![](/images/posts/10-principles-i-want-to-live-by/05.jpg)
 
 ## 10. Stay hungry, stay foolish.
 

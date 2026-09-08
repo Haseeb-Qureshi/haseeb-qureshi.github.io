@@ -2,7 +2,6 @@
 title: "So you want to build a crypto startup?"
 tags: [blockchain]
 image: crypto-users.png
-featured: "true"
 ---
 
 I'm a crypto VC. That means I spend my days talking to crypto entrepreneurs, hearing pitches, and evaluating products. The first thing you realize working in this industry is that pretty much everyone is winging it. (That applies to me, but it especially applies to founders.)
@@ -61,7 +60,7 @@ So how can you spot a good idea? The best way is by deeply studying the domain y
 
 First become an expert in your respective idea maze. Interested in building a DEX? A lending business? A market making firm? A new layer 2 mechanism? There is a rich history that precedes you, and you should study the other players in the maze, both living and dead, to understand how the maze is laid out. How do these businesses make money? Who are their customers? How did they differentiate? What features did they launch that drove their successes?
 
-![](https://miro.medium.com/max/1600/0*ug3KNe4e6IAnrZZv)
+![](/images/posts/so-you-want-to-build-a-crypto-startup/01.png)
 
 If you have no idea what maze to even pursue, I'd suggest engaging in this exercise: how do you believe the crypto landscape will change two years from now? Don't build another layer 2 or another smart contract platform --- people realized that was a problem a couple years ago, and by now they're already very far along. You're late to that race. You need to think about what will become more valuable in the future when your product finally reaches maturity. This requires vision and some conviction about how the future of crypto will evolve.
 
@@ -93,7 +92,7 @@ It's tempting to look at a fragmented ecosystem with players who are not coopera
 
 Alternatively, lots of "blockchain for X" plays are really about just getting everyone onto a common data standard. Unfortunately, this doesn't actually have all that much to do with the unique properties of blockchain and is hard for other reasons.
 
-![](https://miro.medium.com/max/500/0*fuObAMZLpy-ot6Kv)
+![](/images/posts/so-you-want-to-build-a-crypto-startup/02.png)
 
 Global, permissionless, programmable money and property is actually new. They were the first thing we created blockchains for, and up until now, they seem to be the only *fundamentally novel thing* we can do using this technology. I encourage you to search in that direction, as that's what I believe most of the innovation in this industry will build on top of.
 
@@ -109,7 +108,7 @@ The best way to bet on a future trend is by building for a small customer base t
 
 Building for crypto influencers. This is another common trap for crypto startups. In most industries, if you build a product that influencers will love, millions of other customers will follow. But crypto is a weird space --- the preferences of crypto influencers are very unrepresentative of crypto customers.
 
-![](https://miro.medium.com/max/1228/0*HXq06Qrd3zNEJD5Z)
+![](/images/posts/so-you-want-to-build-a-crypto-startup/03.png)
 *(These numbers are very loose approximations.)*
 
 If you went off crypto influencers, you'd assume most crypto consumers are paranoid cypherpunks who run their own full nodes and never hold their crypto on exchanges. In reality, this describes a vanishingly small slice of crypto users. Most crypto users hold their coins on exchanges, have no idea how to navigate a command line, and have never even heard of Austrian economics. They care a lot more about making money and a good UX than about decentralization.
@@ -200,7 +199,7 @@ If you're building pure crypto, open source your code. Once you're post-launch,
 
 Unlike the Internet, crypto is global from day one. That implies that no matter where your company is founded, you must eventually build a global team with boots on the ground around the world. Whether you're from the US, Europe, or Asia, you want to have a presence in each of those geographies to build awareness and relay the needs of your different communities. It's not enough to simply focus on your local geography.
 
-![](https://miro.medium.com/max/1297/0*Dc1W7KTLxS-WyKFh)
+![](/images/posts/so-you-want-to-build-a-crypto-startup/04.png)
 *Credit: [Chappius Halder](https://www.chappuishalder.com/wp-content/uploads/2019/06/Publication_Crypto-traders-06-2019.pdf) (note: this data doesn't track China, which likely has more crypto traders than North America)*
 
 Finally, you must keep iterating on UI/UX. This is probably the most important frontier for crypto, and I suspect more and more businesses will differentiate on user experience rather than core technology. Taylor Monahan has [written eloquently](https://medium.com/mycrypto/building-confidence-not-dapps-d8a3bc1f29d1) on the importance of communicating clearly to your user, and Austin Griffith has continually pushed the frontier of [crypto onboarding](https://www.youtube.com/watch?v=4yq1wcwKHQk).

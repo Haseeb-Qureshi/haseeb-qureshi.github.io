@@ -3,13 +3,43 @@ title: Talks
 image: rails-conf.jpg
 ---
 
-Note: this list is no longer up-to-date as of 2020.
+Talks, interviews, and podcast appearances. For the weekly show, listen to [The Chopping Block](/podcast/), which I record every week.
 
-<div class="ui embed" data-url="//player.ooyala.com/static/v4/stable/4.22.11/skin-plugin/iframe.html?ec=Jrb3dwaDE6048Xb-hig2wEOg0ZF7Uojz&pbid=9935c14646034dc285185d1bbb784519&pcode=FvbGkyOtJVFD33j_Rd0xPLSo0Jiv"></div>
-<div class="caption">Stablecoins Roundtable at MIT Business of Blockchain Conference</div>
+<div class="ui embed" data-url="https://www.youtube.com/embed/XbMhaT_nA0M"></div>
+<div class="caption">Building a $4B Fund in Public (Surface Area, 2026)</div>
 
-<div class="ui embed" data-url="https://www.youtube.com/embed/H1TOfnvbiZ0"></div>
-<div class="caption">AMA with Haseeb Qureshi on Stablecoins and Cryptocurrencies (TruStory)</div>
+<div class="ui embed" data-url="https://www.youtube.com/embed/RTJjXZZN1jg"></div>
+<div class="caption">Crypto's Not Made for Humans—It's for AI (Bankless, 2026)</div>
+
+<div class="ui embed" data-url="https://www.youtube.com/embed/JFRayfyhFYA"></div>
+<div class="caption">In Defense of Exponentials, read aloud (The Chopping Block, 2025)</div>
+
+<div class="ui embed" data-url="https://www.youtube.com/embed/4ew_uOd393g"></div>
+<div class="caption">The Secrets of a Top-Tier Crypto VC (Epicenter, 2025)</div>
+
+<div class="ui embed" data-url="https://www.youtube.com/embed/Kt1H64ArXUY"></div>
+<div class="caption">How to Distribute Tokens (Network State Conference, 2025)</div>
+
+<div class="ui embed" data-url="https://www.youtube.com/embed/VWKBH_N1XYI"></div>
+<div class="caption">Debate: Will Synthetic Dollars Cause the Next Luna-Type Collapse? (DAS London, 2025)</div>
+
+<div class="ui embed" data-url="https://www.youtube.com/embed/9wiFCXryl6o"></div>
+<div class="caption">$4B Crypto Fund, Manhood, Discipline, VC (Luba Yudasina, 2026)</div>
+
+<div class="ui embed" data-url="https://player.vimeo.com/video/1182038041"></div>
+<div class="caption">FinTech's Global Playbook (Milken Institute Global Conference, 2026)</div>
+
+##### On TV
+* [US 'Way Behind' on Crypto Regulation (Bloomberg, 2025)](https://www.bloomberg.com/news/videos/2025-07-09/us-way-behind-on-crypto-regulation-dragonfly-partner-video)
+* [Dragonfly on Investing in Digital Asset Treasuries (Bloomberg, 2025)](https://www.bloomberg.com/news/videos/2025-10-02/dragonfly-on-investing-in-digital-asset-treasuries-video)
+* [On the Future of Digital Assets (Fox Business, 2025)](https://www.foxbusiness.com/video/6386292510112)
+
+##### More appearances
+* [The Fable Backlash: Is This the Case for Decentralized AI? (The Defiant, 2026)](https://www.youtube.com/watch?v=lrtdLtKzDO8)
+* [AI Lab Economics on TBPN (2026)](https://www.youtube.com/watch?v=_H9-wKy4m_g&t=9230s)
+* [DeFi's Next Chapter (Token2049 Singapore, 2025)](https://www.youtube.com/watch?v=ElSjjy7coR0)
+
+##### Older talks
 
 <div class="ui embed" data-url="https://www.youtube.com/embed/svD6cCv-Nes"></div>
 <div class="caption">Stablecoins: an Overview (Stanford Bitcoin Club)</div>
@@ -25,12 +55,6 @@ Note: this list is no longer up-to-date as of 2020.
 
 <div class="ui embed" data-url="https://www.youtube.com/embed/piLmdh3Am3o"></div>
 <div class="caption">RubyConf 2016: Lies, Damned Lies, and Substrings</div>
-
-<div class="ui embed" data-url="https://www.youtube.com/embed/8FvBPJcxJs0"></div>
-<div class="caption">Haseeb Qureshi on overcoming challenges and becoming a top developer</div>
-
-<div class="ui embed" data-url="https://www.youtube.com/embed/-NAx7733Sm8"></div>
-<div class="caption">Airbnb Software Engineer Haseeb Qureshi — FreeCodeCamp</div>
 
 <div class="ui embed" data-url="https://www.youtube.com/embed/1ZO1aqtDiDQ"></div>
 <div class="caption">Haseeb Qureshi—From a Coding Bootcamp to a $250K Offer</div>
@@ -54,12 +78,6 @@ Note: this list is no longer up-to-date as of 2020.
 ##### From [Blockcrunch](https://podcasts.apple.com/us/podcast/blockcrunch-global-investors-podcast-for-crypto-blockchain/id1350649166)
 * [Haseeb Qureshi on Why Bitcoin Won't Become Money & Other Crypto Theses](https://podcasts.apple.com/us/podcast/haseeb-qureshi-on-why-bitcoin-wont-become-money-other/id1350649166?i=1000453489855)
 
-##### From [Off the Chain with Anthony Pompliano](https://player.fm/series/off-the-chain-2428336)
-* [Haseeb Qureshi](https://cms.megaphone.fm/channel/BWG2120167197?selected=BWG6955802124)
-
-##### From [Hidden Forces](https://hiddenforces.io)
-* [ETC 51% Attack and what it means for Proof of Work and Crypto Exchanges](https://www.hiddenforces.io/podcast/show/haseeb-qureshi-etc-attack-proof-of-work)
-
 #### From [Breaking Into Startups](https://soundcloud.com/breakingintostartups/)
 * [Haseeb Qureshi&mdash;Professional Poker Player turned Software Engineer](https://soundcloud.com/breakingintostartups/haseeb-qureshi)
 
@@ -77,7 +95,3 @@ Note: this list is no longer up-to-date as of 2020.
 * [Topic Roundtable with Haseeb Qureshi and Practical Dev’s Ben Halpern](https://softwareengineeringdaily.com/2016/10/21/topic-roundtable-with-haseeb-qureshi-and-practical-devs-ben-halpern/)
 * [Salary negotiation with Haseeb Qureshi](https://softwareengineeringdaily.com/2016/07/11/salary-negotiation-with-haseeb-qureshi/)
 
-##### From [Venture Stories](https://www.villageglobal.vc/podcast/)
-* [Crypto Stories: A Primer on Stablecoins with Haseeb Qureshi and Myles Snider](https://www.stitcher.com/podcast/village-global/venture-stories/e/55999312)
-* [Crypto Stories: A Primer on Consensus Protocols with Aparna Krishnan and Haseeb Qureshi](https://www.stitcher.com/podcast/village-global/venture-stories/e/56032411)
-* [Crypto Stories: Solving The Blockchain Interoperability Problem with Sunny Aggarwal and Haseeb Qureshi](https://www.stitcher.com/podcast/village-global/venture-stories/e/56833624)

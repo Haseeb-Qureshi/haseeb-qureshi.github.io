@@ -2,10 +2,26 @@
 layout: default
 ---
 
+{% if page.collection == "posts" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": {{ page.title | jsonify }},
+  "url": "{{ page.url | absolute_url }}",
+  "datePublished": "{{ page.date | date_to_xmlschema }}",
+  "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
+  "author": { "@id": "https://haseebq.com/#haseeb" },
+  "image": "{{ page.image | default: 'haseeb-profile-pink.jpg' | prepend: 'images/' | absolute_url }}",
+  "mainEntityOfPage": "{{ page.url | absolute_url }}"
+}
+</script>
+{% endif %}
+
 <div class="spacer">
 
   <div class="primary">
-    <div class="ui huge header">{{ page.title }}</div>
+    <h1 class="ui huge header">{{ page.title }}</h1>
     {{ content }}
     <div class="signature">Haseeb</div>
   </div>

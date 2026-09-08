@@ -5,7 +5,7 @@ layout: default
 {% case page.type %}
   {% when 'home' %}
     <div class="site-header" style="background-image: url({{ site.cover | absolute_url }})">
-      <div class="ui huge header">{{ site.title }}</div>
+      <h1 class="ui huge header">{{ site.title }}</h1>
     </div>
     {% for page in site.posts limit:10 %}
       <div class="spacer">
@@ -17,7 +17,7 @@ layout: default
   {% when 'tags' %}
     {% assign tag_name = page.name %}
     <div class="site-header" style="background-image: url({{ site.cover | absolute_url }})">
-      <div class="ui huge header">{{ tag_name }}</div>
+      <h1 class="ui huge header">{{ tag_name }}</h1>
     </div>
     {% for page in site.posts %}
       {% if page.tags contains tag_name %}
@@ -31,7 +31,7 @@ layout: default
   {% when 'years' %}
     {% capture year_name %}{{ page.name }}{% endcapture %}
     <div class="site-header" style="background-image: url({{ site.cover | absolute_url }})">
-      <div class="ui huge header">{{ year_name }}</div>
+      <h1 class="ui huge header">{{ year_name }}</h1>
     </div>
     {% for page in site.posts %}
       {% capture page_year %}{{ page.date | date: "%Y" }}{% endcapture %}

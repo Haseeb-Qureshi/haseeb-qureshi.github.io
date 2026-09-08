@@ -98,11 +98,11 @@ Now here's an actual randomly generated coinflip sequence: THTHHTTHTHTTTTTTTHTHT
 
 Another example of this phenomenon is if you take dots in space. If I ask you to imagine what a random grid full of 100 dots looks like, you're probably going to imagine something like this:
 
-![](http://4.bp.blogspot.com/-rVRyLUd5iBQ/T9uEiWB6OZI/AAAAAAAABRI/CR0ievHThig/s1600/uniform.GIF)
+![](/images/posts/the-philosophy-of-poker-chapter-3-psychology-and-the-art-of-randomness/01.gif)
 
 Wrong. A *truly randomly generated* grid of dots actually looks more like this: 
 
-![](http://4.bp.blogspot.com/-ev2jMDqxZOk/T9uEmwlzIaI/AAAAAAAABRQ/gpwZyo3leUo/s1600/random.GIF)
+![](/images/posts/the-philosophy-of-poker-chapter-3-psychology-and-the-art-of-randomness/02.gif)
 
 What can we conclude from this? Basically, people have a pre-conceived idea in their head of what randomness &ldquo;looks like.&rdquo; That image of randomness tends to be quite pristine and orderly compared to reality; it is unnaturally periodic and uniform. True randomness has clusters, and tends to look less pretty.
 

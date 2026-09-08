@@ -12,13 +12,13 @@ image: cea_cwqcge.png
 
 I donated *$5,300* to AMF, the *[Against Malaria Foundation](https://www.againstmalaria.com/)*, which distributes low-cost anti-mosquito bednets in parts of Africa that are ravaged by malaria. AMF is ranked by [Givewell](http://givewell.org) as the most marginally impactful charity in the world.
 
-![](http://www.goodventures.org/images/grants/against-malaria-general-support-2012.gif)
+![](/images/posts/my-first-year-earning-to-give-a-retrospective/01.gif)
 
 ----
 
 I gave another *$5,300* to [*.impact*](http://dotimpact.im), a grassroots EA organization with which I've grown more involved over the last year. .impact is best known for creating a ton of EA infrastructure, including the [EA Forums](http://effective-altruism.com) and [EA Hub](http://effectivealtruismhub.com). Their latest project is LEAN, which helps to seed and support EA chapters all around the world, helping to foster the movement at the grassroots level.
 
-![](http://dotimpact.im/assets/dotimpactlogo-new-ozzie.png)
+![](/images/posts/my-first-year-earning-to-give-a-retrospective/02.png)
 
 ----
 

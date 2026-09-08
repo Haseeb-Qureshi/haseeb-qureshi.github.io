@@ -39,13 +39,13 @@ Stop trying not to look stupid.
 
 Most people hope for a progression like this:
 
-![learn-slowly](https://i.imgur.com/51ywAp4.png)
+![learn-slowly](/images/posts/the-hard-thing-about-learning-hard-things/01.png)
 
 They start off by trying not to look dumb, feigning understanding, and hope their fakery will tide them over while they gradually learn. Here's the problem: **when you're faking, most of what you learn is just how to fake better.**
 
 It's human instinct to hide your ignorance. You have to fight this instinct. Your curve should instead look like this:
 
-![learn-fast](https://i.imgur.com/pklyMQf.png)
+![learn-fast](/images/posts/the-hard-thing-about-learning-hard-things/02.png)
 
 You have to look stupid up front. You have to choose it.
 

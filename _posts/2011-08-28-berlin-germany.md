@@ -32,19 +32,19 @@ But you probably know what was said and what we concluded. The words themselves 
 
 I'm on the train right now to Prague. I will arrive there in a few hours. I should try to get some sleep while I can. Will write more soon. Here are some photos I took while in Berlin.
 
-![](http://1.bp.blogspot.com/-THj7nzleZiE/TlqbojZUcSI/AAAAAAAAAf4/17fs6u1D8LE/s1600/IMG_2061.JPG)
+![](/images/posts/berlin-germany/01.jpg)
 <div class="caption">Statues in Museum Island.</div>
 
-![](http://2.bp.blogspot.com/-JuBtR_TmKi0/Tlqa7ersYjI/AAAAAAAAAe4/KMyonm_zjuY/s1600/IMG_1975.JPG)
+![](/images/posts/berlin-germany/02.jpg)
 <div class="caption">Graffiti on a tunnel beneath a bridge.</div>
 
-![](http://1.bp.blogspot.com/-VBOhV738fgI/TlqbAubT--I/AAAAAAAAAe8/gD7vZPGnVng/s1600/IMG_1979.JPG)
+![](/images/posts/berlin-germany/03.jpg)
 <div class="caption">Dom Berlin.</div>
 
-![](http://4.bp.blogspot.com/-OvnX5LzTHMs/TlqbgcfGe6I/AAAAAAAAAfs/52agKehvKqI/s1600/IMG_2040.JPG)
+![](/images/posts/berlin-germany/04.jpg)
 <div class="caption">The infamous LEGO giraffe outside LegoLand.</div>
 
-![](http://2.bp.blogspot.com/-MTdH6RNQJ9Q/TlqbwreM3PI/AAAAAAAAAgE/Ss0E02_pByA/s1600/IMG_2073.JPG)
+![](/images/posts/berlin-germany/05.jpg)
 <div class="caption">And this is… I have no idea what the hell this is. Haha.</div>
 
 [Link to the album](https://picasaweb.google.com/dogishead/Berlin1?authuser=0&feat=directlink)
