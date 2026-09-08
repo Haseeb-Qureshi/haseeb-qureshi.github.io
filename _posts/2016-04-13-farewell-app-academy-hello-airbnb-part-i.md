@@ -1,5 +1,6 @@
 ---
 title: "Farewell, App Academy. Hello, Airbnb. (Part I)"
+featured: "true"
 tags: [effective altruism, personal, tech careers]
 image: aa_op0i5p.png
 ---

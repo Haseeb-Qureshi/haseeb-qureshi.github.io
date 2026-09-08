@@ -1,5 +1,6 @@
 ---
 title: The Time I Had to Crack My Own Reddit Password
+featured: "true"
 tags: [personal, programming]
 image: hackers.jpg
 ---
