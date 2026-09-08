@@ -28,7 +28,7 @@
       {% capture page_meta_description %}Haseeb Qureshi is Managing Partner at Dragonfly, a crypto venture fund, and co-host of The Chopping Block. Essays on crypto, investing, and decision-making.{% endcapture %}
     {% else %}
       {% capture page_meta_title %}{{ page.title | default: "home" }} - {{ site.title }}{% endcapture %}
-      {% capture page_meta_description %}{{ page.content | default: site.description | markdownify | strip_html | truncate: 200 }}{% endcapture %}
+      {% capture page_meta_description %}{{ page.content | default: site.description | markdownify | strip_html | normalize_whitespace | truncate: 200 }}{% endcapture %}
     {% endif %}
     <title>{{ page_meta_title }}</title>
     <meta name="author" content="{{ site.author }}">
